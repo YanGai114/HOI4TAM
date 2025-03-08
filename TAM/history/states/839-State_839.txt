@@ -1,0 +1,29 @@
+state={
+	id=839
+	name="STATE_839"
+	provinces={
+		1276 1494 1926 1940 3340 3901 5758 6014 6228 8860 8881 8967 9706 16364 16373 16399 16437 
+	}
+	buildings_max_level_factor=1.000
+        manpower=5644
+                 state_category = rural
+	resources={
+		steel=0 #钢铁
+		tungsten = 0 #妖石
+		chromium = 1 #灵气
+		rubber=0 #农产品
+		aluminium=0 #其他金属
+		oil = 0 #伊奘诺物质
+	}		history = {
+			owner = WTP
+			add_core_of = WTP
+			victory_points = { 1276 1 }
+			buildings = {
+				infrastructure = 0
+				air_base = 0
+				arms_factory = 0
+				industrial_complex = 0
+			}
+		}
+ 
+}

@@ -1,0 +1,29 @@
+state={
+	id=521
+	name="STATE_521"
+	provinces={
+		1625 2262 3064 8460 14143 14156 14241 14254 14270 
+	}
+	buildings_max_level_factor=1.000
+        manpower=4420
+                 state_category = rural
+	resources={
+		steel=0 #钢铁
+		tungsten = 0 #妖石
+		chromium = 5 #灵气
+		rubber=0 #农产品
+		aluminium=0 #其他金属
+		oil = 0 #伊奘诺物质
+	}		history = {
+			owner = CIR
+			add_core_of = CIR
+			victory_points = {1625  1 }
+			buildings = {
+				infrastructure = 0
+				air_base = 0
+				arms_factory = 0
+				industrial_complex = 0
+			}
+		}
+ 
+}

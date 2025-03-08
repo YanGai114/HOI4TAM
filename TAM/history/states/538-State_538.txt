@@ -1,0 +1,29 @@
+state={
+	id=538
+	name="STATE_538"
+	provinces={
+		2630 7303 10284 10318 14188 14194 14217 14256 14272 14288 
+	}
+	buildings_max_level_factor=1.000
+        manpower=6723
+                 state_category = rural
+	resources={
+		steel=0 #钢铁
+		tungsten = 0 #妖石
+		chromium = 0 #灵气
+		rubber=0 #农产品
+		aluminium=0 #其他金属
+		oil = 0 #伊奘诺物质
+	}		history = {
+			owner = URM
+			add_core_of = URM
+			victory_points = {2630   1 }
+			buildings = {
+				infrastructure = 0
+				air_base = 0
+				arms_factory = 0
+				industrial_complex = 0
+			}
+		}
+ 
+}

@@ -1,0 +1,41 @@
+﻿capital = 518
+
+146.1.1 = {
+    set_technology = {
+        #通用武器线
+  
+            
+    }
+    
+}
+
+138.1.1={
+    add_manpower = 100
+    oob = "HU8_146"
+    
+    add_ideas = {
+        Human
+        Village
+        type2_manpowerlv6
+        partial_economic_mobilisation
+        dove2
+        close1
+        close_border
+        forbidden_magic
+    }
+
+    set_politics = {
+
+        ruling_party = qinwai
+        election_frequency = 48
+        elections_allowed = no
+    }
+    set_popularities = {
+        qinwai = 100
+        guli = 0
+        neworder = 0
+        oldorder = 0
+        fandong = 0
+    }
+
+}

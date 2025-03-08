@@ -1,0 +1,108 @@
+guiTypes = {
+	
+	###############################################################
+	########            xxxxxxxxxxxxxxxxxxxxx              ########
+	###############################################################
+
+	containerWindowType = {
+		name = "密封组"
+		size = { width = 0 height = 390 }
+		position = { x = 0 y = 0 }
+
+		iconType = {
+			name = "信息"
+			spriteType = "GFX_info_button"
+			position = { x = 440 y = -7 }
+			pdx_tooltip = ceshi_info_tt
+		}
+
+
+		containerWindowType = {
+			name = "密封组"
+			size = { width = 0 height = 0 }
+			position = { x = 18 y = -14 }
+
+			iconType = {
+				name = "lianzi"
+				spriteType = "GFX_MOK_GUI_lianzi"
+				position = { x = 20 y = -10 }
+				scale = 1.00
+				Orientation = "CENTER"
+			}
+
+			iconType = {
+				name = "meili"
+				spriteType = "GFX_MOK_GUI_meili"
+				position = { x = 227 y = -10 }
+				scale = 1.00
+				Orientation = "CENTER"
+			}
+
+			iconType = {
+				name = "mifengzu_qinxiang_Meter"
+				spriteType = "GFX_MOK_ceshi_Progressbar"
+				position = { x = 44 y = 239 }
+				#frame = 64
+				pdx_tooltip = mifengzu_bar_tooltip
+				# 
+				Orientation = "CENTER"
+			}
+
+			instantTextBoxType = {
+				name = "lianzi_qinxiang"
+				position = { x = 43 y = 281 }
+				maxWidth = 374
+				maxHeight = 2000
+				format = left
+				font = "hoi_20bs"
+				text = lianzi_qinxiang
+				alwaystransparent = yes
+			}
+
+			instantTextBoxType = {
+				name = "meili_qinxiang"
+				position = { x = 43 y = 281 }
+				maxWidth = 374
+				maxHeight = 2000
+				format = right
+				font = "hoi_20bs"
+				text = meili_qinxiang
+				alwaystransparent = yes
+			}
+
+			instantTextBoxType = {
+				name = "category_description"
+				position = { x = 0 y = 328 }
+				maxWidth = 482
+				maxHeight = 2000
+				format = left
+				font = "hoi_20bs"
+				text = mifeng_long
+				alwaystransparent = yes
+			}
+
+			instantTextBoxType = {
+				name = "relationship_status"
+				position = { x = -15 y = 300 }
+				maxWidth = 482
+				maxHeight = 2000
+				format = center
+				font = "hoi_20bs"
+				text = mifeng_long1
+				alwaystransparent = yes
+			}
+		}
+	}
+	containerWindowType = {
+		name = "竹林议事厅"
+		size = { width = 0 height = 289 }
+		position = { x = 0 y = 0 }
+
+		iconType = {
+			name = "会议"
+			spriteType = "GFX_MOK_yishiting"
+			position = { x = 25 y = 5 }
+			pdx_tooltip = ceshi_yishiting_tt
+		}
+	}
+}

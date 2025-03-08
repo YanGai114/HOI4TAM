@@ -1,0 +1,29 @@
+state={
+	id=108
+	name="STATE_108"
+	provinces={
+		797 1412 1978 2040 2697 4143 5369 7609 8711 11296 11323 11333 11368 11515 
+	}
+	buildings_max_level_factor=1.000
+        manpower=6832
+                 state_category = rural
+	resources={
+		steel=0 #钢铁
+		tungsten = 0 #妖石
+		chromium = 3 #灵气
+		rubber=0 #农产品
+		aluminium=0 #其他金属
+		oil = 0 #伊奘诺物质
+	}		history = {
+			owner = OIL
+			add_core_of = OIL
+			victory_points = { 797  1 }
+			buildings = {
+				infrastructure = 0
+				air_base = 0
+				arms_factory = 0
+				industrial_complex = 0
+			}
+		}
+ 
+}

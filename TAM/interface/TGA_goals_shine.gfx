@@ -1,0 +1,1052 @@
+spriteTypes = {
+  SpriteType = {
+  name  =  "GFX_HUM_Announce_our_group_shine"
+  texturefile  =  "gfx/interface/goals/HUM_Announce_our_group.png"
+  effectFile = "gfx/FX/buttonstate.lua"
+  animation = {
+    animationmaskfile = "gfx/interface/goals/HUM_Announce_our_group.png"
+    animationtexturefile = "gfx/interface/goals/shine_overlay.dds"
+    animationrotation = -90.0
+    animationlooping = no
+    animationtime = 0.75
+    animationdelay = 0
+    animationblendmode = "add"
+    animationtype = "scrolling"
+    animationrotationoffset = { x = 0.0 y = 0.0 }
+    animationtexturescale = { x = 1.0 y = 1.0 }
+   }
+
+  animation = {
+    animationmaskfile = "gfx/interface/goals/HUM_Announce_our_group.png"
+    animationtexturefile = "gfx/interface/goals/shine_overlay.dds"
+    animationrotation = 90.0
+    animationlooping = no
+    animationtime = 0.75
+    animationdelay = 0
+    animationblendmode = "add"
+    animationtype = "scrolling"
+    animationrotationoffset = { x = 0.0 y = 0.0 }
+    animationtexturescale = { x = 1.0 y = 1.0 }
+   }
+  }
+  SpriteType = {
+  name  =  "GFX_HUM_Arrest_radical_shine"
+  texturefile  =  "gfx/interface/goals/HUM_Arrest_radical.png"
+  effectFile = "gfx/FX/buttonstate.lua"
+  animation = {
+    animationmaskfile = "gfx/interface/goals/HUM_Arrest_radical.png"
+    animationtexturefile = "gfx/interface/goals/shine_overlay.dds"
+    animationrotation = -90.0
+    animationlooping = no
+    animationtime = 0.75
+    animationdelay = 0
+    animationblendmode = "add"
+    animationtype = "scrolling"
+    animationrotationoffset = { x = 0.0 y = 0.0 }
+    animationtexturescale = { x = 1.0 y = 1.0 }
+   }
+
+  animation = {
+    animationmaskfile = "gfx/interface/goals/HUM_Arrest_radical.png"
+    animationtexturefile = "gfx/interface/goals/shine_overlay.dds"
+    animationrotation = 90.0
+    animationlooping = no
+    animationtime = 0.75
+    animationdelay = 0
+    animationblendmode = "add"
+    animationtype = "scrolling"
+    animationrotationoffset = { x = 0.0 y = 0.0 }
+    animationtexturescale = { x = 1.0 y = 1.0 }
+   }
+  }
+  SpriteType = {
+  name  =  "GFX_HUM_Art_exhibitions_shine"
+  texturefile  =  "gfx/interface/goals/HUM_Art_exhibitions.png"
+  effectFile = "gfx/FX/buttonstate.lua"
+  animation = {
+    animationmaskfile = "gfx/interface/goals/HUM_Art_exhibitions.png"
+    animationtexturefile = "gfx/interface/goals/shine_overlay.dds"
+    animationrotation = -90.0
+    animationlooping = no
+    animationtime = 0.75
+    animationdelay = 0
+    animationblendmode = "add"
+    animationtype = "scrolling"
+    animationrotationoffset = { x = 0.0 y = 0.0 }
+    animationtexturescale = { x = 1.0 y = 1.0 }
+   }
+
+  animation = {
+    animationmaskfile = "gfx/interface/goals/HUM_Art_exhibitions.png"
+    animationtexturefile = "gfx/interface/goals/shine_overlay.dds"
+    animationrotation = 90.0
+    animationlooping = no
+    animationtime = 0.75
+    animationdelay = 0
+    animationblendmode = "add"
+    animationtype = "scrolling"
+    animationrotationoffset = { x = 0.0 y = 0.0 }
+    animationtexturescale = { x = 1.0 y = 1.0 }
+   }
+  }
+  SpriteType = {
+  name  =  "GFX_HUM_At_the_end_of_the_grave_shine"
+  texturefile  =  "gfx/interface/goals/HUM_At_the_end_of_the_grave.png"
+  effectFile = "gfx/FX/buttonstate.lua"
+  animation = {
+    animationmaskfile = "gfx/interface/goals/HUM_At_the_end_of_the_grave.png"
+    animationtexturefile = "gfx/interface/goals/shine_overlay.dds"
+    animationrotation = -90.0
+    animationlooping = no
+    animationtime = 0.75
+    animationdelay = 0
+    animationblendmode = "add"
+    animationtype = "scrolling"
+    animationrotationoffset = { x = 0.0 y = 0.0 }
+    animationtexturescale = { x = 1.0 y = 1.0 }
+   }
+
+  animation = {
+    animationmaskfile = "gfx/interface/goals/HUM_At_the_end_of_the_grave.png"
+    animationtexturefile = "gfx/interface/goals/shine_overlay.dds"
+    animationrotation = 90.0
+    animationlooping = no
+    animationtime = 0.75
+    animationdelay = 0
+    animationblendmode = "add"
+    animationtype = "scrolling"
+    animationrotationoffset = { x = 0.0 y = 0.0 }
+    animationtexturescale = { x = 1.0 y = 1.0 }
+   }
+  }
+  SpriteType = {
+  name  =  "GFX_HUM_A_decadent_life_shine"
+  texturefile  =  "gfx/interface/goals/HUM_A_decadent_life.png"
+  effectFile = "gfx/FX/buttonstate.lua"
+  animation = {
+    animationmaskfile = "gfx/interface/goals/HUM_A_decadent_life.png"
+    animationtexturefile = "gfx/interface/goals/shine_overlay.dds"
+    animationrotation = -90.0
+    animationlooping = no
+    animationtime = 0.75
+    animationdelay = 0
+    animationblendmode = "add"
+    animationtype = "scrolling"
+    animationrotationoffset = { x = 0.0 y = 0.0 }
+    animationtexturescale = { x = 1.0 y = 1.0 }
+   }
+
+  animation = {
+    animationmaskfile = "gfx/interface/goals/HUM_A_decadent_life.png"
+    animationtexturefile = "gfx/interface/goals/shine_overlay.dds"
+    animationrotation = 90.0
+    animationlooping = no
+    animationtime = 0.75
+    animationdelay = 0
+    animationblendmode = "add"
+    animationtype = "scrolling"
+    animationrotationoffset = { x = 0.0 y = 0.0 }
+    animationtexturescale = { x = 1.0 y = 1.0 }
+   }
+  }
+  SpriteType = {
+  name  =  "GFX_HUM_A_dilapidated_village_shine"
+  texturefile  =  "gfx/interface/goals/HUM_A_dilapidated_village.png"
+  effectFile = "gfx/FX/buttonstate.lua"
+  animation = {
+    animationmaskfile = "gfx/interface/goals/HUM_A_dilapidated_village.png"
+    animationtexturefile = "gfx/interface/goals/shine_overlay.dds"
+    animationrotation = -90.0
+    animationlooping = no
+    animationtime = 0.75
+    animationdelay = 0
+    animationblendmode = "add"
+    animationtype = "scrolling"
+    animationrotationoffset = { x = 0.0 y = 0.0 }
+    animationtexturescale = { x = 1.0 y = 1.0 }
+   }
+
+  animation = {
+    animationmaskfile = "gfx/interface/goals/HUM_A_dilapidated_village.png"
+    animationtexturefile = "gfx/interface/goals/shine_overlay.dds"
+    animationrotation = 90.0
+    animationlooping = no
+    animationtime = 0.75
+    animationdelay = 0
+    animationblendmode = "add"
+    animationtype = "scrolling"
+    animationrotationoffset = { x = 0.0 y = 0.0 }
+    animationtexturescale = { x = 1.0 y = 1.0 }
+   }
+  }
+  SpriteType = {
+  name  =  "GFX_HUM_A_stationary_war_shine"
+  texturefile  =  "gfx/interface/goals/HUM_A_stationary_war.png"
+  effectFile = "gfx/FX/buttonstate.lua"
+  animation = {
+    animationmaskfile = "gfx/interface/goals/HUM_A_stationary_war.png"
+    animationtexturefile = "gfx/interface/goals/shine_overlay.dds"
+    animationrotation = -90.0
+    animationlooping = no
+    animationtime = 0.75
+    animationdelay = 0
+    animationblendmode = "add"
+    animationtype = "scrolling"
+    animationrotationoffset = { x = 0.0 y = 0.0 }
+    animationtexturescale = { x = 1.0 y = 1.0 }
+   }
+
+  animation = {
+    animationmaskfile = "gfx/interface/goals/HUM_A_stationary_war.png"
+    animationtexturefile = "gfx/interface/goals/shine_overlay.dds"
+    animationrotation = 90.0
+    animationlooping = no
+    animationtime = 0.75
+    animationdelay = 0
+    animationblendmode = "add"
+    animationtype = "scrolling"
+    animationrotationoffset = { x = 0.0 y = 0.0 }
+    animationtexturescale = { x = 1.0 y = 1.0 }
+   }
+  }
+  SpriteType = {
+  name  =  "GFX_HUM_Destroy_the_Old_Era_shine"
+  texturefile  =  "gfx/interface/goals/HUM_Destroy_the_Old_Era.png"
+  effectFile = "gfx/FX/buttonstate.lua"
+  animation = {
+    animationmaskfile = "gfx/interface/goals/HUM_Destroy_the_Old_Era.png"
+    animationtexturefile = "gfx/interface/goals/shine_overlay.dds"
+    animationrotation = -90.0
+    animationlooping = no
+    animationtime = 0.75
+    animationdelay = 0
+    animationblendmode = "add"
+    animationtype = "scrolling"
+    animationrotationoffset = { x = 0.0 y = 0.0 }
+    animationtexturescale = { x = 1.0 y = 1.0 }
+   }
+
+  animation = {
+    animationmaskfile = "gfx/interface/goals/HUM_Destroy_the_Old_Era.png"
+    animationtexturefile = "gfx/interface/goals/shine_overlay.dds"
+    animationrotation = 90.0
+    animationlooping = no
+    animationtime = 0.75
+    animationdelay = 0
+    animationblendmode = "add"
+    animationtype = "scrolling"
+    animationrotationoffset = { x = 0.0 y = 0.0 }
+    animationtexturescale = { x = 1.0 y = 1.0 }
+   }
+  }
+  SpriteType = {
+  name  =  "GFX_HUM_Everyone_is_their_own_poem_shine"
+  texturefile  =  "gfx/interface/goals/HUM_Everyone_is_their_own_poem.png"
+  effectFile = "gfx/FX/buttonstate.lua"
+  animation = {
+    animationmaskfile = "gfx/interface/goals/HUM_Everyone_is_their_own_poem.png"
+    animationtexturefile = "gfx/interface/goals/shine_overlay.dds"
+    animationrotation = -90.0
+    animationlooping = no
+    animationtime = 0.75
+    animationdelay = 0
+    animationblendmode = "add"
+    animationtype = "scrolling"
+    animationrotationoffset = { x = 0.0 y = 0.0 }
+    animationtexturescale = { x = 1.0 y = 1.0 }
+   }
+
+  animation = {
+    animationmaskfile = "gfx/interface/goals/HUM_Everyone_is_their_own_poem.png"
+    animationtexturefile = "gfx/interface/goals/shine_overlay.dds"
+    animationrotation = 90.0
+    animationlooping = no
+    animationtime = 0.75
+    animationdelay = 0
+    animationblendmode = "add"
+    animationtype = "scrolling"
+    animationrotationoffset = { x = 0.0 y = 0.0 }
+    animationtexturescale = { x = 1.0 y = 1.0 }
+   }
+  }
+  SpriteType = {
+  name  =  "GFX_HUM_Futurist_Manifesto_shine"
+  texturefile  =  "gfx/interface/goals/HUM_Futurist_Manifesto.png"
+  effectFile = "gfx/FX/buttonstate.lua"
+  animation = {
+    animationmaskfile = "gfx/interface/goals/HUM_Futurist_Manifesto.png"
+    animationtexturefile = "gfx/interface/goals/shine_overlay.dds"
+    animationrotation = -90.0
+    animationlooping = no
+    animationtime = 0.75
+    animationdelay = 0
+    animationblendmode = "add"
+    animationtype = "scrolling"
+    animationrotationoffset = { x = 0.0 y = 0.0 }
+    animationtexturescale = { x = 1.0 y = 1.0 }
+   }
+
+  animation = {
+    animationmaskfile = "gfx/interface/goals/HUM_Futurist_Manifesto.png"
+    animationtexturefile = "gfx/interface/goals/shine_overlay.dds"
+    animationrotation = 90.0
+    animationlooping = no
+    animationtime = 0.75
+    animationdelay = 0
+    animationblendmode = "add"
+    animationtype = "scrolling"
+    animationrotationoffset = { x = 0.0 y = 0.0 }
+    animationtexturescale = { x = 1.0 y = 1.0 }
+   }
+  }
+  SpriteType = {
+  name  =  "GFX_HUM_Give_it_a_shot_shine"
+  texturefile  =  "gfx/interface/goals/HUM_Give_it_a_shot.png"
+  effectFile = "gfx/FX/buttonstate.lua"
+  animation = {
+    animationmaskfile = "gfx/interface/goals/HUM_Give_it_a_shot.png"
+    animationtexturefile = "gfx/interface/goals/shine_overlay.dds"
+    animationrotation = -90.0
+    animationlooping = no
+    animationtime = 0.75
+    animationdelay = 0
+    animationblendmode = "add"
+    animationtype = "scrolling"
+    animationrotationoffset = { x = 0.0 y = 0.0 }
+    animationtexturescale = { x = 1.0 y = 1.0 }
+   }
+
+  animation = {
+    animationmaskfile = "gfx/interface/goals/HUM_Give_it_a_shot.png"
+    animationtexturefile = "gfx/interface/goals/shine_overlay.dds"
+    animationrotation = 90.0
+    animationlooping = no
+    animationtime = 0.75
+    animationdelay = 0
+    animationblendmode = "add"
+    animationtype = "scrolling"
+    animationrotationoffset = { x = 0.0 y = 0.0 }
+    animationtexturescale = { x = 1.0 y = 1.0 }
+   }
+  }
+  SpriteType = {
+  name  =  "GFX_HUM_Give_the_village_a_slap_for_fun_shine"
+  texturefile  =  "gfx/interface/goals/HUM_Give_the_village_a_slap_for_fun.png"
+  effectFile = "gfx/FX/buttonstate.lua"
+  animation = {
+    animationmaskfile = "gfx/interface/goals/HUM_Give_the_village_a_slap_for_fun.png"
+    animationtexturefile = "gfx/interface/goals/shine_overlay.dds"
+    animationrotation = -90.0
+    animationlooping = no
+    animationtime = 0.75
+    animationdelay = 0
+    animationblendmode = "add"
+    animationtype = "scrolling"
+    animationrotationoffset = { x = 0.0 y = 0.0 }
+    animationtexturescale = { x = 1.0 y = 1.0 }
+   }
+
+  animation = {
+    animationmaskfile = "gfx/interface/goals/HUM_Give_the_village_a_slap_for_fun.png"
+    animationtexturefile = "gfx/interface/goals/shine_overlay.dds"
+    animationrotation = 90.0
+    animationlooping = no
+    animationtime = 0.75
+    animationdelay = 0
+    animationblendmode = "add"
+    animationtype = "scrolling"
+    animationrotationoffset = { x = 0.0 y = 0.0 }
+    animationtexturescale = { x = 1.0 y = 1.0 }
+   }
+  }
+  SpriteType = {
+  name  =  "GFX_HUM_Investigating_bookstores_shine"
+  texturefile  =  "gfx/interface/goals/HUM_Investigating_bookstores.png"
+  effectFile = "gfx/FX/buttonstate.lua"
+  animation = {
+    animationmaskfile = "gfx/interface/goals/HUM_Investigating_bookstores.png"
+    animationtexturefile = "gfx/interface/goals/shine_overlay.dds"
+    animationrotation = -90.0
+    animationlooping = no
+    animationtime = 0.75
+    animationdelay = 0
+    animationblendmode = "add"
+    animationtype = "scrolling"
+    animationrotationoffset = { x = 0.0 y = 0.0 }
+    animationtexturescale = { x = 1.0 y = 1.0 }
+   }
+
+  animation = {
+    animationmaskfile = "gfx/interface/goals/HUM_Investigating_bookstores.png"
+    animationtexturefile = "gfx/interface/goals/shine_overlay.dds"
+    animationrotation = 90.0
+    animationlooping = no
+    animationtime = 0.75
+    animationdelay = 0
+    animationblendmode = "add"
+    animationtype = "scrolling"
+    animationrotationoffset = { x = 0.0 y = 0.0 }
+    animationtexturescale = { x = 1.0 y = 1.0 }
+   }
+  }
+  SpriteType = {
+  name  =  "GFX_HUM_Investment_planning_shine"
+  texturefile  =  "gfx/interface/goals/HUM_Investment_planning.png"
+  effectFile = "gfx/FX/buttonstate.lua"
+  animation = {
+    animationmaskfile = "gfx/interface/goals/HUM_Investment_planning.png"
+    animationtexturefile = "gfx/interface/goals/shine_overlay.dds"
+    animationrotation = -90.0
+    animationlooping = no
+    animationtime = 0.75
+    animationdelay = 0
+    animationblendmode = "add"
+    animationtype = "scrolling"
+    animationrotationoffset = { x = 0.0 y = 0.0 }
+    animationtexturescale = { x = 1.0 y = 1.0 }
+   }
+
+  animation = {
+    animationmaskfile = "gfx/interface/goals/HUM_Investment_planning.png"
+    animationtexturefile = "gfx/interface/goals/shine_overlay.dds"
+    animationrotation = 90.0
+    animationlooping = no
+    animationtime = 0.75
+    animationdelay = 0
+    animationblendmode = "add"
+    animationtype = "scrolling"
+    animationrotationoffset = { x = 0.0 y = 0.0 }
+    animationtexturescale = { x = 1.0 y = 1.0 }
+   }
+  }
+  SpriteType = {
+  name  =  "GFX_HUM_Late_Modern_shine"
+  texturefile  =  "gfx/interface/goals/HUM_Late_Modern.png"
+  effectFile = "gfx/FX/buttonstate.lua"
+  animation = {
+    animationmaskfile = "gfx/interface/goals/HUM_Late_Modern.png"
+    animationtexturefile = "gfx/interface/goals/shine_overlay.dds"
+    animationrotation = -90.0
+    animationlooping = no
+    animationtime = 0.75
+    animationdelay = 0
+    animationblendmode = "add"
+    animationtype = "scrolling"
+    animationrotationoffset = { x = 0.0 y = 0.0 }
+    animationtexturescale = { x = 1.0 y = 1.0 }
+   }
+
+  animation = {
+    animationmaskfile = "gfx/interface/goals/HUM_Late_Modern.png"
+    animationtexturefile = "gfx/interface/goals/shine_overlay.dds"
+    animationrotation = 90.0
+    animationlooping = no
+    animationtime = 0.75
+    animationdelay = 0
+    animationblendmode = "add"
+    animationtype = "scrolling"
+    animationrotationoffset = { x = 0.0 y = 0.0 }
+    animationtexturescale = { x = 1.0 y = 1.0 }
+   }
+  }
+  SpriteType = {
+  name  =  "GFX_HUM_Let_the_war_movement_shine"
+  texturefile  =  "gfx/interface/goals/HUM_Let_the_war_movement.png"
+  effectFile = "gfx/FX/buttonstate.lua"
+  animation = {
+    animationmaskfile = "gfx/interface/goals/HUM_Let_the_war_movement.png"
+    animationtexturefile = "gfx/interface/goals/shine_overlay.dds"
+    animationrotation = -90.0
+    animationlooping = no
+    animationtime = 0.75
+    animationdelay = 0
+    animationblendmode = "add"
+    animationtype = "scrolling"
+    animationrotationoffset = { x = 0.0 y = 0.0 }
+    animationtexturescale = { x = 1.0 y = 1.0 }
+   }
+
+  animation = {
+    animationmaskfile = "gfx/interface/goals/HUM_Let_the_war_movement.png"
+    animationtexturefile = "gfx/interface/goals/shine_overlay.dds"
+    animationrotation = 90.0
+    animationlooping = no
+    animationtime = 0.75
+    animationdelay = 0
+    animationblendmode = "add"
+    animationtype = "scrolling"
+    animationrotationoffset = { x = 0.0 y = 0.0 }
+    animationtexturescale = { x = 1.0 y = 1.0 }
+   }
+  }
+  SpriteType = {
+  name  =  "GFX_HUM_Make_some_changes_shine"
+  texturefile  =  "gfx/interface/goals/HUM_Make_some_changes.png"
+  effectFile = "gfx/FX/buttonstate.lua"
+  animation = {
+    animationmaskfile = "gfx/interface/goals/HUM_Make_some_changes.png"
+    animationtexturefile = "gfx/interface/goals/shine_overlay.dds"
+    animationrotation = -90.0
+    animationlooping = no
+    animationtime = 0.75
+    animationdelay = 0
+    animationblendmode = "add"
+    animationtype = "scrolling"
+    animationrotationoffset = { x = 0.0 y = 0.0 }
+    animationtexturescale = { x = 1.0 y = 1.0 }
+   }
+
+  animation = {
+    animationmaskfile = "gfx/interface/goals/HUM_Make_some_changes.png"
+    animationtexturefile = "gfx/interface/goals/shine_overlay.dds"
+    animationrotation = 90.0
+    animationlooping = no
+    animationtime = 0.75
+    animationdelay = 0
+    animationblendmode = "add"
+    animationtype = "scrolling"
+    animationrotationoffset = { x = 0.0 y = 0.0 }
+    animationtexturescale = { x = 1.0 y = 1.0 }
+   }
+  }
+  SpriteType = {
+  name  =  "GFX_HUM_Our_friend_shine"
+  texturefile  =  "gfx/interface/goals/HUM_Our_friend.png"
+  effectFile = "gfx/FX/buttonstate.lua"
+  animation = {
+    animationmaskfile = "gfx/interface/goals/HUM_Our_friend.png"
+    animationtexturefile = "gfx/interface/goals/shine_overlay.dds"
+    animationrotation = -90.0
+    animationlooping = no
+    animationtime = 0.75
+    animationdelay = 0
+    animationblendmode = "add"
+    animationtype = "scrolling"
+    animationrotationoffset = { x = 0.0 y = 0.0 }
+    animationtexturescale = { x = 1.0 y = 1.0 }
+   }
+
+  animation = {
+    animationmaskfile = "gfx/interface/goals/HUM_Our_friend.png"
+    animationtexturefile = "gfx/interface/goals/shine_overlay.dds"
+    animationrotation = 90.0
+    animationlooping = no
+    animationtime = 0.75
+    animationdelay = 0
+    animationblendmode = "add"
+    animationtype = "scrolling"
+    animationrotationoffset = { x = 0.0 y = 0.0 }
+    animationtexturescale = { x = 1.0 y = 1.0 }
+   }
+  }
+  SpriteType = {
+  name  =  "GFX_HUM_Painting_Our_Future_shine"
+  texturefile  =  "gfx/interface/goals/HUM_Painting_Our_Future.png"
+  effectFile = "gfx/FX/buttonstate.lua"
+  animation = {
+    animationmaskfile = "gfx/interface/goals/HUM_Painting_Our_Future.png"
+    animationtexturefile = "gfx/interface/goals/shine_overlay.dds"
+    animationrotation = -90.0
+    animationlooping = no
+    animationtime = 0.75
+    animationdelay = 0
+    animationblendmode = "add"
+    animationtype = "scrolling"
+    animationrotationoffset = { x = 0.0 y = 0.0 }
+    animationtexturescale = { x = 1.0 y = 1.0 }
+   }
+
+  animation = {
+    animationmaskfile = "gfx/interface/goals/HUM_Painting_Our_Future.png"
+    animationtexturefile = "gfx/interface/goals/shine_overlay.dds"
+    animationrotation = 90.0
+    animationlooping = no
+    animationtime = 0.75
+    animationdelay = 0
+    animationblendmode = "add"
+    animationtype = "scrolling"
+    animationrotationoffset = { x = 0.0 y = 0.0 }
+    animationtexturescale = { x = 1.0 y = 1.0 }
+   }
+  }
+  SpriteType = {
+  name  =  "GFX_HUM_Receiving_radicals_shine"
+  texturefile  =  "gfx/interface/goals/HUM_Receiving_radicals.png"
+  effectFile = "gfx/FX/buttonstate.lua"
+  animation = {
+    animationmaskfile = "gfx/interface/goals/HUM_Receiving_radicals.png"
+    animationtexturefile = "gfx/interface/goals/shine_overlay.dds"
+    animationrotation = -90.0
+    animationlooping = no
+    animationtime = 0.75
+    animationdelay = 0
+    animationblendmode = "add"
+    animationtype = "scrolling"
+    animationrotationoffset = { x = 0.0 y = 0.0 }
+    animationtexturescale = { x = 1.0 y = 1.0 }
+   }
+
+  animation = {
+    animationmaskfile = "gfx/interface/goals/HUM_Receiving_radicals.png"
+    animationtexturefile = "gfx/interface/goals/shine_overlay.dds"
+    animationrotation = 90.0
+    animationlooping = no
+    animationtime = 0.75
+    animationdelay = 0
+    animationblendmode = "add"
+    animationtype = "scrolling"
+    animationrotationoffset = { x = 0.0 y = 0.0 }
+    animationtexturescale = { x = 1.0 y = 1.0 }
+   }
+  }
+  SpriteType = {
+  name  =  "GFX_HUM_Returned_land_shine"
+  texturefile  =  "gfx/interface/goals/HUM_Returned_land.png"
+  effectFile = "gfx/FX/buttonstate.lua"
+  animation = {
+    animationmaskfile = "gfx/interface/goals/HUM_Returned_land.png"
+    animationtexturefile = "gfx/interface/goals/shine_overlay.dds"
+    animationrotation = -90.0
+    animationlooping = no
+    animationtime = 0.75
+    animationdelay = 0
+    animationblendmode = "add"
+    animationtype = "scrolling"
+    animationrotationoffset = { x = 0.0 y = 0.0 }
+    animationtexturescale = { x = 1.0 y = 1.0 }
+   }
+
+  animation = {
+    animationmaskfile = "gfx/interface/goals/HUM_Returned_land.png"
+    animationtexturefile = "gfx/interface/goals/shine_overlay.dds"
+    animationrotation = 90.0
+    animationlooping = no
+    animationtime = 0.75
+    animationdelay = 0
+    animationblendmode = "add"
+    animationtype = "scrolling"
+    animationrotationoffset = { x = 0.0 y = 0.0 }
+    animationtexturescale = { x = 1.0 y = 1.0 }
+   }
+  }
+  SpriteType = {
+  name  =  "GFX_HUM_secret_letter_shine"
+  texturefile  =  "gfx/interface/goals/HUM_secret_letter.png"
+  effectFile = "gfx/FX/buttonstate.lua"
+  animation = {
+    animationmaskfile = "gfx/interface/goals/HUM_secret_letter.png"
+    animationtexturefile = "gfx/interface/goals/shine_overlay.dds"
+    animationrotation = -90.0
+    animationlooping = no
+    animationtime = 0.75
+    animationdelay = 0
+    animationblendmode = "add"
+    animationtype = "scrolling"
+    animationrotationoffset = { x = 0.0 y = 0.0 }
+    animationtexturescale = { x = 1.0 y = 1.0 }
+   }
+
+  animation = {
+    animationmaskfile = "gfx/interface/goals/HUM_secret_letter.png"
+    animationtexturefile = "gfx/interface/goals/shine_overlay.dds"
+    animationrotation = 90.0
+    animationlooping = no
+    animationtime = 0.75
+    animationdelay = 0
+    animationblendmode = "add"
+    animationtype = "scrolling"
+    animationrotationoffset = { x = 0.0 y = 0.0 }
+    animationtexturescale = { x = 1.0 y = 1.0 }
+   }
+  }
+  SpriteType = {
+  name  =  "GFX_HUM_Sing_praises_to_the_working_population_shine"
+  texturefile  =  "gfx/interface/goals/HUM_Sing_praises_to_the_working_population.png"
+  effectFile = "gfx/FX/buttonstate.lua"
+  animation = {
+    animationmaskfile = "gfx/interface/goals/HUM_Sing_praises_to_the_working_population.png"
+    animationtexturefile = "gfx/interface/goals/shine_overlay.dds"
+    animationrotation = -90.0
+    animationlooping = no
+    animationtime = 0.75
+    animationdelay = 0
+    animationblendmode = "add"
+    animationtype = "scrolling"
+    animationrotationoffset = { x = 0.0 y = 0.0 }
+    animationtexturescale = { x = 1.0 y = 1.0 }
+   }
+
+  animation = {
+    animationmaskfile = "gfx/interface/goals/HUM_Sing_praises_to_the_working_population.png"
+    animationtexturefile = "gfx/interface/goals/shine_overlay.dds"
+    animationrotation = 90.0
+    animationlooping = no
+    animationtime = 0.75
+    animationdelay = 0
+    animationblendmode = "add"
+    animationtype = "scrolling"
+    animationrotationoffset = { x = 0.0 y = 0.0 }
+    animationtexturescale = { x = 1.0 y = 1.0 }
+   }
+  }
+  SpriteType = {
+  name  =  "GFX_HUM_Stubborn_technology_shine"
+  texturefile  =  "gfx/interface/goals/HUM_Stubborn_technology.png"
+  effectFile = "gfx/FX/buttonstate.lua"
+  animation = {
+    animationmaskfile = "gfx/interface/goals/HUM_Stubborn_technology.png"
+    animationtexturefile = "gfx/interface/goals/shine_overlay.dds"
+    animationrotation = -90.0
+    animationlooping = no
+    animationtime = 0.75
+    animationdelay = 0
+    animationblendmode = "add"
+    animationtype = "scrolling"
+    animationrotationoffset = { x = 0.0 y = 0.0 }
+    animationtexturescale = { x = 1.0 y = 1.0 }
+   }
+
+  animation = {
+    animationmaskfile = "gfx/interface/goals/HUM_Stubborn_technology.png"
+    animationtexturefile = "gfx/interface/goals/shine_overlay.dds"
+    animationrotation = 90.0
+    animationlooping = no
+    animationtime = 0.75
+    animationdelay = 0
+    animationblendmode = "add"
+    animationtype = "scrolling"
+    animationrotationoffset = { x = 0.0 y = 0.0 }
+    animationtexturescale = { x = 1.0 y = 1.0 }
+   }
+  }
+  SpriteType = {
+  name  =  "GFX_HUM_Talking_about_creation_shine"
+  texturefile  =  "gfx/interface/goals/HUM_Talking_about_creation.png"
+  effectFile = "gfx/FX/buttonstate.lua"
+  animation = {
+    animationmaskfile = "gfx/interface/goals/HUM_Talking_about_creation.png"
+    animationtexturefile = "gfx/interface/goals/shine_overlay.dds"
+    animationrotation = -90.0
+    animationlooping = no
+    animationtime = 0.75
+    animationdelay = 0
+    animationblendmode = "add"
+    animationtype = "scrolling"
+    animationrotationoffset = { x = 0.0 y = 0.0 }
+    animationtexturescale = { x = 1.0 y = 1.0 }
+   }
+
+  animation = {
+    animationmaskfile = "gfx/interface/goals/HUM_Talking_about_creation.png"
+    animationtexturefile = "gfx/interface/goals/shine_overlay.dds"
+    animationrotation = 90.0
+    animationlooping = no
+    animationtime = 0.75
+    animationdelay = 0
+    animationblendmode = "add"
+    animationtype = "scrolling"
+    animationrotationoffset = { x = 0.0 y = 0.0 }
+    animationtexturescale = { x = 1.0 y = 1.0 }
+   }
+  }
+  SpriteType = {
+  name  =  "GFX_HUM_The_Art_of_Kitchen_shine"
+  texturefile  =  "gfx/interface/goals/HUM_The_Art_of_Kitchen.png"
+  effectFile = "gfx/FX/buttonstate.lua"
+  animation = {
+    animationmaskfile = "gfx/interface/goals/HUM_The_Art_of_Kitchen.png"
+    animationtexturefile = "gfx/interface/goals/shine_overlay.dds"
+    animationrotation = -90.0
+    animationlooping = no
+    animationtime = 0.75
+    animationdelay = 0
+    animationblendmode = "add"
+    animationtype = "scrolling"
+    animationrotationoffset = { x = 0.0 y = 0.0 }
+    animationtexturescale = { x = 1.0 y = 1.0 }
+   }
+
+  animation = {
+    animationmaskfile = "gfx/interface/goals/HUM_The_Art_of_Kitchen.png"
+    animationtexturefile = "gfx/interface/goals/shine_overlay.dds"
+    animationrotation = 90.0
+    animationlooping = no
+    animationtime = 0.75
+    animationdelay = 0
+    animationblendmode = "add"
+    animationtype = "scrolling"
+    animationrotationoffset = { x = 0.0 y = 0.0 }
+    animationtexturescale = { x = 1.0 y = 1.0 }
+   }
+  }
+  SpriteType = {
+  name  =  "GFX_HUM_The_future_belonging_to_humanity_shine"
+  texturefile  =  "gfx/interface/goals/HUM_The_future_belonging_to_humanity.png"
+  effectFile = "gfx/FX/buttonstate.lua"
+  animation = {
+    animationmaskfile = "gfx/interface/goals/HUM_The_future_belonging_to_humanity.png"
+    animationtexturefile = "gfx/interface/goals/shine_overlay.dds"
+    animationrotation = -90.0
+    animationlooping = no
+    animationtime = 0.75
+    animationdelay = 0
+    animationblendmode = "add"
+    animationtype = "scrolling"
+    animationrotationoffset = { x = 0.0 y = 0.0 }
+    animationtexturescale = { x = 1.0 y = 1.0 }
+   }
+
+  animation = {
+    animationmaskfile = "gfx/interface/goals/HUM_The_future_belonging_to_humanity.png"
+    animationtexturefile = "gfx/interface/goals/shine_overlay.dds"
+    animationrotation = 90.0
+    animationlooping = no
+    animationtime = 0.75
+    animationdelay = 0
+    animationblendmode = "add"
+    animationtype = "scrolling"
+    animationrotationoffset = { x = 0.0 y = 0.0 }
+    animationtexturescale = { x = 1.0 y = 1.0 }
+   }
+  }
+  SpriteType = {
+  name  =  "GFX_HUM_The_future_has_arrived_shine"
+  texturefile  =  "gfx/interface/goals/HUM_The_future_has_arrived.png"
+  effectFile = "gfx/FX/buttonstate.lua"
+  animation = {
+    animationmaskfile = "gfx/interface/goals/HUM_The_future_has_arrived.png"
+    animationtexturefile = "gfx/interface/goals/shine_overlay.dds"
+    animationrotation = -90.0
+    animationlooping = no
+    animationtime = 0.75
+    animationdelay = 0
+    animationblendmode = "add"
+    animationtype = "scrolling"
+    animationrotationoffset = { x = 0.0 y = 0.0 }
+    animationtexturescale = { x = 1.0 y = 1.0 }
+   }
+
+  animation = {
+    animationmaskfile = "gfx/interface/goals/HUM_The_future_has_arrived.png"
+    animationtexturefile = "gfx/interface/goals/shine_overlay.dds"
+    animationrotation = 90.0
+    animationlooping = no
+    animationtime = 0.75
+    animationdelay = 0
+    animationblendmode = "add"
+    animationtype = "scrolling"
+    animationrotationoffset = { x = 0.0 y = 0.0 }
+    animationtexturescale = { x = 1.0 y = 1.0 }
+   }
+  }
+  SpriteType = {
+  name  =  "GFX_HUM_The_guarantee_of_progress_shine"
+  texturefile  =  "gfx/interface/goals/HUM_The_guarantee_of_progress.png"
+  effectFile = "gfx/FX/buttonstate.lua"
+  animation = {
+    animationmaskfile = "gfx/interface/goals/HUM_The_guarantee_of_progress.png"
+    animationtexturefile = "gfx/interface/goals/shine_overlay.dds"
+    animationrotation = -90.0
+    animationlooping = no
+    animationtime = 0.75
+    animationdelay = 0
+    animationblendmode = "add"
+    animationtype = "scrolling"
+    animationrotationoffset = { x = 0.0 y = 0.0 }
+    animationtexturescale = { x = 1.0 y = 1.0 }
+   }
+
+  animation = {
+    animationmaskfile = "gfx/interface/goals/HUM_The_guarantee_of_progress.png"
+    animationtexturefile = "gfx/interface/goals/shine_overlay.dds"
+    animationrotation = 90.0
+    animationlooping = no
+    animationtime = 0.75
+    animationdelay = 0
+    animationblendmode = "add"
+    animationtype = "scrolling"
+    animationrotationoffset = { x = 0.0 y = 0.0 }
+    animationtexturescale = { x = 1.0 y = 1.0 }
+   }
+  }
+  SpriteType = {
+  name  =  "GFX_HUM_The_lifestyle_of_the_outside_shine"
+  texturefile  =  "gfx/interface/goals/HUM_The_lifestyle_of_the_outside.png"
+  effectFile = "gfx/FX/buttonstate.lua"
+  animation = {
+    animationmaskfile = "gfx/interface/goals/HUM_The_lifestyle_of_the_outside.png"
+    animationtexturefile = "gfx/interface/goals/shine_overlay.dds"
+    animationrotation = -90.0
+    animationlooping = no
+    animationtime = 0.75
+    animationdelay = 0
+    animationblendmode = "add"
+    animationtype = "scrolling"
+    animationrotationoffset = { x = 0.0 y = 0.0 }
+    animationtexturescale = { x = 1.0 y = 1.0 }
+   }
+
+  animation = {
+    animationmaskfile = "gfx/interface/goals/HUM_The_lifestyle_of_the_outside.png"
+    animationtexturefile = "gfx/interface/goals/shine_overlay.dds"
+    animationrotation = 90.0
+    animationlooping = no
+    animationtime = 0.75
+    animationdelay = 0
+    animationblendmode = "add"
+    animationtype = "scrolling"
+    animationrotationoffset = { x = 0.0 y = 0.0 }
+    animationtexturescale = { x = 1.0 y = 1.0 }
+   }
+  }
+  SpriteType = {
+  name  =  "GFX_HUM_The_Limit_of_Imagination_shine"
+  texturefile  =  "gfx/interface/goals/HUM_The_Limit_of_Imagination.png"
+  effectFile = "gfx/FX/buttonstate.lua"
+  animation = {
+    animationmaskfile = "gfx/interface/goals/HUM_The_Limit_of_Imagination.png"
+    animationtexturefile = "gfx/interface/goals/shine_overlay.dds"
+    animationrotation = -90.0
+    animationlooping = no
+    animationtime = 0.75
+    animationdelay = 0
+    animationblendmode = "add"
+    animationtype = "scrolling"
+    animationrotationoffset = { x = 0.0 y = 0.0 }
+    animationtexturescale = { x = 1.0 y = 1.0 }
+   }
+
+  animation = {
+    animationmaskfile = "gfx/interface/goals/HUM_The_Limit_of_Imagination.png"
+    animationtexturefile = "gfx/interface/goals/shine_overlay.dds"
+    animationrotation = 90.0
+    animationlooping = no
+    animationtime = 0.75
+    animationdelay = 0
+    animationblendmode = "add"
+    animationtype = "scrolling"
+    animationrotationoffset = { x = 0.0 y = 0.0 }
+    animationtexturescale = { x = 1.0 y = 1.0 }
+   }
+  }
+  SpriteType = {
+  name  =  "GFX_HUM_The_Ripples_of_War_shine"
+  texturefile  =  "gfx/interface/goals/HUM_The_Ripples_of_War.png"
+  effectFile = "gfx/FX/buttonstate.lua"
+  animation = {
+    animationmaskfile = "gfx/interface/goals/HUM_The_Ripples_of_War.png"
+    animationtexturefile = "gfx/interface/goals/shine_overlay.dds"
+    animationrotation = -90.0
+    animationlooping = no
+    animationtime = 0.75
+    animationdelay = 0
+    animationblendmode = "add"
+    animationtype = "scrolling"
+    animationrotationoffset = { x = 0.0 y = 0.0 }
+    animationtexturescale = { x = 1.0 y = 1.0 }
+   }
+
+  animation = {
+    animationmaskfile = "gfx/interface/goals/HUM_The_Ripples_of_War.png"
+    animationtexturefile = "gfx/interface/goals/shine_overlay.dds"
+    animationrotation = 90.0
+    animationlooping = no
+    animationtime = 0.75
+    animationdelay = 0
+    animationblendmode = "add"
+    animationtype = "scrolling"
+    animationrotationoffset = { x = 0.0 y = 0.0 }
+    animationtexturescale = { x = 1.0 y = 1.0 }
+   }
+  }
+  SpriteType = {
+  name  =  "GFX_HUM_Unable_to_stop_shine"
+  texturefile  =  "gfx/interface/goals/HUM_Unable_to_stop.png"
+  effectFile = "gfx/FX/buttonstate.lua"
+  animation = {
+    animationmaskfile = "gfx/interface/goals/HUM_Unable_to_stop.png"
+    animationtexturefile = "gfx/interface/goals/shine_overlay.dds"
+    animationrotation = -90.0
+    animationlooping = no
+    animationtime = 0.75
+    animationdelay = 0
+    animationblendmode = "add"
+    animationtype = "scrolling"
+    animationrotationoffset = { x = 0.0 y = 0.0 }
+    animationtexturescale = { x = 1.0 y = 1.0 }
+   }
+
+  animation = {
+    animationmaskfile = "gfx/interface/goals/HUM_Unable_to_stop.png"
+    animationtexturefile = "gfx/interface/goals/shine_overlay.dds"
+    animationrotation = 90.0
+    animationlooping = no
+    animationtime = 0.75
+    animationdelay = 0
+    animationblendmode = "add"
+    animationtype = "scrolling"
+    animationrotationoffset = { x = 0.0 y = 0.0 }
+    animationtexturescale = { x = 1.0 y = 1.0 }
+   }
+  }
+  SpriteType = {
+  name  =  "GFX_HUM_unity_against_foreign_aggression_shine"
+  texturefile  =  "gfx/interface/goals/HUM_unity_against_foreign_aggression.png"
+  effectFile = "gfx/FX/buttonstate.lua"
+  animation = {
+    animationmaskfile = "gfx/interface/goals/HUM_unity_against_foreign_aggression.png"
+    animationtexturefile = "gfx/interface/goals/shine_overlay.dds"
+    animationrotation = -90.0
+    animationlooping = no
+    animationtime = 0.75
+    animationdelay = 0
+    animationblendmode = "add"
+    animationtype = "scrolling"
+    animationrotationoffset = { x = 0.0 y = 0.0 }
+    animationtexturescale = { x = 1.0 y = 1.0 }
+   }
+
+  animation = {
+    animationmaskfile = "gfx/interface/goals/HUM_unity_against_foreign_aggression.png"
+    animationtexturefile = "gfx/interface/goals/shine_overlay.dds"
+    animationrotation = 90.0
+    animationlooping = no
+    animationtime = 0.75
+    animationdelay = 0
+    animationblendmode = "add"
+    animationtype = "scrolling"
+    animationrotationoffset = { x = 0.0 y = 0.0 }
+    animationtexturescale = { x = 1.0 y = 1.0 }
+   }
+  }
+  SpriteType = {
+    name  =  "GFX_XXXXX_W_shine"
+    texturefile  =  "gfx/interface/goals/XXXXX_W.png"
+    effectFile = "gfx/FX/buttonstate.lua"
+    animation = {
+      animationmaskfile = "gfx/interface/goals/XXXXX_W.png"
+      animationtexturefile = "gfx/interface/goals/shine_overlay.dds"
+      animationrotation = -90.0
+      animationlooping = no
+      animationtime = 0.75
+      animationdelay = 0
+      animationblendmode = "add"
+      animationtype = "scrolling"
+      animationrotationoffset = { x = 0.0 y = 0.0 }
+      animationtexturescale = { x = 1.0 y = 1.0 }
+     }
+  
+    animation = {
+      animationmaskfile = "gfx/interface/goals/XXXXX_W.png"
+      animationtexturefile = "gfx/interface/goals/shine_overlay.dds"
+      animationrotation = 90.0
+      animationlooping = no
+      animationtime = 0.75
+      animationdelay = 0
+      animationblendmode = "add"
+      animationtype = "scrolling"
+      animationrotationoffset = { x = 0.0 y = 0.0 }
+      animationtexturescale = { x = 1.0 y = 1.0 }
+     }
+    }
+}

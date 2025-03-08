@@ -1,0 +1,29 @@
+state={
+	id=694
+	name="STATE_694"
+	provinces={
+		1541 1553 1679 4585 5479 9517 15254 15315 15346 15349 
+	}
+	buildings_max_level_factor=1.000
+        manpower=3041
+                 state_category = rural
+	resources={
+		steel=0 #钢铁
+		tungsten = 0 #妖石
+		chromium = 8 #灵气
+		rubber=0 #农产品
+		aluminium=0 #其他金属
+		oil = 0 #伊奘诺物质
+	}		history = {
+			owner = ELL
+			add_core_of = ELL
+			victory_points = { 1541  1 }
+			buildings = {
+				infrastructure = 0
+				air_base = 0
+				arms_factory = 0
+				industrial_complex = 0
+			}
+		}
+ 
+}

@@ -1,0 +1,29 @@
+state={
+	id=927
+	name="STATE_927"
+	provinces={
+		3181 3300 7386 7416 8585 9215 10622 17044 17059 17076 17096 17100 17111 17119 17123 17128 
+	}
+	buildings_max_level_factor=1.000
+        manpower=19088
+                 state_category = city
+	resources={
+		steel=0 #钢铁
+		tungsten = 1 #妖石
+		chromium = 4 #灵气
+		rubber=0 #农产品
+		aluminium=0 #其他金属
+		oil = 1 #伊奘诺物质
+	}		history = {
+			owner = BJJ
+			add_core_of = BJJ
+			victory_points = {  3181 20 }
+			buildings = {
+				infrastructure = 4
+				air_base = 0
+				arms_factory = 0
+				industrial_complex = 4
+			}
+		}
+ 
+}

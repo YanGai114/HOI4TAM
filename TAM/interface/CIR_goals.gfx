@@ -1,0 +1,149 @@
+spriteTypes = {
+SpriteType = { name = "GFX_CIR_3_1" texturefile = "gfx/interface/goals/CIR_3_1.png"
+}
+SpriteType = { name = "GFX_CIR_3_2" texturefile = "gfx/interface/goals/CIR_3_2.png"
+}
+SpriteType = { name = "GFX_CIR_3_3" texturefile = "gfx/interface/goals/CIR_3_3.png"
+}
+SpriteType = { name = "GFX_CIR_3_4" texturefile = "gfx/interface/goals/CIR_3_4.png"
+}
+SpriteType = { name = "GFX_CIR_3_5" texturefile = "gfx/interface/goals/CIR_3_5.png"
+}
+SpriteType = { name = "GFX_CIR_3_6" texturefile = "gfx/interface/goals/CIR_3_6.png"
+}
+SpriteType = { name = "GFX_CIR_3_7" texturefile = "gfx/interface/goals/CIR_3_7.png"
+}
+SpriteType = { name = "GFX_CIR_3_8" texturefile = "gfx/interface/goals/CIR_3_8.png"
+}
+SpriteType = { name = "GFX_CIR_3_9" texturefile = "gfx/interface/goals/CIR_3_9.png"
+}
+SpriteType = { name = "GFX_CIR_3_10" texturefile = "gfx/interface/goals/CIR_3_10.png"
+}
+SpriteType = { name = "GFX_CIR_3_11" texturefile = "gfx/interface/goals/CIR_3_11.png"
+}
+SpriteType = { name = "GFX_CIR_3_12" texturefile = "gfx/interface/goals/CIR_3_12.png"
+}
+SpriteType = { name = "GFX_CIR_3_13" texturefile = "gfx/interface/goals/CIR_3_13.png"
+}
+SpriteType = { name = "GFX_CIR_3_14" texturefile = "gfx/interface/goals/CIR_3_14.png"
+}
+SpriteType = { name = "GFX_CIR_3_15" texturefile = "gfx/interface/goals/CIR_3_15.png"
+}
+SpriteType = { name = "GFX_CIR_3_16" texturefile = "gfx/interface/goals/CIR_3_16.png"
+}
+SpriteType = { name = "CIR-7-1" texturefile = "gfx/interface/goals/CIR-7-1.png"
+}
+SpriteType = { name = "CIR-7-2" texturefile = "gfx/interface/goals/CIR-7-2.png"
+}
+SpriteType = { name = "CIR-7-3" texturefile = "gfx/interface/goals/CIR-7-3.png"
+}
+SpriteType = { name = "CIR-7-4" texturefile = "gfx/interface/goals/CIR-7-4.png"
+}
+SpriteType = { name = "CIR-7-5" texturefile = "gfx/interface/goals/CIR-7-5.png"
+}
+SpriteType = { name = "CIR-7-6" texturefile = "gfx/interface/goals/CIR-7-6.png"
+}
+SpriteType = { name = "CIR-7-7" texturefile = "gfx/interface/goals/CIR-7-7.png"
+}
+SpriteType = { name = "CIR-4-1" texturefile = "gfx/interface/goals/CIR-4-1.png"
+}
+SpriteType = { name = "CIR-4-2" texturefile = "gfx/interface/goals/CIR-4-2.png"
+}
+SpriteType = { name = "CIR-4-3" texturefile = "gfx/interface/goals/CIR-4-3.png"
+}
+SpriteType = { name = "CIR-4-4" texturefile = "gfx/interface/goals/CIR-4-4.png"
+}
+SpriteType = { name = "CIR-4-5" texturefile = "gfx/interface/goals/CIR-4-5.png" }
+
+SpriteType = { name = "CIR-4-6" texturefile = "gfx/interface/goals/CIR-4-6.png" }
+
+SpriteType = { name = "CIR-4-7" texturefile = "gfx/interface/goals/CIR-4-7.png" }
+SpriteType = { name = "CIR-4-8" texturefile = "gfx/interface/goals/CIR-4-8.png" }
+
+SpriteType = { name = "CIR_5_1" texturefile = "gfx/interface/goals/CIR_5_1.png" }
+SpriteType = { name = "CIR_5_2" texturefile = "gfx/interface/goals/CIR_5_2.png" }
+SpriteType = { name = "CIR_5_3" texturefile = "gfx/interface/goals/CIR_5_3.png" }
+SpriteType = { name = "CIR_5_4" texturefile = "gfx/interface/goals/CIR_5_4.png" }
+SpriteType = { name = "CIR_5_5" texturefile = "gfx/interface/goals/CIR_5_5.png" }
+SpriteType = { name = "CIR_5_6" texturefile = "gfx/interface/goals/CIR_5_6.png" }
+SpriteType = { name = "CIR_5_7" texturefile = "gfx/interface/goals/CIR_5_7.png" }
+SpriteType = { name = "CIR_5_8" texturefile = "gfx/interface/goals/CIR_5_8.png" }
+SpriteType = { name = "CIR_5_9" texturefile = "gfx/interface/goals/CIR_5_9.png" }
+SpriteType = { name = "CIR_5_10" texturefile = "gfx/interface/goals/CIR_5_10.png" }
+SpriteType = { name = "CIR_5_11" texturefile = "gfx/interface/goals/CIR_5_11.png" }
+SpriteType = { name = "CIR_5_12" texturefile = "gfx/interface/goals/CIR_5_12.png" }
+SpriteType = { name = "CIR_5_13" texturefile = "gfx/interface/goals/CIR_5_13.png" }
+SpriteType = { name = "CIR_5_14" texturefile = "gfx/interface/goals/CIR_5_14.png" }
+SpriteType = { name = "CIR_5_15" texturefile = "gfx/interface/goals/CIR_5_15.png" }
+SpriteType = { name = "CIR_5_16" texturefile = "gfx/interface/goals/CIR_5_16.png" }
+
+SpriteType = { name = "CIR_6_1" texturefile = "gfx/interface/goals/CIR_6_1.png" }
+SpriteType = { name = "CIR_6_2" texturefile = "gfx/interface/goals/CIR_6_2.png" }
+SpriteType = { name = "CIR_6_3" texturefile = "gfx/interface/goals/CIR_6_3.png" }
+SpriteType = { name = "CIR_6_4" texturefile = "gfx/interface/goals/CIR_6_4.png" }
+SpriteType = { name = "CIR_6_5" texturefile = "gfx/interface/goals/CIR_6_5.png" }
+SpriteType = { name = "CIR_6_6" texturefile = "gfx/interface/goals/CIR_6_6.png" }
+SpriteType = { name = "CIR_6_7" texturefile = "gfx/interface/goals/CIR_6_7.png" }
+SpriteType = { name = "CIR_6_8" texturefile = "gfx/interface/goals/CIR_6_8.png" }
+SpriteType = { name = "CIR_6_9" texturefile = "gfx/interface/goals/CIR_6_9.png" }
+SpriteType = { name = "CIR_6_10" texturefile = "gfx/interface/goals/CIR_6_10.png" }
+SpriteType = { name = "CIR_6_11" texturefile = "gfx/interface/goals/CIR_6_11.png" }
+SpriteType = { name = "CIR_6_12" texturefile = "gfx/interface/goals/CIR_6_12.png" }
+SpriteType = { name = "CIR_6_13" texturefile = "gfx/interface/goals/CIR_6_13.png" }
+SpriteType = { name = "CIR_6_14" texturefile = "gfx/interface/goals/CIR_6_14.png" }
+SpriteType = { name = "CIR_6_15" texturefile = "gfx/interface/goals/CIR_6_15.png" }
+SpriteType = { name = "CIR_6_16" texturefile = "gfx/interface/goals/CIR_6_16.png" }
+
+SpriteType = { name = "CIR_8_1" texturefile = "gfx/interface/goals/CIR_8_1.png" }
+SpriteType = { name = "CIR_8_2" texturefile = "gfx/interface/goals/CIR_8_2.png" }
+SpriteType = { name = "CIR_8_3" texturefile = "gfx/interface/goals/CIR_8_3.png" }
+SpriteType = { name = "CIR_8_4" texturefile = "gfx/interface/goals/CIR_8_4.png" }
+SpriteType = { name = "CIR_8_5" texturefile = "gfx/interface/goals/CIR_8_5.png" }
+SpriteType = { name = "CIR_8_6" texturefile = "gfx/interface/goals/CIR_8_6.png" }
+SpriteType = { name = "CIR_8_7" texturefile = "gfx/interface/goals/CIR_8_7.png" }
+SpriteType = { name = "CIR_8_8" texturefile = "gfx/interface/goals/CIR_8_8.png" }
+SpriteType = { name = "CIR_8_9" texturefile = "gfx/interface/goals/CIR_8_9.png" }
+SpriteType = { name = "CIR_8_10" texturefile = "gfx/interface/goals/CIR_8_10.png" }
+SpriteType = { name = "CIR_8_11" texturefile = "gfx/interface/goals/CIR_8_11.png" }
+SpriteType = { name = "CIR_8_12" texturefile = "gfx/interface/goals/CIR_8_12.png" }
+SpriteType = { name = "CIR_8_13" texturefile = "gfx/interface/goals/CIR_8_13.png" }
+SpriteType = { name = "CIR_8_14" texturefile = "gfx/interface/goals/CIR_8_14.png" }
+SpriteType = { name = "CIR_8_15" texturefile = "gfx/interface/goals/CIR_8_15.png" }
+SpriteType = { name = "CIR_8_16" texturefile = "gfx/interface/goals/CIR_8_16.png" }
+SpriteType = { name = "CIR_8_17" texturefile = "gfx/interface/goals/CIR_8_17.png" }
+SpriteType = { name = "CIR_8_18" texturefile = "gfx/interface/goals/CIR_8_18.png" }
+SpriteType = { name = "CIR_8_19" texturefile = "gfx/interface/goals/CIR_8_19.png" }
+SpriteType = { name = "CIR_8_20" texturefile = "gfx/interface/goals/CIR_8_20.png" }
+SpriteType = { name = "CIR_8_21" texturefile = "gfx/interface/goals/CIR_8_21.png" }
+SpriteType = { name = "CIR_8_22" texturefile = "gfx/interface/goals/CIR_8_22.png" }
+SpriteType= { name = "CIR_8_23" texturefile = "gfx/interface/goals/CIR_8_23.png" }
+SpriteType = { name = "CIR_8_24" texturefile = "gfx/interface/goals/CIR_8_24.png" }
+SpriteType = { name = "CIR_8_25" texturefile = "gfx/interface/goals/CIR_8_25.png" }
+SpriteType = { name = "CIR_8_26" texturefile = "gfx/interface/goals/CIR_8_26.png" }
+SpriteType = { name = "CIR_8_27" texturefile = "gfx/interface/goals/CIR_8_27.png" }
+SpriteType = { name = "CIRCIR_8_28" texturefile = "gfx/interface/goals/CIRCIR_8_28.png" }
+SpriteType = { name = "CIR_8_29" texturefile = "gfx/interface/goals/CIR_8_29.png" }
+SpriteType = { name = "CIR_8_30" texturefile = "gfx/interface/goals/CIR_8_30.png" }
+SpriteType = { name = "CIR_8_31" texturefile = "gfx/interface/goals/CIR_8_31.png" }
+
+SpriteType = { name = "yuemianzhanzheng_button" texturefile = "gfx/interface/button/yuemianzhanzheng_button.png" }
+
+SpriteType = {
+	name = "CLO_changshidiyuxiandaihua"
+	texturefile = "gfx/interface/goals/CLO_changshidiyuxiandaihua.png"
+}
+SpriteType = {
+	name = "CLO_diyulinglijiejing"
+	texturefile = "gfx/interface/goals/CLO_diyulinglijiejing.png"
+}
+SpriteType = {
+	name = "CLO_linglixiandaihua"
+	texturefile = "gfx/interface/goals/CLO_linglixiandaihua.png"
+}
+SpriteType = {
+	name = "CLO_yaojinggulifaan"
+	texturefile = "gfx/interface/goals/CLO_yaojinggulifaan.png"
+}
+
+
+}

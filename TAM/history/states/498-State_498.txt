@@ -1,0 +1,29 @@
+state={
+	id=498
+	name="STATE_498"
+	provinces={
+		1089 5284 5905 6899 8858 9100 14004 14046 14050 14058 14059 14084 14086 14123 14191 14207 14229 14245 14253 
+	}
+	buildings_max_level_factor=1.000
+        manpower=334444
+                 state_category = city
+	resources={
+		steel=0 #钢铁
+		tungsten = 0 #妖石
+		chromium = 3 #灵气
+		rubber=0 #农产品
+		aluminium=0 #其他金属
+		oil = 0 #伊奘诺物质
+	}		history = {
+			owner = PRI
+			add_core_of = PRI
+			victory_points = { 1089 20 }
+			buildings = {
+				infrastructure = 3
+				air_base = 0
+				arms_factory = 2
+				industrial_complex = 4
+			}
+		}
+ 
+}

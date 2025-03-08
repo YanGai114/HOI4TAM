@@ -1,0 +1,259 @@
+guiTypes = {
+	
+	###############################################################
+	########            欸嘿                               ########
+	###############################################################
+	
+	containerWindowType = {
+		name = "YAW_power_balance"
+		size = { width = 0 height = 110 }
+		position = { x = 0 y = 0 }
+
+		instantTextboxType = {
+			name = "against~"
+			position = { x = 20 y = 61 }
+			font = "hoi_20bs"
+			text = yaw_against
+			maxWidth = 300
+			maxHeight = 100
+			format = center
+		}
+	
+		iconType = {
+			name = "YAW_power_balance_Meter"
+			spriteType = "GFX_YAW_xuanyuan_Progressbar"
+			position = { x = 65 y = 25 }
+			#frame = 64
+			pdx_tooltip = xuanyuan_bar_tooltip
+			# 
+			Orientation = "CENTER"
+		}
+		
+		iconType = {
+			name = "honglongdong"
+			spriteType = "GFX_honglongdong_bop"		
+			position = { x =-15 y = 21 }
+			pdx_tooltip =honglongdong_icon_text
+		}
+
+		iconType = {
+			name = "shantongshangyehui"
+			spriteType = "GFX_shantongshangyehui_bop"		
+			position = { x = 410  y = 21  }
+			pdx_tooltip =shantongshangyehui_icon_text
+		}
+
+	}
+
+
+	containerWindowType = {
+		name = "YAW_coin"
+		size = { width = 0 height = 40 }
+		position = { x = 0 y = 0 }
+
+		
+
+		buttonType = { 
+		 name = "YAW_xiangxishouzhi"
+		 position = { x = 375 y = -61 } 
+		 quadTextureSprite = "GFX_xiangxishouzhi_decision"
+		 buttonFont = hoi_16mbs
+		 #buttonText = 0
+		 pdx_tooltip = xiangxishouzhi_TEXT 
+		 clicksound = click_send
+	    } 
+		buttonType = { 
+			name = "YAW_jisuangongshi"
+			position = { x = 245 y = -61 } 
+			quadTextureSprite = "GFX_jisuangongshi_decision"
+			buttonFont = hoi_16mbs
+			#buttonText = 0
+			pdx_tooltip = jisuangongshi_TEXT
+			clicksound = click_send
+		} 
+		buttonType = { 
+			name = "YAW_zhuanqian"
+			position = { x = 85 y = 10 } 
+			quadTextureSprite = "GFX_save_load_file_btn"
+			buttonFont = hoi_16mbs
+			buttonText = "赚  钱"
+			pdx_tooltip = YAW_zhuanqian_TEXT
+			clicksound = click_send
+		} 
+		buttonType = { 
+			name = "YAW_huaqian"
+			position = { x = 285 y = 10 } 
+			quadTextureSprite = "GFX_save_load_file_btn"
+			buttonFont = hoi_16mbs
+			buttonText = "投  资"
+			pdx_tooltip =  YAW_huaqian_TEXT 
+			clicksound = click_send
+		} 
+		   
+
+		
+
+		
+		
+	}
+
+	containerWindowType = {
+		name = "YAW_coin2"
+		size = { width = 500 height = 450 }
+		position = { x = -300 y = -120 }
+		Orientation = center
+		moveable = yes
+		
+		background = {
+			name = "Background" 
+			quadTextureSprite = "GFX_tiled_frontend_upper_bar"
+		}
+		
+		
+
+		iconType = {
+			name = "YAW_coin2_bg"
+			spriteType = "GFX_YAW_coin2_bg"		
+			position = { x = 0  y = 0 }
+			moveable = yes
+			alwaystransparent = yes
+			
+		}
+		
+		
+		buttonType = { 
+			name = "YAW_queren"
+			position = { x =105  y = 400 }
+			quadTextureSprite = "GFX_main_lobby_button"
+			buttonFont = "hoi_24header"
+			buttonText = "确  认"
+			
+			clicksound = click_close
+		} 
+
+		instantTextboxType = {
+			name = "YAW_coin2_text"
+			position = { x =5  y = 45 }
+			font = "hoi_20b"
+			text = YAW_coin2_text
+			maxWidth = 250
+			maxHeight = 300
+			format = center
+		}
+
+		instantTextboxType = {
+			name = "YAW_coin2_text2"
+			position = { x =240  y = 45 }
+			font = "hoi_20b"
+			text = YAW_coin2_text2
+			maxWidth = 250
+			maxHeight = 300
+			format = center
+		}
+
+		ButtonType = {
+			name = "YAW_coin2_exitButton"
+			position = { x = 460 y = 15 }
+			quadTextureSprite ="GFX_closebutton"
+			pdx_tooltip = "CLOSE"
+			shortcut = "ESCAPE"
+			clicksound = click_default
+			oversound = ui_menu_over
+		}
+	}
+
+
+	containerWindowType = {
+		name = "YAW_coin3"
+		size = { width = 500 height = 450 }
+		position = { x = -300 y = -120 }
+		Orientation = center
+		moveable = yes
+		verticalScrollbar = "right_vertical_slider"
+		
+		background = {
+			name = "Background" 
+			quadTextureSprite = "GFX_tiled_frontend_upper_bar"
+		}
+		
+		
+
+		iconType = {
+			name = "YAW_coin2_bg"
+			spriteType = "GFX_YAW_coin2_bg"		
+			position = { x = 0  y = 0 }
+			moveable = yes
+			alwaystransparent = yes
+			
+		}
+		
+		
+		buttonType = { 
+			name = "YAW_queren2"
+			position = { x =105  y = 400 }
+			quadTextureSprite = "GFX_main_lobby_button"
+			buttonFont = "hoi_24header"
+			buttonText = "确  认"
+			
+			clicksound = click_close
+		} 
+
+		instantTextboxType = {
+			name = "YAW_xiangxishouzhi2_text"
+			position = { x =2  y = 35 }
+			font = "hoi_16mbs"
+			text = YAW_xiangxishouzhi2_text 
+			maxWidth = 275
+			maxHeight = 300
+			format = center
+		}
+
+		instantTextboxType = {
+			name = "YAW_xiangxishouzhi2_text2"   
+			position = { x =285  y = 60 }
+			font = "hoi_16mbs"
+			text = YAW_xiangxishouzhi2_text2 
+			maxWidth = 210
+			maxHeight = 300
+			format = center
+		}
+
+		ButtonType = {
+			name = "YAW_coin3_exitButton"
+			position = { x = 460 y = 15 }
+			quadTextureSprite ="GFX_closebutton"
+			pdx_tooltip = "CLOSE"
+			shortcut = "ESCAPE"
+			clicksound = click_default
+			oversound = ui_menu_over
+		}
+	}
+
+	containerWindowType = {
+		name = "YAW_coin4"
+		size = { width = 200 height = 50 }
+		position = { x = -630 y = 10 }
+		Orientation =  upper_right
+		moveable = no
+		
+		ButtonType = {
+			name = "YAW_coin4_anniu"
+			position = { x = 40 y = -9 }
+			quadTextureSprite ="GFX_save_load_file_btn"
+			pdx_tooltip = xiangxishouzhi_TEXT
+			buttonText = YAW_coin4_text
+			clicksound = click_default
+			
+		}
+		instantTextboxType = {
+			name = "YAW_coin4_xianshi"
+			position = { x = 0 y = -1 }#你的文本位置（相对于窗口）
+			font = "hoi_16mbs"
+			text = YAW_coin4_text
+			maxWidth = 200
+			maxHeight = 000
+			format = center
+		}
+		
+	}
+}

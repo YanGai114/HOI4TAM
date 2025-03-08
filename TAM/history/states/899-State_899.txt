@@ -1,0 +1,29 @@
+state={
+	id=899
+	name="STATE_899"
+	provinces={
+		1461 1913 4345 16937 16938 16954 16972 16988 
+	}
+	buildings_max_level_factor=1.000
+        manpower=16977
+                 state_category = town
+	resources={
+		steel=0 #钢铁
+		tungsten = 0 #妖石
+		chromium = 4 #灵气
+		rubber=5 #农产品
+		aluminium=0 #其他金属
+		oil = 0 #伊奘诺物质
+	}		history = {
+			owner = HKM
+			add_core_of = HKM
+			victory_points = { 1461  10 }
+			buildings = {
+				infrastructure = 2
+				air_base = 0
+				arms_factory = 1
+				industrial_complex = 1
+			}
+		}
+ 
+}

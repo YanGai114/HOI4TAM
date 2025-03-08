@@ -1,0 +1,29 @@
+state={
+	id=706
+	name="STATE_706"
+	provinces={
+		1393 3177 6130 6680 7601 7905 8282 9035 9830 10066 10200 10223 10538 15329 15371 15372 15398 15457 15476 15487 15502 15503 15528 15548 15572 
+	}
+	buildings_max_level_factor=1.000
+        manpower=2547
+                 state_category = rural
+	resources={
+		steel=0 #钢铁
+		tungsten = 0 #妖石
+		chromium = 5 #灵气
+		rubber=0 #农产品
+		aluminium=0 #其他金属
+		oil = 2 #伊奘诺物质
+	}		history = {
+			owner = ELL
+			add_core_of = ELL
+			victory_points = { 1393  1 }
+			buildings = {
+				infrastructure = 0
+				air_base = 0
+				arms_factory = 0
+				industrial_complex = 0
+			}
+		}
+ 
+}

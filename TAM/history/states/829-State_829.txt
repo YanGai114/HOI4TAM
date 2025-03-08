@@ -1,0 +1,29 @@
+state={
+	id=829
+	name="STATE_829"
+	provinces={
+		830 2789 3103 5153 7483 8034 9611 10219 16428 16429 16475 
+	}
+	buildings_max_level_factor=1.000
+        manpower=4578
+                 state_category = rural
+	resources={
+		steel=0 #钢铁
+		tungsten = 5 #妖石
+		chromium = 0 #灵气
+		rubber=1 #农产品
+		aluminium=0 #其他金属
+		oil = 0 #伊奘诺物质
+	}		history = {
+			owner = HKM
+			add_core_of = HKM
+			victory_points = { 830  1 }
+			buildings = {
+				infrastructure = 0
+				air_base = 0
+				arms_factory = 0
+				industrial_complex = 0
+			}
+		}
+ 
+}

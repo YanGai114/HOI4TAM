@@ -1,0 +1,29 @@
+state={
+	id=886
+	name="STATE_886"
+	provinces={
+		1078 4712 5792 16743 16757 16823 16828 16856 
+	}
+	buildings_max_level_factor=1.000
+        manpower=38577
+                 state_category = town
+	resources={
+		steel=0 #钢铁
+		tungsten = 0 #妖石
+		chromium = 0 #灵气
+		rubber=0 #农产品
+		aluminium=0 #其他金属
+		oil = 0 #伊奘诺物质
+	}		history = {
+			owner = REV
+			add_core_of = REV
+			victory_points = {  1078 10 }
+			buildings = {
+				infrastructure = 4
+				air_base = 0
+				arms_factory = 1
+				industrial_complex = 2
+			}
+		}
+ 
+}

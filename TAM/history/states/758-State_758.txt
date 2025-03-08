@@ -1,0 +1,29 @@
+state={
+	id=758
+	name="STATE_758"
+	provinces={
+		207 2775 3055 7480 8609 9547 9678 10125 10432 15689 15729 15739 15747 15773 15792 15899 15906 15965 
+	}
+	buildings_max_level_factor=1.000
+        manpower=4877
+                 state_category = rural
+	resources={
+		steel=0 #钢铁
+		tungsten = 0 #妖石
+		chromium = 2 #灵气
+		rubber=0 #农产品
+		aluminium=0 #其他金属
+		oil = 0 #伊奘诺物质
+	}		history = {
+			owner = EMD
+			add_core_of = EMD
+			victory_points = {207  1 }
+			buildings = {
+				infrastructure = 0
+				air_base = 0
+				arms_factory = 0
+				industrial_complex = 0
+			}
+		}
+ 
+}

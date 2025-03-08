@@ -1,0 +1,10 @@
+spriteTypes = {
+	corneredTileSpriteType = {
+		name = "GFX_frontend_bg"
+		texturefile = "gfx/loadingscreens/ski_1.jpg-1.png"
+		borderSize = { x=0 y= 0 }
+		size = {  x=3000 y= 2700 }
+		tilingCenter = no	
+		effectFile = "gfx/FX/buttonstate_nodowneffect.lua"				
+	}
+}

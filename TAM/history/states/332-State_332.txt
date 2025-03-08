@@ -1,0 +1,29 @@
+state={
+	id=332
+	name="STATE_332"
+	provinces={
+		366 1145 3054 5802 7574 9444 12936 13004 13013 13049 13076 13096 13134 
+	}
+	buildings_max_level_factor=1.000
+        manpower=40588
+                 state_category = large_city
+	resources={
+		steel=10 #钢铁
+		tungsten = 0 #妖石
+		chromium = 0 #灵气
+		rubber=0 #农产品
+		aluminium=5 #其他金属
+		oil = 0 #伊奘诺物质
+	}		history = {
+			owner = TEG
+			add_core_of = TEG
+			victory_points = { 366 20 }
+			buildings = {
+				infrastructure = 3
+				air_base = 0
+				arms_factory = 0
+				industrial_complex = 3
+			}
+		}
+ 
+}

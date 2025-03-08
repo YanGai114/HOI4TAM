@@ -1,0 +1,222 @@
+﻿l_simp_chinese:
+
+YAW_womenzuodaole.tt:0 "我们国家总收入将§Y增加5%§!，而总支出将§Y降低5%！§!\n "
+YAW_yuzaobu.tt:0 "我们开采龙珠的收入将直接§Y增涨0.3£shanjin_text §!\n "
+YAW_didongshanyao.tt:0 "现在，我们的军用工厂收入§Y受战争影响降低20%§!，征兵量所带来的§Y支出降低5%！§!\n "
+
+YAW_dianfudashan.tt:0 "所有规模为§Y国家§!，§Y帝国§!和§Y世界§!的势力都将感受到这股震动，这是来自地底的低吼，也来自她们内心的悸动。\n "
+
+YAW_shanheyouyichangcun.tt:0 "§Y山城财团已经发展得足够成熟，山城高岭将兑现自己的诺言：把财团和她的一切，回赠给她心爱的祖国与人民。§!\n "
+
+YAW_shanheyouyichangcun2.tt:0 "§Y5%建造速度、科研速度与工厂产出，3%抵抗下降速度与-2%抵抗上涨速度。§!\n "
+
+YAW_shangyezhifuwu.tt:0 "我们可以花费政治点数来提供不同的贸易，得到不同的增益效果，并§Y获得一些报酬§!。\n "
+
+YAW_quxiaofulibaohulaodongzhe.tt:0 "得益于我们对军队的支持和经济改革的胜利，现在我们对可用人力的收入§Y增涨8%§!，国家法令的支出直接§Y减少0.1£shanjin_text §!虽然军事单位支出将§R增涨10%§!，但当我们处于战争时，它的支出会在战时§R增涨15%§!的基础上§Y降低10%§!。\n "
+YAW_zhanzhengshiye.tt:0 "我们可以用§Y山金£shanjin_text §!§R投资更多东西§!了，你知道在哪里可以看见它们。\n "
+YAW_bufenguoyou.tt:0 "我们维持附庸的花费会§R增加20%§!\n "
+YAW_lianbangzhi.tt:0 "现在我们每月都将自动从附庸国收到山金，这取决于它们被附庸的等级，从四级到一级分别为§Y1£shanjin_text，1.5£shanjin_text，2£shanjin_text，2.5£shanjin_text。§!\n "
+
+YAW_shehuiyinghang.tt:0 "我们增加了抗风险能力，现在所有工厂收入因战争带来的削减影响都将§Y降低10%§!，而可用人口的收入将§Y增涨5%§!，但由于我们的保险制度，除了付出一些生活消费品的代价外我们还需要额外§R支付0.2£shanjin_text §!的费用。\n "
+
+YAW_shangyelingdi2_modifier:0 "§Y不夜城§!\n "
+
+yaw_wuzhuangzhongli3.tt:0 "§Y穷鬼免进！§!\n "
+
+YAW_yongyuandelingxiu.tt:0 "山城财团将额外§Y提供10%政治点数§!收入。\n "
+
+YAW_aicaifushengguoaizhengzhi.tt:0 "注意：\n 在§1异变§!的政体下，我们不再能从经商上获取§Y山金£shanjin_text §!，请留意国策下新增的赚钱方式。\n "
+
+YAW_tuijingein.tt:0 "我们来自民用工厂的收入将§Y增加5%§!\n "
+
+YAW_shehuijiushishichang.tt:0 "国民是§R愚钝的§!，她们往往都不清楚该怎么妥善花掉自己的钱，教会她们如何消费是我们§R应尽的义务§!。\n "
+YAW_moshouyujikua.tt:0 "§R应该把它们全喂给财团...§!\n "
+YAW_moshouyujikua2.tt:0 "财团将再提供§Y3%工厂产出，5%政治点数§!和§Y-2%生活消费品§!加成。\n "
+
+YAW_jujiaoguonei.tt:0 "§Y国内问题已经提上议程，现在我们可以通过下降附庸等级来吞并虹龙洞了，如果它还是我们的附庸的话。§!\n "
+
+YAW_jieguohuoju.tt:0 "如果河童共和国§Y保持独立§!并坚持§Y改良§!的理念，我们§Y会直接与之形成战略结盟§!，倘若她们的共和者失败，我们会§R宣称她们土地的核心§!，并吸纳坚定的改良者加入我们。\n "
+
+YAW_1:0 "我们正走向妖怪山的顶峰！"
+YAW_coin4.tt:0 "出租一座民用工厂获取§Y0.5£shanjin_text §!" 
+YAW_coin5.tt:0 "出租五座民用工厂获取§Y2.5£shanjin_text §!" 
+YAW_coin6.tt:0 "出租十座民用工厂获取§Y4.5£shanjin_text §!" 
+YAW_coin11.tt:0 "打包50人力并出租一座民用工厂获取§Y2.5£shanjin_text §!" 
+YAW_coin12.tt:0 "打包100人力并出租三座民用工厂获取§Y6£shanjin_text §!" 
+YAW_coin13.tt:0 "打包200人力并出租五座民用工厂获取§Y8.5£shanjin_text §!"
+YAW_coin14.tt:0 "打包300人力并出租八座民用工厂获取§Y15£shanjin_text §!"
+
+YAW_kuochongwomendewuzhuang.tt:0 "你现在可以花费人力的同时租借工厂以§Y获得大量收入§!，只是每次都会§R下降稳定度。§!\n "
+
+YAW_zongtongzhi.tt:0 "我们来自军用工厂的收入将§Y增加10%§!\n "
+
+
+YAW_coindayu0.tt:0 "所持有§Y山金£shanjin_text §!高于§Y0§!" 
+YAW_coin111.tt:0 "投资生产花费§Y5£shanjin_text §!" 
+YAW_coin112.tt:0 "投资建设花费§Y5£shanjin_text §!" 
+YAW_coin113.tt:0 "投资科研花费§Y5£shanjin_text §!" 
+YAW_coin114.tt:0 "临时增加军事开支花费§Y6£shanjin_text §!" 
+YAW_coin115.tt:0 "吸引流民花费§Y5£shanjin_text §!"
+YAW_coin116.tt:0 "建造一座民用工厂花费§Y15£shanjin_text §!"
+YAW_coin117.tt:0 "建造一座军用工厂花费§Y25£shanjin_text §!"
+YAW_coin118.tt:0 "收买官员与媒体花费§Y5£shanjin_text §!"
+YAW_coin119.tt:0 "战争悬赏花费§Y5£shanjin_text §!"
+YAW_coin120.tt:0 "强制征兵花费§Y3£shanjin_text §!"
+
+YAW_zhuanqian_TEXT:0 "§Y点击查看更多增加收入的决议§!" 
+YAW_huaqian_TEXT:0 "§Y点击查看更多有关投资的决议§!" 
+
+YAW_shantongtiaoli.tt:0 "平等条例将§R增加0.1法令支出。§!"
+YAW_qianzhuliuminfa.tt:0 "流民法案将§R增加0.2法令支出。§!"
+
+YAW_touzijianshe.tt:0 "山城财团将提供§Y5%建设加成。§!"
+YAW_touzishengchan.tt:0 "山城财团将提供§Y5%工厂产出加成。§!"
+YAW_touzikeyan.tt:0 "山城财团将提供§Y5%科研速度加成。§!"
+YAW_shangyelingdi_modifier:0 "§Y商业领地§!"
+YAW_shantongcaituan_modifier:0 "§Y山城财团§!"
+YAW_rongzi.tt:0 "§Y现在，剩余人力收入将上调2%§!\n "
+YAW_qiushenzhitong.tt:0 "§Y如果南边是厄神执政，那么驱鬼村落会有人类出逃，如果是秋姐妹执政，那么另外两个村落会有人类出逃。如果都不是，那么稻田聚落的人类会出逃。§!\n "
+YAW_shanghuidongqilai.tt:0 "§Y我们不会再因为商会自身问题损失那10%的总收入了。§!\n "
+YAW_touzi.tt:0 "§Y可用人力的收入将上涨5%§!\n "
+YAW_shantongyinghang.tt:0 "§Y可用人力的收入将上涨10%§!\n "
+YAW_shanhedingdan.tt:0 "§Y设备与进口资源的问题已经解决，我们所有工厂的成本将减少10%。§!\n "
+YAM_zhongyouzhidao.tt:0 "§Y我们势力规模的收入部分将增加5%§!\n "
+YAW_lianxizhongyouzhidao2.tt:0 "§Y我们计划以中有之道的名义给予神佑村落战争援助。§!\n "
+
+YAW_guyonghetong.tt:0 "我们所有工厂的收益都将§R扣除8%§!收入用以人工与设备保养的需要。但是有了河童雇工，我们的厂子可以§Y增加10%收入。§!\n "
+YAW_womennengzuodao.tt:0 "§Y随着我们技术的提升，现在民工和军工只需分别花费3%与5%的利润就可以很好的满足人力成本与设备保养的成本了。§!\n "
+
+YAW_luoxiaweimu.tt:0 "由于§Y黑色星期一§!造成的大失业、破坏与经济混乱，我们所有工厂的收入都将§R降低20%§!直到河童雇工与设备、资源进口到我们的作坊里来；并且我们商会每周都将白白§R损失10%的总收入§!；我们还要为获取资源而§R消费总收入的5%§!直到我们研究了§Y140季资源开发§!；我们的势力收入将§R减少10%§!，直到我们建立商业领地；同时，由于我国的国民一向缺乏储存金钱的意识，来自可用人口的收入将§R降低15%§!，直到让她们知道§Y储蓄与山童钱庄的重要性§!。\n 而且，最好不要让我们的§Y山金§!£shanjin_text 长时期保持在负数，如果不幸负债，我们可没有贷款来源，如果一段时间内我们没能偿还欠款，那么还会根据负债的多少§R遭受一定惩罚。§!\n "
+
+YAW_baibaishi.tt:0 "§Y天龙！！！！！§!\n "
+
+YAW_power_balance7_flag:0 "§Y已经公开承认玉造魅须丸对虹龙洞的领导地位。§!\n "
+YAW_power_balance8_flag:0 "§Y已经公开承认姬虫百百世对虹龙洞的领导地位。§!\n "
+
+YAW_yudiguoxuyue.tt:0 "现在我们可以名正言顺地来决定关于§Y[KRD.GetFlag][KRD.GetName]的问题了。§!\n "
+
+YAW_gongheguo.tt:0 "§Y她们告诫我们要注意对军事领域的研究，不要步入河童们分裂陷入僵持的后尘。§!\n "
+YAW_zhanglaohui.tt:0 "§Y她们得意洋洋地向我们展示了来自守矢神社用来杀死同胞的武器。§!\n "
+YAW_lianxizhongyouzhidao.tt:0 "§Y允许派遣志愿军。§!\n§Y允许发起战争。§!\n§Y允许加入阵营。§!\n§Y允许被呼唤加入其他战争。§!\n "
+yaw_wuzhuangzhongli.tt:0 "§Y将会一直持续到战争爆发前。§!\n "
+YAW_yugongheguodajiaodao.tt:0 "§Y共和国有意拉拢河童，并秘密转让了一些淘汰的装备与机器给我们。§!\n "
+YAW_laopengyoufangangwan.tt:0 "§Y饭纲丸大人希望我们保守中立，并注重国内建设，她看出来我们的国家基础不稳，但现在她爱莫能助，只能抽调一点设备和人力援助给我们。§!\n "
+YAW_shoushishenshe.tt:0 "§Y守矢神社热情地向我们传播教义，并警告我们小心天狗共和国与河童共和国那群“傻子”。我们婉拒了她们想要派驻军队协防商会的提议。§!\n "
+
+YAW_honglongdongwenti.tt:0 "这会让§Y[KRD.GetFlag][KRD.GetName]§!势力增涨5%。\n "
+YAW_honglongdongwenti_1:0 "这会让§Y[KRD.GetFlag][KRD.GetName]§!势力§Y增涨5%。§!\n "
+YAW_honglongdongwenti_2:0 "这会让§Y[KRD.GetFlag][KRD.GetName]§!势力§Y增涨10%。§!\n "
+YAW_honglongdongwenti_3:0 "这会让§Y[KRD.GetFlag][KRD.GetName]§!势力§G降低5%。§!\n "
+YAW_honglongdongwenti_4:0 "这会让§Y[KRD.GetFlag][KRD.GetName]§!势力§G降低10%。§!\n "
+
+yaw_right_side:0 "§Y山童更有话语权§!"
+krd_left_side:0 "§Y虹龙洞更有话语权§!"
+YAW_power_balance:0 "§Y虹龙洞妖怪/神明—山童之争§!"
+YAW_power_balance_desc:0 "自河童分裂以来，我们山童金融在实体经济上的实力一落千丈，好在§0[OTG.GetFlag][OTG.GetName]§!的饭纲丸大人为了不让天狗内战波及天狗外贸经济地带，暂时没有计较我们当初耍小手段从帝国那里获得的§Y[KRD.GetFlag][KRD.GetName]§!，默许由我们代管并继续开采龙珠。她允许我们拥有外交自主的权力，但在内战结束之前，我们不能与帝国或共和国有更多接触。正因如此，我们的商会实业才得以保持孤立并继续维持我们的经济。\n 但§Y[KRD.GetFlag][KRD.GetName]§!终究不是我们的，我们也管不住那条大蜈蚣和另一位神明，更不幸的消息是，那块地方居然还有大妖怪。\n 我们已经被河童们折腾的不轻，如果§Y[KRD.GetFlag][KRD.GetName]§!再有所动作，恐怕她们背后的势力会趁机让至今还勉强独立的山童，也就是我们，步入隔壁河童的后尘...\n\n\n §R注意：§!\n 当虹龙洞的势力§Y大于或等于45§!时，我们不能将其降为§G1级附庸§!；\n 势力§Y大于或等于55§!时，我们不能将其降为§G2级附庸§!；\n 势力§Y大于或等于65§!时，我们不能将其降为§G3级附庸§!。\n 我们永远也不能§R吞并§!§Y[KRD.GetFlag][KRD.GetName]§!！"
+
+yaw_against:0 "§Y[KRD.GetFlag][KRD.GetName]§!势力占比：[?YAW.shantong_display_value]%"
+
+honglongdong_icon_text:0 "源源不断冒出神秘物质的地带，那里由山童、妖怪和天狗小队共同看守。"
+shantongshangyehui_icon_text:0 "我们亲爱的祖国，山童的摇篮，怀揣梦想的地方。"
+
+YAW_power_balance1.tt:0 "§Y[KRD.GetFlag][KRD.GetName]§!将§R增加5%影响力§!直到其实力占比达到§Y50%§!及以上。"
+
+YAW_coin:0 "§Y山童货币§!"
+YAW_coin_desc:0 "§Y山童货币§!又叫“§Y山金§!£shanjin_text ”，是山童们凭借商会信誉发行的货币，你可以质疑§Y山金§!£shanjin_text 不值钱，但它绝对稳定——山童们只凭借§Y山金§!£shanjin_text 作为唯一的一般交易等价物。\n\n 我们目前持有山金：[?YAW.shanjin_0]£shanjin_text \n\n 每周收入：[?YAW.shanjin_0_3]£shanjin_text "
+
+YAW_coin4_text:0 "持有：[?YAW.shanjin_0]£shanjin_text "
+
+Anarchopedia:0 "无政府"
+YAW_anzisitan.tt:0 "在无政府阶段我们不再因势力规模而获得收入，但国家法令支出将直接§Y降低50%§!\n "
+
+xiangxishouzhi_TEXT:0 "点击查看每周财务报表。"
+jisuangongshi_TEXT:0 "注意，我们的收入及开支受以下因素影响："
+
+YAW_coin2_text:0 "每周总收入：[?YAW.shanjin_0_1]£shanjin_text \n\n其中：\n\n 民用工厂收入：[?YAW.shanjin_1]£shanjin_text \n\n 军用工厂收入：[?YAW.shanjin_2]£shanjin_text \n\n 可用人力收入：[?YAW.shanjin_3]£shanjin_text \n\n 势力规模收入：[?YAW.shanjin_4]£shanjin_text \n\n 开采龙珠收入：[?YAW.shanjin_5]£shanjin_text "
+
+tengufocus_subject_flag1:0 "是一级附庸"
+tengufocus_subject_flag2:0 "是二级附庸"
+tengufocus_subject_flag3:0 "是三级附庸"
+tengufocus_subject_flag4:0 "是四级附庸"
+
+
+YAW_coin2_text2:0 "每周总支出：[?YAW.shanjin_0_2]£shanjin_text \n\n其中：\n\n 当前军事单位支出：[?YAW.shanjin_6]£shanjin_text \n\n 控制的领土支出：[?YAW.shanjin_7]£shanjin_text \n\n 对附庸的支出：[?YAW.shanjin_8]£shanjin_text \n\n 国家法令的支出：[?YAW.shanjin_9]£shanjin_text "
+
+shanjin_add0.tt:0 "§Y得到§!0.5£shanjin_text \n "
+shanjin_add1.tt:0 "§Y得到§!1£shanjin_text \n "
+shanjin_add2.tt:0 "§Y得到§!2£shanjin_text \n "
+shanjin_add5.tt:0 "§Y得到§!5£shanjin_text \n "
+shanjin_add10.tt:0 "§Y得到§!10£shanjin_text \n "
+shanjin_rem0.tt:0 "§R失去§!0.5£shanjin_text \n "
+shanjin_rem1.tt:0 "§R失去§!1£shanjin_text \n "
+shanjin_rem2.tt:0 "§R失去§!2£shanjin_text \n "
+shanjin_rem5.tt:0 "§R失去§!5£shanjin_text \n "
+shanjin_rem10.tt:0 "§R失去§!10£shanjin_text \n "
+
+YAW_gaolinggexin.tt:0 "§Y现在我国法令支出将会降低5%，维持附庸支出也将降低5%§!"
+YAW_kuodagonghui.tt:0 "§Y法令支出将会增加0.1£shanjin_text。§!"
+YAW_mimixieding.tt:0 "现在我们可以交易军火了，即使我们原本并不想这么做。\n\n §Y注意：§!\n 当你要售卖的装备库存越多，你的售价就会越低，不过既然你装备那么多，也不在乎售价多少了吧。"
+
+
+YAW_yaoguaishanlianbang:0 "妖怪山联邦"
+YAW_yaoguaishanlianbang_ADJ:0 "妖怪山联邦"
+YAW_yaoguaishanlianbang_DEF:0 "妖怪山联邦"  
+YAW_shanchengcaituanlianmeng:0 "山城财团联盟"
+YAW_shanchengcaituanlianmeng_ADJ:0 "山城财团联盟"
+YAW_shanchengcaituanlianmeng_DEF:0 "山城财团联盟"  
+YAW_shantongjuji:0 "山童实业"
+YAW_shantongjuji_ADJ:0 "山童实业"
+YAW_shantongjuji_DEF:0 "山童实业"  
+YAW_shantongminzuguo:0 "山童民族独立国"
+YAW_shantongminzuguo_ADJ:0 "山童民族独立国"
+YAW_shantongminzuguo_DEF:0 "山童民族独立国"  
+YAW_shantonggongheguo:0 "山童共和国"
+YAW_shantonggongheguo_ADJ:0 "山童共和国"
+YAW_shantonggongheguo_DEF:0 "山童共和国"  
+YAW_shenzuozhiguo:0 "神作之国"
+YAW_shenzuozhiguo_ADJ:0 "神作之国"
+YAW_shenzuozhiguo_DEF:0 "神作之国"  
+YAW_baishigongtuan:0 "百世工团"
+YAW_baishigongtuan_ADJ:0 "百世工团"
+YAW_baishigongtuan_DEF:0 "百世工团"  
+
+YAW_coin1.tt:0 "当前的售价是§Y[?YAW.shanjin_gun_a0]£shanjin_text§!每100单位火枪。"
+YAW_coin2.tt:0 "当前的售价是§Y[?YAW.shanjin_melee_a0]£shanjin_text§! 每100单位铁器。"
+YAW_coin3.tt:0 "当前的售价是§Y[?YAW.shanjin_mortar_a0]£shanjin_text§! 每50单位迫击炮。"
+
+YAW_xiangxishouzhi2_text:0 "民用工厂收入受经济法案影响，收入计算为民用工厂总数的2%，根据经济法案由民用经济到总动员分别给予：§Y30%，10%，§!0%，§R-50%，-100%§!增减，处于战争时另§R减25%§!收入。\n 军用工厂收入同样受经济法案影响，收入计算为军用工厂总数的4%，根据经济法案由民用经济到总动员分别给予：§R-65%，-35%，-15%，§!0%，§Y5%§!增减，处于战争时另§R减50%§!收入。\n 可用人力收入受征兵法案影响，收入计算为剩余可用人力（k）的60%，根据征兵法案由人力 1到人力 7分别给予：§Y30%，10%，§!§R-5%，-15%，-25%，-40%，-55%§!增减。\n 势力规模收入，从部落到世界为：§Y0.5，0.5，0.5，0.75，1，1.5，2§!每周。\n 开采龙珠收入固定为§Y0.1§!每周，若我们拥有龙珠矿道则给予§Y100%§!加成，若§Y[KRD.GetFlag][KRD.GetName]§!不再是我们的附庸且我们不占有矿道则收入§R减为0§!。"
+
+YAW_xiangxishouzhi2_text2:0 "当前军事单位支出受征兵法案影响，支出计算为当前部署人力（k）的120%，根据征兵法案由人力lv1到人力lv7分别给予：§Y-40%，-20%§!，0%，§R15%，20%，25%，35%§!增减，处于战争时另§R增15%§!支出。\n 控制的领土支出为当前控制领地数目的4%，处于战争另§R增30%§!支出。\n 对附庸的支出为当前拥有的附庸国数目的5%，处于战争另§R增10%§!支出。\n 国家法令的支出则会在国策等地方显示，请留意。"
+YAW_guomindahui_party:0 "山童国民大会"
+YAW_guomindahui_party_long:0 "山童国民大会"
+YAW_shanchengcaituan_party:0 "山城财团"
+YAW_shanchengcaituan_party_long:0 "山城财团"
+YAW_guli_party:0 "山童商会"
+YAW_guli_party_long:0 "山童商会"
+YAW_fandong_party:0 "山童政治与经济委员会"
+YAW_fandong_party_long:0 "山童政治与经济委员会"
+YAW_qinwai_party:0 "山童改革派"
+YAW_qinwai_party_long:0 "山童改革派"
+YAW_neworder_party:0 "山河联盟派"
+YAW_neworder_party_long:0 "山河联盟派"
+YAW_oldgenso_party:0 "万族往复派"
+YAW_oldgenso_party_long:0 "万族往复派"
+
+
+introduce_YAW_page1:0 "山童们一直信奉着这样一句话：“你害怕失去，所以你吝啬给予，但你应该明白的，你所拥有的一切自你得到的那一天起，就已经注定是要离你而去。”\n 我们在逼近的§R战争的阴云§!下赢得了相对§Y独立§!的地位，当§Y[TEG.GetFlag][TEG.GetName]§!革命爆发时，我们迅速凭借财力与中立的价值从§0[OTG.GetFlag][OTG.GetName]§!赢得了§R[KRD.GetFlag][KRD.GetName]§!；当§Y[NTR.GetFlag][NTR.GetName]§!革命在玄武泽开始，我们关闭边境，严格审查，迅速抽身于事外；我们作为商人，更是以§Y经济学家§!自居，不同于中有之道迟钝的中介贩子们、神明信仰联盟正在“自杀”的地主们，我们山童的市场与货币比天弓千亦更加精妙无比...\n 可是，它们会就这样一直被山童牢牢地攥在手里吗？命运总喜欢在一些不合时宜的场合开些难登大雅之堂的§R玩笑§!，说实话，山童的安逸日子已经太长...太长。\n 虽然总说，“河童不过是水道里的两栖动物罢了”，但她们此时正为了自己种族的未来在战斗。而总是被称为附属种族的山童，我们在146季为止并没有取得什么令人瞩目的成就，反而似乎陷入了§R寸步不前§!的危险境地。\n §G[YAW.GetFlag]山城高岭§!已经在这一片§Y粉饰太平§!的浮华景象里看到了危机，但她在等，她也在赌：和平只能是一时的，如果山童还在为取得这暂时的和平而沾沾自喜的话，潜藏在暗处的危险就会立马扑上来将山童们绞得粉碎；她将开始这§G[YAW.GetFlag][YAW.GetName]§!历史上从未有过的，也是这世界上最大的一场投资，要么亏得血本无归，要么，让山童们真正屹立于这朗朗乾坤，而她的资本，就将是全体山童和她们世代生存与无限眷恋的脚下这片土地。\n\n 准备好了吗？听从§G[YAW.GetFlag]山城高岭§!的号令，请拿出§G山童§!有别于§1河童§!的气概：\n\n 为了连绵深沉的山林，为了荣耀、和平与自由而战！"
+
+YAW_DAWN_DESC:0 "连绵的妖怪山上有一位能操纵森林中的气的家伙，名字叫山城高岭，说到操控森林的气，那不就是控制山上的风吗，感觉也没什么了不起的样子，但是，当山童们遇见她的时候，无论是在采野菜，捞鱼还是在做交易，都会放下手上的活恭恭敬敬地向她问好。\n 山童们的尊重是来之不易的，她们知道山城高岭为山童的生存和经济发展付出了多少努力，她们也愿意将自己的未来交在山城的手上。\n 在山城高岭的带领下，山童们在时代掀起的浪潮上安稳度日，但是，妖怪山真的能让日渐孤立的山童之地永远安宁吗？已经多年没有得到发展的山童们会不进则退吗？与河童决裂的“附属种族”，又能否真正的实现各方面意义上的独立？山城高岭带着这样的疑问，与你一同迈进了146季的大门。\n\n 对她和山童们来说，真正的考验，才刚刚开始。"
+
+yaw_jinrongzhiguo_desc:0 "这是山童的故土，这也是妖怪山的骄傲。"
+yaw_shangxindi_desc:0 "哈，至少我们还有得住。"
+yaw_shangxindi2_desc:0 "小小的一步，大大的梦想。"
+yaw_shangxindi3_desc:0 "山童工业独立第一步！"
+yaw_shangxindi4_desc:0 "我们的目光并不应当短浅。"
+yaw_shangxindi5_desc:0 "更高的天空等待着我们去翱翔。"
+yaw_shantonggongye2_desc:0 "妖怪山啊，您是多么美丽，多么壮丽，多么秀美，多么令人沉醉。"
+yaw_shangxindi33_desc:0 "山童工业独立第二步！"
+yaw_shangxindi44_desc:0 "山童工业独立第三步！"
+yaw_shanghuiguanzhi_desc:0 "山童工业独立第三步！"
+
+
+

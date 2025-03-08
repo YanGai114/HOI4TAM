@@ -1,0 +1,29 @@
+state={
+	id=192
+	name="STATE_192"
+	provinces={
+		3780 3929 4815 5122 5238 5659 5683 5886 7932 8156 8683 9104 9998 10184 10477 11752 11788 11795 11884 11950 12030 12072 12079 12134 12148 12212 
+	}
+	buildings_max_level_factor=1.000
+        manpower=44536
+                 state_category = city
+	resources={
+		steel=20 #钢铁
+		tungsten = 0 #妖石
+		chromium = 0 #灵气
+		rubber=8 #农产品
+		aluminium=0 #其他金属
+		oil = 30 #伊奘诺物质
+	}		history = {
+			owner = NTR
+			add_core_of = NTR
+			victory_points = { 3780 15 }
+			buildings = {
+				infrastructure = 5
+				air_base = 0
+				arms_factory = 3
+				industrial_complex = 3
+			}
+		}
+ 
+}

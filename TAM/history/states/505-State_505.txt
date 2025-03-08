@@ -1,0 +1,29 @@
+state={
+	id=505
+	name="STATE_505"
+	provinces={
+		10693 
+	}
+	buildings_max_level_factor=1.000
+        manpower=39678
+                 state_category = large_town
+	resources={
+		steel=8 #钢铁
+		tungsten = 3 #妖石
+		chromium = 0 #灵气
+		rubber=0 #农产品
+		aluminium=9 #其他金属
+		oil = 0 #伊奘诺物质
+	}		history = {
+			owner = HU2
+			add_core_of = HU2
+			victory_points = { 10693 15 }
+			buildings = {
+				infrastructure = 4
+				air_base = 0
+				arms_factory = 0
+				industrial_complex = 3
+			}
+		}
+ 
+}

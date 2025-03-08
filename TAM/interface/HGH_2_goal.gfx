@@ -1,0 +1,347 @@
+	spriteTypes = {
+		SpriteType = {
+			name = "KEK-1-11"
+			texturefile = "gfx/interface/goals/KEK-1-11.png"
+		}
+		SpriteType = {
+			name = "KEK-1-15"
+			texturefile = "gfx/interface/goals/KEK-1-15.png"
+		}
+		SpriteType = {
+			name = "KEK-1-18"
+			texturefile = "gfx/interface/goals/KEK-1-18.png"
+		}
+		SpriteType = {
+			name = "KEK-1-2"
+			texturefile = "gfx/interface/goals/KEK-1-2.png"
+		}
+		SpriteType = {
+			name = "KEK-1-20"
+			texturefile = "gfx/interface/goals/KEK-1-20.png"
+		}
+		SpriteType = {
+			name = "KEK-1-22"
+			texturefile = "gfx/interface/goals/KEK-1-22.png"
+		}
+		SpriteType = {
+			name = "KEK-1-5"
+			texturefile = "gfx/interface/goals/KEK-1-5.png"
+		}
+		SpriteType = {
+			name = "KEK-1-6"
+			texturefile = "gfx/interface/goals/KEK-1-6.png"
+		}
+		SpriteType = {
+			name = "KEK-1-1"
+			texturefile = "gfx/interface/goals/KEK-1-1.png"
+		}
+		SpriteType = {
+			name = "KEK-1-10"
+			texturefile = "gfx/interface/goals/KEK-1-10.png"
+		}
+		SpriteType = {
+			name = "KEK-1-12"
+			texturefile = "gfx/interface/goals/KEK-1-12.png"
+		}
+		SpriteType = {
+			name = "KEK-1-13"
+			texturefile = "gfx/interface/goals/KEK-1-13.png"
+		}
+		SpriteType = {
+			name = "KEK-1-14"
+			texturefile = "gfx/interface/goals/KEK-1-14.png"
+		}
+		SpriteType = {
+			name = "KEK-1-16"
+			texturefile = "gfx/interface/goals/KEK-1-16.png"
+		}
+		SpriteType = {
+			name = "KEK-1-19"
+			texturefile = "gfx/interface/goals/KEK-1-19.png"
+		}
+		SpriteType = {
+			name = "KEK-1-21"
+			texturefile = "gfx/interface/goals/KEK-1-21.png"
+		}
+		SpriteType = {
+			name = "KEK-1-3"
+			texturefile = "gfx/interface/goals/KEK-1-3.png"
+		}
+		SpriteType = {
+			name = "KEK-1-4"
+			texturefile = "gfx/interface/goals/KEK-1-4.png"
+		}
+		SpriteType = {
+			name = "KEK-1-8"
+			texturefile = "gfx/interface/goals/KEK-1-8.png"
+		}
+		SpriteType = {
+			name = "KEK-1-9"
+			texturefile = "gfx/interface/goals/KEK-1-9.png"
+		}
+	spriteType = {
+		name = "HGH-2-1"
+		texturefile = "gfx/interface/goals/HGH-2-1.png"
+	}
+	spriteType = {
+		name = "HGH-2-3"
+		texturefile = "gfx/interface/goals/HGH-2-3.png"
+	}
+	spriteType = {
+		name = "HGH-2-2"
+		texturefile = "gfx/interface/goals/HGH-2-2.png"
+	}
+	spriteType = {
+		name = "HGH-2-4"
+		texturefile = "gfx/interface/goals/HGH-2-4.png"
+	}
+	spriteType = {
+		name = "HGH-2-5"
+		texturefile = "gfx/interface/goals/HGH-2-5.png"
+	}
+	spriteType = {
+		name = "HGH-2-8"
+		texturefile = "gfx/interface/goals/HGH-2-8.png"
+	}
+	spriteType = {
+		name = "HGH-2-7"
+		texturefile = "gfx/interface/goals/HGH-2-7.png"
+	}
+	spriteType = {
+		name = "HGH-2-6"
+		texturefile = "gfx/interface/goals/HGH-2-6.png"
+	}
+	spriteType = {
+		name = "HGH-2-9"
+		texturefile = "gfx/interface/goals/HGH-2-9.png"
+	}
+	spriteType = {
+		name = "HGH-2-10"
+		texturefile = "gfx/interface/goals/HGH-2-10.png"
+	}
+	spriteType = {
+		name = "HGH-2-11"
+		texturefile = "gfx/interface/goals/HGH-2-11.png"
+	}
+	spriteType = {
+		name = "HGH-2-12"
+		texturefile = "gfx/interface/goals/HGH-2-12.png"
+	}
+	spriteType = {
+		name = "HGH-2-13"
+		texturefile = "gfx/interface/goals/HGH-2-13.png"
+	}
+	spriteType = {
+		name = "HGH-2-14"
+		texturefile = "gfx/interface/goals/HGH-2-14.png"
+	}
+	spriteType = {
+		name = "HGH-2-16"
+		texturefile = "gfx/interface/goals/HGH-2-16.png"
+	}
+	spriteType = {
+		name = "HGH-2-20"
+		texturefile = "gfx/interface/goals/HGH-2-20.png"
+	}
+	spriteType = {
+		name = "HGH-2-19"
+		texturefile = "gfx/interface/goals/HGH-2-19.png"
+	}
+	spriteType = {
+		name = "HGH-2-15"
+		texturefile = "gfx/interface/goals/HGH-2-15.png"
+	}
+	spriteType = {
+		name = "HGH-2-18"
+		texturefile = "gfx/interface/goals/HGH-2-18.png"
+	}
+	spriteType = {
+		name = "HGH-2-17"
+		texturefile = "gfx/interface/goals/HGH-2-17.png"
+	}
+	spriteType = {
+		name = "HGH-2-22"
+		texturefile = "gfx/interface/goals/HGH-2-22.png"
+	}
+	spriteType = {
+		name = "HGH-2-28"
+		texturefile = "gfx/interface/goals/HGH-2-28.png"
+	}
+	spriteType = {
+		name = "HGH-2-33"
+		texturefile = "gfx/interface/goals/HGH-2-33.png"
+	}
+	spriteType = {
+		name = "HGH-2-21"
+		texturefile = "gfx/interface/goals/HGH-2-21.png"
+	}
+	spriteType = {
+		name = "HGH-2-27"
+		texturefile = "gfx/interface/goals/HGH-2-27.png"
+	}
+	spriteType = {
+		name = "HGH-2-32"
+		texturefile = "gfx/interface/goals/HGH-2-32.png"
+	}
+	spriteType = {
+		name = "HGH-2-23"
+		texturefile = "gfx/interface/goals/HGH-2-23.png"
+	}
+	spriteType = {
+		name = "HGH-2-24"
+		texturefile = "gfx/interface/goals/HGH-2-24.png"
+	}
+	spriteType = {
+		name = "HGH-2-25"
+		texturefile = "gfx/interface/goals/HGH-2-25.png"
+	}
+	spriteType = {
+		name = "HGH-2-26"
+		texturefile = "gfx/interface/goals/HGH-2-26.png"
+	}
+	spriteType = {
+		name = "HGH-2-30"
+		texturefile = "gfx/interface/goals/HGH-2-30.png"
+	}
+	spriteType = {
+		name = "HGH-2-31"
+		texturefile = "gfx/interface/goals/HGH-2-31.png"
+	}
+	spriteType = {
+		name = "HGH-2-36"
+		texturefile = "gfx/interface/goals/HGH-2-36.png"
+	}
+	spriteType = {
+		name = "HGH-2-29"
+		texturefile = "gfx/interface/goals/HGH-2-29.png"
+	}
+	spriteType = {
+		name = "HGH-2-35"
+		texturefile = "gfx/interface/goals/HGH-2-35.png"
+	}
+	spriteType = {
+		name = "HGH-2-34"
+		texturefile = "gfx/interface/goals/HGH-2-34.png"
+	}
+	spriteType = {
+		name = "HGH-2-37"
+		texturefile = "gfx/interface/goals/HGH-2-37.png"
+	}
+	spriteType = {
+		name = "HGH-2-43"
+		texturefile = "gfx/interface/goals/HGH-2-43.png"
+	}
+	spriteType = {
+		name = "HGH-2-44"
+		texturefile = "gfx/interface/goals/HGH-2-44.png"
+	}
+	spriteType = {
+		name = "HGH-2-45"
+		texturefile = "gfx/interface/goals/HGH-2-45.png"
+	}
+	spriteType = {
+		name = "HGH-2-38"
+		texturefile = "gfx/interface/goals/HGH-2-38.png"
+	}
+	spriteType = {
+		name = "HGH-2-39"
+		texturefile = "gfx/interface/goals/HGH-2-39.png"
+	}
+	spriteType = {
+		name = "HGH-2-40"
+		texturefile = "gfx/interface/goals/HGH-2-40.png"
+	}
+	spriteType = {
+		name = "HGH-2-41"
+		texturefile = "gfx/interface/goals/HGH-2-41.png"
+	}
+	spriteType = {
+		name = "HGH-2-42"
+		texturefile = "gfx/interface/goals/HGH-2-42.png"
+	}
+	spriteType = {
+		name = "HGH-2-47"
+		texturefile = "gfx/interface/goals/HGH-2-47.png"
+	}
+	spriteType = {
+		name = "HGH-2-51"
+		texturefile = "gfx/interface/goals/HGH-2-51.png"
+	}
+	spriteType = {
+		name = "HGH-2-48"
+		texturefile = "gfx/interface/goals/HGH-2-48.png"
+	}
+	spriteType = {
+		name = "HGH-2-49"
+		texturefile = "gfx/interface/goals/HGH-2-49.png"
+	}
+	spriteType = {
+		name = "HGH-2-46"
+		texturefile = "gfx/interface/goals/HGH-2-46.png"
+	}
+	spriteType = {
+		name = "HGH-2-50"
+		texturefile = "gfx/interface/goals/HGH-2-50.png"
+	}
+	spriteType = {
+		name = "HGH-2-52"
+		texturefile = "gfx/interface/goals/HGH-2-52.png"
+	}
+	spriteType = {
+		name = "HGH-2-53"
+		texturefile = "gfx/interface/goals/HGH-2-53.png"
+	}
+		spriteType = {
+		name = "HGH-3-1"
+		texturefile = "gfx/interface/goals/HGH-3-1.png"
+	}
+			spriteType = {
+		name = "HGH-3-2"
+		texturefile = "gfx/interface/goals/HGH-3-2.png"
+	}
+			spriteType = {
+		name = "HGH-3-3"
+		texturefile = "gfx/interface/goals/HGH-3-3.png"
+	}
+			spriteType = {
+		name = "HGH-3-4"
+		texturefile = "gfx/interface/goals/HGH-3-4.png"
+	}
+			spriteType = {
+		name = "HGH-3-5"
+		texturefile = "gfx/interface/goals/HGH-3-5.png"
+	}
+			spriteType = {
+		name = "HGH-3-6"
+		texturefile = "gfx/interface/goals/HGH-3-6.png"
+	}
+			spriteType = {
+		name = "HGH-3-7"
+		texturefile = "gfx/interface/goals/HGH-3-7.png"
+	}
+			spriteType = {
+		name = "HGH-3-8"
+		texturefile = "gfx/interface/goals/HGH-3-8.png"
+	}
+			spriteType = {
+		name = "HGH-3-9"
+		texturefile = "gfx/interface/goals/HGH-3-9.png"
+	}
+			spriteType = {
+		name = "HGH-3-10"
+		texturefile = "gfx/interface/goals/HGH-3-10.png"
+	}
+	spriteType = {
+		name = "HGH-3-11"
+		texturefile = "gfx/interface/goals/HGH-3-11.png"
+	}
+	spriteType = {
+		name = "GFX_HGH_pao_picture"
+		texturefile = "gfx/splash/HGH_pao.png"
+		legacy_lazy_load = no
+	}
+	spriteType = {
+		name = "GFX_idea_HGH_shenmi"
+		texturefile = "gfx/interface/ideas/HGH_shenmi.png"
+	}
+	}

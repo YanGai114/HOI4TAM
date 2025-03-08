@@ -1,0 +1,29 @@
+state={
+	id=31
+	name="STATE_31"
+	provinces={
+		29 579 787 1292 2299 2486 3720 4312 4485 6767 7209 10310 10893 10908 10953 11007 
+	}
+	buildings_max_level_factor=1.000
+        manpower=4502
+                 state_category = rural
+	resources={
+		steel=0 #钢铁
+		tungsten = 0 #妖石
+		chromium = 0 #灵气
+		rubber=0 #农产品
+		aluminium=0 #其他金属
+		oil = 15 #伊奘诺物质
+	}		history = {
+			owner = OIL
+			add_core_of = OIL
+			victory_points = { 29  1 }
+			buildings = {
+				infrastructure = 0
+				air_base = 0
+				arms_factory = 0
+				industrial_complex = 0
+			}
+		}
+ 
+}

@@ -1,0 +1,29 @@
+state={
+	id=770
+	name="STATE_770"
+	provinces={
+		1108 2525 2678 4631 4889 15916 15943 16122 
+	}
+	buildings_max_level_factor=1.000
+        manpower=1027
+                 state_category = rural
+	resources={
+		steel=0 #钢铁
+		tungsten = 0 #妖石
+		chromium = 0 #灵气
+		rubber=0 #农产品
+		aluminium=0 #其他金属
+		oil = 0 #伊奘诺物质
+	}		history = {
+			owner = ALI
+			add_core_of = ALI
+			victory_points = { 1108  1 }
+			buildings = {
+				infrastructure = 0
+				air_base = 0
+				arms_factory = 0
+				industrial_complex = 0
+			}
+		}
+ 
+}

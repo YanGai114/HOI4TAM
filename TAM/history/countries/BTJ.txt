@@ -1,0 +1,49 @@
+capital = 878
+set_technology = {
+	#通用武器线
+      ########通用低级水平灵力科技########
+	
+					
+		 
+
+		
+}
+
+146.1.1={
+	set_major = yes
+    set_country_flag = bunengsuiyiqiehuanzhengti
+    set_cosmetic_tag = BTJ_1
+    oob = "HUM_146"
+    # set_research_slots = 5
+    # Starting tech
+	add_ideas = {
+		hum_weichizhixu
+		hum_xiujianjinianbei
+		hum_tianzhaoshenshe
+		hum_chububaituoyaoguai
+		hum_baitianjiachentuan
+	}
+    add_ideas = {
+        Human
+       
+        Town
+        close2
+        hawk1
+        strict_border
+        sc_rule
+		type2_manpowerlv3
+		partial_economic_mobilisation
+    }
+    set_politics = {
+        ruling_party = guli
+        election_frequency = 48
+        elections_allowed = no
+    }
+    set_popularities = {
+        qinwai = 0
+        guli = 80
+        neworder = 10
+        oldorder = 0
+        fandong = 10
+    }
+}

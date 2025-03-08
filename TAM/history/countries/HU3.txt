@@ -1,0 +1,53 @@
+﻿capital = 144
+
+recruit_character = HU3_kamiyusachiyo
+
+146.1.1 = {
+    set_technology = {
+           ########通用中等水平外界科技########
+           spear1 =1
+           linglizhufu =1
+           tech_support =1
+           spear2 =1
+           ma_shield1 =1
+           basic_train = 1
+           support_weapons =1
+           infantry_weapons =1
+           infantry_weapons1 =1
+           tech_trucks =1
+           gw_artillery =1
+
+            
+    }
+    
+}
+146.1.1={
+    oob = "HU3_146"
+    give_guarantee = AKI 
+    
+    add_ideas = {
+    type2_manpowerlv4
+    Human
+    low_economic_mobilisation
+    Village
+    close2
+    hawk1
+    close_border
+    forbidden_magic
+    AKI_laiziqiushendezhichi_idea   
+    AKI_gengduodetudi_idea
+    }
+
+    set_politics = {
+    	ruling_party = neworder
+    	election_frequency = 48
+    	elections_allowed = no
+    }
+    set_popularities = {
+        qinwai = 0
+        guli = 0
+        neworder = 100
+        oldorder = 0
+        fandong = 0
+    }
+}

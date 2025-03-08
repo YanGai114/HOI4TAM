@@ -1,0 +1,54 @@
+﻿capital = 142
+
+recruit_character = ZYD_kisayuri
+
+138.8.13 = {
+
+}
+141.6.2 = {
+    
+}
+142.3.8 = {
+    
+}
+144.2.5 = {
+    
+}
+146.1.1 = {
+    set_technology = {
+                                           ########通用低级水平外界科技########
+                                           spear1 =1
+                                           linglizhufu =1
+                                           tech_support =1
+                                           infantry_weapons =1
+    }
+    
+}
+146.1.1={
+    oob = "ZYD_146"
+    
+    add_ideas = {
+    Magician
+    Village
+    open1
+    dove1
+    strict_border
+    limit_magic
+    type2_manpowerlv7
+    AKI_tudijiaoyisuode_idea
+    partial_economic_mobilisation
+    }
+    
+    set_politics = {
+    	ruling_party = guli
+    	election_frequency = 48
+    	elections_allowed = no
+    }
+    set_popularities = {
+        qinwai = 2
+        guli = 94
+        neworder = 0
+        oldorder = 0
+        fandong = 4
+    }
+}

@@ -1,0 +1,29 @@
+state={
+	id=331
+	name="STATE_331"
+	provinces={
+		3487 4013 5279 12909 12942 12953 13095 13164 
+	}
+	buildings_max_level_factor=1.000
+        manpower=10748
+                 state_category = town
+	resources={
+		steel=0 #钢铁
+		tungsten = 0 #妖石
+		chromium = 0 #灵气
+		rubber=0 #农产品
+		aluminium=0 #其他金属
+		oil = 0 #伊奘诺物质
+	}		history = {
+			owner = TEG
+			add_core_of = TEG
+			victory_points = {3487  8 }
+			buildings = {
+				infrastructure = 2
+				air_base = 0
+				arms_factory = 2
+				industrial_complex = 0
+			}
+		}
+ 
+}

@@ -1,0 +1,29 @@
+state={
+	id=24
+	name="STATE_24"
+	provinces={
+		780 904 1067 1265 1327 2089 2393 2439 2689 2813 3361 4614 5933 6043 6097 8761 10438 10868 10911 10925 10984 11060 
+	}
+	buildings_max_level_factor=1.000
+        manpower=875
+                 state_category = large_town
+	resources={
+		steel=0 #钢铁
+		tungsten = 0 #妖石
+		chromium =4 #灵气
+		rubber=10 #农产品
+		aluminium=0 #其他金属
+		oil = 0 #伊奘诺物质
+	}		history = {
+			owner = CCA
+			add_core_of = CCA
+			victory_points = {  780 20 }
+			buildings = {
+				infrastructure = 3
+				air_base = 0
+				arms_factory = 2
+				industrial_complex = 2
+			}
+		}
+ 
+}

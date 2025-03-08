@@ -1,0 +1,29 @@
+state={
+	id=70
+	name="STATE_70"
+	provinces={
+		475 697 739 2348 2452 2821 3250 6507 6977 8258 9558 11115 11121 11126 11141 11167 11180 11211 
+	}
+	buildings_max_level_factor=1.000
+        manpower=5782
+                 state_category = rural
+	resources={
+		steel=0 #钢铁
+		tungsten = 0 #妖石
+		chromium = 23 #灵气
+		rubber=0 #农产品
+		aluminium=0 #其他金属
+		oil = 0 #伊奘诺物质
+	}		history = {
+			owner = UUG
+			add_core_of = UUG
+			victory_points = { 475  1 }
+			buildings = {
+				infrastructure = 0
+				air_base = 0
+				arms_factory = 0
+				industrial_complex = 0
+			}
+		}
+ 
+}

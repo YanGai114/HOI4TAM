@@ -1,0 +1,29 @@
+state={
+	id=698
+	name="STATE_698"
+	provinces={
+		154 
+	}
+	buildings_max_level_factor=1.000
+        manpower=8999
+                 state_category = rural
+	resources={
+		steel=0 #钢铁
+		tungsten = 0 #妖石
+		chromium = 0 #灵气
+		rubber=0 #农产品
+		aluminium=0 #其他金属
+		oil = 0 #伊奘诺物质
+	}		history = {
+			owner = SGS
+			add_core_of = SGS
+			victory_points = { 154 3 }
+			buildings = {
+				infrastructure = 1
+				air_base = 0
+				arms_factory = 0
+				industrial_complex = 0
+			}
+		}
+ 
+}

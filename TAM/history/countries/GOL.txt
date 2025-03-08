@@ -1,0 +1,33 @@
+﻿capital = 16
+146.1.1 = {
+    set_technology = {
+                     ########通用中等水平灵力科技########
+
+         
+            
+    }
+    
+}
+138.1.1={
+    oob = "GOL_146"
+    # set_research_slots = 0
+    add_ideas = {
+        Youkai
+        Village
+        hawk0
+        close3
+        strict_border
+    }
+    set_politics = {
+        ruling_party = guli
+        election_frequency = 48
+        elections_allowed = no
+    }
+    set_popularities = {
+        qinwai = 0
+        guli = 100
+        neworder = 0
+        oldorder = 0
+        fandong = 0
+    }
+}

@@ -1,0 +1,29 @@
+state={
+	id=810
+	name="STATE_810"
+	provinces={
+		903 948 1400 1792 2142 2654 2864 3562 3916 4961 9092 10513 16255 16287 16293 16294 16295 16302 16306 16331 16341 16361 16377 16389 16398 16406 16426 
+	}
+	buildings_max_level_factor=1.000
+        manpower=2422
+                 state_category = rural
+	resources={
+		steel=0 #钢铁
+		tungsten = 0 #妖石
+		chromium = 0 #灵气
+		rubber=0 #农产品
+		aluminium=0 #其他金属
+		oil = 0 #伊奘诺物质
+	}		history = {
+			owner = RNS
+			add_core_of = RNS
+			victory_points = {903   1 }
+			buildings = {
+				infrastructure = 0
+				air_base = 0
+				arms_factory = 0
+				industrial_complex = 0
+			}
+		}
+ 
+}

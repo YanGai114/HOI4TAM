@@ -1,0 +1,29 @@
+state={
+	id=435
+	name="STATE_435"
+	provinces={
+		3386 4918 7231 7916 10715 13716 13785 13809 13867 
+	}
+	buildings_max_level_factor=1.000
+        manpower=58725
+                 state_category = large_town
+	resources={
+		steel=0 #钢铁
+		tungsten = 0 #妖石
+		chromium = 1 #灵气
+		rubber=0 #农产品
+		aluminium=0 #其他金属
+		oil = 4 #伊奘诺物质
+	}		history = {
+			owner = GYK
+			add_core_of = GYK
+			victory_points = {  3386 15 }
+			buildings = {
+				infrastructure = 0
+				air_base = 0
+				arms_factory = 0
+				industrial_complex = 0
+			}
+		}
+ 
+}

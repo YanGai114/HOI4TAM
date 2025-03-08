@@ -1,0 +1,38 @@
+﻿capital = 545
+146.1.1 = {
+    set_technology = {
+            ########通用低级水平灵力科技########
+            spear1 =1
+            linglizhufu =1
+            spell_card1 =1
+            tech_support =1
+                          
+               
+            
+    } 
+}
+146.1.1={
+    oob = "WHR_146"
+    add_ideas = {
+        Youkai
+        Tribal
+        hawk0
+        close2
+        loose_border
+        sc_rule
+        type3_manpowerlv2
+    }
+
+    set_politics = {
+    	ruling_party = guli
+    	election_frequency = 48
+    	elections_allowed = no
+    }
+    set_popularities = {
+        qinwai = 3
+        guli = 75
+        neworder = 22
+        oldorder = 0
+        fandong = 0
+    }
+}

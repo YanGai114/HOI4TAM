@@ -1,0 +1,29 @@
+state={
+	id=942
+	name="STATE_942"
+	provinces={
+		1066 1568 2369 3180 3301 3447 3634 6458 8033 8353 8360 9452 17147 17286 17291 17354 17400 
+	}
+	buildings_max_level_factor=1.000
+        manpower=5648
+                 state_category = rural
+	resources={
+		steel=0 #钢铁
+		tungsten = 0 #妖石
+		chromium = 2 #灵气
+		rubber=3 #农产品
+		aluminium=0 #其他金属
+		oil = 0 #伊奘诺物质
+	}		history = {
+			owner = MAM
+			add_core_of = MAM
+			victory_points = { 1066  1 }
+			buildings = {
+				infrastructure = 0
+				air_base = 0
+				arms_factory = 0
+				industrial_complex = 0
+			}
+		}
+ 
+}

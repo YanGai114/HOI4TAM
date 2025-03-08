@@ -1,0 +1,35 @@
+﻿capital = 119
+146.1.1 = {
+    set_technology = {
+    ########通用低级水平灵力科技########
+
+            
+    }
+    
+}
+set_technology = {
+    ghost_tech = 1
+}
+146.1.1={
+    oob = "ACE_146"
+    
+    add_ideas = {
+    Ghost
+    Tribal
+    close2
+    hawk0
+    strict_border
+    free_magic
+    }
+    set_politics = {
+    	ruling_party = fandong
+    	election_frequency = 48
+    	elections_allowed = no
+    }
+    set_popularities = {
+        qinwai = 10
+        fandong = 90
+    }
+
+    
+}

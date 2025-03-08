@@ -1,0 +1,25 @@
+spriteTypes = {	
+
+	spriteType = {
+		name = "GFX_Super_Event_Image_THF_bayunzi"
+		texturefile = "gfx/super_events/SPEVENT_THF_bayunzi.png"
+		legacy_lazy_load = no
+	}
+	spriteType = {
+		name = "GFX_Super_Event_Image_THF_huashan"
+		texturefile = "gfx/super_events/SPEVENT_THF_huashan.png"
+		legacy_lazy_load = no
+	}
+	spriteType = {
+		name = "GFX_Super_Event_Image_THF_moduoluo"
+		texturefile = "gfx/super_events/SPEVENT_THF_moduoluo.png"
+		legacy_lazy_load = no
+	}
+	spriteType = {
+		name = "GFX_Super_Event_Image_THF_qiurangzi"
+		texturefile = "gfx/super_events/SPEVENT_THF_qiurangzi.png"
+		legacy_lazy_load = no
+	}
+
+}
+

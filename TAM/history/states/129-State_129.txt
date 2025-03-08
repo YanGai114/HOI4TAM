@@ -1,0 +1,29 @@
+state={
+	id=129
+	name="STATE_129"
+	provinces={
+		647 1634 1971 2277 4504 5513 6237 6600 7398 9825 11383 11395 11635 
+	}
+	buildings_max_level_factor=1.000
+        manpower=62101
+                 state_category = town
+	resources={
+		steel=0 #钢铁
+		tungsten = 0 #妖石
+		chromium = 0 #灵气
+		rubber=0 #农产品
+		aluminium=0 #其他金属
+		oil = 0 #伊奘诺物质
+	}		history = {
+			owner = UNL
+			add_core_of = UNL
+			victory_points = {  647 10 }
+			buildings = {
+				infrastructure = 1
+				air_base = 0
+				arms_factory = 1
+				industrial_complex = 1
+			}
+		}
+ 
+}

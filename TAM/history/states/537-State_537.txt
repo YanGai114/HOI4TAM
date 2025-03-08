@@ -1,0 +1,29 @@
+state={
+	id=537
+	name="STATE_537"
+	provinces={
+		7608 8511 9684 14202 14237 14271 
+	}
+	buildings_max_level_factor=1.000
+        manpower=1207
+                 state_category = rural
+	resources={
+		steel=0 #钢铁
+		tungsten = 0 #妖石
+		chromium = 0 #灵气
+		rubber=0 #农产品
+		aluminium=0 #其他金属
+		oil = 0 #伊奘诺物质
+	}		history = {
+			owner = MFA
+			add_core_of = MFA
+			victory_points = { 7608  1 }
+			buildings = {
+				infrastructure = 0
+				air_base = 0
+				arms_factory = 0
+				industrial_complex = 0
+			}
+		}
+ 
+}

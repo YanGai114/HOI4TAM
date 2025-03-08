@@ -1,0 +1,244 @@
+﻿l_simp_chinese:
+
+
+
+
+
+
+OTG_dadongyuan.tt:0 "§Y我们会强制将动员法案设置为第四个等级，如果我们正处于第四等级及以上则将获得战争支持度加成。§!\n "
+OTG_zhanshijingji.tt:0 "§Y我们会强制进入战时经济，倘若我们已经处于战时经济即以上阶段，我们会获得战争支持度加成。§!\n "
+OTG_yubeifangyu.tt:0 "我们会花费一些时间筹备对南方的战争，在[TEG.GetName]与帝国的边境处会做好万全的准备，以使下次与其交战的时候可以获得一些§Y防御§!加成。"
+
+OTG_sanshen.tt:0 "§R这会引发部分天狗的不满！§!"
+OTG_diguozhiwei.tt:0 "除了地区平民，我们还将向移民、雇佣军和其他流亡部队开放征兵。"
+OTG_gemingzhihuo:0 "帝国内忧：革命浪潮" 
+
+OTG_chanshugongdi.tt:0 "比那名居天子会对我们使者悄然散播的言论§Y感兴趣§!的。" 
+OTG_touzigongchang.tt:0 "守矢神社向我们讨要帝国详细的地图与地形表，称这是建设工厂的必要准备。" 
+OTG_xiufutianmogong_flag:0 "正在修缮天魔宫"
+OTG_xiufutianmogong:0 "让天魔宫重新伫立！"
+chongxiutianmogong_tt:0 "天魔宫，它其实并不算宏大，但它的存在本身就是帝国的代表，是妖怪山顶峰的象征——曾今如此。"
+chongjiantianmogong_text:0 "虽然南方共和国气势迅猛，\n 在初期帝国军节节败退，\n 但是在饭纲丸龙完全掌握军队后做出决策，\n 让我们把共和国牢牢抵在天魔参拜道。\n\n 然而无论是因为战火还是因为权威的消散，\n 天魔宫仍然受到了损坏，\n 为了重振帝国的权威，\n 我们自然也要重修天魔宫。"
+tiangouyihui_tt:0 "天狗议会是一个尴尬的存在，因为它似乎总是凑不够人，从议会做出的表决最后也还是要交给天魔宫最后核审。但现在，随着饭纲丸龙任首席大天狗，这样的情况或许有所改变了..."
+OTG_tiangouyihui:0 "天狗议会"
+OTG_xiaochuchayi_op:0 "消除种族差异关系影响"
+
+OTG_gemingzhihuo_desc:0 "帝国境内不缺乏对我们执政理念和国家制度怀有不满的人，她们虽然也不完全支持南方的共和国，但会一直§R受到鼓动§!并具有§Y周期性§!的反对活动，即使我们将§Y革命烈度§!压到最低，也还是不能完全根除她们。但是如果我们能彻底打败§Y[TEG.GetFlag][TEG.GetName]§!或者有一次§Y彻底地压制§!，那些反对者或许就不敢打着革命的旗帜再进行破坏社会秩序的活动了。\n 需要注意的是，一旦我们开始战争，那些蛰伏在暗处的反对者就会进行§R更严重的破坏行动§!。" 
+OTG_xiaochuyizu:0 "天狗也是妖怪"
+OTG_junlin.tt:0 "帝国的一系列胜利证明妖怪的救世主是我们！现在帝国所有征服的妖怪种族地块将都§Y没有不合作种族惩罚！§!\n "
+OTG_buwu.tt:0 "§Y帝国子民们将回到她们阔别已久的家乡...§!\n "
+OTG_kanxiangshanshang.tt:0 "如果我们完成了守矢机甲科技，则我们的帝国科学协会将会得到提升。\n "
+OTG_yaoguaishanjianshejihua.tt:0 "我们任何拥有核心的地区都将得到建设。\n "
+OTG_xiakeshang.tt:0 "如果红魔馆依然还是吸血鬼当政，我们就可以利用§Y反对她们的浪潮§!，给她们内外打击。\n "
+OTG_tiantingxuyaowomen.tt:0 "天子领地内反对派太多，我们需要慢慢来。\n "
+OTG_zhengfushantong.tt:0 "山童已经看清了河童的命运，只要她们不是§Y幻想§!的意识形态，我们就没有什么不可解盟的必要。如果她们已经有了同盟...消灭她们。\n "
+OTG_shoushitianmoxieding.tt:0 "我们会结合政治制度，正如我们之前所许诺的那样：团结一切力量，让帝国屹立于民族，屹立于群山，屹立于这世界。\n "
+OTG_diling2_modifier:0 "人间天城\n "
+
+OTG_power_balance:0 "§Y天魔宫—天狗议会权力过渡§!"
+
+default_left_side:0 "天魔宫执政"
+default_right_side:0 "议会执政"
+
+OTG_tiangouyihui2:0 "权力过渡"
+
+OTG_yaoguaishanzhizhu.tt:0 "如果我们能与其中任何一个在草根妖怪\妖兽中享有名誉的势力处于同一阵营，我们可以§Y降低草根妖怪不合作惩罚§!，但如果我们没有任何这样的盟友，我们就得以§R战争§!证明我们天狗的实力！\n "
+
+OTG_shanjiaoxiadeshenming.tt:0 "如果我们能与厄神合作，我们彼此可以§Y获得贸易和减少生活消费品加成§!，否则需要准备战争。\n "
+
+OTG_laopengyou.tt:0 "我们所拥有的全部附庸国都会§G降低一级附庸等级。§!\n "
+
+OTG_power_balance_flag1:0 "天魔宫稳操胜券"
+OTG_power_balance_flag2:0 "饭纲丸龙大权在握"
+OTG_power_balance_flag3:0 "天狗议会蓄势待发"
+otg_tiangouyihui6_flag:0 "饭纲丸龙宣誓就职。"
+
+
+
+
+
+
+otg_niubizhi.tt:0 "§R这会增长底层天狗团体/政党的力量。§!"
+otg_niubizhi2.tt:0 "§3这会降低底层天狗团体/政党的力量。§!"
+
+
+
+
+
+OTG_kanxiangtianjie.tt:0 "如果我们曾观看过天人们的训练，我们就能掌握她们军队的缺点，克敌制胜。否则，我们就只能以不屈之名捍卫帝国子民的独立了。\n "
+OTG_kanxiangshanshang.tt:0 "如果我们曾参观过守矢神社，我们的军事地图测绘员就能知道神社的地势，帮助我们找到行军的路线。或者，提升一下帝国对战争的宽容度？\n "
+
+OTG_diguotongmeng.tt:0 "为了让议会下的天狗们满怀憧憬，天狗议会决议栏增加了几个目标，只要我们能完成，就可以获得一段时间的§Y民众热情§!加成并§Y推动议会改革进程§!。\n "
+
+OTG_huiwangyaoguaishan.tt:0 "我们要重新准备帝国曾今准备做过的事——科技交流，文明开放。\n "
+
+OTG_xingzhengyuan.tt:0 "如果我们此前学习了天庭的行政制度，§Y帝国行政院§!将准备就绪。\n "
+
+OTG_tiangoujuqi.tt:0 "如果赌场领袖是山如，那么我们拥有天生的优势，在作战时将会有§Y进攻加成§!；如果千亦执政，倘若她对饭纲丸龙表示过友好，我们可以避免战争，而赌场会§Y给予我们民用工厂§!作为友好的“费用”。否则，在与狡猾的市场神开战时，我们可沾不到什么好处。\n "
+OTG_tianmojidatiangou.tt:0 "天狗帝国拥有最长的岁月，我们是时间之海中漫长的国家...所有规模达到§Y帝国§!和§Y国家§!的势力，对我们都有攻击衰减！\n "
+
+otg_tiangouyihui4_flag:0 "我们通过了阶层扶助法案。"
+otg_tiangouyihui5_flag:0 "我们确定了议会下的政体。"
+OTG_kaiting.tt:0 "现在司法权也将收归议会所有。"
+
+otg_geminglangchao.tt:0 "未知的效果"
+OTG_diling_modifier:0 "帝领"
+OTG_yinqin_modifier:0 "帝国引擎，马力全开"
+OTG_tushengchan.tt:0 "如果我们尚未研究145集中生产则将立即获得该科技，如果已有该科技则将获得一次生产科技加速。"
+
+OTG_qianzebuyizhanzheng.tt:0 "我们会尽我们所能，为支持不正当战争的敌对意识形态国家进行宣传攻势。\n "
+
+OTG_dianbo_1:0 "我们正在对其他国家进行全面宣传攻势"
+
+otg_diguoyinqin.tt:0 "只要我们的§Y工业实力§!越§Y强§!，我们的帝国就会越昌盛。当前效果：\n 生活消费品工厂：§Y[?OTG_yinqin_2|%]§!\n 步兵部队攻击：§G+[?OTG_yinqin_4|%]§!\n 科研速度：§G+[?OTG_yinqin_1|%]§!\n 厌战上涨周期：§G+[?OTG_yinqin_3|%]§!\n 如果我们正在§R战争状态§!，则科研会被§R拖慢一半§!，但生活消费品还会§Y降低百分之二点五§!。"
+otg_tiangouziqiang.tt:0 "这项计划在对§Y[TEG.GetFlag][TEG.GetName]§!战争时期会被中止。"
+
+OTG_chanyumi.tt:0 "对于§Y命莲寺§!和§Y神灵庙§!还有§Y幽谷寺§!，如果她们秉持着§Y孤立、改良或者幻想§!的理念，大权现作为不动明王的化身，她们依然对饭纲丸龙怀有敬意，否则如果她们处于其他理念，就会§R敌对§!我们。而至于鵺和村纱水密，她们必然是我们的§R敌人§!。\n "
+
+OTG_dianbota:0 "天狗的宣传攻势"
+OTG_dianbota_desc:0 "凭借着天狗出色的情报系统和广泛发行的报纸，我们得以对周围国家进行宣传攻势，传播我们的理念、打击我们的意识形态敌人。"
+
+OTG_xuanchuangongshi.tt:0 "这是一个没有硝烟的战场，而我们天狗不可能会输！§Y新的决议准备就绪！§!"
+
+OTG_zhanshengzhishen.tt:0 "但现在饭纲丸龙的心思显然不想再放在战争上。"
+OTG_budongmingwang.tt:0 "我们会重新寻求外界知识的帮助。"
+OTG_huishezhi.tt:0 "会社制度由我们的情报部门开始带头实施。"
+OTG_chaoqianshibian.tt:0 "我们会尝试联系§Y[YAW.GetFlag][YAW.GetName]§!，只要她们的理念不是§B异变§!或者§R激进§!，我们就有把握促成二次合作。"
+
+OTG_diguozhizao.tt:0 "经过对攻坚支援炮小队的训练，现在它的组织度§Y增加15§!，且恢复率增长§Y2%§!"
+
+OTG_tiangouyihui1_flag:0 "预备开庭，准备完毕"
+OTG_gongyeling_modifier:0 "帝国工业领"
+otg_tiangoujundui_desc:0 "§R随时间展现它的效果。§!"
+otg_chuangxinshengchandixia_desc:0 "§R随时间展现它的效果。§!"
+otg_geminglangchao_desc:0 "§R随时间展现它的效果。§!"
+
+OTG_tiangouyihui_party:0 "天狗议会"
+
+otg_tiangouyihui7:0 "支持木叶天狗拥有更多发言权"
+otg_tiangouyihui8:0 "反对木叶天狗增加发言权"
+otg_tiangouyihui9:0 "扩大鸦天狗发言渠道"
+otg_tiangouyihui10:0 "拒绝扩大鸦天狗权力"
+otg_tiangouyihui11:0 "山伏天狗有权议政"
+otg_tiangouyihui12:0 "拒绝山伏天狗参与政治"
+
+otg_shouxitiangou_icon_tt:0 "[Root.otgshouxitiangouicontt]"
+
+OTG_qingbaobumen.tt:0 "一切§Y幻想§!意识形态的势力都应当有一份责任来重建我们的幻想乡。\n "
+
+OTG_quanxiangyundong.tt:0 "一切§R非激进§!国家都将与我们§R敌对§!，但是这没什么好怕的。\n "
+
+otgshouxitiangouicontt1:0 "§Y大天狗鞍马山僧正坊§!，天狗新闻主编之一，同时作为天狗圣地鞍马山的大天狗，此时在天狗帝国担任§Y议会临时首席天狗§!这一职务，但是她预计不久之后将去往外界很长一段时间。\n 她拥有掌管逆向程度的能力，能利用捏造来改变事件发展的走向，使虚假的新闻成真，或许正是因为这样的能力，使得她所编撰的《天狗谐报》超越《文文。新闻》在天狗办报竞赛中获得第一名吧。"
+
+otgshouxitiangouicontt2:0 "§Y大天狗饭纲山权现丸龙§!，是饭纲山的山岳信仰的神佛习合之神，她的封号有很多，§Y大权现、大明神、不动明王、战胜之神、大日如来§!等等，虽然听起来是一位很强大的存在，但是她出人意料的平易近人，对于追逐权力和财富这些事并不热枕，只是身为大天狗有维系社会秩序、推动帝国发展的义务，此前一直负责着外交和贸易方面的工作。\n 相较于高高在上地执政，饭纲丸龙更喜欢亲力亲为，亲自编写报告，主动融入底层天狗以便深刻了解问题的源头。\n 她拥有掌握星空和驱使管狐的能力，与下属们不同，饭纲丸龙显得严肃而公正，虽然没有什么上层天狗的架子，但是对于工作的态度十分严谨。\n §Y“天狗们的拥护，比金银做的餐具更加高贵。”§!她常常这样说道。"
+
+otgshouxitiangouicontt3:0 "天狗议会已经宣布休会。§R暴雨§!要来了。"
+
+otgshouxitiangouicontt4:0 "虽然§Y犬走椛§!常常被当作激进派的代表，但是出身于底层的她明白一切权力不是求神拜佛就可以求来的，而必须通过辛劳、泪水与热血来获得心安理得的收获。如同当时掀起革命那样，天狗二次内战时她仍为底层天狗而战，如今终于受到议会天狗的一致认可，担任了首席天狗。\n 生于微末起于草莽，这位白狼天狗的队长用热情与实力证明了自己的能力，现在她将带领我们继续往未来稳步前进！"
+
+otgshouxitiangouicontt5:0 "作为中层天狗之一，§Y姬海棠果§!完全就没有像文和椛那样高昂的革命热情，但相反，她恰恰不是投机分子，搭着革命的快车取得权力——完全不是如此——她在战争期间负责后勤和支援，可以说是最忙的一位天狗了，她虽然一直持保守的态度，但对于维护底层天狗的权益也十分固执，为此跟文也有过争吵。\n 现在，她登上了首席天狗之位，为了新生但饱受苍霜的共和国而努力，但她并不迷恋权力，等到我们国家成为民主典范，她也将退出议会首席，推举射命丸文上位。"
+
+otgshouxitiangouicontt6:0 "§Y射命丸文§!一向被视作狡猾的天狗，但作为保守的天狗一族来说，“狡猾”反而成为了“开放灵活”的能力。\n 她将用她那编写新闻的热情来治理我们的国家，放心吧，射命丸文除了是一位好记者，也将会是一位好领袖的，为了天狗共和，为了饭纲丸龙大人，为了幻想乡，矢志不渝，战胜苦难，我们终将会胜利！"
+
+otgshouxitiangouicontt7:0 "§Y饭纲丸龙§!，即使付出再多代价，即使受到再多折磨，饭纲丸龙大人依然作为大天狗，我们精神与实际的领袖引领我们，从绝望奔向希望，伟大但是如同普通天狗一样的饭纲丸龙大人无疑是一位亲民的领袖，而在未来，饭纲丸龙大人也将是世界的领袖。\n 天狗不会逃避，我们的进步只会一往无前！"
+
+OTG_womendeneibudiren.tt:0 "§R如果我们不能保证国民的纯粹，又将如何保证国家的纯粹呢？§!\n "
+
+OTG_fenhuayatiangou.tt:0 "该退休的退休，该工作的工作！不要坏了你家椛椛的好事！\n "
+
+OTG_chunjingshijie.tt:0 "§R哈哈哈...哈哈哈哈！§!\n "
+
+OTG_fengfengzhiye.tt:0 "§R菅牧典将会离开！§!\n "
+
+OTG_qingyuanshu.tt:0 "§R时间会告诉你答案。§!"
+
+otg_neizhanbaofa:0 "议会分裂，帝国震动。"
+
+  OTG_yihuijunzhizheng:0 "天狗议会救国同盟"
+  OTG_yihuijunzhizheng_ADJ:0 "天狗议会救国同盟"
+  OTG_yihuijunzhizheng_DEF:0 "天狗议会救国同盟"  
+
+OTG_yihuihua:0 "妖怪山先锋国"
+  OTG_yihuihua_ADJ:0 "妖怪山先锋国"
+  OTG_yihuihua_DEF:0 "妖怪山先锋国"
+
+OTG_yihuihua2:0 "妖怪山民主同盟会"
+  OTG_yihuihua2_ADJ:0 "妖怪山民主同盟会"
+  OTG_yihuihua2_DEF:0 "妖怪山民主同盟会"
+
+OTG_hanweiwomendequanli.tt:0 "§Y射命丸文§!和§Y姬海棠果§!将发挥她们的优势，议会的旗帜将插在任何需要它出现的地方。\n "   
+OTG_gensuidatiangou.tt:0 "§Y饭纲丸龙§!将继续带领我们向前，无论风雨，无论阴云，我们此刻同在！\n "   
+OTG_linweishouming.tt:0 "§Y犬走椛§!将接受议会的授勋并带领我们的军队，而§Y军队和平民势力§!也将在议会获得§Y更多的发言席位。§!\n " 
+
+otg_qingyuanshu1:0 "同意犬走椛的请愿"
+otg_qingyuanshu2:0 "不同意犬走椛的请愿"
+
+otg.200.2.tt:0 "§R结果会怎样，你知道的。§!"
+
+otg_quanzouhuaqingyuanshu:0 "犬走椛已经递交了请愿书。"
+
+OTG_mincuizhe_op:0 "国内民粹力量"
+
+OTG_minzuzhuyi.tt:0 "所有§R天狗种族国家，或是新规、孤立意识形态的势力§!内部民粹者都将以我们马首是瞻！\n "
+
+OTG_benxiangsiwang.tt:0 "我们将在天狗主城集结两队木叶边卫团和一队白狼近卫团，她们均为经验丰富的部队。\n "
+
+OTG_junquangaoyuzhengquan.tt:0 "我们得开始削弱议会了。\n "
+
+OTG_zhizhou.tt:0 "这将禁用天狗议会决策栏。\n "
+OTG_gemingdezhenzhengweili.tt:0 "§R那些激进意识形态的势力并不愿意与我们交好，真该死！§!\n "
+
+OT2_1:0 "天魔宫执政联盟"
+OT2_qinwai:0 "天魔宫执政联盟"
+ OT2_qinwai_ADJ:0 "天魔宫执政联盟"
+ OT2_qinwai_DEF:0 "天魔宫执政联盟"
+ OT2_neworder:0 "天魔宫执政联盟"
+ OT2_neworder_ADJ:0 "天魔宫执政联盟"
+ OT2_neworder_DEF:0 "天魔宫执政联盟"
+ OT2_guli:0 "天魔宫执政联盟"
+ OT2_guli_ADJ:0 "天魔宫执政联盟"
+ OT2_guli_DEF:0 "天魔宫执政联盟"
+ OT2_oldorder:0 "天魔宫执政联盟"
+ OT2_oldorder_ADJ:0 "天魔宫执政联盟"
+ OT2_oldorder_DEF:0 "天魔宫执政联盟"
+ OT2_fandong:0 "天魔宫执政联盟"
+ OT2_fandong_ADJ:0 "天魔宫执政联盟"
+ OT2_fandong_DEF:0 "天魔宫执政联盟"
+
+OT3_1:0 "妖怪山先锋国"
+OT3_qinwai:0 "妖怪山先锋国"
+ OT3_qinwai_ADJ:0 "妖怪山先锋国"
+ OT3_qinwai_DEF:0 "妖怪山先锋国"
+ OT3_neworder:0 "妖怪山先锋国"
+ OT3_neworder_ADJ:0 "妖怪山先锋国"
+ OT3_neworder_DEF:0 "妖怪山先锋国"
+ OT3_guli:0 "妖怪山先锋国"
+ OT3_guli_ADJ:0 "妖怪山先锋国"
+ OT3_guli_DEF:0 "妖怪山先锋国"
+ OT3_oldorder:0 "妖怪山先锋国"
+ OT3_oldorder_ADJ:0 "妖怪山先锋国"
+ OT3_oldorder_DEF:0 "妖怪山先锋国"
+ OT3_fandong:0 "妖怪山先锋国"
+ OT3_fandong_ADJ:0 "妖怪山先锋国"
+ OT3_fandong_DEF:0 "妖怪山先锋国"
+
+OTG_guli_party:0 "天狗议会·小民派"
+OTG_guli_party_long:0 "天狗议会·小民派"
+OTG_fandong_party:0 "天狗议会·国民阵线"
+OTG_fandong_party_long:0 "天狗议会·国民阵线"
+OTG_qinwai_party:0 "天狗议会·革新派"
+OTG_qinwai_party_long:0 "天狗议会·革新派"
+OTG_neworder_party:0 "天狗议会·帝国派"
+OTG_neworder_party_long:0 "天狗议会·帝国派"
+OTG_oldgenso_party:0 "天狗议会·共进派"
+OTG_oldgenso_party_long:0 "天狗议会·共进派"
+OTG_oldorder_party:0 "天狗议会·大天狗派"
+OTG_oldorder_party_long:0 "天狗议会·大天狗派"
+OTG_yizhenghui_party:0 "天狗议会·翼政派"
+OTG_yizhenghui_party_long:0 "天狗议会·翼政派"
+OTG_xianfengshehuizhuyi_party:0 "先锋社会派"
+OTG_xianfengshehuizhuyi_party_long:0 "先锋社会派"
+
+introduce_OTG_page1:0 "当愚钝的天狗还在讨论§0[OTG.GetFlag][OTG.GetName]§!对§R[SCA.GetFlag][SCA.GetName]§!战事的时候，§3[OTG.GetFlag]饭纲丸龙§!在准备审核射命丸文上交的报纸草稿，虽然这时候文可能已经开始发行她手里刚拿到的那份草稿了；当犬走椛冲击天魔参拜道的时候，§3[OTG.GetFlag]饭纲丸龙§!揉了揉疲惫的双眼，结束了对山童商业订单的查阅；而在146季度新年到来之际，§3[OTG.GetFlag]饭纲丸龙§!站在天魔宫前等到了那一刻的来临——街上如死般寂静，天魔山飞雪中悠悠传来的声音，那是迟暮帝国的叹息。\n 虽然身为大天狗，同时负责帝国外交和贸易上面的事物，但事实上她并不对张扬自我或者收集财宝方面上有什么可热衷的，就在不久前，天魔大人的传唤让她不得不更进一步：她即将作为新一任大天狗议会主席，负责主持议会并正式带上冠冕，握起整个帝国的行政权杖。\n 南方的§Y[TEG.GetFlag][TEG.GetName]§!那如火如荼的革命几乎将帝国逼上了悬崖边缘，而帝国背后的§Y[MRY.GetFlag][MRY.GetName]§!虽然递来了一根绳子，但谁也不知道她们何时松手。至于§1天界§!，情况更是糟糕，目中无人的天女们正忙着搞些阴谋诡计，自诩高尚的§1[TES.GetFlag]比那名居天子§!如今动作频繁，大有谋逆之意。\n 当多年前她抬起头看见天狗主城熊熊燃起的火焰，听到白狼天狗们的咆哮时，§3[OTG.GetFlag]饭纲丸龙§!深深地吸了一口气，虽然早有预料，但那一天，妖怪山上的风还是格外寒冷，冷得让肺部刺痛，星光黯淡，月亮被革命的火焰燎到山的另一边。\n 而如今，§3[OTG.GetFlag]饭纲丸龙§!发誓将守卫全天狗的命运，即使她连自己的命运都无法操控——但作为操纵星空的大天狗，当漫天群星将神圣的辉光洒在天魔山之时，她决定要为自己内心的理想和道德砥砺前进。\n 现在，她与§0[OTG.GetFlag][OTG.GetName]§!再也不能后退一步，因为吾国疆土，因为头顶星空，因为子民的万家灯火，现在就交由§3[OTG.GetFlag]饭纲丸龙§!大人来守护，而在时代的旋风中搏斗，于革命的烈焰里重生，古老又革新的§0[OTG.GetFlag][OTG.GetName]§!又将以何等姿态在幻想乡中登上自己的舞台？\n\n 天狗们！无论理念如何，但是请拿起武器！为了祖国的未来，也为了自己内心的道德和正义而战！"
+
+OTG_DAWN_DESC:0 "在大多数人的眼里，天狗帝国自当年仓皇逃窜的那时起，就已经灭亡了，但是在饭纲丸龙眼里，那是帝国于新时代中的重生。\n 帝国，像是古板，破旧，不合时宜的名词，但是天狗帝国的失败绝不是以上那几个而作为主要原因，正相反，因为天狗们足够创新，在冲破旧有社会秩序时太过于耀眼反而遭受忌惮。天狗的步子迈得太大了，她们打了个趔趄，但是手里的火炬与身上的翅膀，依然随时做好了化为流星的准备。\n 如果您已经见识过南方共和国炽热的旗帜，那不妨来北方看看！在天魔山上，在古老的帝国，饭纲丸龙大人和她的星空将永远在幻想乡中守望她热爱的每一位天狗！\n 自由，源于自律；自由，源于勇气。敢问自由：我们何罪之有？！"

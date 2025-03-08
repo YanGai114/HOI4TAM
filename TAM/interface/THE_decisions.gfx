@@ -1,0 +1,229 @@
+spriteTypes = {
+
+	### categories
+
+	spriteType = {
+		name = "GFX_decision_category_MOK_mifeng"
+		texturefile = "gfx/interface/decisions/MOK_mifeng.png"
+	}
+
+
+	### decisions
+	spriteType = {
+		name = "GFX_decision_xuanchuan"
+		texturefile = "gfx/interface/decisions/xuanchuan.png"
+	}
+	spriteType = {
+		name = "GFX_decision_dongyuan"
+		texturefile = "gfx/interface/decisions/dongyuan.png"
+	}
+	spriteType = {
+		name = "GFX_decision_jiesan"
+		texturefile = "gfx/interface/decisions/jiesan.png"
+	}
+	spriteType = {
+		name = "GFX_decision_jianshe"
+		texturefile = "gfx/interface/decisions/jianshe.png"
+	}
+	spriteType = {
+		name = "GFX_decision_yanlian"
+		texturefile = "gfx/interface/decisions/yanlian.png"
+	}
+	spriteType = {
+		name = "GFX_decision_hezuo"
+		texturefile = "gfx/interface/decisions/hezuo.png"
+	}
+	spriteType = {
+		name = "GFX_decision_quanheng"
+		texturefile = "gfx/interface/decisions/quanheng.png"
+	}
+	spriteType = {
+		name = "GFX_decision_lianxi"
+		texturefile = "gfx/interface/decisions/lianxi.png"
+	}
+	spriteType = {
+		name = "GFX_decision_shengchan"
+		texturefile = "gfx/interface/decisions/shengchan.png"
+	}
+	spriteType = {
+		name = "GFX_decision_ziyuankaifa"
+		texturefile = "gfx/interface/decisions/ziyuankaifa.png"
+	}
+	spriteType = {
+		name = "GFX_decision_yanjiu"
+		texturefile = "gfx/interface/decisions/yanjiu.png"
+	}
+	spriteType = {
+		name = "GFX_decision_gonghe"
+		texturefile = "gfx/interface/decisions/gonghe.png"
+	}
+	spriteType = {
+		name = "GFX_decision_qiji"
+		texturefile = "gfx/interface/decisions/qiji.png"
+	}
+	spriteType = {
+		name = "GFX_decision_qidao"
+		texturefile = "gfx/interface/decisions/qidao.png"
+	}
+	spriteType = {
+		name = "GFX_decision_geming"
+		texturefile = "gfx/interface/decisions/geming.png"
+	}
+	spriteType = {
+		name = "GFX_decision_tiangougeming"
+		texturefile = "gfx/interface/decisions/tiangougeming.png"
+	}
+	spriteType = {
+		name = "GFX_decision_tianmogong"
+		texturefile = "gfx/interface/decisions/tianmogong.png"
+	}
+	spriteType = {
+		name = "GFX_decision_yihui"
+		texturefile = "gfx/interface/decisions/yihui.png"
+	}
+	spriteType = {
+		name = "GFX_decision_fandui"
+		texturefile = "gfx/interface/decisions/fandui.png"
+	}
+	spriteType = {
+		name = "GFX_decision_baozhi"
+		texturefile = "gfx/interface/decisions/baozhi.png"
+	}
+	spriteType = {
+		name = "GFX_decision_xingkong"
+		texturefile = "gfx/interface/decisions/xingkong.png"
+	}
+	spriteType = {
+		name = "GFX_decision_honglongdongshantong"
+		texturefile = "gfx/interface/decisions/honglongdongshantong.png"
+	}
+	spriteType = {
+		name = "GFX_decision_huobimaoyi"
+		texturefile = "gfx/interface/decisions/huobimaoyi.png"
+	}
+	spriteType = {
+		name = "GFX_decision_junhuojiaoyi"
+		texturefile = "gfx/interface/decisions/junhuojiaoyi.png"
+	}
+	spriteType = {
+		name = "GFX_decision_xinyang"
+		texturefile = "gfx/interface/decisions/xinyang.png"
+	}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+########decision_imagic
+spriteType = {
+	name = "GFX_decision_anmale"
+	texturefile = "gfx/interface/decisions/decision_images/otg_anmale.dds"
+}
+spriteType = {
+	name = "GFX_decision_fangangwanlong"
+	texturefile = "gfx/interface/decisions/decision_images/otg_fangangwanlong.dds"
+}
+spriteType = {
+	name = "GFX_decision_xiuhui"
+	texturefile = "gfx/interface/decisions/decision_images/otg_xiuhui.dds"
+}
+spriteType = {
+	name = "GFX_decision_quanzouhua"
+	texturefile = "gfx/interface/decisions/decision_images/otg_quanzouhua.dds"
+}
+spriteType = {
+	name = "GFX_decision_wen"
+	texturefile = "gfx/interface/decisions/decision_images/otg_wen.dds"
+}
+spriteType = {
+	name = "GFX_decision_guo"
+	texturefile = "gfx/interface/decisions/decision_images/otg_guo.dds"
+}
+
+spriteType = {
+	name = "GFX_decision_neizheng"
+	texturefile = "gfx/interface/decisions/decision_images/otg_neizheng.dds"
+}
+
+
+
+
+
+
+	
+####################bop
+    #spriteType = {
+	#   name = "GFX_show_power_balance_button"
+	#   textureFile = "gfx/interface/government_in_exile/countryview_government_in_exile_bg.dds"
+    #}
+	frameAnimatedSpriteType = {
+		name = "GFX_jiantou"
+		noOfFrames = 8
+		texturefile = "gfx/interface/government_in_exile/1.dds"
+		
+		animation_rate_fps  = 6
+		looping = yes
+		play_on_show = yes
+		alwaystransparent = yes
+	}
+
+	spriteType = {
+		name = "GFX_tianmogong_bop"
+		texturefile = "gfx/interface/bop/tianmogong.png"
+	}
+	
+	spriteType = {
+		name = "GFX_yihui_bop"
+		texturefile = "gfx/interface/bop/yihui.png"
+	}
+	spriteType = {
+		name = "GFX_junshigaige0_bop"
+		texturefile = "gfx/interface/bop/junshigaige0.png"
+	}
+	
+	spriteType = {
+		name = "GFX_junshigaige1_bop"
+		texturefile = "gfx/interface/bop/junshigaige1.png"
+	}
+
+
+	spriteType = {
+		name = "GFX_honglongdong_bop"
+		texturefile = "gfx/interface/bop/honglongdong.png"
+	}
+	
+	spriteType = {
+		name = "GFX_shantongshangyehui_bop"
+		texturefile = "gfx/interface/bop/shantongshangyehui.png"
+	}
+
+
+    ######tile
+    spriteType = {
+		name = "GFX_zhikuang_tile"
+		texturefile = "gfx/interface/decisions/texticon/zhikuang.png"
+		legacy_lazy_load = no
+	}
+
+
+
+	###########texticon £
+	spriteType = {
+		name = "GFX_shanjin_text"
+		texturefile = "gfx/interface/decisions/texticon/shanjin.dds"
+		legacy_lazy_load = no
+	}
+}
+
+
+
+

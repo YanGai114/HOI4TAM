@@ -1,0 +1,29 @@
+state={
+	id=678
+	name="STATE_678"
+	provinces={
+		751 1249 2177 3375 3533 3718 5216 5786 6153 8247 8700 8734 15168 15207 15222 15228 15264 15265 15285 15296 15337 15338 15369 
+	}
+	buildings_max_level_factor=1.000
+        manpower=8979
+                 state_category = town
+	resources={
+		steel=0 #钢铁
+		tungsten = 0 #妖石
+		chromium = 0 #灵气
+		rubber=0 #农产品
+		aluminium=0 #其他金属
+		oil = 0 #伊奘诺物质
+	}		history = {
+			owner = ELL
+			add_core_of = ELL
+			victory_points = {  751 10 }
+			buildings = {
+				infrastructure = 2
+				air_base = 0
+				arms_factory = 1
+				industrial_complex = 2
+			}
+		}
+ 
+}

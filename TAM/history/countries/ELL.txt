@@ -1,0 +1,40 @@
+﻿capital = 679
+146.1.1 = {
+    set_technology = {
+                      ########通用中等水平灵力科技########
+ 
+            
+    }
+    
+}
+146.1.1={
+    add_manpower = 6
+    add_ideas = {
+        type2_manpowerlv3
+        Magician
+        Tribal
+        dove2
+        close4
+        close_border
+        limit_magic
+        MSH_ziyuanfeng_idea
+        MAF_divided_region_1
+    }
+    add_to_variable = {
+        MSH_boyili = 30
+    }
+    oob = "ELL_146"
+    set_politics = {
+    	ruling_party = oldgenso
+    	election_frequency = 48
+    	elections_allowed = no
+    }
+    set_popularities = {
+        qinwai = 25
+        oldgenso = 70
+        neworder = 0
+        oldorder = 0
+        fandong = 0
+        guli = 5
+    }
+}

@@ -1,0 +1,29 @@
+state={
+	id=905
+	name="STATE_905"
+	provinces={
+		1998 3782 4152 6744 10422 16967 17062 
+	}
+	buildings_max_level_factor=1.000
+        manpower=30244
+                 state_category = city
+	resources={
+		steel=0 #钢铁
+		tungsten = 0 #妖石
+		chromium =1 #灵气
+		rubber=3 #农产品
+		aluminium=0 #其他金属
+		oil = 0 #伊奘诺物质
+	}		history = {
+			owner = HKM
+			add_core_of = HKM
+			victory_points = { 1998  15 }
+			buildings = {
+				infrastructure = 3
+				air_base = 0
+				arms_factory = 2
+				industrial_complex = 2
+			}
+		}
+ 
+}

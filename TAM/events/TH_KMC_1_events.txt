@@ -1,0 +1,132 @@
+add_namespace = kmc_trr
+country_event = { #三途河战争
+	id = kmc_trr.1
+	title = kmc_trr.1.t
+	desc = kmc_trr.1.d
+	fire_only_once = yes
+	is_triggered_only = yes
+	option = {
+		name  = kmc_trr.1.1
+		add_stability = -0.05
+		GH1={declare_war_on = { target = KMC type = take_state  }} 
+		news_event = {id= kmc_trr.5}
+	}
+}
+
+country_event = { #战胜幽灵
+	id = kmc_trr.2
+	title = kmc_trr.2.t
+	desc = kmc_trr.2.d
+	fire_only_once = yes
+	trigger = {
+		tag = KMC
+		controls_state =743
+	}
+
+	option = {
+		name  = kmc_trr.2.1
+		add_stability = 0.1
+		transfer_state =743
+		transfer_state =747
+		transfer_state =657
+		transfer_state =605
+		white_peace =GH1
+		KMC = { country_event = {id = kmc_trr.3 days = 12}}
+		SKI = { country_event = {id = kmc_trr.3 days = 12}}
+
+	}
+}
+
+country_event = { #封锁通道
+	id = kmc_trr.3
+	title = kmc_trr.3.t
+	desc = kmc_trr.3.d
+	fire_only_once = yes
+	is_triggered_only = yes
+	option = { 
+		name = kmc_trr.3.1
+		trigger = {
+			tag=kmc
+		}
+		add_stability = 0.1
+
+	}
+	option = { 
+		name = kmc_trr.3.2
+		trigger = {
+			tag=ski
+		}
+		add_stability = 0.1
+		743 = { set_demilitarized_zone = yes }
+
+		country_event = {id=kmc_trr.6 days=1}
+		news_event = { id = kmc_trr.4 }
+	}
+}
+
+news_event = { #封锁三途河新闻
+	id = kmc_trr.4
+	title = kmc_trr.4.t
+	desc = kmc_trr.4.d
+	fire_only_once = yes
+	is_triggered_only = yes
+	major = yes
+	option = { 
+		name = kmc_trr.4.1
+	}
+}
+
+news_event = { #三途河战争
+	id = kmc_trr.5
+	title = kmc_trr.5.t
+	desc = kmc_trr.5.d
+	fire_only_once = yes
+	is_triggered_only = yes
+	major = yes
+	option = { 
+		name = kmc_trr.5.1
+	}
+}
+
+
+news_event = { #审判三途川幽灵
+	id = kmc_trr.6
+	title = kmc_trr.6.t
+	desc = kmc_trr.6.d
+	fire_only_once = yes
+	is_triggered_only = yes
+	major = yes
+	option = { 
+		name = kmc_trr.6.1
+437={
+	add_dynamic_modifier = {
+		modifier = SKI_santuchuan_modifier
+	}
+}
+439={
+	add_dynamic_modifier = {
+		modifier = SKI_santuchuan_modifier
+	}
+}
+441={
+	add_dynamic_modifier = {
+		modifier = SKI_santuchuan_modifier
+	}
+}
+444={
+	add_dynamic_modifier = {
+		modifier = SKI_santuchuan_modifier
+	}
+}
+443={
+	add_dynamic_modifier = {
+		modifier = SKI_santuchuan_modifier
+	}
+}
+
+
+
+
+
+	}
+}

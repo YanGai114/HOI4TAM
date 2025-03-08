@@ -1,0 +1,29 @@
+state={
+	id=179
+	name="STATE_179"
+	provinces={
+		101 174 198 926 1115 1579 4207 4861 7180 7738 9842 10044 11850 12107 
+	}
+	buildings_max_level_factor=1.000
+        manpower=3275
+                 state_category = rural
+	resources={
+		steel=0 #钢铁
+		tungsten = 0 #妖石
+		chromium = 0 #灵气
+		rubber=0 #农产品
+		aluminium=0 #其他金属
+		oil = 0 #伊奘诺物质
+	}		history = {
+			owner = HUB
+			add_core_of = HUB
+			victory_points = {  101 1 }
+			buildings = {
+				infrastructure = 0
+				air_base = 0
+				arms_factory = 0
+				industrial_complex = 0
+			}
+		}
+ 
+}

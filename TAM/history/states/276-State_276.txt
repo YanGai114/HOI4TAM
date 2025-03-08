@@ -1,0 +1,29 @@
+state={
+	id=276
+	name="STATE_276"
+	provinces={
+		288 324 1175 1421 1746 1751 2378 3002 3202 4650 5192 6225 6298 6369 8908 9479 10528 10728 12612 12644 12876 
+	}
+	buildings_max_level_factor=1.000
+        manpower=4872
+                 state_category = rural
+	resources={
+		steel=0 #钢铁
+		tungsten = 0 #妖石
+		chromium = 0 #灵气
+		rubber=2 #农产品
+		aluminium=0 #其他金属
+		oil = 0 #伊奘诺物质
+	}		history = {
+			owner = CHU
+			add_core_of = CHU
+			victory_points = {288  1 }
+			buildings = {
+				infrastructure = 1
+				air_base = 0
+				arms_factory = 0
+				industrial_complex = 0
+			}
+		}
+ 
+}

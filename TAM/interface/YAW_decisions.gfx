@@ -1,0 +1,32 @@
+spriteTypes = {
+
+	###############################################################
+	########            xxxxxxxxxxxxxxxxxxxxx              ########
+	###############################################################
+
+	#### RESOURCES ####
+    spriteType = {
+		name = "GFX_xiangxishouzhi_decision"
+		texturefile = "gfx/interface/categories/YAW/xiangxishouzhi.png"
+	}
+	spriteType = {
+		name = "GFX_jisuangongshi_decision"
+		texturefile = "gfx/interface/categories/YAW/jisuangongshi.png"
+	}
+	spriteType = {
+		name = "GFX_YAW_coin2_bg"
+		texturefile = "gfx/interface/tiles/YAW_coin2_bg.png"
+	}
+	#### PROGRESSBAR ####
+	progressbartype = {
+		name = "GFX_YAW_xuanyuan_Progressbar"
+		textureFile1 = "gfx/interface/categories/YAW/bar_1.png"
+		textureFile2 = "gfx/interface/categories/YAW/bar_0.png"
+		size = { x = 375 y = 15 } 
+		effectFile = "gfx/FX/progress.lua"
+		horizontal = yes
+	}
+
+	#######gif
+	
+}

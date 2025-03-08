@@ -1,0 +1,111 @@
+﻿capital = 1011
+146.1.1 = {
+    set_technology = {
+                        ########通用中等水平灵力科技########
+                        spear1 =1
+                        linglizhufu =1
+                        spell_card1 =1
+                        tech_support =1
+                        spear2 =1
+                        ma_shield1 =1
+                        linglicunchu =1
+                        spell_card2 =1
+                        lingliliushuixian =1
+    }
+    
+}
+146.1.1={
+    set_country_flag = bunengsuiyiqiehuanzhengti
+    set_country_flag = owns_backdoor_portal
+    oob = "OKI_146"
+    add_ideas = {
+    manpowerlv1
+    isolation
+    God
+    Country
+    hawk0
+    close5
+    close_border
+    sc_rule
+    gensoukyo_creator_idea
+    }
+    add_ideas={
+        OKI_weiwo
+        OKI_wubianjiezhiguo
+        OKI_liufangmin
+        OKI_tongerbuzhi
+        OKI_beiqishizhishen
+        OKI_shoumenren
+    }
+    CJK = {
+        subject_level4 = yes
+        set_cosmetic_tag = CJK_OKI
+    }
+    set_politics = {
+        ruling_party = oldgenso
+        election_frequency = 48
+        elections_allowed = no
+    }
+    set_popularities = {
+        qinwai = 0
+        guli = 0
+        neworder = 4
+        oldorder = 12
+        fandong = 0
+        oldgenso = 84
+    }
+    add_dynamic_modifier={
+        modifier=OKI_xinyang_modifier
+    }
+    set_variable = {oki_xinxiu_full_side = 88}
+    set_variable = { oki_xinxiu_up_side = 12 }
+    
+    set_variable = { oki_xinxiu_display_value = 12 }
+
+    set_variable = {oki_dimu_full_side = 90}
+    set_variable = { oki_dimu_up_side = 10 }
+    
+    set_variable = { oki_dimu_display_value = 10 }
+    set_variable = {oki_zhangai_full_side = 81}
+    set_variable = { oki_zhangai_up_side = 19 }
+    
+    set_variable = { oki_zhangai_display_value = 19 }
+
+
+    set_variable = { oki_mishen_ewai = 8 }
+#########使馆
+    set_variable = {oki_shiguanjindutiao_start_side = 1}
+    set_variable = { oki_shiguanjindutiao_end_side = 29 }
+    
+    set_variable = { oki_shiguanjindutiao_display_value = 1 }
+
+    set_variable = { oki_shiguanfen = 10 }
+    set_variable = { srb_shiguanfen = 6 }
+    
+    set_variable = { tkm_shiguanfen = 6 }
+    set_variable = { sbk_shiguanfen = 3 }
+    set_variable = { kag_shiguanfen = 3 }
+    set_variable = { nms_shiguanfen = 8 }
+
+    set_variable = { ykr_shiguanfen = 15 }
+    set_variable = { sca_shiguanfen = 10 }
+    set_variable = { mam_shiguanfen = 4 }
+
+    set_variable = { oki_taolunan = 0 }
+
+    set_variable={oki_taidu=0}
+########西南
+    set_variable={oki_xinan_full_value=100}
+    set_variable={oki_xinan_start_side=0}
+    set_variable={oki_xinan_display_value=0}
+
+    set_variable={oki_gh3jianshe=0} ##建设
+
+
+    set_variable={oki_chabiemin_full_value=90}
+    set_variable={oki_chabiemin_start_side=10}
+    set_variable={oki_chabiemin_display_value=10} #渗入
+    set_variable={oki_shenrufen_full_value=20}
+    set_variable={oki_shenrufen_start_side=0}
+    set_variable={oki_shenrufen_display_value=0} #渗入
+}

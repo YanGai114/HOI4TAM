@@ -1,0 +1,32 @@
+﻿capital = 996
+146.1.1 = {
+    set_technology = {
+                                   ########通用低级水平混合科技########
+                           
+                    
+    }
+    
+}
+
+138.1.1={
+    oob = "BYA_146"
+    add_ideas = {
+        Beast
+        Tribal
+        hawk1
+        close2
+        strict_border
+    }
+    set_politics = {
+        ruling_party = fandong
+        election_frequency = 48
+        elections_allowed = no
+    }
+    set_popularities = {
+        qinwai = 0
+        guli = 10
+        neworder = 20
+        oldorder = 0
+        fandong = 70
+    }
+}

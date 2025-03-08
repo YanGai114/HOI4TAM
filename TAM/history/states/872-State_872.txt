@@ -1,0 +1,29 @@
+state={
+	id=872
+	name="STATE_872"
+	provinces={
+		3053 7476 9389 9646 10623 16641 16759 16790 
+	}
+	buildings_max_level_factor=1.000
+        manpower=6988
+                 state_category = rural
+	resources={
+		steel=0 #钢铁
+		tungsten = 0 #妖石
+		chromium = 2 #灵气
+		rubber=2 #农产品
+		aluminium=0 #其他金属
+		oil = 0 #伊奘诺物质
+	}		history = {
+			owner = HSA
+			add_core_of = HSA
+			victory_points = {3053  1 }
+			buildings = {
+				infrastructure = 0
+				air_base = 0
+				arms_factory = 0
+				industrial_complex = 0
+			}
+		}
+ 
+}

@@ -1,0 +1,29 @@
+state={
+	id=627
+	name="STATE_627"
+	provinces={
+		211 600 1107 2514 3227 3247 3731 4575 5210 5848 5976 5993 6478 7903 14780 14794 14951 14984 15049 15094 15107 
+	}
+	buildings_max_level_factor=1.000
+        manpower=10988
+                 state_category = town
+	resources={
+		steel=0 #钢铁
+		tungsten = 0 #妖石
+		chromium = 8 #灵气
+		rubber=0 #农产品
+		aluminium=0 #其他金属
+		oil = 0 #伊奘诺物质
+	}		history = {
+			owner = ZYD
+			add_core_of = ZYD
+			victory_points = { 211 9 }
+			buildings = {
+				infrastructure = 2
+				air_base = 0
+				arms_factory = 1
+				industrial_complex = 2
+			}
+		}
+ 
+}

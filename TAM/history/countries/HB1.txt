@@ -1,0 +1,39 @@
+﻿capital = 456
+146.1.1 = {
+    set_technology = {
+        #通用武器线
+  
+            
+        #专用工业
+
+        #种族
+            
+    }
+    
+}
+138.1.1={
+    
+    add_ideas = {
+        type3_manpowerlv3
+        Youkai
+        Village
+        dove1
+        open0
+        strict_border
+        limit_magic
+HELL_yushigejue
+    }
+    oob = "HB1_146"
+    set_politics = {
+        ruling_party = guli
+        election_frequency = 48
+        elections_allowed = no
+    }
+    set_popularities = {
+        qinwai = 0
+        guli = 100
+        neworder = 0
+        oldorder = 0
+        fandong = 0
+    }
+}

@@ -1,0 +1,33 @@
+capital = 436
+146.1.1 = {
+	oob = "NSK_146"
+	add_ideas = {
+		God
+		Country
+		dove1
+		open1
+		normal_border
+		free_magic
+		manpowerlv1
+	}
+	set_politics = {
+		ruling_party = qinwai
+		election_frequency = 48
+		elections_allowed = no
+	}
+	set_popularities = {
+		qinwai = 100
+        guli = 0
+        neworder = 0
+        oldorder = 0
+        fandong = 0
+	}
+	diplomatic_relation = { 
+        country = YKR relation = non_aggression_pact active = yes
+    }
+}
+create_country_leader = {
+	name = "委员会"
+	picture = "gfx/leaders/all_leaders.png"
+	ideology = qinwai_type
+}

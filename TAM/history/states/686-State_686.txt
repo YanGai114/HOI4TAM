@@ -1,0 +1,29 @@
+state={
+	id=686
+	name="STATE_686"
+	provinces={
+		1228 2781 3601 4002 15269 15325 15490 
+	}
+	buildings_max_level_factor=1.000
+        manpower=11574
+                 state_category = rural
+	resources={
+		steel=0 #钢铁
+		tungsten = 0 #妖石
+		chromium = 0 #灵气
+		rubber=0 #农产品
+		aluminium=0 #其他金属
+		oil = 0 #伊奘诺物质
+	}		history = {
+			owner = HGH
+			add_core_of = SKI
+			victory_points = { 1228  1 }
+			buildings = {
+				infrastructure = 0
+				air_base = 0
+				arms_factory = 0
+				industrial_complex = 0
+			}
+		}
+ 
+}

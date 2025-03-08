@@ -1,0 +1,29 @@
+state={
+	id=370
+	name="STATE_370"
+	provinces={
+		473 2631 2682 4273 4317 4743 5021 5035 5160 5254 6134 6769 7439 10099 10536 13149 13150 13256 13310 13322 13323 13377 13399 13480 13505 13611 13638 
+	}
+	buildings_max_level_factor=1.000
+        manpower=2233
+                 state_category = rural
+	resources={
+		steel=0 #钢铁
+		tungsten = 0 #妖石
+		chromium = 0 #灵气
+		rubber=0 #农产品
+		aluminium=0 #其他金属
+		oil = 0 #伊奘诺物质
+	}		history = {
+			owner = SEJ
+			add_core_of = SEJ
+			victory_points = { 473  1 }
+			buildings = {
+				infrastructure = 0
+				air_base = 0
+				arms_factory = 0
+				industrial_complex = 0
+			}
+		}
+ 
+}

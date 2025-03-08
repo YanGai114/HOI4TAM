@@ -1,0 +1,29 @@
+state={
+	id=444
+	name="STATE_444"
+	provinces={
+		373 662 1046 2328 4288 4687 5065 5266 5348 5562 6095 6788 7894 8229 8667 9590 9649 13873 13985 14145 
+	}
+	buildings_max_level_factor=1.000
+        manpower=70637
+                 state_category = rural
+	resources={
+		steel=0 #钢铁
+		tungsten = 0 #妖石
+		chromium = 2 #灵气
+		rubber=0 #农产品
+		aluminium=0 #其他金属
+		oil = 0 #伊奘诺物质
+	}		history = {
+			owner = XUE
+			add_core_of = XUE
+			victory_points = { 373  1 }
+			buildings = {
+				infrastructure = 0
+				air_base = 0
+				arms_factory = 0
+				industrial_complex = 0
+			}
+		}
+ 
+}

@@ -1,0 +1,55 @@
+﻿capital = 999
+
+146.1.1 = {
+    set_technology = {
+                                         ########通用低级水平混合科技########
+                                         spear1 =1
+                                         linglizhufu =1
+                                         spell_card1 =1
+                                         tech_support =1
+                                         basic_train = 1
+                                         infantry_weapons =1
+                          
+    }
+    
+}
+
+
+    set_major = no
+    add_manpower = 800
+    oob = "MOK_146"
+    # set_research_slots = 0
+    add_ideas = {
+        Magician
+        isolation
+        Village
+        hawk2
+        close4
+        strict_border
+        sc_rule
+    }
+    add_ideas = {
+        mok_tuisangdezijingdui
+        mok_zhanzhengzhong
+    }
+    set_politics = {
+        ruling_party = guli
+        election_frequency = 48
+        elections_allowed = no
+    }
+    set_popularities = {
+        qinwai = 15
+        guli = 47
+        neworder = 10
+        oldorder = 20
+        fandong = 8
+    }
+
+    add_opinion_modifier={
+        target=HUM
+        modifier=MOK_waixichuanzhiyue_op
+    }
+    reverse_add_opinion_modifier={
+        target=HUM
+        modifier=MOK_waixichuanzhiyue_op
+    }

@@ -1,0 +1,29 @@
+state={
+	id=604
+	name="STATE_604"
+	provinces={
+		2243 2337 2487 3056 3388 3885 4591 5043 7221 8468 8735 14697 14747 14828 14930 14943 14983 
+	}
+	buildings_max_level_factor=1.000
+        manpower=6765
+                 state_category = rural
+	resources={
+		steel=0 #钢铁
+		tungsten = 0 #妖石
+		chromium = 3 #灵气
+		rubber=0 #农产品
+		aluminium=0 #其他金属
+		oil = 0 #伊奘诺物质
+	}		history = {
+			owner = KMC
+			add_core_of = KMC
+			victory_points = { 2243  1 }
+			buildings = {
+				infrastructure = 0
+				air_base = 0
+				arms_factory = 0
+				industrial_complex = 0
+			}
+		}
+ 
+}

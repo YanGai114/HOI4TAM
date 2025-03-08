@@ -1,0 +1,29 @@
+state={
+	id=508
+	name="STATE_508"
+	provinces={
+		239 597 770 1849 2206 2329 3526 4131 5856 6247 6963 8169 14152 14163 14187 14259 14325 14337 
+	}
+	buildings_max_level_factor=1.000
+        manpower=80744
+                 state_category = rural
+	resources={
+		steel=0 #钢铁
+		tungsten = 0 #妖石
+		chromium = 0 #灵气
+		rubber=0 #农产品
+		aluminium=0 #其他金属
+		oil = 0 #伊奘诺物质
+	}		history = {
+			owner = XUE
+			add_core_of = XUE
+			victory_points = { 239  1 }
+			buildings = {
+				infrastructure = 0
+				air_base = 0
+				arms_factory = 0
+				industrial_complex = 0
+			}
+		}
+ 
+}

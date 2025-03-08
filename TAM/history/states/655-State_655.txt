@@ -1,0 +1,29 @@
+state={
+	id=655
+	name="STATE_655"
+	provinces={
+		2723 4580 7369 7938 14862 14874 14923 14937 14949 14974 15032 
+	}
+	buildings_max_level_factor=1.000
+        manpower=65540
+                 state_category = town
+	resources={
+		steel=0 #钢铁
+		tungsten = 0 #妖石
+		chromium = 6 #灵气
+		rubber=0 #农产品
+		aluminium=0 #其他金属
+		oil = 1 #伊奘诺物质
+	}		history = {
+			owner = WAK
+			add_core_of = WAK
+			victory_points = {2723  3 }
+			buildings = {
+				infrastructure = 3
+				air_base = 0
+				arms_factory = 0
+				industrial_complex = 1
+			}
+		}
+ 
+}

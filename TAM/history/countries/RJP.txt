@@ -1,0 +1,52 @@
+capital = 454
+
+recruit_character = RJP_sanadai
+
+set_technology = {
+                                    ########通用低级水平混合科技########
+									spear1 =1
+									linglizhufu =1
+									spell_card1 =1
+									tech_support =1
+									basic_train = 1
+									infantry_weapons =1
+		
+}
+
+146.1.1={
+	set_major = yes
+    set_country_flag = bunengsuiyiqiehuanzhengti
+    set_cosmetic_tag = RJP_1
+    oob = "HUM_146"
+    # set_research_slots = 5
+    # Starting 
+	add_ideas = {
+		hum_qianhaozhan
+		hum_xiujianjinianbei
+		
+		hum_chububaituoyaoguai
+	}
+    add_ideas = {
+        Human
+       
+        Town
+        close2
+        hawk1
+        strict_border
+        sc_rule
+		type2_manpowerlv3
+		partial_economic_mobilisation
+    }
+    set_politics = {
+        ruling_party = fandong
+        election_frequency = 48
+        elections_allowed = no
+    }
+    set_popularities = {
+        qinwai = 0
+        guli = 10
+        neworder = 10
+        oldorder = 0
+        fandong = 80
+    }
+}

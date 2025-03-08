@@ -1,0 +1,29 @@
+state={
+	id=322
+	name="STATE_322"
+	provinces={
+		1139 3938 6057 6482 7390 7515 9341 9492 12866 12901 12927 12970 13028 13169 
+	}
+	buildings_max_level_factor=1.000
+        manpower=102669
+                 state_category = city
+	resources={
+		steel=0 #钢铁
+		tungsten = 0 #妖石
+		chromium = 0 #灵气
+		rubber=0 #农产品
+		aluminium=0 #其他金属
+		oil = 0 #伊奘诺物质
+	}		history = {
+			owner = SCA
+			add_core_of = SCA
+			victory_points = { 7390 5 }
+			buildings = {
+				infrastructure =4
+				air_base = 0
+				arms_factory = 4
+				industrial_complex = 2
+			}
+		}
+ 
+}

@@ -1,0 +1,29 @@
+state={
+	id=413
+	name="STATE_413"
+	provinces={
+		298 2054 2248 3082 3353 5925 6170 7699 8361 9166 13507 13663 
+	}
+	buildings_max_level_factor=1.000
+        manpower=35400
+                 state_category = rural
+	resources={
+		steel=0 #钢铁
+		tungsten = 0 #妖石
+		chromium = 4 #灵气
+		rubber=0 #农产品
+		aluminium=0 #其他金属
+		oil = 0 #伊奘诺物质
+	}		history = {
+			owner = YYK
+			add_core_of = YYK
+			victory_points = {  298 1 }
+			buildings = {
+				infrastructure = 0
+				air_base = 0
+				arms_factory = 0
+				industrial_complex = 0
+			}
+		}
+ 
+}

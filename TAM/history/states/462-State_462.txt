@@ -1,0 +1,29 @@
+state={
+	id=462
+	name="STATE_462"
+	provinces={
+		734 1785 2069 2280 3205 3273 3318 5142 13880 13881 13890 13996 14132 
+	}
+	buildings_max_level_factor=1.000
+        manpower=2019
+                 state_category = rural
+	resources={
+		steel=0 #钢铁
+		tungsten = 0 #妖石
+		chromium = 0 #灵气
+		rubber=0 #农产品
+		aluminium=0 #其他金属
+		oil = 0 #伊奘诺物质
+	}		history = {
+			owner = WHR
+			add_core_of = WHR
+			victory_points = { 734  1 }
+			buildings = {
+				infrastructure = 0
+				air_base = 0
+				arms_factory = 0
+				industrial_complex = 0
+			}
+		}
+ 
+}

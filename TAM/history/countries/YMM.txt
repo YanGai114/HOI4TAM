@@ -1,0 +1,39 @@
+﻿capital = 1
+
+146.1.1 = {
+    set_technology = {
+            ########通用低级水平灵力科技########
+            spear1 =1
+            linglizhufu =1
+            spell_card1 =1
+            tech_support =1
+                          
+               
+            
+    }
+    
+}
+
+138.1.1={
+    oob = "YMM_146"
+    add_ideas = {
+        Youkai
+        Village
+        open1
+        dove2
+        strict_border
+        free_magic
+    }
+    set_politics = {
+        ruling_party = guli
+        election_frequency = 48
+        elections_allowed = no
+    }
+    set_popularities = {
+        qinwai = 13
+        guli = 80
+        neworder = 2
+        oldorder = 0
+        fandong = 5
+    }
+}

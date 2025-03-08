@@ -1,0 +1,29 @@
+state={
+	id=130
+	name="STATE_130"
+	provinces={
+		553 555 854 1511 1574 1707 2076 3007 6219 6457 7410 7827 9591 11367 11400 11416 11450 11466 11506 11519 
+	}
+	buildings_max_level_factor=1.000
+        manpower=1727
+                 state_category = rural
+	resources={
+		steel=0 #钢铁
+		tungsten = 0 #妖石
+		chromium = 0 #灵气
+		rubber=0 #农产品
+		aluminium=0 #其他金属
+		oil = 0 #伊奘诺物质
+	}		history = {
+			owner = UTH
+			add_core_of = UTH
+			victory_points = { 553  1 }
+			buildings = {
+				infrastructure = 0
+				air_base = 0
+				arms_factory = 0
+				industrial_complex = 0
+			}
+		}
+ 
+}

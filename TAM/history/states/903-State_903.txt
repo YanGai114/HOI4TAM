@@ -1,0 +1,29 @@
+state={
+	id=903
+	name="STATE_903"
+	provinces={
+		461 669 1205 1508 1581 2171 2420 2617 4161 4962 5701 6053 6166 6366 7118 7226 7512 7786 8337 8498 8695 9269 9808 9902 9969 10288 10336 10451 16883 16904 16916 16924 16949 16952 16958 16992 16994 17006 17020 17021 17026 17040 17042 17048 17070 17071 17074 17080 17091 17104 17121 17151 17156 17177 17180 17183 17208 
+	}
+	buildings_max_level_factor=1.000
+        manpower=558999
+                 state_category = megalopolis
+	resources={
+		steel=0 #钢铁
+		tungsten = 0 #妖石
+		chromium = 0 #灵气
+		rubber=0 #农产品
+		aluminium=0 #其他金属
+		oil = 0 #伊奘诺物质
+	}		history = {
+			owner = HUM
+			add_core_of = HUM
+			victory_points = { 2617  40 }
+			buildings = {
+				infrastructure = 5
+				air_base = 0
+				arms_factory = 2
+				industrial_complex = 7
+			}
+		}
+ 
+}

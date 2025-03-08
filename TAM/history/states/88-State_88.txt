@@ -1,0 +1,29 @@
+state={
+	id=88
+	name="STATE_88"
+	provinces={
+		2097 4916 
+	}
+	buildings_max_level_factor=1.000
+        manpower=33877
+                 state_category = rural
+	resources={
+		steel=0 #钢铁
+		tungsten = 0 #妖石
+		chromium = 0 #灵气
+		rubber=0 #农产品
+		aluminium=0 #其他金属
+		oil = 0 #伊奘诺物质
+	}		history = {
+			owner = UUG
+			add_core_of = UUG
+			victory_points = {  2097 15 }
+			buildings = {
+				infrastructure = 1
+				air_base = 0
+				arms_factory = 1
+				industrial_complex = 1
+			}
+		}
+ 
+}

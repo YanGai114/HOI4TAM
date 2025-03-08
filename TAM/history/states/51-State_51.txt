@@ -1,0 +1,29 @@
+state={
+	id=51
+	name="STATE_51"
+	provinces={
+		114 388 929 1330 2462 2865 3499 5137 8336 8772 10990 11056 11064 
+	}
+	buildings_max_level_factor=1.000
+        manpower=10289
+                 state_category = rural
+	resources={
+		steel=0 #钢铁
+		tungsten = 0 #妖石
+		chromium = 0 #灵气
+		rubber=0 #农产品
+		aluminium=0 #其他金属
+		oil = 0 #伊奘诺物质
+	}		history = {
+			owner = UNL
+			add_core_of = UNL
+			victory_points = { 114  1 }
+			buildings = {
+				infrastructure = 0
+				air_base = 0
+				arms_factory = 0
+				industrial_complex = 0
+			}
+		}
+ 
+}

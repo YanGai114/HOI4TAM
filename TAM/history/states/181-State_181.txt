@@ -1,0 +1,29 @@
+state={
+	id=181
+	name="STATE_181"
+	provinces={
+		933 1050 2724 3404 4884 5668 5979 6079 6189 6209 7447 8254 8417 8690 9264 10718 11638 11670 11775 11779 11819 11926 11927 11936 11946 
+	}
+	buildings_max_level_factor=1.000
+        manpower=19788
+                 state_category = town
+	resources={
+		steel=0 #钢铁
+		tungsten = 0 #妖石
+		chromium = 0 #灵气
+		rubber=3 #农产品
+		aluminium=2 #其他金属
+		oil = 92 #伊奘诺物质
+	}		history = {
+			owner = GRS
+			add_core_of = GRS
+			victory_points = { 933 4 }
+			buildings = {
+				infrastructure = 3
+				air_base = 0
+				arms_factory = 2
+				industrial_complex = 2
+			}
+		}
+ 
+}

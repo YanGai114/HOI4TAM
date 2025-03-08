@@ -1,0 +1,34 @@
+
+state={
+	id=509
+	name="STATE_509"
+	resources={
+		steel=0 #钢铁
+		tungsten = 0 #妖石
+		chromium = 2 #灵气
+		rubber=5 #农产品
+		aluminium=0 #其他金属
+		oil = 0 #伊奘诺物质
+	}
+	history={
+		owner = HU3
+		add_core_of = HU3
+		buildings = {
+			infrastructure = 2
+			air_base = 0
+			arms_factory = 0
+			industrial_complex = 2
+
+		}
+		victory_points = { 10053 10 }
+
+	}
+
+	provinces={
+		367 371 639 1179 1570 2001 2310 3184 3992 5045 5082 6051 6172 6886 6918 6998 7729 7860 8947 10053 10695 14184 14243 14251 14349 14393 14401 
+	}
+	manpower=140399
+	buildings_max_level_factor=1.000
+	state_category=town
+	local_supplies=0.000
+}

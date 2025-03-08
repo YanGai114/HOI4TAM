@@ -1,0 +1,29 @@
+state={
+	id=696
+	name="STATE_696"
+	provinces={
+		3401 3495 7785 8250 9290 9676 15288 15347 15431 15453 15497 15524 
+	}
+	buildings_max_level_factor=1.000
+        manpower=10033
+                 state_category = rural
+	resources={
+		steel=0 #钢铁
+		tungsten = 0 #妖石
+		chromium = 2 #灵气
+		rubber=6 #农产品
+		aluminium=0 #其他金属
+		oil = 0 #伊奘诺物质
+	}		history = {
+			owner = PEA
+			add_core_of = PEA
+			victory_points = {3401  1 }
+			buildings = {
+				infrastructure = 0
+				air_base = 0
+				arms_factory = 0
+				industrial_complex = 0
+			}
+		}
+ 
+}

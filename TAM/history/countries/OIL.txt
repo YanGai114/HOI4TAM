@@ -1,0 +1,35 @@
+﻿capital = 73
+146.1.1 = {
+    set_technology = {
+########通用低级水平灵力科技########
+spear1 =1
+linglizhufu =1
+spell_card1 =1
+tech_support =1
+                
+    }
+    
+}
+146.1.1={
+    oob = "OIL_146"
+    add_ideas = {
+        Ghost
+        Tribal
+        dove1
+        open0
+        strict_border
+        free_magic
+    }
+    set_politics = {
+    	ruling_party = neworder
+    	election_frequency = 48
+    	elections_allowed = no
+    }
+    set_popularities = {
+        qinwai = 0
+        guli = 25
+        neworder = 75
+        oldorder = 0
+        fandong = 0
+    }
+}

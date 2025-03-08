@@ -1,0 +1,29 @@
+state={
+	id=544
+	name="STATE_544"
+	provinces={
+		3420 4651 5633 6985 8006 8339 9524 14248 14315 14472 
+	}
+	buildings_max_level_factor=1.000
+        manpower=6600
+                 state_category = rural
+	resources={
+		steel=0 #钢铁
+		tungsten = 0 #妖石
+		chromium = 5 #灵气
+		rubber=0 #农产品
+		aluminium=0 #其他金属
+		oil = 7 #伊奘诺物质
+	}		history = {
+			owner = SEJ
+			add_core_of = SEJ
+			victory_points = { 3420  1 }
+			buildings = {
+				infrastructure = 0
+				air_base = 0
+				arms_factory = 0
+				industrial_complex = 0
+			}
+		}
+ 
+}

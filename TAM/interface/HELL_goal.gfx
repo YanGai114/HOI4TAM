@@ -1,0 +1,38 @@
+	spriteTypes = {
+	spriteType = {
+		name = "HGH-1-1"
+		texturefile = "gfx/interface/goals/HGH-1-1.png"
+	}
+	spriteType = {
+		name = "HGH-1-5"
+		texturefile = "gfx/interface/goals/HGH-1-5.png"
+	}
+	spriteType = {
+		name = "HGH-1-2"
+		texturefile = "gfx/interface/goals/HGH-1-2.png"
+	}
+	spriteType = {
+		name = "HGH-1-4"
+		texturefile = "gfx/interface/goals/HGH-1-4.png"
+	}
+	spriteType = {
+		name = "HGH-1-6"
+		texturefile = "gfx/interface/goals/HGH-1-6.png"
+	}
+	spriteType = {
+		name = "HGH-1-7"
+		texturefile = "gfx/interface/goals/HGH-1-7.png"
+	}
+	spriteType = {
+		name = "HGH-1-8"
+		texturefile = "gfx/interface/goals/HGH-1-8.png"
+	}
+	spriteType = {
+		name = "HGH-1-3"
+		texturefile = "gfx/interface/goals/HGH-1-3.png"
+	}
+		spriteType = {
+		name = "SKI-1-1"
+		texturefile = "gfx/interface/goals/SKI-1-1.png"
+	}
+}

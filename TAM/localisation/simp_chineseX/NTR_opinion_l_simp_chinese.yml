@@ -1,0 +1,130 @@
+﻿l_simp_chinese:
+
+ntr_fanzhansichao.tt:0 "§R如果我们在战争时还保持着这样的民族精神，后果将不堪设想。§!\n "
+
+NTR_tongguoyujingfaan.tt:0 "§Y如果我们拥有二级及以上动员法案，我们会得到30政治点和5%战争支持度。§!\n "
+
+NTR_pai:0 "§Y国内派别声势与革命热情§!"
+NTR_pai_desc:0 "以下你会看到国内三个主要派别的声势，同时还有一个代表当前革命热情的表盘。当它处于§Y1~5档§!时，表示我们国内的革命热情§0极低§!；当处于§Y6~9档§!时，表示我们国内的革命热情§1低§!；以此类推在第§Y10~12档，13~16档，17~21档§!时，我们国内的革命热情分别是平淡、§Y高§!、§R爆表§!。我们国内的革命热情关系到妖怪山战争结束前的§Y民族精神与政治生态§!。\n 需要注意的是：虽然我们总是希望国内的人民都对革命怀有热情，但革命热情并不是越高越好，要知道我们掀起的是一场民主自由的革命，而不是其他什么更极端的革命。我们需要尽量维持在§Y高§!的水平，虽然当革命热情§R爆表§!的时候我们能获得更大的加成，但§7准则派§!会在政府改组前带来持续的暴动与破坏；当革命热情§R高于或等于第19档§!的时候，§7准则派§!将要求听取民意的河童临时政府接受战后政府重组。\n 我们国内明面上的三个派别声势分别对应的是各自支持率，而§1正统派§!，§R重工派§!与§G黄瓜派§!将分别根据其声势提供0.6，0.8，0.7的革命热情加成。\n\n 目前§1正统派§!的声势是：[?NTR.NTR_zhengtong]，革命热情加成为：：[?NTR.NTR_zhengtong0]\n目前§R重工派§!的声势是：[?NTR.NTR_zhonggong]，革命热情加成为：：[?NTR.NTR_zhonggong0] \n 目前§G黄瓜派§!的声势是：[?NTR.NTR_huanggua]，革命热情加成为：：[?NTR.NTR_huanggua0]"
+
+NTR_shiluludehuoju.tt:0 "§Y和解派对革命热情的影响会降低 10 。§!\n "
+NTR_chongjianxuanwuchuan.tt:0 "§Y我们所拥有的一切核心领土都将增加2建筑位，1基础设施与1民用工厂。§!\n "
+
+NTR_dangwei_text:0 "当前革命热情处于第§Y [?NTR.NTR_jijindu] §!级档位"
+
+NTR_gongsheyongcun.tt:0 "§Y一切非激进、改良的势力我们都将敌对，但老话重提：这没什么好怕的。§!\n "
+
+NTR_dangwei_text_2:0 "[Root.NTR_dangwei_text2]"
+
+NTR_dangwei_text2_1:0 "革命热情：§0极低§!"
+NTR_dangwei_text2_2:0 "革命热情：§1低§!"
+NTR_dangwei_text2_3:0 "革命热情：平淡"
+NTR_dangwei_text2_4:0 "革命热情：§Y高§!"
+NTR_dangwei_text2_5:0 "革命热情：§R爆表§!"
+
+NTR_dangwei_text_3:0 "除了国内派别提供的革命热情外，\n 还有其他影响因素：\n\n 和解派影响：§0降低[?ntr.NTR_hejiepai0]§!\n 战争支持度影响：§Y[?ntr.ntr_zhanzhi]§!\n 准则派煽动：§R[?ntr.NTR_zhunzepai]§!\n\n 因此我们目前的革命热情为：[?NTR.NTR_jijindu0]\n 在2档位的基础上，\n 每5点热情将上升一档。"
+
+ntr_shiya:0 "§R准则派已经取得了她们想要的结果§!"
+
+ntr_pai2.tt:0 "准则派将在此期间§R煽动5点革命热情§!"
+ntr_pai2_1.tt:0 "准则派将在此期间§R煽动10点革命热情§!"
+ntr_pai5.tt:0 "准则派将在此期间§1降低5点革命热情§!"
+ntr_pai5_1.tt:0 "准则派将在此期间§1降低10点革命热情§!"
+
+ntr_chijiudezhanzheng1_tt:0 "§Y和解派对革命热情的负面影响将提升5点。§!"
+ntr_chijiudezhanzheng2_tt:0 "§Y和解派对革命热情的负面影响将提升10点。§!"
+ntr_chijiudezhanzheng3_tt:0 "§Y和解派对革命热情的负面影响将提升15点。§!"
+
+ntr_pai4_tt:0 "我们的革命热情已达到：§R爆表。§!"
+ntr_pai4_1.tt:0 "我们的革命热情已达到：§Y高。§!"
+
+ntr_pai6_t:0 "提升§1正统派§!声势"
+ntr_pai7_t:0 "提升§R重工派§!声势"
+ntr_pai8_t:0 "提升§G黄瓜派§!声势"
+
+NTR_zhanzheng:0 "§Y妖怪山战争中的河童§!"
+NTR_zhanzheng_desc:0 "当战争爆发后，我们可以凭借国家的革命热情来实施一些战时决策。"
+
+ntr_pai1_1.tt:0 "§Y革命热情不为：爆表§!"	
+
+ntr_tisheng_flag:0 "§Y正在提升其他派别声势§!"
+
+NTR_huangguazhongzhiyuan.tt:0 "§Y虽然黄瓜温室在河童长老会手里，但我们依旧会尝试在瀑布村落修建新的黄瓜种植园。§!\n "
+
+NTR_ziyouhetong:0 "自由河共"
+NTR_ziyouhetong_ADJ:0 "自由河共"
+NTR_ziyouhetong_DEF:0 "自由河共"  
+
+NTR_zhanzheng5_flag:0 "战争终于结束了"
+
+NTR_qianzhuguojingfa.tt:0 "§Y这将使我们的革命热情直接上涨10点。§!\n "  
+NTR_womendejijia.tt:0 "如果我们已经拥有§Y153季度机甲§!科技，则将直接获得减少§G1.5年§!超前惩罚并获得§G100%§!对下次§Y机甲§!科技的研究。\n "  
+NTR_minzugongheqizhi.tt:0 "§Y我们将获得一个四步二炮一前线指挥的编制。§!\n "
+NTR_zhunbeizuoshusiwankang.tt:0 "§Y如果我们没有非好战种族体系4及以上等级人力法案，则将直接调整至4级人力法案，如果此时为4级及以上人力法案，则将把经济法案调整至战时经济。§!\n "
+ntr_zhiyuanqianxian.tt:0 "§Y将持续到战争结束。§!\n "
+
+NTR_gongnonghuzhuhui_modifier:0 "工农互助会"
+
+NTR_gongshe:0 "河童公社"
+NTR_gongshe_ADJ:0 "河童公社"
+NTR_gongshe_DEF:0 "河童公社"  
+NTR_minzuguo:0 "河童民族国"
+NTR_minzuguo_ADJ:0 "河童民族国"
+NTR_minzuguo_DEF:0 "河童民族国"
+NTR_xuanwuchuangongheguo:0 "玄武川共和国"
+NTR_xuanwuchuangongheguo_ADJ:0 "玄武川共和国"
+NTR_xuanwuchuangongheguo_DEF:0 "玄武川共和国"
+NTR_dahetongguo:0 "大河童国"
+NTR_dahetongguo_ADJ:0 "大河童国"
+NTR_dahetongguo_DEF:0 "大河童国"
+NTR_minzuguo2:0 "河童天选国"
+NTR_minzuguo2_ADJ:0 "河童天选国"
+NTR_minzuguo2_DEF:0 "河童天选国"
+
+
+NTR_gongnongyehuzhuhui.tt:0 "§Y提升5%民用工厂建设速度，5%工厂产出与10%生产上限§!"
+NTR_boxiagemingzhongzi.tt:0 "工农互助会，§Y提升5%民用工厂建设速度，5%生产上限，-10%轰炸易损度与2%生活消费品§!"
+NTR_dazaogemingwuqi.tt:0 "工农互助会，§Y提升5%军用工厂建设速度，5%工厂产出，-10%部队补给消耗与4%生活消费品§!"
+NTR_gulishengchanzizhu.tt:0 "工农互助会，§Y提升10%维修速度，15%资源获取率§!"
+
+NTR_huangguapaishengli.tt:0 "§G黄瓜派§!声势最高"
+NTR_zhonggongpaishengli.tt:0 "§R重工派§!声势最高"
+ NTR_gonghepaishengli.tt:0 "§1正统派§!声势最高"
+NTR_guojiazhuanxing.tt:0 "§Y效果会因当前执政的意识形态有关。§!\n "
+NTR_zouchubutongyutiangouzhilu.tt:0 "§Y想要独立发展乃至于赶超天狗，我们还有很多工作要做，首先就是教育与科技的发展。§!\n "
+NTR_kaiqiguoyouhuadaolu.tt:0 "§Y我们所有的核心地区都将增加一个建筑位，随机地区成立一座民用工厂。§!\n "
+
+NTR_emodeyanjingzhuanxiangdongfang_tt:0 "§Y谁才是真正的恶魔？§!\n "
+ NTR_hechengweidui.tt:0 "§Y她们将在妖怪树海集结。§!\n "
+
+
+NTR_guli_party:0 "黄瓜派"
+NTR_guli_party_long:0 "黄瓜派"
+NTR_fandong_party:0 "重工派"
+NTR_fandong_party_long:0 "重工派"
+NTR_qinwai_party:0 "正统派"
+NTR_qinwai_party_long:0 "正统派"
+NTR_neworder_party:0 "河童至上派"
+NTR_neworder_party_long:0 "河童至上派"
+NTR_oldgenso_party:0 "万族往复派"
+NTR_oldgenso_party_long:0 "万族往复派"
+NTR_oldorder_party:0 "准则派"
+NTR_oldorder_party_long:0 "准则派"
+NTR_renmin_party:0 "人民派"
+NTR_renmin_party_long:0 "人民派"
+
+
+NTR_gongyexiehui_modifier:0 "河童工业协会"
+NTR_guojiagongyejigou.tt:0 "§Y提升5%建设速度，5%生产效率与10%地区最大工业值§!"
+NTR_hetongzhonggong.tt:0 "工业协会，§Y提升5%建设速度，5%军用工厂建设速度，5%地区最大工业值与3%生活消费品§!"
+NTR_minzhugongchang.tt:0 "工业协会，§Y提升5%民用工厂建设速度，10%工厂产出，5%生产上限§!与4%生活消费品§!"
+
+NTR_DAWN_DESC:0 "玄武川平等地降下它的恩赐，然而山上却滚落下分歧的种子。\n 欢迎来到河童之地！与被赋予知识的神明不同，矮小的河童们用有限的生命，无限的探索精神，一代代追求知识的毅力，让属于凡间的科学举世闻名；跟山上古老传奇的天狗相比，河童虽不能飞行但她们并不缺乏直冲云霄的勇气。河童们本可以继续在自己的道路上开拓前进，直到那一天的来临...\n 从一场争吵，一次纠纷，到点爆火药桶，群山震动。这个过程虽然很短，但依然会持续好几年。河童们知道独立的意义，她们却直到现在还没能真正独立，哪怕已经国土分裂，同室操戈。共和是什么，神权是什么，封建又是什么。西边，北边，南边的思潮与我们所追求的科研精神又有什么联系，我们为什么要对自己的同胞扣下扳机？河城荷取没有给出她的答案，玄武川在炮火下也沉默不已。\n\n 河童们来不及思考便举起武器，恍惚间已经到了如今。\n\n 啊，146季，她们正年轻。"
+
+
+introduce_NTR_page1:0 "§3[NTR.GetFlag][NTR.GetName]§!的§Y[NTR.GetLeader]§!是河童们公认的领袖，所以当她带领河童平民反对长老会时，仍然得到了众多河童的支持。虽然支持她的原因各不相同，但最初所谓的“革命”还是进行的比较顺利，§3[NTR.GetFlag][NTR.GetName]§!河城荷取以及她的支持者们得到了玄武川南岸的工业基地与大部分河童村落，甚至隐隐有将要成功的态势——直到战争扩大。\n 南方的河童军队收到了山上§R[TEG.GetFlag][TEG.GetName]§!的援助，但相应地，北方的长老会身后立马就浮现了一个来自庞然大物的凝视——§Y[MRY.GetFlag][MRY.GetName]§!——我们原先的信仰，我们如今的死敌。\n 自此，当我们的朋友与对岸的朋友用武器打招呼的时候，我们还是想象不了天狗们如何能对她们自己的同族下手。我们并不认为自己正在革命，所以大概其他国家也不能理解我们河童正在做的事。\n 但现在事实已经由不得我们说了算。幻想乡其他国家认为§3[NTR.GetFlag][NTR.GetName]§!正在进行一场史无前例的革命，矮小的河童举起武器反抗压迫与剥削，蓝黄色的旗帜在玄武川如丧家之犬在游荡，伴随着战火，作为§R[TEG.GetFlag][TEG.GetName]§!的随从，与长老会死战到底。但是在我们河童眼里，那些“幻想乡其他国家”都是一群最无耻的干涉者和战争犯。\n 我们的土地，从物质上到精神上，已经开始分崩离析。北方的长老会已经决定继续追随守矢信仰，而我们，我们不得不继续接受来自§R[TEG.GetFlag][TEG.GetName]§!的干涉，并任由所谓的“外界民主思想”来催生内在的“正统派”。\n §R[TEG.GetFlag][TEG.GetLeader]§!，我们同意与你签订条约，我们也将不得不自愿与你们结成统一战线，为了我们曾经的友谊，为了现在共有的敌人，为了即将流下的更多的血，河童们将这杯苦酒痛饮。\n\n 我们绝不会忘记自己的盟友。\n\n 但是，我们也永远不会忘记为河童同胞们复仇......"
+
+
+#tt
+NTR_eryue_tt:0"§R稳定的局势使得二月党人推翻了准则派。§!"
+NTR_zhuize_tt:0"§R混乱的局势使得二月党人尚未团结起来。§!"

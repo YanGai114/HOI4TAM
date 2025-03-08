@@ -1,0 +1,29 @@
+state={
+	id=714
+	name="STATE_714"
+	provinces={
+		2353 3864 6448 15419 
+	}
+	buildings_max_level_factor=1.000
+        manpower=10981
+                 state_category = city
+	resources={
+		steel=0 #钢铁
+		tungsten = 0 #妖石
+		chromium = 0 #灵气
+		rubber=0 #农产品
+		aluminium=0 #其他金属
+		oil = 0 #伊奘诺物质
+	}		history = {
+			owner = HYA
+			add_core_of = HYA
+			victory_points = { 2353 1 }
+			buildings = {
+				infrastructure = 0
+				air_base = 0
+				arms_factory = 0
+				industrial_complex = 0
+			}
+		}
+ 
+}

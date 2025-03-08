@@ -1,0 +1,29 @@
+state={
+	id=416
+	name="STATE_416"
+	provinces={
+		4958 8914 13420 13530 
+	}
+	buildings_max_level_factor=1.000
+        manpower=10277
+                 state_category = town
+	resources={
+		steel=0 #钢铁
+		tungsten = 0 #妖石
+		chromium = 2 #灵气
+		rubber=1 #农产品
+		aluminium=0 #其他金属
+		oil = 0 #伊奘诺物质
+	}		history = {
+			owner = GYK
+			add_core_of = GYK
+			victory_points = { 4958  10 }
+			buildings = {
+				infrastructure = 0
+				air_base = 0
+				arms_factory = 0
+				industrial_complex = 0
+			}
+		}
+ 
+}

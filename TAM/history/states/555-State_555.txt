@@ -1,0 +1,29 @@
+state={
+	id=555
+	name="STATE_555"
+	provinces={
+		2153 3966 6584 14286 14407 14505 
+	}
+	buildings_max_level_factor=1.000
+        manpower=5875
+                 state_category = rural
+	resources={
+		steel=0 #钢铁
+		tungsten = 0 #妖石
+		chromium = 0 #灵气
+		rubber=0 #农产品
+		aluminium=0 #其他金属
+		oil = 0 #伊奘诺物质
+	}		history = {
+			owner = HID
+			add_core_of = HID
+			victory_points = {  2153 1 }
+			buildings = {
+				infrastructure = 0
+				air_base = 0
+				arms_factory = 0
+				industrial_complex = 0
+			}
+		}
+ 
+}

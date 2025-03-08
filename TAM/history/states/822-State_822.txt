@@ -1,0 +1,29 @@
+state={
+	id=822
+	name="STATE_822"
+	provinces={
+		1070 1310 3484 5341 6013 6917 16419 
+	}
+	buildings_max_level_factor=1.000
+        manpower=354
+                 state_category = rural
+	resources={
+		steel=0 #钢铁
+		tungsten = 19 #妖石
+		chromium = 10 #灵气
+		rubber=0 #农产品
+		aluminium=0 #其他金属
+		oil = 0 #伊奘诺物质
+	}		history = {
+			owner = HKR
+			add_core_of = HKR
+			victory_points = { 1070  1 }
+			buildings = {
+				infrastructure = 0
+				air_base = 0
+				arms_factory = 0
+				industrial_complex = 0
+			}
+		}
+ 
+}

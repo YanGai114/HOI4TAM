@@ -1,0 +1,29 @@
+state={
+	id=859
+	name="STATE_859"
+	provinces={
+		635 807 972 1555 2581 4589 4939 5775 6611 8050 16549 16588 16597 16681 16688 16729 16767 16784 16826 16879 
+	}
+	buildings_max_level_factor=1.000
+        manpower=3111
+                 state_category = rural
+	resources={
+		steel=0 #钢铁
+		tungsten = 0 #妖石
+		chromium = 0 #灵气
+		rubber=4 #农产品
+		aluminium=0 #其他金属
+		oil = 0 #伊奘诺物质
+	}		history = {
+			owner = RNS
+			add_core_of = RNS
+			victory_points = {4589   1 }
+			buildings = {
+				infrastructure = 0
+				air_base = 0
+				arms_factory = 0
+				industrial_complex = 0
+			}
+		}
+ 
+}

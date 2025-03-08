@@ -1,0 +1,45 @@
+capital = 494
+
+146.1.1 = {
+    set_technology = {
+                                         ########通用低级水平混合科技########
+                                         spear1 =1
+                                         linglizhufu =1
+                                         tech_support =1
+                                         basic_train = 1
+                                         infantry_weapons =1
+                          
+    }
+    
+}
+
+load_oob = "MOR_146"
+    set_major = no
+    add_manpower = 2000
+    # set_research_slots = 0
+    add_ideas = {
+        Magician
+        isolation
+        Village
+        hawk2
+        close4
+        strict_border
+        sc_rule
+    }
+    add_ideas = {
+        mok_tuisangdezijingdui
+        mok_zhanzhengzhong
+    }
+    set_politics = {
+        ruling_party = guli
+        election_frequency = 48
+        elections_allowed = no
+    }
+    set_popularities = {
+        qinwai = 0
+        guli = 100
+        neworder = 0
+        oldorder = 0
+        fandong = 0
+    }
+

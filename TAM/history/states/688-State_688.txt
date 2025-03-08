@@ -1,0 +1,29 @@
+state={
+	id=688
+	name="STATE_688"
+	provinces={
+		842 2955 4311 5825 6164 9345 15236 15297 15373 15434 15445 
+	}
+	buildings_max_level_factor=1.000
+        manpower=1100
+                 state_category = rural
+	resources={
+		steel=0 #钢铁
+		tungsten = 0 #妖石
+		chromium = 2 #灵气
+		rubber=0 #农产品
+		aluminium=0 #其他金属
+		oil = 0 #伊奘诺物质
+	}		history = {
+			owner = ALI
+			add_core_of = ALI
+			victory_points = { 842  1 }
+			buildings = {
+				infrastructure = 0
+				air_base = 0
+				arms_factory = 0
+				industrial_complex = 0
+			}
+		}
+ 
+}

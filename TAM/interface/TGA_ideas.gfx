@@ -1,0 +1,79 @@
+spriteTypes = {
+  SpriteType = {
+    name  =  "GFX_idea_HUM_Literary_Research_Group_idea"
+    texturefile  =  "gfx/interface/ideas/HUM/HUM_Literary_Research_Group_idea.png"
+  }
+  SpriteType = {
+    name  =  "GFX_idea_HUM_Old_War_idea"
+    texturefile  =  "gfx/interface/ideas/HUM/HUM_Old_War_idea.png"
+  }
+  SpriteType = {
+    name  =  "GFX_idea_HUM_War_of_Movement_idea"
+    texturefile  =  "gfx/interface/ideas/HUM/HUM_War_of_Movement_idea.png"
+  }
+  SpriteType = {
+    name  =  "GFX_idea_HUM_Old_Life_idea"
+    texturefile  =  "gfx/interface/ideas/HUM/HUM_Old_Life_idea.png"
+  }
+  SpriteType = {
+    name  =  "GFX_idea_HUM_Art_of_Life_idea"
+    texturefile  =  "gfx/interface/ideas/HUM/HUM_Art_of_Life_idea.png"
+  }
+  SpriteType = {
+    name  =  "GFX_idea_HUM_External_life_idea"
+    texturefile  =  "gfx/interface/ideas/HUM/HUM_External_life_idea.png"
+  }
+  SpriteType = {
+    name  =  "GFX_idea_HUM_Give_a_slap_in_the_face_to_past_life_idea"
+    texturefile  =  "gfx/interface/ideas/HUM/HUM_Give_a_slap_in_the_face_to_past_life_idea.png"
+  }
+  SpriteType = {
+    name  =  "GFX_idea_HUM_Old_technology_idea"
+    texturefile  =  "gfx/interface/ideas/HUM/HUM_Old_technology_idea.png"
+  }
+  SpriteType = {
+    name  =  "GFX_idea_HUM_Emphasize_education_idea"
+    texturefile  =  "gfx/interface/ideas/HUM/HUM_Emphasize_education_idea.png"
+  }
+  SpriteType = {
+    name  =  "GFX_idea_HUM_Create_to_the_fullest_idea"
+    texturefile  =  "gfx/interface/ideas/HUM/HUM_Create_to_the_fullest_idea.png"
+  }
+  SpriteType = {
+    name  =  "GFX_idea_HUM_The_Legacy_of_War_idea"
+    texturefile  =  "gfx/interface/ideas/HUM/HUM_The_Legacy_of_War_idea.png"
+  }
+  SpriteType = {
+    name  =  "GFX_idea_HUM_Defend_the_village_idea"
+    texturefile  =  "gfx/interface/ideas/HUM/HUM_Defend_the_village_idea.png"
+  }
+  SpriteType = {
+    name  =  "GFX_idea_HUM_Human_War_idea"
+    texturefile  =  "gfx/interface/ideas/HUM/HUM_Human_War_idea.png"
+  }
+  SpriteType = {
+    name  =  "GFX_idea_HUM_industrialize_idea"
+    texturefile  =  "gfx/interface/ideas/HUM/HUM_industrialize_idea.png"
+  }
+  SpriteType = {
+    name  =  "GFX_idea_HUM_Our_future_idea"
+    texturefile  =  "gfx/interface/ideas/HUM/HUM_Our_future_idea.png"
+  }
+  SpriteType = {
+    name  =  "GFX_idea_HUM_The_Glory_of_Labor_idea"
+    texturefile  =  "gfx/interface/ideas/HUM/HUM_The_Glory_of_Labor_idea.png"
+  }
+  SpriteType = {
+    name  =  "GFX_idea_HUM_We_are_like_poetry_idea"
+    texturefile  =  "gfx/interface/ideas/HUM/HUM_We_are_like_poetry_idea.png"
+  }
+  SpriteType = {
+    name  =  "GFX_idea_HUM_Destroy_the_Old_World_idea"
+    texturefile  =  "gfx/interface/ideas/HUM/HUM_Destroy_the_Old_World_idea.png"
+  }
+  SpriteType = {
+    name  =  "GFX_idea_HUM_Our_Modern_idea"
+    texturefile  =  "gfx/interface/ideas/HUM/HUM_Our_Modern_idea.png"
+  }
+  
+}

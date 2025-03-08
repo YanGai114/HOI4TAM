@@ -1,0 +1,29 @@
+state={
+	id=269
+	name="STATE_269"
+	provinces={
+		212 599 3192 3425 4468 5473 5591 6525 12483 12497 12653 12670 
+	}
+	buildings_max_level_factor=1.000
+        manpower=12200
+                 state_category = town
+	resources={
+		steel=0 #钢铁
+		tungsten = 0 #妖石
+		chromium = 0 #灵气
+		rubber=7 #农产品
+		aluminium=0 #其他金属
+		oil = 0 #伊奘诺物质
+	}		history = {
+			owner = SEJ
+			add_core_of = SEJ
+			victory_points = { 212  10 }
+			buildings = {
+				infrastructure = 3
+				air_base = 0
+				arms_factory = 1
+				industrial_complex = 2
+			}
+		}
+ 
+}

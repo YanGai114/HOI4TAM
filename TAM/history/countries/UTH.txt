@@ -1,0 +1,38 @@
+﻿capital = 165
+146.1.1 = {
+    set_technology = {
+########通用低级水平灵力科技########
+spear1 =1
+linglizhufu =1
+spell_card1 =1
+tech_support =1
+            #############666666
+            atomic_research =1  
+    }
+    
+}
+146.1.1={
+    oob = "UTH_146"
+    
+    add_ideas = {
+    manpowerlv1
+    Beast
+    Village
+    close2
+    hawk0
+    strict_border
+    free_magic
+    }
+    set_politics = {
+    	ruling_party = guli
+    	election_frequency = 48
+    	elections_allowed = no
+    }
+    set_popularities = {
+        qinwai = 0
+        guli = 80
+        neworder = 0
+        oldorder = 0
+        fandong = 20
+    }
+}

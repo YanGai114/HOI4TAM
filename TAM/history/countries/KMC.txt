@@ -1,0 +1,53 @@
+﻿capital = 556
+138.8.13 = {
+
+}
+141.6.2 = {
+    
+}
+142.3.8 = {
+    
+}
+144.2.5 = {
+    
+}
+146.1.1 = {
+    set_technology = {
+                       ########通用中等水平灵力科技########
+                       spear1 =1
+                       linglizhufu =1
+                       spell_card1 =1
+                       tech_support =1
+                       spear2 =1
+                       ma_shield1 =1
+                       linglicunchu =1
+                       spell_card2 =1
+                       lingliliushuixian =1
+            
+    }
+    
+}
+146.1.1={
+    oob = "KMC_146"
+    add_ideas = {
+    God
+    Village
+    dove1
+    close1
+    strict_border
+    limit_magic
+HELL_yushigejue
+    }
+    set_politics = {
+    	ruling_party = guli
+    	election_frequency = 48
+    	elections_allowed = no
+    }
+    set_popularities = {
+        qinwai = 9
+        guli = 88
+        neworder = 0
+        oldorder = 0
+        fandong = 3
+    }
+}

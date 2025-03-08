@@ -1,0 +1,29 @@
+state={
+	id=407
+	name="STATE_407"
+	provinces={
+		1006 1379 1968 4406 4996 5723 5812 6441 7505 7908 8362 8445 8592 9024 9107 10722 13387 13413 13452 13509 13566 13575 13595 13647 13659 13660 13709 13726 13811 
+	}
+	buildings_max_level_factor=1.000
+        manpower=7798
+                 state_category = rural
+	resources={
+		steel=0 #钢铁
+		tungsten = 2 #妖石
+		chromium = 11 #灵气
+		rubber=7 #农产品
+		aluminium=0 #其他金属
+		oil = 0 #伊奘诺物质
+	}		history = {
+			owner = SCA
+			add_core_of = SCA
+			victory_points = { 1006 1 }
+			buildings = {
+				infrastructure = 1
+				air_base = 0
+				arms_factory = 0
+				industrial_complex = 0
+			}
+		}
+ 
+}

@@ -1,0 +1,58 @@
+﻿capital = 653
+146.1.1 = {
+    set_technology = {
+     
+               ########通用中等水平混合科技########
+               spear1 =1
+               linglizhufu =1
+               spell_card1 =1
+               tech_support =1
+               spear2 =1
+               ma_shield1 =1
+               linglicunchu =1
+               spell_card2 =1
+               lingliliushuixian =1
+               basic_train = 1
+               support_weapons =1
+               infantry_weapons =1
+               infantry_weapons1 =1
+               tech_trucks =1
+
+
+    }
+    
+}
+146.1.1={
+    add_manpower = 100
+    add_ideas = {
+        type2_manpowerlv3
+        Magician
+        Tribal
+        hawk1
+        open2
+        loose_border
+        free_magic
+        MSH_ziyuanfeng_idea
+        MAF_divided_region_1
+
+        NAR_mojie_idea
+        NAR_quefajianshizhichi_idea
+    }
+    add_to_variable = {
+        MSH_boyili = 12
+    }
+    oob = "NAR_146"
+    set_politics = {
+    	ruling_party = fandong
+    	election_frequency = 48
+    	elections_allowed = no
+    }
+    set_popularities = {
+        qinwai = 0
+        guli = 25
+        neworder = 0
+        oldorder = 15
+        fandong = 45
+        oldgenso = 15
+    }
+}

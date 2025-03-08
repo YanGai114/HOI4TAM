@@ -1,0 +1,29 @@
+state={
+	id=288
+	name="STATE_288"
+	provinces={
+		1491 4426 12875 
+	}
+	buildings_max_level_factor=1.000
+        manpower=97326
+                 state_category = town
+	resources={
+		steel=0 #钢铁
+		tungsten = 0 #妖石
+		chromium = 0 #灵气
+		rubber=0 #农产品
+		aluminium=0 #其他金属
+		oil = 0 #伊奘诺物质
+	}		history = {
+			owner = GYK
+			add_core_of = GYK
+			victory_points = { 1491  10 }
+			buildings = {
+				infrastructure = 0
+				air_base = 0
+				arms_factory = 0
+				industrial_complex = 0
+			}
+		}
+ 
+}

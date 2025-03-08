@@ -1,0 +1,29 @@
+state={
+	id=713
+	name="STATE_713"
+	provinces={
+		1454 4055 4655 5350 6025 8373 9216 9295 10347 15421 15433 15482 15494 15495 15517 15549 15550 15564 15599 15600 15617 
+	}
+	buildings_max_level_factor=1.000
+        manpower=4071
+                 state_category = rural
+	resources={
+		steel=0 #钢铁
+		tungsten = 1 #妖石
+		chromium = 12 #灵气
+		rubber=0 #农产品
+		aluminium=0 #其他金属
+		oil = 4 #伊奘诺物质
+	}		history = {
+			owner = MRS
+			add_core_of = MRS
+			victory_points = { 1454  1 }
+			buildings = {
+				infrastructure = 0
+				air_base = 0
+				arms_factory = 0
+				industrial_complex = 0
+			}
+		}
+ 
+}

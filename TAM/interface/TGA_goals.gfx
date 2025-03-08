@@ -1,0 +1,142 @@
+spriteTypes = {
+  SpriteType = {
+  name  =  "GFX_HUM_Announce_our_group"
+  texturefile  =  "gfx/interface/goals/HUM_Announce_our_group.png"
+  }
+  SpriteType = {
+  name  =  "GFX_HUM_Arrest_radical"
+  texturefile  =  "gfx/interface/goals/HUM_Arrest_radical.png"
+  }
+  SpriteType = {
+  name  =  "GFX_HUM_Art_exhibitions"
+  texturefile  =  "gfx/interface/goals/HUM_Art_exhibitions.png"
+  }
+  SpriteType = {
+  name  =  "GFX_HUM_At_the_end_of_the_grave"
+  texturefile  =  "gfx/interface/goals/HUM_At_the_end_of_the_grave.png"
+  }
+  SpriteType = {
+  name  =  "GFX_HUM_A_decadent_life"
+  texturefile  =  "gfx/interface/goals/HUM_A_decadent_life.png"
+  }
+  SpriteType = {
+  name  =  "GFX_HUM_A_dilapidated_village"
+  texturefile  =  "gfx/interface/goals/HUM_A_dilapidated_village.png"
+  }
+  SpriteType = {
+  name  =  "GFX_HUM_A_stationary_war"
+  texturefile  =  "gfx/interface/goals/HUM_A_stationary_war.png"
+  }
+  SpriteType = {
+  name  =  "GFX_HUM_Destroy_the_Old_Era"
+  texturefile  =  "gfx/interface/goals/HUM_Destroy_the_Old_Era.png"
+  }
+  SpriteType = {
+  name  =  "GFX_HUM_Everyone_is_their_own_poem"
+  texturefile  =  "gfx/interface/goals/HUM_Everyone_is_their_own_poem.png"
+  }
+  SpriteType = {
+  name  =  "GFX_HUM_Futurist_Manifesto"
+  texturefile  =  "gfx/interface/goals/HUM_Futurist_Manifesto.png"
+  }
+  SpriteType = {
+  name  =  "GFX_HUM_Give_it_a_shot"
+  texturefile  =  "gfx/interface/goals/HUM_Give_it_a_shot.png"
+  }
+  SpriteType = {
+  name  =  "GFX_HUM_Give_the_village_a_slap_for_fun"
+  texturefile  =  "gfx/interface/goals/HUM_Give_the_village_a_slap_for_fun.png"
+  }
+  SpriteType = {
+  name  =  "GFX_HUM_Investigating_bookstores"
+  texturefile  =  "gfx/interface/goals/HUM_Investigating_bookstores.png"
+  }
+  SpriteType = {
+  name  =  "GFX_HUM_Investment_planning"
+  texturefile  =  "gfx/interface/goals/HUM_Investment_planning.png"
+  }
+  SpriteType = {
+  name  =  "GFX_HUM_Late_Modern"
+  texturefile  =  "gfx/interface/goals/HUM_Late_Modern.png"
+  }
+  SpriteType = {
+  name  =  "GFX_HUM_Let_the_war_movement"
+  texturefile  =  "gfx/interface/goals/HUM_Let_the_war_movement.png"
+  }
+  SpriteType = {
+  name  =  "GFX_HUM_Make_some_changes"
+  texturefile  =  "gfx/interface/goals/HUM_Make_some_changes.png"
+  }
+  SpriteType = {
+  name  =  "GFX_HUM_Our_friend"
+  texturefile  =  "gfx/interface/goals/HUM_Our_friend.png"
+  }
+  SpriteType = {
+  name  =  "GFX_HUM_Painting_Our_Future"
+  texturefile  =  "gfx/interface/goals/HUM_Painting_Our_Future.png"
+  }
+  SpriteType = {
+  name  =  "GFX_HUM_Receiving_radicals"
+  texturefile  =  "gfx/interface/goals/HUM_Receiving_radicals.png"
+  }
+  SpriteType = {
+  name  =  "GFX_HUM_Returned_land"
+  texturefile  =  "gfx/interface/goals/HUM_Returned_land.png"
+  }
+  SpriteType = {
+  name  =  "GFX_HUM_secret_letter"
+  texturefile  =  "gfx/interface/goals/HUM_secret_letter.png"
+  }
+  SpriteType = {
+  name  =  "GFX_HUM_Sing_praises_to_the_working_population"
+  texturefile  =  "gfx/interface/goals/HUM_Sing_praises_to_the_working_population.png"
+  }
+  SpriteType = {
+  name  =  "GFX_HUM_Stubborn_technology"
+  texturefile  =  "gfx/interface/goals/HUM_Stubborn_technology.png"
+  }
+  SpriteType = {
+  name  =  "GFX_HUM_Talking_about_creation"
+  texturefile  =  "gfx/interface/goals/HUM_Talking_about_creation.png"
+  }
+  SpriteType = {
+  name  =  "GFX_HUM_The_Art_of_Kitchen"
+  texturefile  =  "gfx/interface/goals/HUM_The_Art_of_Kitchen.png"
+  }
+  SpriteType = {
+  name  =  "GFX_HUM_The_future_belonging_to_humanity"
+  texturefile  =  "gfx/interface/goals/HUM_The_future_belonging_to_humanity.png"
+  }
+  SpriteType = {
+  name  =  "GFX_HUM_The_future_has_arrived"
+  texturefile  =  "gfx/interface/goals/HUM_The_future_has_arrived.png"
+  }
+  SpriteType = {
+  name  =  "GFX_HUM_The_guarantee_of_progress"
+  texturefile  =  "gfx/interface/goals/HUM_The_guarantee_of_progress.png"
+  }
+  SpriteType = {
+  name  =  "GFX_HUM_The_lifestyle_of_the_outside"
+  texturefile  =  "gfx/interface/goals/HUM_The_lifestyle_of_the_outside.png"
+  }
+  SpriteType = {
+  name  =  "GFX_HUM_The_Limit_of_Imagination"
+  texturefile  =  "gfx/interface/goals/HUM_The_Limit_of_Imagination.png"
+  }
+  SpriteType = {
+  name  =  "GFX_HUM_The_Ripples_of_War"
+  texturefile  =  "gfx/interface/goals/HUM_The_Ripples_of_War.png"
+  }
+  SpriteType = {
+  name  =  "GFX_HUM_Unable_to_stop"
+  texturefile  =  "gfx/interface/goals/HUM_Unable_to_stop.png"
+  }
+  SpriteType = {
+  name  =  "GFX_HUM_unity_against_foreign_aggression"
+  texturefile  =  "gfx/interface/goals/HUM_unity_against_foreign_aggression.png"
+  }
+  SpriteType = {
+    name  =  "GFX_XXXXX_W"
+    texturefile  =  "gfx/interface/goals/XXXXX_W.png"
+  }
+}

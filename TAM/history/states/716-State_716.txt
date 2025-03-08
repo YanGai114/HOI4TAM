@@ -1,0 +1,29 @@
+state={
+	id=716
+	name="STATE_716"
+	provinces={
+		1724 4409 6560 7564 15390 15454 15507 15546 15577 
+	}
+	buildings_max_level_factor=1.000
+        manpower=10003
+                 state_category = rural
+	resources={
+		steel=0 #钢铁
+		tungsten = 0 #妖石
+		chromium = 0 #灵气
+		rubber=4 #农产品
+		aluminium=0 #其他金属
+		oil = 0 #伊奘诺物质
+	}		history = {
+			owner = KAF
+			add_core_of = KAF
+			victory_points = {1724  1 }
+			buildings = {
+				infrastructure = 0
+				air_base = 0
+				arms_factory = 0
+				industrial_complex = 0
+			}
+		}
+ 
+}

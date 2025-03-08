@@ -1,0 +1,29 @@
+state={
+	id=961
+	name="STATE_961"
+	provinces={
+		5 525 871 1365 2081 2518 2637 3645 4597 5123 5129 5390 6017 7135 7880 8084 8146 9616 10655 17301 17353 17371 17382 17391 17407 17410 17412 17415 17444 17447 
+	}
+	buildings_max_level_factor=1.000
+        manpower=177825
+                 state_category = city
+	resources={
+		steel=0 #钢铁
+		tungsten = 0 #妖石
+		chromium = 0 #灵气
+		rubber=7 #农产品
+		aluminium=0 #其他金属
+		oil = 0 #伊奘诺物质
+	}		history = {
+			owner = RFL
+			add_core_of = RFL
+			victory_points = { 5  25 }
+			buildings = {
+				infrastructure = 4
+				air_base = 0
+				arms_factory = 0
+				industrial_complex = 3
+			}
+		}
+ 
+}

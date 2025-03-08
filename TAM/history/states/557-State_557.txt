@@ -1,0 +1,29 @@
+state={
+	id=557
+	name="STATE_557"
+	provinces={
+		5003 8158 8508 9081 10102 14275 14321 14344 14381 14382 14413 14440 
+	}
+	buildings_max_level_factor=1.000
+        manpower=1754
+                 state_category = rural
+	resources={
+		steel=0 #钢铁
+		tungsten = 0 #妖石
+		chromium = 6 #灵气
+		rubber=0 #农产品
+		aluminium=0 #其他金属
+		oil = 0 #伊奘诺物质
+	}		history = {
+			owner = MFA
+			add_core_of = MFA
+			victory_points = {  5003 1 }
+			buildings = {
+				infrastructure = 0
+				air_base = 0
+				arms_factory = 0
+				industrial_complex = 0
+			}
+		}
+ 
+}

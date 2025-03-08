@@ -1,0 +1,29 @@
+state={
+	id=687
+	name="STATE_687"
+	provinces={
+		4097 5948 7193 8923 9545 10363 15192 15310 15311 15354 
+	}
+	buildings_max_level_factor=1.000
+        manpower=16044
+                 state_category = town
+	resources={
+		steel=0 #钢铁
+		tungsten = 0 #妖石
+		chromium = 4 #灵气
+		rubber=0 #农产品
+		aluminium=0 #其他金属
+		oil = 0 #伊奘诺物质
+	}		history = {
+			owner = KAF
+			add_core_of = KAF
+			victory_points = { 4097 10 }
+			buildings = {
+				infrastructure = 2
+				air_base = 0
+				arms_factory = 1
+				industrial_complex = 1
+			}
+		}
+ 
+}

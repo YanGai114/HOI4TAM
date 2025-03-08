@@ -1,0 +1,29 @@
+state={
+	id=352
+	name="STATE_352"
+	provinces={
+		36 184 214 265 286 663 1226 1311 1357 1632 1716 1899 2180 2211 2225 2457 2635 3060 3170 3498 4407 4548 4581 4927 5077 5194 5434 5443 6314 6486 6689 7077 7324 7544 8283 9146 9434 9541 10170 10281 10365 10417 10701 13133 13402 13421 13438 13519 13550 13605 13640 13725 13746 13814 13823 13827 13952 
+	}
+	buildings_max_level_factor=1.000
+        manpower=902
+                 state_category = rural
+	resources={
+		steel=0 #钢铁
+		tungsten = 0 #妖石
+		chromium = 0 #灵气
+		rubber=0 #农产品
+		aluminium=0 #其他金属
+		oil = 0 #伊奘诺物质
+	}		history = {
+			owner = NMN
+			add_core_of = NMN
+
+			buildings = {
+				infrastructure = 0
+				air_base = 0
+				arms_factory = 0
+				industrial_complex = 0
+			}
+		}
+ 
+}

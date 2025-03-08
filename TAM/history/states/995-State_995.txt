@@ -1,0 +1,29 @@
+state={
+	id=995
+	name="STATE_995"
+	provinces={
+		4666 6954 
+	}
+	buildings_max_level_factor=1.000
+        manpower=3588
+                 state_category = rural
+	resources={
+		steel=0 #钢铁
+		tungsten = 0 #妖石
+		chromium =8 #灵气
+		rubber=0 #农产品
+		aluminium=0 #其他金属
+		oil = 0 #伊奘诺物质
+	}		history = {
+			owner = EET
+			add_core_of = EET
+			victory_points = { 4666  20 }
+			buildings = {
+				infrastructure = 0
+				air_base = 0
+				arms_factory = 0
+				industrial_complex = 0
+			}
+		}
+ 
+}

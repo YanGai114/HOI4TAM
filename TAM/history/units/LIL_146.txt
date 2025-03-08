@@ -1,0 +1,247 @@
+﻿division_template = {
+	#######莉莉白特殊
+	name = " 自卫团"
+	regiments = {
+		infantry = { x = 0 y = 0 }
+		infantry = { x = 0 y = 1 }
+		infantry = { x = 0 y = 2 }
+		infantry = { x = 0 y = 3 }
+	}
+	support = {
+	}
+}
+division_template = {
+	name = " 乐园卫队"
+	regiments = {
+		infantry = { x = 0 y = 0 }
+		infantry = { x = 0 y = 1 }
+		infantry = { x = 1 y = 0 }
+		infantry = { x = 1 y = 1 }
+		infantry = { x = 1 y = 2 }
+	}
+	support = {
+	}
+}
+units = {
+	division = {
+		name = " 自卫团"
+		location =2607
+		division_template = " 自卫团"
+		start_experience_factor = 0.1
+		start_equipment_factor = 0.9
+	}
+	division = {
+		name = " 自卫团"
+		location =5559
+		division_template = " 自卫团"
+		start_experience_factor = 0.1
+		start_equipment_factor = 0.9
+	}
+	division = {
+		name = " 自卫团"
+		location =574
+		division_template = " 自卫团"
+		start_experience_factor = 0.1
+		start_equipment_factor = 0.9
+	}
+	division = {
+		name = " 自卫团"
+		location =6688
+		division_template = " 自卫团"
+		start_experience_factor = 0.1
+		start_equipment_factor = 0.9
+	}
+	division = {
+		name = " 自卫团"
+		location =5722
+		division_template = " 自卫团"
+		start_experience_factor = 0.1
+		start_equipment_factor = 0.9
+	}
+	division = {
+		name = " 自卫团"
+		location =11299
+		division_template = " 自卫团"
+		start_experience_factor = 0.1
+		start_equipment_factor = 0.9
+	}
+	division = {
+		name = " 自卫团"
+		location =11094
+		division_template = " 自卫团"
+		start_experience_factor = 0.1
+		start_equipment_factor = 0.9
+	}
+	division = {
+		name = " 自卫团"
+		location =412
+		division_template = " 自卫团"
+		start_experience_factor = 0.1
+		start_equipment_factor = 0.9
+	}
+	division = {
+		name = " 自卫团"
+		location =732
+		division_template = " 自卫团"
+		start_experience_factor = 0.1
+		start_equipment_factor = 0.9
+	}
+	division = {
+		name = " 自卫团"
+		location =8606
+		division_template = " 自卫团"
+		start_experience_factor = 0.1
+		start_equipment_factor = 0.9
+	}
+	division = {
+		name = " 自卫团"
+		location =11109
+		division_template = " 自卫团"
+		start_experience_factor = 0.1
+		start_equipment_factor = 0.9
+	}
+	division = {
+		name = " 自卫团"
+		location =8007
+		division_template = " 自卫团"
+		start_experience_factor = 0.1
+		start_equipment_factor = 0.9
+	}
+	division = {
+		name = " 自卫团"
+		location =10894
+		division_template = " 自卫团"
+		start_experience_factor = 0.1
+		start_equipment_factor = 0.9
+	}
+	division = {
+		name = " 自卫团"
+		location =10790
+		division_template = " 自卫团"
+		start_experience_factor = 0.1
+		start_equipment_factor = 0.9
+	}
+	division = {
+		name = " 自卫团"
+		location =2222
+		division_template = " 自卫团"
+		start_experience_factor = 0.1
+		start_equipment_factor = 0.9
+	}
+	division = {
+		name = " 自卫团"
+		location =2214
+		division_template = " 自卫团"
+		start_experience_factor = 0.1
+		start_equipment_factor = 0.9
+	}
+	division = {
+		name = " 自卫团"
+		location =5810
+		division_template = " 自卫团"
+		start_experience_factor = 0.1
+		start_equipment_factor = 0.9
+	}
+	division = {
+		name = " 自卫团"
+		location =11094
+		division_template = " 自卫团"
+		start_experience_factor = 0.1
+		start_equipment_factor = 0.9
+	}
+	division = {
+		name = " 自卫团"
+		location =11094
+		division_template = " 自卫团"
+		start_experience_factor = 0.1
+		start_equipment_factor = 0.9
+	}
+	division = {
+		name = " 自卫团"
+		location =11094
+		division_template = " 自卫团"
+		start_experience_factor = 0.1
+		start_equipment_factor = 0.9
+	}
+	division = {
+		name = " 自卫团"
+		location =11094
+		division_template = " 自卫团"
+		start_experience_factor = 0.1
+		start_equipment_factor = 0.9
+	}
+	division = {
+		name = " 自卫团"
+		location =11094
+		division_template = " 自卫团"
+		start_experience_factor = 0.1
+		start_equipment_factor = 0.9
+	}
+	division = {
+		name = " 自卫团"
+		location =11094
+		division_template = " 自卫团"
+		start_experience_factor = 0.1
+		start_equipment_factor = 0.9
+	}
+	division = {
+		name = " 自卫团"
+		location =11094
+		division_template = " 自卫团"
+		start_experience_factor = 0.1
+		start_equipment_factor = 0.9
+	}
+	division = {
+		name = " 乐园卫队"
+		location =11094
+		division_template = " 乐园卫队"
+		start_experience_factor = 0.1
+		start_equipment_factor = 0.9
+	}
+	division = {
+		name = " 乐园卫队"
+		location =11094
+		division_template = " 乐园卫队"
+		start_experience_factor = 0.1
+		start_equipment_factor = 0.9
+	}
+	division = {
+		name = " 乐园卫队"
+		location =11094
+		division_template = " 乐园卫队"
+		start_experience_factor = 0.1
+		start_equipment_factor = 0.9
+	}
+	division = {
+		name = " 乐园卫队"
+		location =11094
+		division_template = " 乐园卫队"
+		start_experience_factor = 0.1
+		start_equipment_factor = 0.9
+	}
+	division = {
+		name = " 乐园卫队"
+		location =11094
+		division_template = " 乐园卫队"
+		start_experience_factor = 0.1
+		start_equipment_factor = 0.9
+	}
+	division = {
+		name = " 乐园卫队"
+		location =11094
+		division_template = " 乐园卫队"
+		start_experience_factor = 0.1
+		start_equipment_factor = 0.9
+	}
+	division = {
+		name = " 乐园卫队"
+		location =11094
+		division_template = " 乐园卫队"
+		start_experience_factor = 0.1
+		start_equipment_factor = 0.9
+	}
+
+
+
+
+}

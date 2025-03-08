@@ -1,0 +1,63 @@
+﻿capital = 69
+
+146.1.1 = {
+    set_technology = {
+        #通用武器线
+ 
+        #种族
+            
+    }
+    
+}
+143.7.1={
+    oob = "GRS_143"
+    # set_research_slots = 5
+    # Starting tech
+    
+    add_ideas = {
+        kappa
+        Village
+        open2
+        dove1
+        normal_border
+        sc_rule
+    }
+    set_politics = {
+        ruling_party = guli
+        election_frequency = 48
+        elections_allowed = no
+    }
+    set_popularities = {
+        qinwai = 5
+        guli = 85
+        neworder = 2
+        oldorder = 0
+        fandong = 8
+    }
+}
+146.1.1={
+    oob = "GRS_146"
+    # set_research_slots = 5
+    # Starting tech
+    
+    add_ideas = {
+    kappa
+    Village
+    open2
+    dove1
+    normal_border
+    sc_rule
+    }
+    set_politics = {
+    	ruling_party = guli
+    	election_frequency = 48
+    	elections_allowed = no
+    }
+    set_popularities = {
+        qinwai = 10
+        guli = 80
+        neworder = 2
+        oldorder = 0
+        fandong = 8
+    }
+}

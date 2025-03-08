@@ -1,0 +1,19 @@
+spriteTypes = {
+	spriteType = {
+		name = GFX_ntr_decision_panzi
+		texturefile = "gfx/interface/decisions/decision_images/panzi.dds"
+		legacy_lazy_load = no
+		noOfFrames = 21
+	}
+	spriteType = {
+		name = GFX_ntr_decision_jiantou
+		texturefile = "gfx/interface/decisions/decision_images/jiantou.dds"
+		legacy_lazy_load = no
+		noOfFrames = 21
+	}
+	spriteType = {
+		name = GFX_ntr_decision_waibiao
+		texturefile = "gfx/interface/decisions/decision_images/ntr_waibiao.dds"
+	}
+
+}

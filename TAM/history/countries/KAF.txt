@@ -1,0 +1,43 @@
+capital = 402
+
+recruit_character = KAF_aokawakiyosumi
+
+146.1.1 = {
+    set_technology = {
+                              ########通用中等水平混合科技########
+                              spear1 =1
+ 
+               
+    }
+    
+}
+146.1.1={
+    add_manpower = 100
+    oob = "KAF_146"
+    
+
+    
+    add_ideas = {
+    Youkai
+    Village
+    close5
+    dove2
+    close_border
+    limit_magic
+    manpowerlv1
+    isolation
+     
+    }
+    set_politics = {
+    	ruling_party = guli
+    	election_frequency = 48
+    	elections_allowed = no
+    }
+    set_popularities = {
+        qinwai = 0
+        guli = 100
+        neworder = 0
+        oldorder = 0
+        fandong = 0
+    }
+}

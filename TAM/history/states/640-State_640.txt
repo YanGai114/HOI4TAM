@@ -1,0 +1,29 @@
+state={
+	id=640
+	name="STATE_640"
+	provinces={
+		3737 4746 5934 6701 7162 14831 14836 14902 14962 15016 15040 
+	}
+	buildings_max_level_factor=1.000
+        manpower=4525
+                 state_category = rural
+	resources={
+		steel=0 #钢铁
+		tungsten = 0 #妖石
+		chromium = 12 #灵气
+		rubber=0 #农产品
+		aluminium=0 #其他金属
+		oil = 0 #伊奘诺物质
+	}		history = {
+			owner = ELL
+			add_core_of = ELL
+			victory_points = { 3737  1 }
+			buildings = {
+				infrastructure = 0
+				air_base = 0
+				arms_factory = 0
+				industrial_complex = 0
+			}
+		}
+ 
+}

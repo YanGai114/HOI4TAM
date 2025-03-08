@@ -1,0 +1,29 @@
+state={
+	id=1000
+	name="STATE_1000"
+	provinces={
+		711 2272 2453 2503 2683 4757 17604 
+	}
+	buildings_max_level_factor=1.000
+        manpower=2355
+                 state_category = rural
+	resources={
+		steel=0 #钢铁
+		tungsten = 0 #妖石
+		chromium = 0 #灵气
+		rubber=0 #农产品
+		aluminium=0 #其他金属
+		oil = 0 #伊奘诺物质
+	}		history = {
+			owner = EET
+			add_core_of = EET
+			victory_points = { 711  10 }
+			buildings = {
+				infrastructure = 0
+				air_base = 0
+				arms_factory = 0
+				industrial_complex = 0
+			}
+		}
+ 
+}

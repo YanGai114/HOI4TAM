@@ -1,0 +1,29 @@
+state={
+	id=726
+	name="STATE_726"
+	provinces={
+		307 1444 1640 2332 2873 6323 6921 7150 8629 9113 9895 10109 15610 16107 
+	}
+	buildings_max_level_factor=1.000
+        manpower=7877
+                 state_category = rural
+	resources={
+		steel=0 #钢铁
+		tungsten = 4 #妖石
+		chromium = 5 #灵气
+		rubber=0 #农产品
+		aluminium=0 #其他金属
+		oil = 0 #伊奘诺物质
+	}		history = {
+			owner = HAM
+			add_core_of = HAM
+			victory_points = { 307 1 }
+			buildings = {
+				infrastructure = 0
+				air_base = 0
+				arms_factory = 0
+				industrial_complex = 0
+			}
+		}
+ 
+}

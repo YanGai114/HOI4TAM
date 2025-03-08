@@ -1,0 +1,29 @@
+state={
+	id=736
+	name="STATE_736"
+	provinces={
+		26 672 885 2569 3734 3743 5493 7810 9141 9617 15699 
+	}
+	buildings_max_level_factor=1.000
+        manpower=60777
+                 state_category = rural
+	resources={
+		steel=0 #钢铁
+		tungsten = 0 #妖石
+		chromium = 11 #灵气
+		rubber=0 #农产品
+		aluminium=0 #其他金属
+		oil = 0 #伊奘诺物质
+	}		history = {
+			owner = HGH
+			add_core_of = HGH
+			victory_points = {26   1 }
+			buildings = {
+				infrastructure = 0
+				air_base = 0
+				arms_factory = 0
+				industrial_complex = 0
+			}
+		}
+ 
+}

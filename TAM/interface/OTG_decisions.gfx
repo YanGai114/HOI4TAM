@@ -1,0 +1,29 @@
+spriteTypes = {
+
+	###############################################################
+	########            xxxxxxxxxxxxxxxxxxxxx              ########
+	###############################################################
+
+	#### RESOURCES ####
+	spriteType = {
+		name = GFX_otg_decision_tianmogong
+		texturefile = "gfx/interface/decisions/decision_images/tianmogong.dds"
+	}
+	spriteType = {
+		name = GFX_otg_decision_tiangouyihui
+		texturefile = "gfx/interface/decisions/decision_images/tiangouyihui.dds"
+	}
+
+	spriteType = {
+		name = GFX_OTG_front_bg
+		texturefile = "gfx/loadingscreens/OTG_front_bg.png"
+	}
+
+	#### PROGRESSBAR ####
+	
+	
+
+	#######gif
+	
+
+}

@@ -1,0 +1,29 @@
+state={
+	id=479
+	name="STATE_479"
+	provinces={
+		1234 1873 2274 2749 2942 3417 5051 6024 6029 6381 8540 8889 10064 13899 13938 13946 14018 14021 14044 14060 14075 14104 14105 14112 14131 14139 14150 14180 
+	}
+	buildings_max_level_factor=1.000
+        manpower=6666
+                 state_category = rural
+	resources={
+		steel=0 #钢铁
+		tungsten = 0 #妖石
+		chromium = 0 #灵气
+		rubber=0 #农产品
+		aluminium=0 #其他金属
+		oil = 0 #伊奘诺物质
+	}		history = {
+			owner = SEJ
+			add_core_of = SEJ
+			victory_points = { 1234  1 }
+			buildings = {
+				infrastructure = 0
+				air_base = 0
+				arms_factory = 0
+				industrial_complex = 0
+			}
+		}
+ 
+}

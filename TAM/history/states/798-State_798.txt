@@ -1,0 +1,29 @@
+state={
+	id=798
+	name="STATE_798"
+	provinces={
+		1680 9337 10247 
+	}
+	buildings_max_level_factor=1.000
+        manpower=12000
+                 state_category = town
+	resources={
+		steel=0 #钢铁
+		tungsten = 0 #妖石
+		chromium = 0 #灵气
+		rubber=0 #农产品
+		aluminium=0 #其他金属
+		oil = 0 #伊奘诺物质
+	}		history = {
+			owner = HKM
+			add_core_of = HKM
+			victory_points = { 1680  10 }
+			buildings = {
+				infrastructure = 2
+				air_base = 0
+				arms_factory = 0
+				industrial_complex = 3
+			}
+		}
+ 
+}

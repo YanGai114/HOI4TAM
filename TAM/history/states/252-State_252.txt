@@ -1,0 +1,29 @@
+state={
+	id=252
+	name="STATE_252"
+	provinces={
+		632 1528 2506 3504 4297 4906 5088 6254 7489 7848 8391 8557 10692 12324 12348 12367 12389 12396 12404 12415 12421 12439 12455 12475 12480 12524 12525 12526 12611 
+	}
+	buildings_max_level_factor=1.000
+        manpower=2178
+                 state_category = rural
+	resources={
+		steel=0 #钢铁
+		tungsten = 0 #妖石
+		chromium = 0 #灵气
+		rubber=2 #农产品
+		aluminium=0 #其他金属
+		oil = 0 #伊奘诺物质
+	}		history = {
+			owner = SCA
+			add_core_of = SCA
+			victory_points = { 632 1 }
+			buildings = {
+				infrastructure = 1
+				air_base = 0
+				arms_factory = 0
+				industrial_complex = 0
+			}
+		}
+ 
+}

@@ -1,0 +1,29 @@
+state={
+	id=203
+	name="STATE_203"
+	provinces={
+		7274 7319 11842 11856 11895 11945 11998 
+	}
+	buildings_max_level_factor=1.000
+        manpower=25425
+                 state_category = large_town
+	resources={
+		steel=27 #钢铁
+		tungsten = 0 #妖石
+		chromium = 0 #灵气
+		rubber=0 #农产品
+		aluminium=9 #其他金属
+		oil = 3 #伊奘诺物质
+	}		history = {
+			owner = NTR
+			add_core_of = NTR
+			victory_points = { 11998 8 }
+			buildings = {
+				infrastructure = 3
+				air_base = 0
+				arms_factory = 4
+				industrial_complex = 2
+			}
+		}
+ 
+}

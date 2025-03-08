@@ -1,0 +1,41 @@
+﻿capital = 157
+
+recruit_character = HU4_imibeshinno
+
+146.1.1 = {
+    set_technology = {
+                                            ########通用低级水平外界科技########
+                                            spear1 =1
+                                            linglizhufu =1
+                                            tech_support =1
+                                            infantry_weapons =1
+            
+    }
+    
+}
+146.1.1={
+    oob = "HU4_146"
+    
+    add_ideas = {
+    type2_manpowerlv3
+    Human
+    Village
+    close2
+    dove2
+    close_border
+    forbidden_magic
+    AKI_zhangquandejiduanpai_idea    
+    }
+    set_politics = {
+    	ruling_party = neworder
+    	election_frequency = 48
+    	elections_allowed = no
+    }
+    set_popularities = {
+        qinwai = 0
+        guli = 2
+        neworder = 98
+        oldorder = 0
+        fandong = 0
+    }
+}

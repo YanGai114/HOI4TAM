@@ -1,0 +1,29 @@
+state={
+	id=169
+	name="STATE_169"
+	provinces={
+		1392 3655 4213 5413 7754 11622 11658 
+	}
+	buildings_max_level_factor=1.000
+        manpower=20872
+                 state_category = city
+	resources={
+		steel=6 #钢铁
+		tungsten = 0 #妖石
+		chromium = 0 #灵气
+		rubber=0 #农产品
+		aluminium=7 #其他金属
+		oil = 9 #伊奘诺物质
+	}		history = {
+			owner = KAP
+			add_core_of = KAP
+			victory_points = {1392  15 }
+			buildings = {
+				infrastructure = 4
+				air_base = 0
+				arms_factory = 3
+				industrial_complex = 4
+			}
+		}
+ 
+}

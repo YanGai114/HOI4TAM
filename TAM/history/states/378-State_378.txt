@@ -1,0 +1,29 @@
+state={
+	id=378
+	name="STATE_378"
+	provinces={
+		3948 4840 5158 13216 13248 13303 13349 
+	}
+	buildings_max_level_factor=1.000
+        manpower=89970
+                 state_category = town
+	resources={
+		steel=0 #钢铁
+		tungsten = 0 #妖石
+		chromium = 30 #灵气
+		rubber=0 #农产品
+		aluminium=0 #其他金属
+		oil = 2 #伊奘诺物质
+	}		history = {
+			owner = CIR
+			add_core_of = CIR
+			victory_points = {3948  10 }
+			buildings = {
+				infrastructure = 2
+				air_base = 0
+				arms_factory = 0
+				industrial_complex = 0
+			}
+		}
+ 
+}

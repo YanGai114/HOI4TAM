@@ -1,0 +1,29 @@
+state={
+	id=59
+	name="STATE_59"
+	provinces={
+		1376 3083 4354 5175 7189 8056 10211 11018 11025 11037 11042 11055 11058 11067 
+	}
+	buildings_max_level_factor=1.000
+        manpower=18275
+                 state_category = town
+	resources={
+		steel=0 #钢铁
+		tungsten = 0 #妖石
+		chromium = 10 #灵气
+		rubber=7 #农产品
+		aluminium=0 #其他金属
+		oil = 0 #伊奘诺物质
+	}		history = {
+			owner = MRY
+			add_core_of = MRY
+			victory_points = {1376  4 }
+			buildings = {
+				infrastructure = 2
+				air_base = 0
+				arms_factory = 1
+				industrial_complex = 3
+			}
+		}
+ 
+}

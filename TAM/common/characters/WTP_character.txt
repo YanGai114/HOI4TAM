@@ -1,0 +1,43 @@
+characters={
+	WTP_noterayaan ={#野寺夜庵
+		name = WTP_noterayaan
+		portraits={
+			civilian={
+				large="gfx/leaders/WTP/WTP_noterayaan.dds"
+				small="gfx/leaders/WTP/WTP_noterayaan_small.dds"
+			}
+			army = {
+				large="gfx/leaders/WTP/WTP_noterayaan.dds"
+				small="gfx/leaders/WTP/WTP_noterayaan_small.dds"
+			}
+			
+		}
+		country_leader={
+			ideology = guli_type
+			id=-1
+		}
+		corps_commander = {
+			traits = {  th_original_character trait_cautious }
+			attack_skill = 5
+			defense_skill = 7
+			planning_skill = 5
+			logistics_skill = 5
+			skill = 6
+			# id = 23
+		}
+		advisor = {
+			slot = character_coop
+			idea_token = WTP_noterayaan
+			name = WTP_noterayaan
+			cost = 200
+			modifier = {
+				# character_coop_cost_factor = -0.15 在这里无效
+				political_power_gain = 0.2
+				consumer_goods_factor = -0.02
+			}
+			ai_will_do = {
+				factor = 1
+			}
+		}
+	}
+}

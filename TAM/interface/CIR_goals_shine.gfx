@@ -1,0 +1,3199 @@
+spriteTypes = {
+SpriteType = {
+    name = "GFX_CIR_3_1_shine"
+    texturefile = "gfx/interface/goals/CIR_3_1.png"
+
+    effectFile = "gfx/FX/buttonstate.lua"
+    animation = {
+        animationmaskfile = "gfx/interface/goals/CIR_3_1.png"
+        animationtexturefile = "gfx/interface/goals/shine_overlay.dds"    # <- the animated file
+        animationrotation = -90.0
+        animationlooping = no
+        animationtime = 0.75
+        animationdelay = 0
+        animationblendmode = "add"
+        animationtype = "scrolling"
+        animationrotationoffset = { x = 0.0 y = 0.0 }
+        animationtexturescale = { x = 2.0 y = 1.0 }
+    }
+
+    animation = {
+        animationmaskfile = "gfx/interface/goals/CIR_3_1.png"
+        animationtexturefile = "gfx/interface/goals/shine_overlay.dds"    # <- the animated file
+        animationrotation = 90.0        
+        animationlooping = no           
+        animationtime = 0.75            
+        animationdelay = 0              
+        animationblendmode = "add"      
+        animationtype = "scrolling"     
+        animationrotationoffset = { x = 0.0 y = 0.0 }
+        animationtexturescale = { x = 1.0 y = 1.0 } 
+    }
+
+    legacy_lazy_load = no
+}
+SpriteType = {
+    name = "GFX_CIR_3_2_shine"
+    texturefile = "gfx/interface/goals/CIR_3_2.png"
+
+    effectFile = "gfx/FX/buttonstate.lua"
+    animation = {
+        animationmaskfile = "gfx/interface/goals/CIR_3_2.png"
+        animationtexturefile = "gfx/interface/goals/shine_overlay.dds"    # <- the animated file
+        animationrotation = -90.0
+        animationlooping = no
+        animationtime = 0.75
+        animationdelay = 0
+        animationblendmode = "add"
+        animationtype = "scrolling"
+        animationrotationoffset = { x = 0.0 y = 0.0 }
+        animationtexturescale = { x = 2.0 y = 1.0 }
+    }
+
+    animation = {
+        animationmaskfile = "gfx/interface/goals/CIR_3_2.png"
+        animationtexturefile = "gfx/interface/goals/shine_overlay.dds"    # <- the animated file
+        animationrotation = 90.0        
+        animationlooping = no           
+        animationtime = 0.75            
+        animationdelay = 0              
+        animationblendmode = "add"      
+        animationtype = "scrolling"     
+        animationrotationoffset = { x = 0.0 y = 0.0 }
+        animationtexturescale = { x = 1.0 y = 1.0 } 
+    }
+
+    legacy_lazy_load = no
+}
+SpriteType = {
+name = "GFX_CIR_3_3_shine"
+texturefile = "gfx/interface/goals/CIR_3_3.png"
+
+effectFile = "gfx/FX/buttonstate.lua"
+animation = {
+    animationmaskfile = "gfx/interface/goals/CIR_3_3.png"
+    animationtexturefile = "gfx/interface/goals/shine_overlay.dds"    # <- the animated file
+    animationrotation = -90.0
+    animationlooping = no
+    animationtime = 0.75
+    animationdelay = 0
+    animationblendmode = "add"
+    animationtype = "scrolling"
+    animationrotationoffset = { x = 0.0 y = 0.0 }
+    animationtexturescale = { x = 2.0 y = 1.0 }
+}
+
+animation = {
+    animationmaskfile = "gfx/interface/goals/CIR_3_3.png"
+    animationtexturefile = "gfx/interface/goals/shine_overlay.dds"    # <- the animated file
+    animationrotation = 90.0        
+    animationlooping = no           
+    animationtime = 0.75            
+    animationdelay = 0              
+    animationblendmode = "add"      
+    animationtype = "scrolling"     
+    animationrotationoffset = { x = 0.0 y = 0.0 }
+    animationtexturescale = { x = 1.0 y = 1.0 } 
+}
+
+legacy_lazy_load = no
+}
+SpriteType = {
+name = "GFX_CIR_3_4_shine"
+texturefile = "gfx/interface/goals/CIR_3_4.png"
+
+effectFile = "gfx/FX/buttonstate.lua"
+animation = {
+    animationmaskfile = "gfx/interface/goals/CIR_3_4.png"
+    animationtexturefile = "gfx/interface/goals/shine_overlay.dds"    # <- the animated file
+    animationrotation = -90.0
+    animationlooping = no
+    animationtime = 0.75
+    animationdelay = 0
+    animationblendmode = "add"
+    animationtype = "scrolling"
+    animationrotationoffset = { x = 0.0 y = 0.0 }
+    animationtexturescale = { x = 2.0 y = 1.0 }
+}
+
+animation = {
+    animationmaskfile = "gfx/interface/goals/CIR_3_4.png"
+    animationtexturefile = "gfx/interface/goals/shine_overlay.dds"    # <- the animated file
+    animationrotation = 90.0        
+    animationlooping = no           
+    animationtime = 0.75            
+    animationdelay = 0              
+    animationblendmode = "add"      
+    animationtype = "scrolling"     
+    animationrotationoffset = { x = 0.0 y = 0.0 }
+    animationtexturescale = { x = 1.0 y = 1.0 } 
+}
+
+legacy_lazy_load = no
+}
+SpriteType = {
+name = "GFX_CIR_3_5_shine"
+texturefile = "gfx/interface/goals/CIR_3_5.png"
+
+effectFile = "gfx/FX/buttonstate.lua"
+animation = {
+    animationmaskfile = "gfx/interface/goals/CIR_3_5.png"
+    animationtexturefile = "gfx/interface/goals/shine_overlay.dds"    # <- the animated file
+    animationrotation = -90.0
+    animationlooping = no
+    animationtime = 0.75
+    animationdelay = 0
+    animationblendmode = "add"
+    animationtype = "scrolling"
+    animationrotationoffset = { x = 0.0 y = 0.0 }
+    animationtexturescale = { x = 2.0 y = 1.0 }
+}
+
+animation = {
+    animationmaskfile = "gfx/interface/goals/CIR_3_5.png"
+    animationtexturefile = "gfx/interface/goals/shine_overlay.dds"    # <- the animated file
+    animationrotation = 90.0        
+    animationlooping = no           
+    animationtime = 0.75            
+    animationdelay = 0              
+    animationblendmode = "add"      
+    animationtype = "scrolling"     
+    animationrotationoffset = { x = 0.0 y = 0.0 }
+    animationtexturescale = { x = 1.0 y = 1.0 } 
+}
+
+legacy_lazy_load = no
+}
+SpriteType = {
+name = "GFX_CIR_3_6_shine"
+texturefile = "gfx/interface/goals/CIR_3_6.png"
+
+effectFile = "gfx/FX/buttonstate.lua"
+animation = {
+    animationmaskfile = "gfx/interface/goals/CIR_3_6.png"
+    animationtexturefile = "gfx/interface/goals/shine_overlay.dds"    # <- the animated file
+    animationrotation = -90.0
+    animationlooping = no
+    animationtime = 0.75
+    animationdelay = 0
+    animationblendmode = "add"
+    animationtype = "scrolling"
+    animationrotationoffset = { x = 0.0 y = 0.0 }
+    animationtexturescale = { x = 2.0 y = 1.0 }
+}
+
+animation = {
+    animationmaskfile = "gfx/interface/goals/CIR_3_6.png"
+    animationtexturefile = "gfx/interface/goals/shine_overlay.dds"    # <- the animated file
+    animationrotation = 90.0        
+    animationlooping = no           
+    animationtime = 0.75            
+    animationdelay = 0              
+    animationblendmode = "add"      
+    animationtype = "scrolling"     
+    animationrotationoffset = { x = 0.0 y = 0.0 }
+    animationtexturescale = { x = 1.0 y = 1.0 } 
+}
+
+legacy_lazy_load = no
+}
+SpriteType = {
+name = "GFX_CIR_3_7_shine"
+texturefile = "gfx/interface/goals/CIR_3_7.png"
+
+effectFile = "gfx/FX/buttonstate.lua"
+animation = {
+    animationmaskfile = "gfx/interface/goals/CIR_3_7.png"
+    animationtexturefile = "gfx/interface/goals/shine_overlay.dds"    # <- the animated file
+    animationrotation = -90.0
+    animationlooping = no
+    animationtime = 0.75
+    animationdelay = 0
+    animationblendmode = "add"
+    animationtype = "scrolling"
+    animationrotationoffset = { x = 0.0 y = 0.0 }
+    animationtexturescale = { x = 2.0 y = 1.0 }
+}
+
+animation = {
+    animationmaskfile = "gfx/interface/goals/CIR_3_7.png"
+    animationtexturefile = "gfx/interface/goals/shine_overlay.dds"    # <- the animated file
+    animationrotation = 90.0        
+    animationlooping = no           
+    animationtime = 0.75            
+    animationdelay = 0              
+    animationblendmode = "add"      
+    animationtype = "scrolling"     
+    animationrotationoffset = { x = 0.0 y = 0.0 }
+    animationtexturescale = { x = 1.0 y = 1.0 } 
+}
+
+legacy_lazy_load = no
+}
+SpriteType = {
+name = "GFX_CIR_3_8_shine"
+texturefile = "gfx/interface/goals/CIR_3_8.png"
+
+effectFile = "gfx/FX/buttonstate.lua"
+animation = {
+    animationmaskfile = "gfx/interface/goals/CIR_3_8.png"
+    animationtexturefile = "gfx/interface/goals/shine_overlay.dds"    # <- the animated file
+    animationrotation = -90.0
+    animationlooping = no
+    animationtime = 0.75
+    animationdelay = 0
+    animationblendmode = "add"
+    animationtype = "scrolling"
+    animationrotationoffset = { x = 0.0 y = 0.0 }
+    animationtexturescale = { x = 2.0 y = 1.0 }
+}
+
+animation = {
+    animationmaskfile = "gfx/interface/goals/CIR_3_8.png"
+    animationtexturefile = "gfx/interface/goals/shine_overlay.dds"    # <- the animated file
+    animationrotation = 90.0        
+    animationlooping = no           
+    animationtime = 0.75            
+    animationdelay = 0              
+    animationblendmode = "add"      
+    animationtype = "scrolling"     
+    animationrotationoffset = { x = 0.0 y = 0.0 }
+    animationtexturescale = { x = 1.0 y = 1.0 } 
+}
+
+legacy_lazy_load = no
+}
+SpriteType = {
+name = "GFX_CIR_3_9_shine"
+texturefile = "gfx/interface/goals/CIR_3_9.png"
+
+effectFile = "gfx/FX/buttonstate.lua"
+animation = {
+    animationmaskfile = "gfx/interface/goals/CIR_3_9.png"
+    animationtexturefile = "gfx/interface/goals/shine_overlay.dds"    # <- the animated file
+    animationrotation = -90.0
+    animationlooping = no
+    animationtime = 0.75
+    animationdelay = 0
+    animationblendmode = "add"
+    animationtype = "scrolling"
+    animationrotationoffset = { x = 0.0 y = 0.0 }
+    animationtexturescale = { x = 2.0 y = 1.0 }
+}
+
+animation = {
+    animationmaskfile = "gfx/interface/goals/CIR_3_9.png"
+    animationtexturefile = "gfx/interface/goals/shine_overlay.dds"    # <- the animated file
+    animationrotation = 90.0        
+    animationlooping = no           
+    animationtime = 0.75            
+    animationdelay = 0              
+    animationblendmode = "add"      
+    animationtype = "scrolling"     
+    animationrotationoffset = { x = 0.0 y = 0.0 }
+    animationtexturescale = { x = 1.0 y = 1.0 } 
+}
+
+legacy_lazy_load = no
+}
+SpriteType = {
+name = "GFX_CIR_3_10_shine"
+texturefile = "gfx/interface/goals/CIR_3_10.png"
+
+effectFile = "gfx/FX/buttonstate.lua"
+animation = {
+    animationmaskfile = "gfx/interface/goals/CIR_3_10.png"
+    animationtexturefile = "gfx/interface/goals/shine_overlay.dds"    # <- the animated file
+    animationrotation = -90.0
+    animationlooping = no
+    animationtime = 0.75
+    animationdelay = 0
+    animationblendmode = "add"
+    animationtype = "scrolling"
+    animationrotationoffset = { x = 0.0 y = 0.0 }
+    animationtexturescale = { x = 2.0 y = 1.0 }
+}
+
+animation = {
+    animationmaskfile = "gfx/interface/goals/CIR_3_10.png"
+    animationtexturefile = "gfx/interface/goals/shine_overlay.dds"    # <- the animated file
+    animationrotation = 90.0        
+    animationlooping = no           
+    animationtime = 0.75            
+    animationdelay = 0              
+    animationblendmode = "add"      
+    animationtype = "scrolling"     
+    animationrotationoffset = { x = 0.0 y = 0.0 }
+    animationtexturescale = { x = 1.0 y = 1.0 } 
+}
+
+legacy_lazy_load = no
+}
+SpriteType = {
+name = "GFX_CIR_3_11_shine"
+texturefile = "gfx/interface/goals/CIR_3_11.png"
+
+effectFile = "gfx/FX/buttonstate.lua"
+animation = {
+    animationmaskfile = "gfx/interface/goals/CIR_3_11.png"
+    animationtexturefile = "gfx/interface/goals/shine_overlay.dds"    # <- the animated file
+    animationrotation = -90.0
+    animationlooping = no
+    animationtime = 0.75
+    animationdelay = 0
+    animationblendmode = "add"
+    animationtype = "scrolling"
+    animationrotationoffset = { x = 0.0 y = 0.0 }
+    animationtexturescale = { x = 2.0 y = 1.0 }
+}
+
+animation = {
+    animationmaskfile = "gfx/interface/goals/CIR_3_11.png"
+    animationtexturefile = "gfx/interface/goals/shine_overlay.dds"    # <- the animated file
+    animationrotation = 90.0        
+    animationlooping = no           
+    animationtime = 0.75            
+    animationdelay = 0              
+    animationblendmode = "add"      
+    animationtype = "scrolling"     
+    animationrotationoffset = { x = 0.0 y = 0.0 }
+    animationtexturescale = { x = 1.0 y = 1.0 } 
+}
+
+legacy_lazy_load = no
+}
+SpriteType = {
+name = "GFX_CIR_3_12_shine"
+texturefile = "gfx/interface/goals/CIR_3_12.png"
+
+effectFile = "gfx/FX/buttonstate.lua"
+animation = {
+    animationmaskfile = "gfx/interface/goals/CIR_3_12.png"
+    animationtexturefile = "gfx/interface/goals/shine_overlay.dds"    # <- the animated file
+    animationrotation = -90.0
+    animationlooping = no
+    animationtime = 0.75
+    animationdelay = 0
+    animationblendmode = "add"
+    animationtype = "scrolling"
+    animationrotationoffset = { x = 0.0 y = 0.0 }
+    animationtexturescale = { x = 2.0 y = 1.0 }
+}
+
+animation = {
+    animationmaskfile = "gfx/interface/goals/CIR_3_12.png"
+    animationtexturefile = "gfx/interface/goals/shine_overlay.dds"    # <- the animated file
+    animationrotation = 90.0        
+    animationlooping = no           
+    animationtime = 0.75            
+    animationdelay = 0              
+    animationblendmode = "add"      
+    animationtype = "scrolling"     
+    animationrotationoffset = { x = 0.0 y = 0.0 }
+    animationtexturescale = { x = 1.0 y = 1.0 } 
+}
+
+legacy_lazy_load = no
+}
+SpriteType = {
+name = "GFX_CIR_3_13_shine"
+texturefile = "gfx/interface/goals/CIR_3_13.png"
+
+effectFile = "gfx/FX/buttonstate.lua"
+animation = {
+    animationmaskfile = "gfx/interface/goals/CIR_3_13.png"
+    animationtexturefile = "gfx/interface/goals/shine_overlay.dds"    # <- the animated file
+    animationrotation = -90.0
+    animationlooping = no
+    animationtime = 0.75
+    animationdelay = 0
+    animationblendmode = "add"
+    animationtype = "scrolling"
+    animationrotationoffset = { x = 0.0 y = 0.0 }
+    animationtexturescale = { x = 2.0 y = 1.0 }
+}
+
+animation = {
+    animationmaskfile = "gfx/interface/goals/CIR_3_13.png"
+    animationtexturefile = "gfx/interface/goals/shine_overlay.dds"    # <- the animated file
+    animationrotation = 90.0        
+    animationlooping = no           
+    animationtime = 0.75            
+    animationdelay = 0              
+    animationblendmode = "add"      
+    animationtype = "scrolling"     
+    animationrotationoffset = { x = 0.0 y = 0.0 }
+    animationtexturescale = { x = 1.0 y = 1.0 } 
+}
+
+legacy_lazy_load = no
+}
+SpriteType = {
+name = "GFX_CIR_3_14_shine"
+texturefile = "gfx/interface/goals/CIR_3_14.png"
+
+effectFile = "gfx/FX/buttonstate.lua"
+animation = {
+    animationmaskfile = "gfx/interface/goals/CIR_3_14.png"
+    animationtexturefile = "gfx/interface/goals/shine_overlay.dds"    # <- the animated file
+    animationrotation = -90.0
+    animationlooping = no
+    animationtime = 0.75
+    animationdelay = 0
+    animationblendmode = "add"
+    animationtype = "scrolling"
+    animationrotationoffset = { x = 0.0 y = 0.0 }
+    animationtexturescale = { x = 2.0 y = 1.0 }
+}
+
+animation = {
+    animationmaskfile = "gfx/interface/goals/CIR_3_14.png"
+    animationtexturefile = "gfx/interface/goals/shine_overlay.dds"    # <- the animated file
+    animationrotation = 90.0        
+    animationlooping = no           
+    animationtime = 0.75            
+    animationdelay = 0              
+    animationblendmode = "add"      
+    animationtype = "scrolling"     
+    animationrotationoffset = { x = 0.0 y = 0.0 }
+    animationtexturescale = { x = 1.0 y = 1.0 } 
+}
+
+legacy_lazy_load = no
+}
+SpriteType = {
+name = "GFX_CIR_3_15_shine"
+texturefile = "gfx/interface/goals/CIR_3_15.png"
+
+effectFile = "gfx/FX/buttonstate.lua"
+animation = {
+    animationmaskfile = "gfx/interface/goals/CIR_3_15.png"
+    animationtexturefile = "gfx/interface/goals/shine_overlay.dds"    # <- the animated file
+    animationrotation = -90.0
+    animationlooping = no
+    animationtime = 0.75
+    animationdelay = 0
+    animationblendmode = "add"
+    animationtype = "scrolling"
+    animationrotationoffset = { x = 0.0 y = 0.0 }
+    animationtexturescale = { x = 2.0 y = 1.0 }
+}
+
+animation = {
+    animationmaskfile = "gfx/interface/goals/CIR_3_15.png"
+    animationtexturefile = "gfx/interface/goals/shine_overlay.dds"    # <- the animated file
+    animationrotation = 90.0        
+    animationlooping = no           
+    animationtime = 0.75            
+    animationdelay = 0              
+    animationblendmode = "add"      
+    animationtype = "scrolling"     
+    animationrotationoffset = { x = 0.0 y = 0.0 }
+    animationtexturescale = { x = 1.0 y = 1.0 } 
+}
+
+legacy_lazy_load = no
+}
+SpriteType = {
+name = "GFX_CIR_3_16_shine"
+texturefile = "gfx/interface/goals/CIR_3_16.png"
+
+effectFile = "gfx/FX/buttonstate.lua"
+animation = {
+    animationmaskfile = "gfx/interface/goals/CIR_3_16.png"
+    animationtexturefile = "gfx/interface/goals/shine_overlay.dds"    # <- the animated file
+    animationrotation = -90.0
+    animationlooping = no
+    animationtime = 0.75
+    animationdelay = 0
+    animationblendmode = "add"
+    animationtype = "scrolling"
+    animationrotationoffset = { x = 0.0 y = 0.0 }
+    animationtexturescale = { x = 2.0 y = 1.0 }
+}
+
+animation = {
+    animationmaskfile = "gfx/interface/goals/CIR_3_16.png"
+    animationtexturefile = "gfx/interface/goals/shine_overlay.dds"    # <- the animated file
+    animationrotation = 90.0        
+    animationlooping = no           
+    animationtime = 0.75            
+    animationdelay = 0              
+    animationblendmode = "add"      
+    animationtype = "scrolling"     
+    animationrotationoffset = { x = 0.0 y = 0.0 }
+    animationtexturescale = { x = 1.0 y = 1.0 } 
+}
+
+legacy_lazy_load = no
+}
+
+SpriteType = {
+name = "CIR-7-1_shine"
+texturefile = "gfx/interface/goals/CIR-7-1.png"
+
+effectFile = "gfx/FX/buttonstate.lua"
+animation = {
+    animationmaskfile = "gfx/interface/goals/CIR-7-1.png"
+    animationtexturefile = "gfx/interface/goals/shine_overlay.dds"    # <- the animated file
+    animationrotation = -90.0
+    animationlooping = no
+    animationtime = 0.75
+    animationdelay = 0
+    animationblendmode = "add"
+    animationtype = "scrolling"
+    animationrotationoffset = { x = 0.0 y = 0.0 }
+    animationtexturescale = { x = 2.0 y = 1.0 }
+}
+
+animation = {
+    animationmaskfile = "gfx/interface/goals/CIR-7-1.png"
+    animationtexturefile = "gfx/interface/goals/shine_overlay.dds"    # <- the animated file
+    animationrotation = 90.0        
+    animationlooping = no           
+    animationtime = 0.75            
+    animationdelay = 0              
+    animationblendmode = "add"      
+    animationtype = "scrolling"     
+    animationrotationoffset = { x = 0.0 y = 0.0 }
+    animationtexturescale = { x = 1.0 y = 1.0 } 
+}
+
+legacy_lazy_load = no
+}
+SpriteType = {
+name = "CIR-7-2_shine"
+texturefile = "gfx/interface/goals/CIR-7-2.png"
+
+effectFile = "gfx/FX/buttonstate.lua"
+animation = {
+    animationmaskfile = "gfx/interface/goals/CIR-7-2.png"
+    animationtexturefile = "gfx/interface/goals/shine_overlay.dds"    # <- the animated file
+    animationrotation = -90.0
+    animationlooping = no
+    animationtime = 0.75
+    animationdelay = 0
+    animationblendmode = "add"
+    animationtype = "scrolling"
+    animationrotationoffset = { x = 0.0 y = 0.0 }
+    animationtexturescale = { x = 2.0 y = 1.0 }
+}
+
+animation = {
+    animationmaskfile = "gfx/interface/goals/CIR-7-2.png"
+    animationtexturefile = "gfx/interface/goals/shine_overlay.dds"    # <- the animated file
+    animationrotation = 90.0        
+    animationlooping = no           
+    animationtime = 0.75            
+    animationdelay = 0              
+    animationblendmode = "add"      
+    animationtype = "scrolling"     
+    animationrotationoffset = { x = 0.0 y = 0.0 }
+    animationtexturescale = { x = 1.0 y = 1.0 } 
+}
+
+legacy_lazy_load = no
+}
+SpriteType = {
+    name = "CIR-7-3_shine"
+    texturefile = "gfx/interface/goals/CIR-7-3.png"
+    
+    effectFile = "gfx/FX/buttonstate.lua"
+    animation = {
+        animationmaskfile = "gfx/interface/goals/CIR-7-3.png"
+        animationtexturefile = "gfx/interface/goals/shine_overlay.dds"    # <- the animated file
+        animationrotation = -90.0
+        animationlooping = no
+        animationtime = 0.75
+        animationdelay = 0
+        animationblendmode = "add"
+        animationtype = "scrolling"
+        animationrotationoffset = { x = 0.0 y = 0.0 }
+        animationtexturescale = { x = 2.0 y = 1.0 }
+    }
+    
+    animation = {
+        animationmaskfile = "gfx/interface/goals/CIR-7-3.png"
+        animationtexturefile = "gfx/interface/goals/shine_overlay.dds"    # <- the animated file
+        animationrotation = 90.0        
+        animationlooping = no           
+        animationtime = 0.75            
+        animationdelay = 0              
+        animationblendmode = "add"      
+        animationtype = "scrolling"     
+        animationrotationoffset = { x = 0.0 y = 0.0 }
+        animationtexturescale = { x = 1.0 y = 1.0 } 
+    }
+    
+    legacy_lazy_load = no
+}
+
+SpriteType = {
+    name = "CIR-7-4_shine"
+    texturefile = "gfx/interface/goals/CIR-7-4.png"
+    
+    effectFile = "gfx/FX/buttonstate.lua"
+    animation = {
+        animationmaskfile = "gfx/interface/goals/CIR-7-4.png"
+        animationtexturefile = "gfx/interface/goals/shine_overlay.dds"    # <- the animated file
+        animationrotation = -90.0
+        animationlooping = no
+        animationtime = 0.75
+        animationdelay = 0
+        animationblendmode = "add"
+        animationtype = "scrolling"
+        animationrotationoffset = { x = 0.0 y = 0.0 }
+        animationtexturescale = { x = 2.0 y = 1.0 }
+    }
+    
+    animation = {
+        animationmaskfile = "gfx/interface/goals/CIR-7-4.png"
+        animationtexturefile = "gfx/interface/goals/shine_overlay.dds"    # <- the animated file
+        animationrotation = 90.0        
+        animationlooping = no           
+        animationtime = 0.75            
+        animationdelay = 0              
+        animationblendmode = "add"      
+        animationtype = "scrolling"     
+        animationrotationoffset = { x = 0.0 y = 0.0 }
+        animationtexturescale = { x = 1.0 y = 1.0 } 
+    }
+    
+    legacy_lazy_load = no
+}
+SpriteType = {
+    name = "CIR-7-5_shine"
+    texturefile = "gfx/interface/goals/CIR-7-5.png"
+    
+    effectFile = "gfx/FX/buttonstate.lua"
+    animation = {
+        animationmaskfile = "gfx/interface/goals/CIR-7-5.png"
+        animationtexturefile = "gfx/interface/goals/shine_overlay.dds"    # <- the animated file
+        animationrotation = -90.0
+        animationlooping = no
+        animationtime = 0.75
+        animationdelay = 0
+        animationblendmode = "add"
+        animationtype = "scrolling"
+        animationrotationoffset = { x = 0.0 y = 0.0 }
+        animationtexturescale = { x = 2.0 y = 1.0 }
+    }
+    
+    animation = {
+        animationmaskfile = "gfx/interface/goals/CIR-7-5.png"
+        animationtexturefile = "gfx/interface/goals/shine_overlay.dds"    # <- the animated file
+        animationrotation = 90.0        
+        animationlooping = no           
+        animationtime = 0.75            
+        animationdelay = 0              
+        animationblendmode = "add"      
+        animationtype = "scrolling"     
+        animationrotationoffset = { x = 0.0 y = 0.0 }
+        animationtexturescale = { x = 1.0 y = 1.0 } 
+    }
+    
+    legacy_lazy_load = no
+}
+
+SpriteType = {
+    name = "CIR-7-6_shine"
+    texturefile = "gfx/interface/goals/CIR-7-6.png"
+    
+    effectFile = "gfx/FX/buttonstate.lua"
+    animation = {
+        animationmaskfile = "gfx/interface/goals/CIR-7-6.png"
+        animationtexturefile = "gfx/interface/goals/shine_overlay.dds"    # <- the animated file
+        animationrotation = -90.0
+        animationlooping = no
+        animationtime = 0.75
+        animationdelay = 0
+        animationblendmode = "add"
+        animationtype = "scrolling"
+        animationrotationoffset = { x = 0.0 y = 0.0 }
+        animationtexturescale = { x = 2.0 y = 1.0 }
+    }
+    
+    animation = {
+        animationmaskfile = "gfx/interface/goals/CIR-7-6.png"
+        animationtexturefile = "gfx/interface/goals/shine_overlay.dds"    # <- the animated file
+        animationrotation = 90.0        
+        animationlooping = no           
+        animationtime = 0.75            
+        animationdelay = 0              
+        animationblendmode = "add"      
+        animationtype = "scrolling"     
+        animationrotationoffset = { x = 0.0 y = 0.0 }
+        animationtexturescale = { x = 1.0 y = 1.0 } 
+    }
+    
+    legacy_lazy_load = no
+}
+
+SpriteType = {
+    name = "CIR-7-7_shine"
+    texturefile = "gfx/interface/goals/CIR-7-7.png"
+    
+    effectFile = "gfx/FX/buttonstate.lua"
+    animation = {
+        animationmaskfile = "gfx/interface/goals/CIR-7-7.png"
+        animationtexturefile = "gfx/interface/goals/shine_overlay.dds"    # <- the animated file
+        animationrotation = -90.0
+        animationlooping = no
+        animationtime = 0.75
+        animationdelay = 0
+        animationblendmode = "add"
+        animationtype = "scrolling"
+        animationrotationoffset = { x = 0.0 y = 0.0 }
+        animationtexturescale = { x = 2.0 y = 1.0 }
+    }
+    
+    animation = {
+        animationmaskfile = "gfx/interface/goals/CIR-7-7.png"
+        animationtexturefile = "gfx/interface/goals/shine_overlay.dds"    # <- the animated file
+        animationrotation = 90.0        
+        animationlooping = no           
+        animationtime = 0.75            
+        animationdelay = 0              
+        animationblendmode = "add"      
+        animationtype = "scrolling"     
+        animationrotationoffset = { x = 0.0 y = 0.0 }
+        animationtexturescale = { x = 1.0 y = 1.0 } 
+    }
+    
+    legacy_lazy_load = no
+}
+
+SpriteType = {
+    name = "CIR-4-1_shine"
+    texturefile = "gfx/interface/goals/CIR-4-1.png"
+    
+    effectFile = "gfx/FX/buttonstate.lua"
+    animation = {
+        animationmaskfile = "gfx/interface/goals/CIR-4-1.png"
+        animationtexturefile = "gfx/interface/goals/shine_overlay.dds"    # <- the animated file
+        animationrotation = -90.0
+        animationlooping = no
+        animationtime = 0.75
+        animationdelay = 0
+        animationblendmode = "add"
+        animationtype = "scrolling"
+        animationrotationoffset = { x = 0.0 y = 0.0 }
+        animationtexturescale = { x = 2.0 y = 1.0 }
+    }
+    
+    animation = {
+        animationmaskfile = "gfx/interface/goals/CIR-4-1.png"
+        animationtexturefile = "gfx/interface/goals/shine_overlay.dds"    # <- the animated file
+        animationrotation = 90.0        
+        animationlooping = no           
+        animationtime = 0.75            
+        animationdelay = 0              
+        animationblendmode = "add"      
+        animationtype = "scrolling"     
+        animationrotationoffset = { x = 0.0 y = 0.0 }
+        animationtexturescale = { x = 1.0 y = 1.0 } 
+    }
+    
+    legacy_lazy_load = no
+}
+
+SpriteType = {
+    name = "CIR-4-2_shine"
+    texturefile = "gfx/interface/goals/CIR-4-2.png"
+    
+    effectFile = "gfx/FX/buttonstate.lua"
+    animation = {
+        animationmaskfile = "gfx/interface/goals/CIR-4-2.png"
+        animationtexturefile = "gfx/interface/goals/shine_overlay.dds"    # <- the animated file
+        animationrotation = -90.0
+        animationlooping = no
+        animationtime = 0.75
+        animationdelay = 0
+        animationblendmode = "add"
+        animationtype = "scrolling"
+        animationrotationoffset = { x = 0.0 y = 0.0 }
+        animationtexturescale = { x = 2.0 y = 1.0 }
+    }
+    
+    animation = {
+        animationmaskfile = "gfx/interface/goals/CIR-4-2.png"
+        animationtexturefile = "gfx/interface/goals/shine_overlay.dds"    # <- the animated file
+        animationrotation = 90.0        
+        animationlooping = no           
+        animationtime = 0.75            
+        animationdelay = 0              
+        animationblendmode = "add"      
+        animationtype = "scrolling"     
+        animationrotationoffset = { x = 0.0 y = 0.0 }
+        animationtexturescale = { x = 1.0 y = 1.0 } 
+    }
+    
+    legacy_lazy_load = no
+}
+
+SpriteType = {
+    name = "CIR-4-3_shine"
+    texturefile = "gfx/interface/goals/CIR-4-3.png"
+    
+    effectFile = "gfx/FX/buttonstate.lua"
+    animation = {
+        animationmaskfile = "gfx/interface/goals/CIR-4-3.png"
+        animationtexturefile = "gfx/interface/goals/shine_overlay.dds"    # <- the animated file
+        animationrotation = -90.0
+        animationlooping = no
+        animationtime = 0.75
+        animationdelay = 0
+        animationblendmode = "add"
+        animationtype = "scrolling"
+        animationrotationoffset = { x = 0.0 y = 0.0 }
+        animationtexturescale = { x = 2.0 y = 1.0 }
+    }
+    
+    animation = {
+        animationmaskfile = "gfx/interface/goals/CIR-4-3.png"
+        animationtexturefile = "gfx/interface/goals/shine_overlay.dds"    # <- the animated file
+        animationrotation = 90.0        
+        animationlooping = no           
+        animationtime = 0.75            
+        animationdelay = 0              
+        animationblendmode = "add"      
+        animationtype = "scrolling"     
+        animationrotationoffset = { x = 0.0 y = 0.0 }
+        animationtexturescale = { x = 1.0 y = 1.0 } 
+    }
+    
+    legacy_lazy_load = no
+}
+
+SpriteType = {
+    name = "CIR-4-4_shine"
+    texturefile = "gfx/interface/goals/CIR-4-4.png"
+    
+    effectFile = "gfx/FX/buttonstate.lua"
+    animation = {
+        animationmaskfile = "gfx/interface/goals/CIR-4-4.png"
+        animationtexturefile = "gfx/interface/goals/shine_overlay.dds"    # <- the animated file
+        animationrotation = -90.0
+        animationlooping = no
+        animationtime = 0.75
+        animationdelay = 0
+        animationblendmode = "add"
+        animationtype = "scrolling"
+        animationrotationoffset = { x = 0.0 y = 0.0 }
+        animationtexturescale = { x = 2.0 y = 1.0 }
+    }
+    
+    animation = {
+        animationmaskfile = "gfx/interface/goals/CIR-4-4.png"
+        animationtexturefile = "gfx/interface/goals/shine_overlay.dds"    # <- the animated file
+        animationrotation = 90.0        
+        animationlooping = no           
+        animationtime = 0.75            
+        animationdelay = 0              
+        animationblendmode = "add"      
+        animationtype = "scrolling"     
+        animationrotationoffset = { x = 0.0 y = 0.0 }
+        animationtexturescale = { x = 1.0 y = 1.0 } 
+    }
+    
+    legacy_lazy_load = no
+}
+SpriteType = {
+name = "CIR-4-5_shine"
+texturefile = "gfx/interface/goals/CIR-4-5.png"
+
+effectFile = "gfx/FX/buttonstate.lua"
+animation = {
+    animationmaskfile = "gfx/interface/goals/CIR-4-5.png"
+    animationtexturefile = "gfx/interface/goals/shine_overlay.dds"    # <- the animated file
+    animationrotation = -90.0
+    animationlooping = no
+    animationtime = 0.75
+    animationdelay = 0
+    animationblendmode = "add"
+    animationtype = "scrolling"
+    animationrotationoffset = { x = 0.0 y = 0.0 }
+    animationtexturescale = { x = 2.5 y = 1.0 }
+}
+
+animation = {
+    animationmaskfile = "gfx/interface/goals/CIR-4-5.png"
+    animationtexturefile = "gfx/interface/goals/shine_overlay.dds"    # <- the animated file
+    animationrotation = 90.0        
+    animationlooping = no           
+    animationtime = 0.75            
+    animationdelay = 0              
+    animationblendmode = "add"      
+    animationtype = "scrolling"     
+    animationrotationoffset = { x = 0.0 y = 0.0 }
+    animationtexturescale = { x = 1.5 y = 1.0 } 
+}
+
+legacy_lazy_load = no
+}
+
+SpriteType = {
+name = "CIR-4-6_shine"
+texturefile = "gfx/interface/goals/CIR-4-6.png"
+
+effectFile = "gfx/FX/buttonstate.lua"
+animation = {
+    animationmaskfile = "gfx/interface/goals/CIR-4-6.png"
+    animationtexturefile = "gfx/interface/goals/shine_overlay.dds"    # <- the animated file
+    animationrotation = -90.0
+    animationlooping = no
+    animationtime = 0.75
+    animationdelay = 0
+    animationblendmode = "add"
+    animationtype = "scrolling"
+    animationrotationoffset = { x = 0.0 y = 0.0 }
+    animationtexturescale = { x = 2.5 y = 1.5 }
+}
+
+animation = {
+    animationmaskfile = "gfx/interface/goals/CIR-4-6.png"
+    animationtexturefile = "gfx/interface/goals/shine_overlay.dds"    # <- the animated file
+    animationrotation = 90.0        
+    animationlooping = no           
+    animationtime = 0.75            
+    animationdelay = 0              
+    animationblendmode = "add"      
+    animationtype = "scrolling"     
+    animationrotationoffset = { x = 0.0 y = 0.0 }
+    animationtexturescale = { x = 1.5 y = 1.5 } 
+}
+
+legacy_lazy_load = no
+}
+SpriteType = {
+name = "CIR-4-7_shine"
+texturefile = "gfx/interface/goals/CIR-4-7.png"
+
+effectFile = "gfx/FX/buttonstate.lua"
+animation = {
+    animationmaskfile = "gfx/interface/goals/CIR-4-7.png"
+    animationtexturefile = "gfx/interface/goals/shine_overlay.dds"    # <- the animated file
+    animationrotation = -90.0
+    animationlooping = no
+    animationtime = 0.75
+    animationdelay = 0
+    animationblendmode = "add"
+    animationtype = "scrolling"
+    animationrotationoffset = { x = 0.0 y = 0.0 }
+    animationtexturescale = { x = 2.5 y = 2.0 }
+}
+
+animation = {
+    animationmaskfile = "gfx/interface/goals/CIR-4-7.png"
+    animationtexturefile = "gfx/interface/goals/shine_overlay.dds"    # <- the animated file
+    animationrotation = 90.0        
+    animationlooping = no           
+    animationtime = 0.75            
+    animationdelay = 0              
+    animationblendmode = "add"      
+    animationtype = "scrolling"     
+    animationrotationoffset = { x = 0.0 y = 0.0 }
+    animationtexturescale = { x = 1.5 y = 2.0 } 
+}
+
+legacy_lazy_load = no
+}
+SpriteType = {
+name = "CIR-4-8_shine"
+texturefile = "gfx/interface/goals/CIR-4-8.png"
+
+effectFile = "gfx/FX/buttonstate.lua"
+animation = {
+    animationmaskfile = "gfx/interface/goals/CIR-4-8.png"
+    animationtexturefile = "gfx/interface/goals/shine_overlay.dds"    # <- the animated file
+    animationrotation = -90.0
+    animationlooping = no
+    animationtime = 0.75
+    animationdelay = 0
+    animationblendmode = "add"
+    animationtype = "scrolling"
+    animationrotationoffset = { x = 0.0 y = 0.0 }
+    animationtexturescale = { x = 2.5 y = 2.5 }
+}
+
+animation = {
+    animationmaskfile = "gfx/interface/goals/CIR-4-8.png"
+    animationtexturefile = "gfx/interface/goals/shine_overlay.dds"    # <- the animated file
+    animationrotation = 90.0        
+    animationlooping = no           
+    animationtime = 0.75            
+    animationdelay = 0              
+    animationblendmode = "add"      
+    animationtype = "scrolling"     
+    animationrotationoffset = { x = 0.0 y = 0.0 }
+    animationtexturescale = { x = 1.5 y = 2.5 } 
+}
+
+legacy_lazy_load = no
+}
+
+SpriteType = {
+name = "CIR_5_1_shine"
+texturefile = "gfx/interface/goals/CIR_5_1.png"
+
+effectFile = "gfx/FX/buttonstate.lua"
+animation = {
+    animationmaskfile = "gfx/interface/goals/CIR_5_1.png"
+    animationtexturefile = "gfx/interface/goals/shine_overlay.dds"    # <- the animated file
+    animationrotation = -90.0
+    animationlooping = no
+    animationtime = 0.75
+    animationdelay = 0
+    animationblendmode = "add"
+    animationtype = "scrolling"
+    animationrotationoffset = { x = 0.0 y = 0.0 }
+    animationtexturescale = { x = 2.5 y = 2.5 }
+}
+
+animation = {
+    animationmaskfile = "gfx/interface/goals/CIR_5_1.png"
+    animationtexturefile = "gfx/interface/goals/shine_overlay.dds"    # <- the animated file
+    animationrotation = 90.0        
+    animationlooping = no           
+    animationtime = 0.75            
+    animationdelay = 0              
+    animationblendmode = "add"      
+    animationtype = "scrolling"     
+    animationrotationoffset = { x = 0.0 y = 0.0 }
+    animationtexturescale = { x = 1.5 y = 2.5 } 
+}
+
+legacy_lazy_load = no
+}
+SpriteType = {
+name = "CIR_5_2_shine"
+texturefile = "gfx/interface/goals/CIR_5_2.png"
+
+effectFile = "gfx/FX/buttonstate.lua"
+animation = {
+    animationmaskfile = "gfx/interface/goals/CIR_5_2.png"
+    animationtexturefile = "gfx/interface/goals/shine_overlay.dds"    # <- the animated file
+    animationrotation = -90.0
+    animationlooping = no
+    animationtime = 0.75
+    animationdelay = 0
+    animationblendmode = "add"
+    animationtype = "scrolling"
+    animationrotationoffset = { x = 0.0 y = 0.0 }
+    animationtexturescale = { x = 2.5 y = 2.5 }
+}
+
+animation = {
+    animationmaskfile = "gfx/interface/goals/CIR_5_2.png"
+    animationtexturefile = "gfx/interface/goals/shine_overlay.dds"    # <- the animated file
+    animationrotation = 90.0        
+    animationlooping = no           
+    animationtime = 0.75            
+    animationdelay = 0              
+    animationblendmode = "add"      
+    animationtype = "scrolling"     
+    animationrotationoffset = { x = 0.0 y = 0.0 }
+    animationtexturescale = { x = 1.5 y = 2.5 } 
+}
+
+legacy_lazy_load = no
+}
+SpriteType = {
+    name = "CIR_5_3_shine"
+    texturefile = "gfx/interface/goals/CIR_5_3.png"
+
+    effectFile = "gfx/FX/buttonstate.lua"
+    animation = {
+        animationmaskfile = "gfx/interface/goals/CIR_5_3.png"
+        animationtexturefile = "gfx/interface/goals/shine_overlay.dds"    # <- the animated file
+        animationrotation = -90.0
+        animationlooping = no
+        animationtime = 0.75
+        animationdelay = 0
+        animationblendmode = "add"
+        animationtype = "scrolling"
+        animationrotationoffset = { x = 0.0 y = 0.0 }
+        animationtexturescale = { x = 2.5 y = 2.5 }
+    }
+
+    animation = {
+        animationmaskfile = "gfx/interface/goals/CIR_5_3.png"
+        animationtexturefile = "gfx/interface/goals/shine_overlay.dds"    # <- the animated file
+        animationrotation = 90.0        
+        animationlooping = no           
+        animationtime = 0.75            
+        animationdelay = 0              
+        animationblendmode = "add"      
+        animationtype = "scrolling"     
+        animationrotationoffset = { x = 0.0 y = 0.0 }
+        animationtexturescale = { x = 1.5 y = 2.5 } 
+    }
+
+    legacy_lazy_load = no
+}
+
+SpriteType = {
+    name = "CIR_5_4_shine"
+    texturefile = "gfx/interface/goals/CIR_5_4.png"
+
+    effectFile = "gfx/FX/buttonstate.lua"
+    animation = {
+        animationmaskfile = "gfx/interface/goals/CIR_5_4.png"
+        animationtexturefile = "gfx/interface/goals/shine_overlay.dds"    # <- the animated file
+        animationrotation = -90.0
+        animationlooping = no
+        animationtime = 0.75
+        animationdelay = 0
+        animationblendmode = "add"
+        animationtype = "scrolling"
+        animationrotationoffset = { x = 0.0 y = 0.0 }
+        animationtexturescale = { x = 2.5 y = 2.5 }
+    }
+
+    animation = {
+        animationmaskfile = "gfx/interface/goals/CIR_5_4.png"
+        animationtexturefile = "gfx/interface/goals/shine_overlay.dds"    # <- the animated file
+        animationrotation = 90.0        
+        animationlooping = no           
+        animationtime = 0.75            
+        animationdelay = 0              
+        animationblendmode = "add"      
+        animationtype = "scrolling"     
+        animationrotationoffset = { x = 0.0 y = 0.0 }
+        animationtexturescale = { x = 1.5 y = 2.5 } 
+    }
+
+    legacy_lazy_load = no
+}
+SpriteType = {
+    name = "CIR_5_5_shine"
+    texturefile = "gfx/interface/goals/CIR_5_5.png"
+
+    effectFile = "gfx/FX/buttonstate.lua"
+    animation = {
+        animationmaskfile = "gfx/interface/goals/CIR_5_5.png"
+        animationtexturefile = "gfx/interface/goals/shine_overlay.dds"    # <- the animated file
+        animationrotation = -90.0
+        animationlooping = no
+        animationtime = 0.75
+        animationdelay = 0
+        animationblendmode = "add"
+        animationtype = "scrolling"
+        animationrotationoffset = { x = 0.0 y = 0.0 }
+        animationtexturescale = { x = 2.5 y = 2.5 }
+    }
+
+    animation = {
+        animationmaskfile = "gfx/interface/goals/CIR_5_5.png"
+        animationtexturefile = "gfx/interface/goals/shine_overlay.dds"    # <- the animated file
+        animationrotation = 90.0        
+        animationlooping = no           
+        animationtime = 0.75            
+        animationdelay = 0              
+        animationblendmode = "add"      
+        animationtype = "scrolling"     
+        animationrotationoffset = { x = 0.0 y = 0.0 }
+        animationtexturescale = { x = 1.5 y = 2.5 } 
+    }
+
+    legacy_lazy_load = no
+}
+
+SpriteType = {
+    name = "CIR_5_6_shine"
+    texturefile = "gfx/interface/goals/CIR_5_6.png"
+
+    effectFile = "gfx/FX/buttonstate.lua"
+    animation = {
+        animationmaskfile = "gfx/interface/goals/CIR_5_6.png"
+        animationtexturefile = "gfx/interface/goals/shine_overlay.dds"    # <- the animated file
+        animationrotation = -90.0
+        animationlooping = no
+        animationtime = 0.75
+        animationdelay = 0
+        animationblendmode = "add"
+        animationtype = "scrolling"
+        animationrotationoffset = { x = 0.0 y = 0.0 }
+        animationtexturescale = { x = 2.5 y = 2.5 }
+    }
+
+    animation = {
+        animationmaskfile = "gfx/interface/goals/CIR_5_6.png"
+        animationtexturefile = "gfx/interface/goals/shine_overlay.dds"    # <- the animated file
+        animationrotation = 90.0        
+        animationlooping = no           
+        animationtime = 0.75            
+        animationdelay = 0              
+        animationblendmode = "add"      
+        animationtype = "scrolling"     
+        animationrotationoffset = { x = 0.0 y = 0.0 }
+        animationtexturescale = { x = 1.5 y = 2.5 } 
+    }
+
+    legacy_lazy_load = no
+}
+SpriteType = {
+    name = "CIR_5_7_shine"
+    texturefile = "gfx/interface/goals/CIR_5_7.png"
+
+    effectFile = "gfx/FX/buttonstate.lua"
+    animation = {
+        animationmaskfile = "gfx/interface/goals/CIR_5_7.png"
+        animationtexturefile = "gfx/interface/goals/shine_overlay.dds"    # <- the animated file
+        animationrotation = -90.0
+        animationlooping = no
+        animationtime = 0.75
+        animationdelay = 0
+        animationblendmode = "add"
+        animationtype = "scrolling"
+        animationrotationoffset = { x = 0.0 y = 0.0 }
+        animationtexturescale = { x = 2.5 y = 2.5 }
+    }
+
+    animation = {
+        animationmaskfile = "gfx/interface/goals/CIR_5_7.png"
+        animationtexturefile = "gfx/interface/goals/shine_overlay.dds"    # <- the animated file
+        animationrotation = 90.0        
+        animationlooping = no           
+        animationtime = 0.75            
+        animationdelay = 0              
+        animationblendmode = "add"      
+        animationtype = "scrolling"     
+        animationrotationoffset = { x = 0.0 y = 0.0 }
+        animationtexturescale = { x = 1.5 y = 2.5 } 
+    }
+
+    legacy_lazy_load = no
+}
+SpriteType = {
+    name = "CIR_5_8_shine"
+    texturefile = "gfx/interface/goals/CIR_5_8.png"
+
+    effectFile = "gfx/FX/buttonstate.lua"
+    animation = {
+        animationmaskfile = "gfx/interface/goals/CIR_5_8.png"
+        animationtexturefile = "gfx/interface/goals/shine_overlay.dds"    # <- the animated file
+        animationrotation = -90.0
+        animationlooping = no
+        animationtime = 0.75
+        animationdelay = 0
+        animationblendmode = "add"
+        animationtype = "scrolling"
+        animationrotationoffset = { x = 0.0 y = 0.0 }
+        animationtexturescale = { x = 2.5 y = 2.5 }
+    }
+
+    animation = {
+        animationmaskfile = "gfx/interface/goals/CIR_5_8.png"
+        animationtexturefile = "gfx/interface/goals/shine_overlay.dds"    # <- the animated file
+        animationrotation = 90.0        
+        animationlooping = no           
+        animationtime = 0.75            
+        animationdelay = 0              
+        animationblendmode = "add"      
+        animationtype = "scrolling"     
+        animationrotationoffset = { x = 0.0 y = 0.0 }
+        animationtexturescale = { x = 1.5 y = 2.5 } 
+    }
+
+    legacy_lazy_load = no
+}
+SpriteType = {
+    name = "CIR_5_9_shine"
+    texturefile = "gfx/interface/goals/CIR_5_9.png"
+
+    effectFile = "gfx/FX/buttonstate.lua"
+    animation = {
+        animationmaskfile = "gfx/interface/goals/CIR_5_9.png"
+        animationtexturefile = "gfx/interface/goals/shine_overlay.dds"    # <- the animated file
+        animationrotation = -90.0
+        animationlooping = no
+        animationtime = 0.75
+        animationdelay = 0
+        animationblendmode = "add"
+        animationtype = "scrolling"
+        animationrotationoffset = { x = 0.0 y = 0.0 }
+        animationtexturescale = { x = 2.5 y = 2.5 }
+    }
+
+    animation = {
+        animationmaskfile = "gfx/interface/goals/CIR_5_9.png"
+        animationtexturefile = "gfx/interface/goals/shine_overlay.dds"    # <- the animated file
+        animationrotation = 90.0        
+        animationlooping = no           
+        animationtime = 0.75            
+        animationdelay = 0              
+        animationblendmode = "add"      
+        animationtype = "scrolling"     
+        animationrotationoffset = { x = 0.0 y = 0.0 }
+        animationtexturescale = { x = 1.5 y = 2.5 } 
+    }
+
+    legacy_lazy_load = no
+}
+SpriteType = {
+    name = "CIR_5_10_shine"
+    texturefile = "gfx/interface/goals/CIR_5_10.png"
+
+    effectFile = "gfx/FX/buttonstate.lua"
+    animation = {
+        animationmaskfile = "gfx/interface/goals/CIR_5_10.png"
+        animationtexturefile = "gfx/interface/goals/shine_overlay.dds"    # <- the animated file
+        animationrotation = -90.0
+        animationlooping = no
+        animationtime = 0.75
+        animationdelay = 0
+        animationblendmode = "add"
+        animationtype = "scrolling"
+        animationrotationoffset = { x = 0.0 y = 0.0 }
+        animationtexturescale = { x = 2.5 y = 2.5 }
+    }
+
+    animation = {
+        animationmaskfile = "gfx/interface/goals/CIR_5_10.png"
+        animationtexturefile = "gfx/interface/goals/shine_overlay.dds"    # <- the animated file
+        animationrotation = 90.0        
+        animationlooping = no           
+        animationtime = 0.75            
+        animationdelay = 0              
+        animationblendmode = "add"      
+        animationtype = "scrolling"     
+        animationrotationoffset = { x = 0.0 y = 0.0 }
+        animationtexturescale = { x = 1.5 y = 2.5 } 
+    }
+
+    legacy_lazy_load = no
+}
+SpriteType = {
+    name = "CIR_5_11_shine"
+    texturefile = "gfx/interface/goals/CIR_5_11.png"
+
+    effectFile = "gfx/FX/buttonstate.lua"
+    animation = {
+        animationmaskfile = "gfx/interface/goals/CIR_5_11.png"
+        animationtexturefile = "gfx/interface/goals/shine_overlay.dds"    # <- the animated file
+        animationrotation = -90.0
+        animationlooping = no
+        animationtime = 0.75
+        animationdelay = 0
+        animationblendmode = "add"
+        animationtype = "scrolling"
+        animationrotationoffset = { x = 0.0 y = 0.0 }
+        animationtexturescale = { x = 2.5 y = 2.5 }
+    }
+
+    animation = {
+        animationmaskfile = "gfx/interface/goals/CIR_5_11.png"
+        animationtexturefile = "gfx/interface/goals/shine_overlay.dds"    # <- the animated file
+        animationrotation = 90.0        
+        animationlooping = no           
+        animationtime = 0.75            
+        animationdelay = 0              
+        animationblendmode = "add"      
+        animationtype = "scrolling"     
+        animationrotationoffset = { x = 0.0 y = 0.0 }
+        animationtexturescale = { x = 1.5 y = 2.5 } 
+    }
+
+    legacy_lazy_load = no
+}
+SpriteType = {
+    name = "CIR_5_12_shine"
+    texturefile = "gfx/interface/goals/CIR_5_12.png"
+
+    effectFile = "gfx/FX/buttonstate.lua"
+    animation = {
+        animationmaskfile = "gfx/interface/goals/CIR_5_12.png"
+        animationtexturefile = "gfx/interface/goals/shine_overlay.dds"    # <- the animated file
+        animationrotation = -90.0
+        animationlooping = no
+        animationtime = 0.75
+        animationdelay = 0
+        animationblendmode = "add"
+        animationtype = "scrolling"
+        animationrotationoffset = { x = 0.0 y = 0.0 }
+        animationtexturescale = { x = 2.5 y = 2.5 }
+    }
+
+    animation = {
+        animationmaskfile = "gfx/interface/goals/CIR_5_12.png"
+        animationtexturefile = "gfx/interface/goals/shine_overlay.dds"    # <- the animated file
+        animationrotation = 90.0        
+        animationlooping = no           
+        animationtime = 0.75            
+        animationdelay = 0              
+        animationblendmode = "add"      
+        animationtype = "scrolling"     
+        animationrotationoffset = { x = 0.0 y = 0.0 }
+        animationtexturescale = { x = 1.5 y = 2.5 } 
+    }
+
+    legacy_lazy_load = no
+}
+SpriteType = {
+    name = "CIR_5_13_shine"
+    texturefile = "gfx/interface/goals/CIR_5_13.png"
+
+    effectFile = "gfx/FX/buttonstate.lua"
+    animation = {
+        animationmaskfile = "gfx/interface/goals/CIR_5_13.png"
+        animationtexturefile = "gfx/interface/goals/shine_overlay.dds"    # <- the animated file
+        animationrotation = -90.0
+        animationlooping = no
+        animationtime = 0.75
+        animationdelay = 0
+        animationblendmode = "add"
+        animationtype = "scrolling"
+        animationrotationoffset = { x = 0.0 y = 0.0 }
+        animationtexturescale = { x = 2.5 y = 2.5 }
+    }
+
+    animation = {
+        animationmaskfile = "gfx/interface/goals/CIR_5_13.png"
+        animationtexturefile = "gfx/interface/goals/shine_overlay.dds"    # <- the animated file
+        animationrotation = 90.0        
+        animationlooping = no           
+        animationtime = 0.75            
+        animationdelay = 0              
+        animationblendmode = "add"      
+        animationtype = "scrolling"     
+        animationrotationoffset = { x = 0.0 y = 0.0 }
+        animationtexturescale = { x = 1.5 y = 2.5 } 
+    }
+
+    legacy_lazy_load = no
+}
+SpriteType = {
+    name = "CIR_5_14_shine"
+    texturefile = "gfx/interface/goals/CIR_5_14.png"
+
+    effectFile = "gfx/FX/buttonstate.lua"
+    animation = {
+        animationmaskfile = "gfx/interface/goals/CIR_5_14.png"
+        animationtexturefile = "gfx/interface/goals/shine_overlay.dds"    # <- the animated file
+        animationrotation = -90.0
+        animationlooping = no
+        animationtime = 0.75
+        animationdelay = 0
+        animationblendmode = "add"
+        animationtype = "scrolling"
+        animationrotationoffset = { x = 0.0 y = 0.0 }
+        animationtexturescale = { x = 2.5 y = 2.5 }
+    }
+
+    animation = {
+        animationmaskfile = "gfx/interface/goals/CIR_5_14.png"
+        animationtexturefile = "gfx/interface/goals/shine_overlay.dds"    # <- the animated file
+        animationrotation = 90.0        
+        animationlooping = no           
+        animationtime = 0.75            
+        animationdelay = 0              
+        animationblendmode = "add"      
+        animationtype = "scrolling"     
+        animationrotationoffset = { x = 0.0 y = 0.0 }
+        animationtexturescale = { x = 1.5 y = 2.5 } 
+    }
+
+    legacy_lazy_load = no
+}
+SpriteType = {
+    name = "CIR_5_15_shine"
+    texturefile = "gfx/interface/goals/CIR_5_15.png"
+
+    effectFile = "gfx/FX/buttonstate.lua"
+    animation = {
+        animationmaskfile = "gfx/interface/goals/CIR_5_15.png"
+        animationtexturefile = "gfx/interface/goals/shine_overlay.dds"    # <- the animated file
+        animationrotation = -90.0
+        animationlooping = no
+        animationtime = 0.75
+        animationdelay = 0
+        animationblendmode = "add"
+        animationtype = "scrolling"
+        animationrotationoffset = { x = 0.0 y = 0.0 }
+        animationtexturescale = { x = 2.5 y = 2.5 }
+    }
+
+    animation = {
+        animationmaskfile = "gfx/interface/goals/CIR_5_15.png"
+        animationtexturefile = "gfx/interface/goals/shine_overlay.dds"    # <- the animated file
+        animationrotation = 90.0        
+        animationlooping = no           
+        animationtime = 0.75            
+        animationdelay = 0              
+        animationblendmode = "add"      
+        animationtype = "scrolling"     
+        animationrotationoffset = { x = 0.0 y = 0.0 }
+        animationtexturescale = { x = 1.5 y = 2.5 } 
+    }
+
+    legacy_lazy_load = no
+}
+SpriteType = {
+    name = "CIR_5_16_shine"
+    texturefile = "gfx/interface/goals/CIR_5_16.png"
+
+    effectFile = "gfx/FX/buttonstate.lua"
+    animation = {
+        animationmaskfile = "gfx/interface/goals/CIR_5_16.png"
+        animationtexturefile = "gfx/interface/goals/shine_overlay.dds"    # <- the animated file
+        animationrotation = -90.0
+        animationlooping = no
+        animationtime = 0.75
+        animationdelay = 0
+        animationblendmode = "add"
+        animationtype = "scrolling"
+        animationrotationoffset = { x = 0.0 y = 0.0 }
+        animationtexturescale = { x = 2.5 y = 2.5 }
+    }
+
+    animation = {
+        animationmaskfile = "gfx/interface/goals/CIR_5_16.png"
+        animationtexturefile = "gfx/interface/goals/shine_overlay.dds"    # <- the animated file
+        animationrotation = 90.0        
+        animationlooping = no           
+        animationtime = 0.75            
+        animationdelay = 0              
+        animationblendmode = "add"      
+        animationtype = "scrolling"     
+        animationrotationoffset = { x = 0.0 y = 0.0 }
+        animationtexturescale = { x = 1.5 y = 2.5 } 
+    }
+
+    legacy_lazy_load = no
+}
+
+SpriteType = {
+    name = "CIR_6_1_shine"
+    texturefile = "gfx/interface/goals/CIR_6_1.png"
+
+    effectFile = "gfx/FX/buttonstate.lua"
+    animation = {
+        animationmaskfile = "gfx/interface/goals/CIR_6_1.png"
+        animationtexturefile = "gfx/interface/goals/shine_overlay.dds"    # <- the animated file
+        animationrotation = -90.0
+        animationlooping = no
+        animationtime = 0.75
+        animationdelay = 0
+        animationblendmode = "add"
+        animationtype = "scrolling"
+        animationrotationoffset = { x = 0.0 y = 0.0 }
+        animationtexturescale = { x = 2.5 y = 2.5 }
+    }
+
+    animation = {
+        animationmaskfile = "gfx/interface/goals/CIR_6_1.png"
+        animationtexturefile = "gfx/interface/goals/shine_overlay.dds"    # <- the animated file
+        animationrotation = 90.0        
+        animationlooping = no           
+        animationtime = 0.75            
+        animationdelay = 0              
+        animationblendmode = "add"      
+        animationtype = "scrolling"     
+        animationrotationoffset = { x = 0.0 y = 0.0 }
+        animationtexturescale = { x = 1.5 y = 2.5 } 
+    }
+
+    legacy_lazy_load = no
+}
+SpriteType = {
+    name = "CIR_6_2_shine"
+    texturefile = "gfx/interface/goals/CIR_6_2.png"
+
+    effectFile = "gfx/FX/buttonstate.lua"
+    animation = {
+        animationmaskfile = "gfx/interface/goals/CIR_6_2.png"
+        animationtexturefile = "gfx/interface/goals/shine_overlay.dds"    # <- the animated file
+        animationrotation = -90.0
+        animationlooping = no
+        animationtime = 0.75
+        animationdelay = 0
+        animationblendmode = "add"
+        animationtype = "scrolling"
+        animationrotationoffset = { x = 0.0 y = 0.0 }
+        animationtexturescale = { x = 2.5 y = 2.5 }
+    }
+
+    animation = {
+        animationmaskfile = "gfx/interface/goals/CIR_6_2.png"
+        animationtexturefile = "gfx/interface/goals/shine_overlay.dds"    # <- the animated file
+        animationrotation = 90.0        
+        animationlooping = no           
+        animationtime = 0.75            
+        animationdelay = 0              
+        animationblendmode = "add"      
+        animationtype = "scrolling"     
+        animationrotationoffset = { x = 0.0 y = 0.0 }
+        animationtexturescale = { x = 1.5 y = 2.5 } 
+    }
+
+    legacy_lazy_load = no
+}
+SpriteType = {
+    name = "CIR_6_3_shine"
+    texturefile = "gfx/interface/goals/CIR_6_3.png"
+
+    effectFile = "gfx/FX/buttonstate.lua"
+    animation = {
+        animationmaskfile = "gfx/interface/goals/CIR_6_3.png"
+        animationtexturefile = "gfx/interface/goals/shine_overlay.dds"    # <- the animated file
+        animationrotation = -90.0
+        animationlooping = no
+        animationtime = 0.75
+        animationdelay = 0
+        animationblendmode = "add"
+        animationtype = "scrolling"
+        animationrotationoffset = { x = 0.0 y = 0.0 }
+        animationtexturescale = { x = 2.5 y = 2.5 }
+    }
+
+    animation = {
+        animationmaskfile = "gfx/interface/goals/CIR_6_3.png"
+        animationtexturefile = "gfx/interface/goals/shine_overlay.dds"    # <- the animated file
+        animationrotation = 90.0        
+        animationlooping = no           
+        animationtime = 0.75            
+        animationdelay = 0              
+        animationblendmode = "add"      
+        animationtype = "scrolling"     
+        animationrotationoffset = { x = 0.0 y = 0.0 }
+        animationtexturescale = { x = 1.5 y = 2.5 } 
+    }
+
+    legacy_lazy_load = no
+}
+SpriteType = {
+    name = "CIR_6_4_shine"
+    texturefile = "gfx/interface/goals/CIR_6_4.png"
+
+    effectFile = "gfx/FX/buttonstate.lua"
+    animation = {
+        animationmaskfile = "gfx/interface/goals/CIR_6_4.png"
+        animationtexturefile = "gfx/interface/goals/shine_overlay.dds"    # <- the animated file
+        animationrotation = -90.0
+        animationlooping = no
+        animationtime = 0.75
+        animationdelay = 0
+        animationblendmode = "add"
+        animationtype = "scrolling"
+        animationrotationoffset = { x = 0.0 y = 0.0 }
+        animationtexturescale = { x = 2.5 y = 2.5 }
+    }
+
+    animation = {
+        animationmaskfile = "gfx/interface/goals/CIR_6_4.png"
+        animationtexturefile = "gfx/interface/goals/shine_overlay.dds"    # <- the animated file
+        animationrotation = 90.0        
+        animationlooping = no           
+        animationtime = 0.75            
+        animationdelay = 0              
+        animationblendmode = "add"      
+        animationtype = "scrolling"     
+        animationrotationoffset = { x = 0.0 y = 0.0 }
+        animationtexturescale = { x = 1.5 y = 2.5 } 
+    }
+
+    legacy_lazy_load = no
+}
+SpriteType = {
+    name = "CIR_6_5_shine"
+    texturefile = "gfx/interface/goals/CIR_6_5.png"
+
+    effectFile = "gfx/FX/buttonstate.lua"
+    animation = {
+        animationmaskfile = "gfx/interface/goals/CIR_6_5.png"
+        animationtexturefile = "gfx/interface/goals/shine_overlay.dds"    # <- the animated file
+        animationrotation = -90.0
+        animationlooping = no
+        animationtime = 0.75
+        animationdelay = 0
+        animationblendmode = "add"
+        animationtype = "scrolling"
+        animationrotationoffset = { x = 0.0 y = 0.0 }
+        animationtexturescale = { x = 2.5 y = 2.5 }
+    }
+
+    animation = {
+        animationmaskfile = "gfx/interface/goals/CIR_6_5.png"
+        animationtexturefile = "gfx/interface/goals/shine_overlay.dds"    # <- the animated file
+        animationrotation = 90.0        
+        animationlooping = no           
+        animationtime = 0.75            
+        animationdelay = 0              
+        animationblendmode = "add"      
+        animationtype = "scrolling"     
+        animationrotationoffset = { x = 0.0 y = 0.0 }
+        animationtexturescale = { x = 1.5 y = 2.5 } 
+    }
+
+    legacy_lazy_load = no
+}
+SpriteType = {
+    name = "CIR_6_6_shine"
+    texturefile = "gfx/interface/goals/CIR_6_6.png"
+
+    effectFile = "gfx/FX/buttonstate.lua"
+    animation = {
+        animationmaskfile = "gfx/interface/goals/CIR_6_6.png"
+        animationtexturefile = "gfx/interface/goals/shine_overlay.dds"    # <- the animated file
+        animationrotation = -90.0
+        animationlooping = no
+        animationtime = 0.75
+        animationdelay = 0
+        animationblendmode = "add"
+        animationtype = "scrolling"
+        animationrotationoffset = { x = 0.0 y = 0.0 }
+        animationtexturescale = { x = 2.5 y = 2.5 }
+    }
+
+    animation = {
+        animationmaskfile = "gfx/interface/goals/CIR_6_6.png"
+        animationtexturefile = "gfx/interface/goals/shine_overlay.dds"    # <- the animated file
+        animationrotation = 90.0        
+        animationlooping = no           
+        animationtime = 0.75            
+        animationdelay = 0              
+        animationblendmode = "add"      
+        animationtype = "scrolling"     
+        animationrotationoffset = { x = 0.0 y = 0.0 }
+        animationtexturescale = { x = 1.5 y = 2.5 } 
+    }
+
+    legacy_lazy_load = no
+}
+SpriteType = {
+    name = "CIR_6_7_shine"
+    texturefile = "gfx/interface/goals/CIR_6_7.png"
+
+    effectFile = "gfx/FX/buttonstate.lua"
+    animation = {
+        animationmaskfile = "gfx/interface/goals/CIR_6_7.png"
+        animationtexturefile = "gfx/interface/goals/shine_overlay.dds"    # <- the animated file
+        animationrotation = -90.0
+        animationlooping = no
+        animationtime = 0.75
+        animationdelay = 0
+        animationblendmode = "add"
+        animationtype = "scrolling"
+        animationrotationoffset = { x = 0.0 y = 0.0 }
+        animationtexturescale = { x = 2.5 y = 2.5 }
+    }
+
+    animation = {
+        animationmaskfile = "gfx/interface/goals/CIR_6_7.png"
+        animationtexturefile = "gfx/interface/goals/shine_overlay.dds"    # <- the animated file
+        animationrotation = 90.0        
+        animationlooping = no           
+        animationtime = 0.75            
+        animationdelay = 0              
+        animationblendmode = "add"      
+        animationtype = "scrolling"     
+        animationrotationoffset = { x = 0.0 y = 0.0 }
+        animationtexturescale = { x = 1.5 y = 2.5 } 
+    }
+
+    legacy_lazy_load = no
+}
+SpriteType = {
+    name = "CIR_6_8_shine"
+    texturefile = "gfx/interface/goals/CIR_6_8.png"
+
+    effectFile = "gfx/FX/buttonstate.lua"
+    animation = {
+        animationmaskfile = "gfx/interface/goals/CIR_6_8.png"
+        animationtexturefile = "gfx/interface/goals/shine_overlay.dds"    # <- the animated file
+        animationrotation = -90.0
+        animationlooping = no
+        animationtime = 0.75
+        animationdelay = 0
+        animationblendmode = "add"
+        animationtype = "scrolling"
+        animationrotationoffset = { x = 0.0 y = 0.0 }
+        animationtexturescale = { x = 2.5 y = 2.5 }
+    }
+
+    animation = {
+        animationmaskfile = "gfx/interface/goals/CIR_6_8.png"
+        animationtexturefile = "gfx/interface/goals/shine_overlay.dds"    # <- the animated file
+        animationrotation = 90.0        
+        animationlooping = no           
+        animationtime = 0.75            
+        animationdelay = 0              
+        animationblendmode = "add"      
+        animationtype = "scrolling"     
+        animationrotationoffset = { x = 0.0 y = 0.0 }
+        animationtexturescale = { x = 1.5 y = 2.5 } 
+    }
+
+    legacy_lazy_load = no
+}
+SpriteType = {
+    name = "CIR_6_9_shine"
+    texturefile = "gfx/interface/goals/CIR_6_9.png"
+
+    effectFile = "gfx/FX/buttonstate.lua"
+    animation = {
+        animationmaskfile = "gfx/interface/goals/CIR_6_9.png"
+        animationtexturefile = "gfx/interface/goals/shine_overlay.dds"    # <- the animated file
+        animationrotation = -90.0
+        animationlooping = no
+        animationtime = 0.75
+        animationdelay = 0
+        animationblendmode = "add"
+        animationtype = "scrolling"
+        animationrotationoffset = { x = 0.0 y = 0.0 }
+        animationtexturescale = { x = 2.5 y = 2.5 }
+    }
+
+    animation = {
+        animationmaskfile = "gfx/interface/goals/CIR_6_9.png"
+        animationtexturefile = "gfx/interface/goals/shine_overlay.dds"    # <- the animated file
+        animationrotation = 90.0        
+        animationlooping = no           
+        animationtime = 0.75            
+        animationdelay = 0              
+        animationblendmode = "add"      
+        animationtype = "scrolling"     
+        animationrotationoffset = { x = 0.0 y = 0.0 }
+        animationtexturescale = { x = 1.5 y = 2.5 } 
+    }
+
+    legacy_lazy_load = no
+}
+SpriteType = {
+    name = "CIR_6_10_shine"
+    texturefile = "gfx/interface/goals/CIR_6_10.png"
+
+    effectFile = "gfx/FX/buttonstate.lua"
+    animation = {
+        animationmaskfile = "gfx/interface/goals/CIR_6_10.png"
+        animationtexturefile = "gfx/interface/goals/shine_overlay.dds"    # <- the animated file
+        animationrotation = -90.0
+        animationlooping = no
+        animationtime = 0.75
+        animationdelay = 0
+        animationblendmode = "add"
+        animationtype = "scrolling"
+        animationrotationoffset = { x = 0.0 y = 0.0 }
+        animationtexturescale = { x = 2.5 y = 2.5 }
+    }
+
+    animation = {
+        animationmaskfile = "gfx/interface/goals/CIR_6_10.png"
+        animationtexturefile = "gfx/interface/goals/shine_overlay.dds"    # <- the animated file
+        animationrotation = 90.0        
+        animationlooping = no           
+        animationtime = 0.75            
+        animationdelay = 0              
+        animationblendmode = "add"      
+        animationtype = "scrolling"     
+        animationrotationoffset = { x = 0.0 y = 0.0 }
+        animationtexturescale = { x = 1.5 y = 2.5 } 
+    }
+
+    legacy_lazy_load = no
+}
+SpriteType = {
+name = "CIR_6_11_shine"
+texturefile = "gfx/interface/goals/CIR_6_11.png"
+
+effectFile = "gfx/FX/buttonstate.lua"
+animation = {
+    animationmaskfile = "gfx/interface/goals/CIR_6_11.png"
+    animationtexturefile = "gfx/interface/goals/shine_overlay.dds"    # <- the animated file
+    animationrotation = -90.0
+    animationlooping = no
+    animationtime = 0.75
+    animationdelay = 0
+    animationblendmode = "add"
+    animationtype = "scrolling"
+    animationrotationoffset = { x = 0.0 y = 0.0 }
+    animationtexturescale = { x = 2.5 y = 2.5 }
+}
+
+animation = {
+    animationmaskfile = "gfx/interface/goals/CIR_6_11.png"
+    animationtexturefile = "gfx/interface/goals/shine_overlay.dds"    # <- the animated file
+    animationrotation = 90.0        
+    animationlooping = no           
+    animationtime = 0.75            
+    animationdelay = 0              
+    animationblendmode = "add"      
+    animationtype = "scrolling"     
+    animationrotationoffset = { x = 0.0 y = 0.0 }
+    animationtexturescale = { x = 1.5 y = 2.5 } 
+}
+
+legacy_lazy_load = no
+}
+
+SpriteType = {
+name = "CIR_6_12_shine"
+texturefile = "gfx/interface/goals/CIR_6_12.png"
+
+effectFile = "gfx/FX/buttonstate.lua"
+animation = {
+    animationmaskfile = "gfx/interface/goals/CIR_6_12.png"
+    animationtexturefile = "gfx/interface/goals/shine_overlay.dds"    # <- the animated file
+    animationrotation = -90.0
+    animationlooping = no
+    animationtime = 0.75
+    animationdelay = 0
+    animationblendmode = "add"
+    animationtype = "scrolling"
+    animationrotationoffset = { x = 0.0 y = 0.0 }
+    animationtexturescale = { x = 2.5 y = 2.5 }
+}
+
+animation = {
+    animationmaskfile = "gfx/interface/goals/CIR_6_12.png"
+    animationtexturefile = "gfx/interface/goals/shine_overlay.dds"    # <- the animated file
+    animationrotation = 90.0        
+    animationlooping = no           
+    animationtime = 0.75            
+    animationdelay = 0              
+    animationblendmode = "add"      
+    animationtype = "scrolling"     
+    animationrotationoffset = { x = 0.0 y = 0.0 }
+    animationtexturescale = { x = 1.5 y = 2.5 } 
+}
+
+legacy_lazy_load = no
+}
+
+SpriteType = {
+name = "CIR_6_13_shine"
+texturefile = "gfx/interface/goals/CIR_6_13.png"
+
+effectFile = "gfx/FX/buttonstate.lua"
+animation = {
+    animationmaskfile = "gfx/interface/goals/CIR_6_13.png"
+    animationtexturefile = "gfx/interface/goals/shine_overlay.dds"    # <- the animated file
+    animationrotation = -90.0
+    animationlooping = no
+    animationtime = 0.75
+    animationdelay = 0
+    animationblendmode = "add"
+    animationtype = "scrolling"
+    animationrotationoffset = { x = 0.0 y = 0.0 }
+    animationtexturescale = { x = 2.5 y = 2.5 }
+}
+
+animation = {
+    animationmaskfile = "gfx/interface/goals/CIR_6_13.png"
+    animationtexturefile = "gfx/interface/goals/shine_overlay.dds"    # <- the animated file
+    animationrotation = 90.0        
+    animationlooping = no           
+    animationtime = 0.75            
+    animationdelay = 0              
+    animationblendmode = "add"      
+    animationtype = "scrolling"     
+    animationrotationoffset = { x = 0.0 y = 0.0 }
+    animationtexturescale = { x = 1.5 y = 2.5 } 
+}
+
+legacy_lazy_load = no
+}
+SpriteType = {
+name = "CIR_6_14_shine"
+texturefile = "gfx/interface/goals/CIR_6_14.png"
+
+effectFile = "gfx/FX/buttonstate.lua"
+animation = {
+animationmaskfile = "gfx/interface/goals/CIR_6_14.png"
+animationtexturefile = "gfx/interface/goals/shine_overlay.dds"
+
+animationrotation = -90.0
+animationlooping = no
+animationtime = 0.75
+animationdelay = 0
+animationblendmode = "add"
+animationtype = "scrolling"
+animationrotationoffset = { x = 0.0 y = 0.0 }
+animationtexturescale = { x = 2.5 y = 2.5 }
+}
+
+animation = {
+animationmaskfile = "gfx/interface/goals/CIR_6_14.png"
+animationtexturefile = "gfx/interface/goals/shine_overlay.dds"
+
+animationrotation = 90.0
+
+animationlooping = no
+
+animationtime = 0.75
+
+animationdelay = 0
+
+animationblendmode = "add"
+
+animationtype = "scrolling"
+
+animationrotationoffset = { x = 0.0 y = 0.0 }
+animationtexturescale = { x = 1.5 y = 2.5 }
+}
+
+legacy_lazy_load = no
+}
+
+SpriteType = {
+name = "CIR_6_15_shine"
+texturefile = "gfx/interface/goals/CIR_6_15.png"
+
+effectFile = "gfx/FX/buttonstate.lua"
+animation = {
+animationmaskfile = "gfx/interface/goals/CIR_6_15.png"
+animationtexturefile = "gfx/interface/goals/shine_overlay.dds"
+
+animationrotation = -90.0
+animationlooping = no
+animationtime = 0.75
+animationdelay = 0
+animationblendmode = "add"
+animationtype = "scrolling"
+animationrotationoffset = { x = 0.0 y = 0.0 }
+animationtexturescale = { x = 2.5 y = 2.5 }
+}
+
+animation = {
+animationmaskfile = "gfx/interface/goals/CIR_6_15.png"
+animationtexturefile = "gfx/interface/goals/shine_overlay.dds"
+
+animationrotation = 90.0
+
+animationlooping = no
+
+animationtime = 0.75
+
+animationdelay = 0
+
+animationblendmode = "add"
+
+animationtype = "scrolling"
+
+animationrotationoffset = { x = 0.0 y = 0.0 }
+animationtexturescale = { x = 1.5 y = 2.5 }
+}
+
+legacy_lazy_load = no
+}
+
+SpriteType = {
+name = "CIR_6_16_shine"
+texturefile = "gfx/interface/goals/CIR_6_16.png"
+
+effectFile = "gfx/FX/buttonstate.lua"
+animation = {
+animationmaskfile = "gfx/interface/goals/CIR_6_16.png"
+animationtexturefile = "gfx/interface/goals/shine_overlay.dds"
+
+animationrotation = -90.0
+animationlooping = no
+animationtime = 0.75
+animationdelay = 0
+animationblendmode = "add"
+animationtype = "scrolling"
+animationrotationoffset = { x = 0.0 y = 0.0 }
+animationtexturescale = { x = 2.5 y = 2.5 }
+}
+
+animation = {
+animationmaskfile = "gfx/interface/goals/CIR_6_16.png"
+animationtexturefile = "gfx/interface/goals/shine_overlay.dds"
+
+animationrotation = 90.0
+
+animationlooping = no
+
+animationtime = 0.75
+
+animationdelay = 0
+
+animationblendmode = "add"
+
+animationtype = "scrolling"
+
+animationrotationoffset = { x = 0.0 y = 0.0 }
+animationtexturescale = { x = 1.5 y = 2.5 }
+}
+
+legacy_lazy_load = no
+}
+
+SpriteType = {
+name = "CIR_8_1_shine"
+texturefile = "gfx/interface/goals/CIR_8_1.png"
+
+effectFile = "gfx/FX/buttonstate.lua"
+animation = {
+animationmaskfile = "gfx/interface/goals/CIR_8_1.png"
+animationtexturefile = "gfx/interface/goals/shine_overlay.dds"
+
+animationrotation = -90.0
+animationlooping = no
+animationtime = 0.75
+animationdelay = 0
+animationblendmode = "add"
+animationtype = "scrolling"
+animationrotationoffset = { x = 0.0 y = 0.0 }
+animationtexturescale = { x = 2.5 y = 2.5 }
+}
+
+animation = {
+animationmaskfile = "gfx/interface/goals/CIR_8_1.png"
+animationtexturefile = "gfx/interface/goals/shine_overlay.dds"
+
+animationrotation = 90.0
+
+animationlooping = no
+
+animationtime = 0.75
+
+animationdelay = 0
+
+animationblendmode = "add"
+
+animationtype = "scrolling"
+
+animationrotationoffset = { x = 0.0 y = 0.0 }
+animationtexturescale = { x = 1.5 y = 2.5 }
+}
+
+legacy_lazy_load = no
+}
+SpriteType = {
+name = "CIR_8_2_shine"
+texturefile = "gfx/interface/goals/CIR_8_2.png"
+
+effectFile = "gfx/FX/buttonstate.lua"
+animation = {
+animationmaskfile = "gfx/interface/goals/CIR_8_2.png"
+animationtexturefile = "gfx/interface/goals/shine_overlay.dds"
+
+animationrotation = -90.0
+animationlooping = no
+animationtime = 0.75
+animationdelay = 0
+animationblendmode = "add"
+animationtype = "scrolling"
+animationrotationoffset = { x = 0.0 y = 0.0 }
+animationtexturescale = { x = 2.5 y = 2.5 }
+}
+
+animation = {
+animationmaskfile = "gfx/interface/goals/CIR_8_2.png"
+animationtexturefile = "gfx/interface/goals/shine_overlay.dds"
+
+animationrotation = 90.0
+
+animationlooping = no
+
+animationtime = 0.75
+
+animationdelay = 0
+
+animationblendmode = "add"
+
+animationtype = "scrolling"
+
+animationrotationoffset = { x = 0.0 y = 0.0 }
+animationtexturescale = { x = 1.5 y = 2.5 }
+}
+
+legacy_lazy_load = no
+}
+SpriteType = {
+    name = "CIR_8_3_shine"
+    texturefile = "gfx/interface/goals/CIR_8_3.png"
+    effectFile = "gfx/FX/buttonstate.lua"
+    animation = {
+        animationmaskfile = "gfx/interface/goals/CIR_8_3.png"
+        animationtexturefile = "gfx/interface/goals/shine_overlay.dds"
+        animationrotation = -90.0
+        animationlooping = no
+        animationtime = 0.75
+        animationdelay = 0
+        animationblendmode = "add"
+        animationtype = "scrolling"
+        animationrotationoffset = { x = 0.0 y = 0.0 }
+        animationtexturescale = { x = 2.5 y = 2.5 }
+    }
+    animation = {
+        animationmaskfile = "gfx/interface/goals/CIR_8_3.png"
+        animationtexturefile = "gfx/interface/goals/shine_overlay.dds"
+        animationrotation = 90.0
+        animationlooping = no
+        animationtime = 0.75
+        animationdelay = 0
+        animationblendmode = "add"
+        animationtype = "scrolling"
+        animationrotationoffset = { x = 0.0 y = 0.0 }
+        animationtexturescale = { x = 1.5 y = 2.5 }
+    }
+    legacy_lazy_load = no
+}
+
+SpriteType = {
+    name = "CIR_8_4_shine"
+    texturefile = "gfx/interface/goals/CIR_8_4.png"
+    effectFile = "gfx/FX/buttonstate.lua"
+    animation = {
+        animationmaskfile = "gfx/interface/goals/CIR_8_4.png"
+        animationtexturefile = "gfx/interface/goals/shine_overlay.dds"
+        animationrotation = -90.0
+        animationlooping = no
+        animationtime = 0.75
+        animationdelay = 0
+        animationblendmode = "add"
+        animationtype = "scrolling"
+        animationrotationoffset = { x = 0.0 y = 0.0 }
+        animationtexturescale = { x = 2.5 y = 2.5 }
+    }
+    animation = {
+        animationmaskfile = "gfx/interface/goals/CIR_8_4.png"
+        animationtexturefile = "gfx/interface/goals/shine_overlay.dds"
+        animationrotation = 90.0
+        animationlooping = no
+        animationtime = 0.75
+        animationdelay = 0
+        animationblendmode = "add"
+        animationtype = "scrolling"
+        animationrotationoffset = { x = 0.0 y = 0.0 }
+        animationtexturescale = { x = 1.5 y = 2.5 }
+    }
+    legacy_lazy_load = no
+}
+SpriteType = {
+    name = "CIR_8_5_shine"
+    texturefile = "gfx/interface/goals/CIR_8_5.png"
+    effectFile = "gfx/FX/buttonstate.lua"
+    animation = {
+        animationmaskfile = "gfx/interface/goals/CIR_8_5.png"
+        animationtexturefile = "gfx/interface/goals/shine_overlay.dds"
+        animationrotation = -90.0
+        animationlooping = no
+        animationtime = 0.75
+        animationdelay = 0
+        animationblendmode = "add"
+        animationtype = "scrolling"
+        animationrotationoffset = { x = 0.0 y = 0.0 }
+        animationtexturescale = { x = 2.5 y = 2.5 }
+    }
+    animation = {
+        animationmaskfile = "gfx/interface/goals/CIR_8_5.png"
+        animationtexturefile = "gfx/interface/goals/shine_overlay.dds"
+        animationrotation = 90.0
+        animationlooping = no
+        animationtime = 0.75
+        animationdelay = 0
+        animationblendmode = "add"
+        animationtype = "scrolling"
+        animationrotationoffset = { x = 0.0 y = 0.0 }
+        animationtexturescale = { x = 1.5 y = 2.5 }
+    }
+    legacy_lazy_load = no
+}
+
+SpriteType = {
+    name = "CIR_8_6_shine"
+    texturefile = "gfx/interface/goals/CIR_8_6.png"
+    effectFile = "gfx/FX/buttonstate.lua"
+    animation = {
+        animationmaskfile = "gfx/interface/goals/CIR_8_6.png"
+        animationtexturefile = "gfx/interface/goals/shine_overlay.dds"
+        animationrotation = -90.0
+        animationlooping = no
+        animationtime = 0.75
+        animationdelay = 0
+        animationblendmode = "add"
+        animationtype = "scrolling"
+        animationrotationoffset = { x = 0.0 y = 0.0 }
+        animationtexturescale = { x = 2.5 y = 2.5 }
+    }
+    animation = {
+        animationmaskfile = "gfx/interface/goals/CIR_8_6.png"
+        animationtexturefile = "gfx/interface/goals/shine_overlay.dds"
+        animationrotation = 90.0
+        animationlooping = no
+        animationtime = 0.75
+        animationdelay = 0
+        animationblendmode = "add"
+        animationtype = "scrolling"
+        animationrotationoffset = { x = 0.0 y = 0.0 }
+        animationtexturescale = { x = 1.5 y = 2.5 }
+    }
+    legacy_lazy_load = no
+}
+SpriteType = {
+    name = "CIR_8_7_shine"
+    texturefile = "gfx/interface/goals/CIR_8_7.png"
+    effectFile = "gfx/FX/buttonstate.lua"
+    animation = {
+        animationmaskfile = "gfx/interface/goals/CIR_8_7.png"
+        animationtexturefile = "gfx/interface/goals/shine_overlay.dds"
+        animationrotation = -90.0
+        animationlooping = no
+        animationtime = 0.75
+        animationdelay = 0
+        animationblendmode = "add"
+        animationtype = "scrolling"
+        animationrotationoffset = { x = 0.0 y = 0.0 }
+        animationtexturescale = { x = 2.5 y = 2.5 }
+    }
+    animation = {
+        animationmaskfile = "gfx/interface/goals/CIR_8_7.png"
+        animationtexturefile = "gfx/interface/goals/shine_overlay.dds"
+        animationrotation = 90.0
+        animationlooping = no
+        animationtime = 0.75
+        animationdelay = 0
+        animationblendmode = "add"
+        animationtype = "scrolling"
+        animationrotationoffset = { x = 0.0 y = 0.0 }
+        animationtexturescale = { x = 1.5 y = 2.5 }
+    }
+    legacy_lazy_load = no
+}
+SpriteType = {
+    name = "CIR_8_8_shine"
+    texturefile = "gfx/interface/goals/CIR_8_8.png"
+    effectFile = "gfx/FX/buttonstate.lua"
+    animation = {
+        animationmaskfile = "gfx/interface/goals/CIR_8_8.png"
+        animationtexturefile = "gfx/interface/goals/shine_overlay.dds"
+        animationrotation = -90.0
+        animationlooping = no
+        animationtime = 0.75
+        animationdelay = 0
+        animationblendmode = "add"
+        animationtype = "scrolling"
+        animationrotationoffset = { x = 0.0 y = 0.0 }
+        animationtexturescale = { x = 2.5 y = 2.5 }
+    }
+    animation = {
+        animationmaskfile = "gfx/interface/goals/CIR_8_8.png"
+        animationtexturefile = "gfx/interface/goals/shine_overlay.dds"
+        animationrotation = 90.0
+        animationlooping = no
+        animationtime = 0.75
+        animationdelay = 0
+        animationblendmode = "add"
+        animationtype = "scrolling"
+        animationrotationoffset = { x = 0.0 y = 0.0 }
+        animationtexturescale = { x = 1.5 y = 2.5 }
+    }
+    legacy_lazy_load = no
+}
+SpriteType = {
+    name = "CIR_8_9_shine"
+    texturefile = "gfx/interface/goals/CIR_8_9.png"
+    effectFile = "gfx/FX/buttonstate.lua"
+    animation = {
+        animationmaskfile = "gfx/interface/goals/CIR_8_9.png"
+        animationtexturefile = "gfx/interface/goals/shine_overlay.dds"
+        animationrotation = -90.0
+        animationlooping = no
+        animationtime = 0.75
+        animationdelay = 0
+        animationblendmode = "add"
+        animationtype = "scrolling"
+        animationrotationoffset = { x = 0.0 y = 0.0 }
+        animationtexturescale = { x = 2.5 y = 2.5 }
+    }
+    animation = {
+        animationmaskfile = "gfx/interface/goals/CIR_8_9.png"
+        animationtexturefile = "gfx/interface/goals/shine_overlay.dds"
+        animationrotation = 90.0
+        animationlooping = no
+        animationtime = 0.75
+        animationdelay = 0
+        animationblendmode = "add"
+        animationtype = "scrolling"
+        animationrotationoffset = { x = 0.0 y = 0.0 }
+        animationtexturescale = { x = 1.5 y = 2.5 }
+    }
+    legacy_lazy_load = no
+}
+SpriteType = {
+    name = "CIR_8_10_shine"
+    texturefile = "gfx/interface/goals/CIR_8_10.png"
+    effectFile = "gfx/FX/buttonstate.lua"
+    animation = {
+        animationmaskfile = "gfx/interface/goals/CIR_8_10.png"
+        animationtexturefile = "gfx/interface/goals/shine_overlay.dds"
+        animationrotation = -90.0
+        animationlooping = no
+        animationtime = 0.75
+        animationdelay = 0
+        animationblendmode = "add"
+        animationtype = "scrolling"
+        animationrotationoffset = { x = 0.0 y = 0.0 }
+        animationtexturescale = { x = 2.5 y = 2.5 }
+    }
+    animation = {
+        animationmaskfile = "gfx/interface/goals/CIR_8_10.png"
+        animationtexturefile = "gfx/interface/goals/shine_overlay.dds"
+        animationrotation = 90.0
+        animationlooping = no
+        animationtime = 0.75
+        animationdelay = 0
+        animationblendmode = "add"
+        animationtype = "scrolling"
+        animationrotationoffset = { x = 0.0 y = 0.0 }
+        animationtexturescale = { x = 1.5 y = 2.5 }
+    }
+    legacy_lazy_load = no
+}
+SpriteType = {
+    name = "CIR_8_11_shine"
+    texturefile = "gfx/interface/goals/CIR_8_11.png"
+    effectFile = "gfx/FX/buttonstate.lua"
+    animation = {
+        animationmaskfile = "gfx/interface/goals/CIR_8_11.png"
+        animationtexturefile = "gfx/interface/goals/shine_overlay.dds"
+        animationrotation = -90.0
+        animationlooping = no
+        animationtime = 0.75
+        animationdelay = 0
+        animationblendmode = "add"
+        animationtype = "scrolling"
+        animationrotationoffset = { x = 0.0 y = 0.0 }
+        animationtexturescale = { x = 2.5 y = 2.5 }
+    }
+    animation = {
+        animationmaskfile = "gfx/interface/goals/CIR_8_11.png"
+        animationtexturefile = "gfx/interface/goals/shine_overlay.dds"
+        animationrotation = 90.0
+        animationlooping = no
+        animationtime = 0.75
+        animationdelay = 0
+        animationblendmode = "add"
+        animationtype = "scrolling"
+        animationrotationoffset = { x = 0.0 y = 0.0 }
+        animationtexturescale = { x = 1.5 y = 2.5 }
+    }
+    legacy_lazy_load = no
+}
+SpriteType = {
+    name = "CIR_8_12_shine"
+    texturefile = "gfx/interface/goals/CIR_8_12.png"
+    effectFile = "gfx/FX/buttonstate.lua"
+    animation = {
+        animationmaskfile = "gfx/interface/goals/CIR_8_12.png"
+        animationtexturefile = "gfx/interface/goals/shine_overlay.dds"
+        animationrotation = -90.0
+        animationlooping = no
+        animationtime = 0.75
+        animationdelay = 0
+        animationblendmode = "add"
+        animationtype = "scrolling"
+        animationrotationoffset = { x = 0.0 y = 0.0 }
+        animationtexturescale = { x = 2.5 y = 2.5 }
+    }
+    animation = {
+        animationmaskfile = "gfx/interface/goals/CIR_8_12.png"
+        animationtexturefile = "gfx/interface/goals/shine_overlay.dds"
+        animationrotation = 90.0
+        animationlooping = no
+        animationtime = 0.75
+        animationdelay = 0
+        animationblendmode = "add"
+        animationtype = "scrolling"
+        animationrotationoffset = { x = 0.0 y = 0.0 }
+        animationtexturescale = { x = 1.5 y = 2.5 }
+    }
+    legacy_lazy_load = no
+}
+SpriteType = {
+    name = "CIR_8_13_shine"
+    texturefile = "gfx/interface/goals/CIR_8_13.png"
+    effectFile = "gfx/FX/buttonstate.lua"
+    animation = {
+        animationmaskfile = "gfx/interface/goals/CIR_8_13.png"
+        animationtexturefile = "gfx/interface/goals/shine_overlay.dds"
+        animationrotation = -90.0
+        animationlooping = no
+        animationtime = 0.75
+        animationdelay = 0
+        animationblendmode = "add"
+        animationtype = "scrolling"
+        animationrotationoffset = { x = 0.0 y = 0.0 }
+        animationtexturescale = { x = 2.5 y = 2.5 }
+    }
+    animation = {
+        animationmaskfile = "gfx/interface/goals/CIR_8_13.png"
+        animationtexturefile = "gfx/interface/goals/shine_overlay.dds"
+        animationrotation = 90.0
+        animationlooping = no
+        animationtime = 0.75
+        animationdelay = 0
+        animationblendmode = "add"
+        animationtype = "scrolling"
+        animationrotationoffset = { x = 0.0 y = 0.0 }
+        animationtexturescale = { x = 1.5 y = 2.5 }
+    }
+    legacy_lazy_load = no
+}
+SpriteType = {
+    name = "CIR_8_14_shine"
+    texturefile = "gfx/interface/goals/CIR_8_14.png"
+    effectFile = "gfx/FX/buttonstate.lua"
+    animation = {
+        animationmaskfile = "gfx/interface/goals/CIR_8_14.png"
+        animationtexturefile = "gfx/interface/goals/shine_overlay.dds"
+        animationrotation = -90.0
+        animationlooping = no
+        animationtime = 0.75
+        animationdelay = 0
+        animationblendmode = "add"
+        animationtype = "scrolling"
+        animationrotationoffset = { x = 0.0 y = 0.0 }
+        animationtexturescale = { x = 2.5 y = 2.5 }
+    }
+    animation = {
+        animationmaskfile = "gfx/interface/goals/CIR_8_14.png"
+        animationtexturefile = "gfx/interface/goals/shine_overlay.dds"
+        animationrotation = 90.0
+        animationlooping = no
+        animationtime = 0.75
+        animationdelay = 0
+        animationblendmode = "add"
+        animationtype = "scrolling"
+        animationrotationoffset = { x = 0.0 y = 0.0 }
+        animationtexturescale = { x = 1.5 y = 2.5 }
+    }
+    legacy_lazy_load = no
+}
+SpriteType = {
+    name = "CIR_8_15_shine"
+    texturefile = "gfx/interface/goals/CIR_8_15.png"
+    effectFile = "gfx/FX/buttonstate.lua"
+    animation = {
+        animationmaskfile = "gfx/interface/goals/CIR_8_15.png"
+        animationtexturefile = "gfx/interface/goals/shine_overlay.dds"
+        animationrotation = -90.0
+        animationlooping = no
+        animationtime = 0.75
+        animationdelay = 0
+        animationblendmode = "add"
+        animationtype = "scrolling"
+        animationrotationoffset = { x = 0.0 y = 0.0 }
+        animationtexturescale = { x = 2.5 y = 2.5 }
+    }
+    animation = {
+        animationmaskfile = "gfx/interface/goals/CIR_8_15.png"
+        animationtexturefile = "gfx/interface/goals/shine_overlay.dds"
+        animationrotation = 90.0
+        animationlooping = no
+        animationtime = 0.75
+        animationdelay = 0
+        animationblendmode = "add"
+        animationtype = "scrolling"
+        animationrotationoffset = { x = 0.0 y = 0.0 }
+        animationtexturescale = { x = 1.5 y = 2.5 }
+    }
+    legacy_lazy_load = no
+}
+SpriteType = {
+    name = "CIR_8_16_shine"
+    texturefile = "gfx/interface/goals/CIR_8_16.png"
+    effectFile = "gfx/FX/buttonstate.lua"
+    animation = {
+        animationmaskfile = "gfx/interface/goals/CIR_8_16.png"
+        animationtexturefile = "gfx/interface/goals/shine_overlay.dds"
+        animationrotation = -90.0
+        animationlooping = no
+        animationtime = 0.75
+        animationdelay = 0
+        animationblendmode = "add"
+        animationtype = "scrolling"
+        animationrotationoffset = { x = 0.0 y = 0.0 }
+        animationtexturescale = { x = 2.5 y = 2.5 }
+    }
+    animation = {
+        animationmaskfile = "gfx/interface/goals/CIR_8_16.png"
+        animationtexturefile = "gfx/interface/goals/shine_overlay.dds"
+        animationrotation = 90.0
+        animationlooping = no
+        animationtime = 0.75
+        animationdelay = 0
+        animationblendmode = "add"
+        animationtype = "scrolling"
+        animationrotationoffset = { x = 0.0 y = 0.0 }
+        animationtexturescale = { x = 1.5 y = 2.5 }
+    }
+    legacy_lazy_load = no
+}
+SpriteType = {
+    name = "CIR_8_17_shine"
+    texturefile = "gfx/interface/goals/CIR_8_17.png"
+    effectFile = "gfx/FX/buttonstate.lua"
+    animation = {
+        animationmaskfile = "gfx/interface/goals/CIR_8_17.png"
+        animationtexturefile = "gfx/interface/goals/shine_overlay.dds"
+        animationrotation = -90.0
+        animationlooping = no
+        animationtime = 0.75
+        animationdelay = 0
+        animationblendmode = "add"
+        animationtype = "scrolling"
+        animationrotationoffset = { x = 0.0 y = 0.0 }
+        animationtexturescale = { x = 2.5 y = 2.5 }
+    }
+    animation = {
+        animationmaskfile = "gfx/interface/goals/CIR_8_17.png"
+        animationtexturefile = "gfx/interface/goals/shine_overlay.dds"
+        animationrotation = 90.0
+        animationlooping = no
+        animationtime = 0.75
+        animationdelay = 0
+        animationblendmode = "add"
+        animationtype = "scrolling"
+        animationrotationoffset = { x = 0.0 y = 0.0 }
+        animationtexturescale = { x = 1.5 y = 2.5 }
+    }
+    legacy_lazy_load = no
+}
+SpriteType = {
+    name = "CIR_8_18_shine"
+    texturefile = "gfx/interface/goals/CIR_8_18.png"
+    effectFile = "gfx/FX/buttonstate.lua"
+    animation = {
+        animationmaskfile = "gfx/interface/goals/CIR_8_18.png"
+        animationtexturefile = "gfx/interface/goals/shine_overlay.dds"
+        animationrotation = -90.0
+        animationlooping = no
+        animationtime = 0.75
+        animationdelay = 0
+        animationblendmode = "add"
+        animationtype = "scrolling"
+        animationrotationoffset = { x = 0.0 y = 0.0 }
+        animationtexturescale = { x = 2.5 y = 2.5 }
+    }
+    animation = {
+        animationmaskfile = "gfx/interface/goals/CIR_8_18.png"
+        animationtexturefile = "gfx/interface/goals/shine_overlay.dds"
+        animationrotation = 90.0
+        animationlooping = no
+        animationtime = 0.75
+        animationdelay = 0
+        animationblendmode = "add"
+        animationtype = "scrolling"
+        animationrotationoffset = { x = 0.0 y = 0.0 }
+        animationtexturescale = { x = 1.5 y = 2.5 }
+    }
+    legacy_lazy_load = no
+}
+SpriteType = {
+    name = "CIR_8_19_shine"
+    texturefile = "gfx/interface/goals/CIR_8_19.png"
+    effectFile = "gfx/FX/buttonstate.lua"
+    animation = {
+        animationmaskfile = "gfx/interface/goals/CIR_8_19.png"
+        animationtexturefile = "gfx/interface/goals/shine_overlay.dds"
+        animationrotation = -90.0
+        animationlooping = no
+        animationtime = 0.75
+        animationdelay = 0
+        animationblendmode = "add"
+        animationtype = "scrolling"
+        animationrotationoffset = { x = 0.0 y = 0.0 }
+        animationtexturescale = { x = 2.5 y = 2.5 }
+    }
+    animation = {
+        animationmaskfile = "gfx/interface/goals/CIR_8_19.png"
+        animationtexturefile = "gfx/interface/goals/shine_overlay.dds"
+        animationrotation = 90.0
+        animationlooping = no
+        animationtime = 0.75
+        animationdelay = 0
+        animationblendmode = "add"
+        animationtype = "scrolling"
+        animationrotationoffset = { x = 0.0 y = 0.0 }
+        animationtexturescale = { x = 1.5 y = 2.5 }
+    }
+    legacy_lazy_load = no
+}
+SpriteType = {
+    name = "CIR_8_20_shine"
+    texturefile = "gfx/interface/goals/CIR_8_20.png"
+    effectFile = "gfx/FX/buttonstate.lua"
+    animation = {
+        animationmaskfile = "gfx/interface/goals/CIR_8_20.png"
+        animationtexturefile = "gfx/interface/goals/shine_overlay.dds"
+        animationrotation = -90.0
+        animationlooping = no
+        animationtime = 0.75
+        animationdelay = 0
+        animationblendmode = "add"
+        animationtype = "scrolling"
+        animationrotationoffset = { x = 0.0 y = 0.0 }
+        animationtexturescale = { x = 2.5 y = 2.5 }
+    }
+    animation = {
+        animationmaskfile = "gfx/interface/goals/CIR_8_20.png"
+        animationtexturefile = "gfx/interface/goals/shine_overlay.dds"
+        animationrotation = 90.0
+        animationlooping = no
+        animationtime = 0.75
+        animationdelay = 0
+        animationblendmode = "add"
+        animationtype = "scrolling"
+        animationrotationoffset = { x = 0.0 y = 0.0 }
+        animationtexturescale = { x = 1.5 y = 2.5 }
+    }
+    legacy_lazy_load = no
+}
+SpriteType = {
+    name = "CIR_8_21_shine"
+    texturefile = "gfx/interface/goals/CIR_8_21.png"
+    effectFile = "gfx/FX/buttonstate.lua"
+    animation = {
+        animationmaskfile = "gfx/interface/goals/CIR_8_21.png"
+        animationtexturefile = "gfx/interface/goals/shine_overlay.dds"
+        animationrotation = -90.0
+        animationlooping = no
+        animationtime = 0.75
+        animationdelay = 0
+        animationblendmode = "add"
+        animationtype = "scrolling"
+        animationrotationoffset = { x = 0.0 y = 0.0 }
+        animationtexturescale = { x = 2.5 y = 2.5 }
+    }
+    animation = {
+        animationmaskfile = "gfx/interface/goals/CIR_8_21.png"
+        animationtexturefile = "gfx/interface/goals/shine_overlay.dds"
+        animationrotation = 90.0
+        animationlooping = no
+        animationtime = 0.75
+        animationdelay = 0
+        animationblendmode = "add"
+        animationtype = "scrolling"
+        animationrotationoffset = { x = 0.0 y = 0.0 }
+        animationtexturescale = { x = 1.5 y = 2.5 }
+    }
+    legacy_lazy_load = no
+}
+SpriteType = {
+    name = "CIR_8_22_shine"
+    texturefile = "gfx/interface/goals/CIR_8_22.png"
+    effectFile = "gfx/FX/buttonstate.lua"
+    animation = {
+        animationmaskfile = "gfx/interface/goals/CIR_8_22.png"
+        animationtexturefile = "gfx/interface/goals/shine_overlay.dds"
+        animationrotation = -90.0
+        animationlooping = no
+        animationtime = 0.75
+        animationdelay = 0
+        animationblendmode = "add"
+        animationtype = "scrolling"
+        animationrotationoffset = { x = 0.0 y = 0.0 }
+        animationtexturescale = { x = 2.5 y = 2.5 }
+    }
+    animation = {
+        animationmaskfile = "gfx/interface/goals/CIR_8_22.png"
+        animationtexturefile = "gfx/interface/goals/shine_overlay.dds"
+        animationrotation = 90.0
+        animationlooping = no
+        animationtime = 0.75
+        animationdelay = 0
+        animationblendmode = "add"
+        animationtype = "scrolling"
+        animationrotationoffset = { x = 0.0 y = 0.0 }
+        animationtexturescale = { x = 1.5 y = 2.5 }
+    }
+    legacy_lazy_load = no
+}
+SpriteType = {
+    name = "CIR_8_23_shine"
+    texturefile = "gfx/interface/goals/CIR_8_23.png"
+    effectFile = "gfx/FX/buttonstate.lua"
+    animation = {
+        animationmaskfile = "gfx/interface/goals/CIR_8_23.png"
+        animationtexturefile = "gfx/interface/goals/shine_overlay.dds"
+        animationrotation = -90.0
+        animationlooping = no
+        animationtime = 0.75
+        animationdelay = 0
+        animationblendmode = "add"
+        animationtype = "scrolling"
+        animationrotationoffset = { x = 0.0 y = 0.0 }
+        animationtexturescale = { x = 2.5 y = 2.5 }
+    }
+    animation = {
+        animationmaskfile = "gfx/interface/goals/CIR_8_23.png"
+        animationtexturefile = "gfx/interface/goals/shine_overlay.dds"
+        animationrotation = 90.0
+        animationlooping = no
+        animationtime = 0.75
+        animationdelay = 0
+        animationblendmode = "add"
+        animationtype = "scrolling"
+        animationrotationoffset = { x = 0.0 y = 0.0 }
+        animationtexturescale = { x = 1.5 y = 2.5 }
+    }
+    legacy_lazy_load = no
+}
+SpriteType = {
+    name = "CIR_8_24_shine"
+    texturefile = "gfx/interface/goals/CIR_8_24.png"
+    effectFile = "gfx/FX/buttonstate.lua"
+    animation = {
+        animationmaskfile = "gfx/interface/goals/CIR_8_24.png"
+        animationtexturefile = "gfx/interface/goals/shine_overlay.dds"
+        animationrotation = -90.0
+        animationlooping = no
+        animationtime = 0.75
+        animationdelay = 0
+        animationblendmode = "add"
+        animationtype = "scrolling"
+        animationrotationoffset = { x = 0.0 y = 0.0 }
+        animationtexturescale = { x = 2.5 y = 2.5 }
+    }
+    animation = {
+        animationmaskfile = "gfx/interface/goals/CIR_8_24.png"
+        animationtexturefile = "gfx/interface/goals/shine_overlay.dds"
+        animationrotation = 90.0
+        animationlooping = no
+        animationtime = 0.75
+        animationdelay = 0
+        animationblendmode = "add"
+        animationtype = "scrolling"
+        animationrotationoffset = { x = 0.0 y = 0.0 }
+        animationtexturescale = { x = 1.5 y = 2.5 }
+    }
+    legacy_lazy_load = no
+}
+SpriteType = {
+    name = "CIR_8_25_shine"
+    texturefile = "gfx/interface/goals/CIR_8_25.png"
+    effectFile = "gfx/FX/buttonstate.lua"
+    animation = {
+        animationmaskfile = "gfx/interface/goals/CIR_8_25.png"
+        animationtexturefile = "gfx/interface/goals/shine_overlay.dds"
+        animationrotation = -90.0
+        animationlooping = no
+        animationtime = 0.75
+        animationdelay = 0
+        animationblendmode = "add"
+        animationtype = "scrolling"
+        animationrotationoffset = { x = 0.0 y = 0.0 }
+        animationtexturescale = { x = 2.5 y = 2.5 }
+    }
+    animation = {
+        animationmaskfile = "gfx/interface/goals/CIR_8_25.png"
+        animationtexturefile = "gfx/interface/goals/shine_overlay.dds"
+        animationrotation = 90.0
+        animationlooping = no
+        animationtime = 0.75
+        animationdelay = 0
+        animationblendmode = "add"
+        animationtype = "scrolling"
+        animationrotationoffset = { x = 0.0 y = 0.0 }
+        animationtexturescale = { x = 1.5 y = 2.5 }
+    }
+    legacy_lazy_load = no
+}
+SpriteType = {
+    name = "CIR_8_26_shine"
+    texturefile = "gfx/interface/goals/CIR_8_26.png"
+    effectFile = "gfx/FX/buttonstate.lua"
+    animation = {
+        animationmaskfile = "gfx/interface/goals/CIR_8_26.png"
+        animationtexturefile = "gfx/interface/goals/shine_overlay.dds"
+        animationrotation = -90.0
+        animationlooping = no
+        animationtime = 0.75
+        animationdelay = 0
+        animationblendmode = "add"
+        animationtype = "scrolling"
+        animationrotationoffset = { x = 0.0 y = 0.0 }
+        animationtexturescale = { x = 2.5 y = 2.5 }
+    }
+    animation = {
+        animationmaskfile = "gfx/interface/goals/CIR_8_26.png"
+        animationtexturefile = "gfx/interface/goals/shine_overlay.dds"
+        animationrotation = 90.0
+        animationlooping = no
+        animationtime = 0.75
+        animationdelay = 0
+        animationblendmode = "add"
+        animationtype = "scrolling"
+        animationrotationoffset = { x = 0.0 y = 0.0 }
+        animationtexturescale = { x = 1.5 y = 2.5 }
+    }
+    legacy_lazy_load = no
+}
+SpriteType = {
+    name = "CIR_8_27_shine"
+    texturefile = "gfx/interface/goals/CIR_8_27.png"
+    effectFile = "gfx/FX/buttonstate.lua"
+    animation = {
+        animationmaskfile = "gfx/interface/goals/CIR_8_27.png"
+        animationtexturefile = "gfx/interface/goals/shine_overlay.dds"
+        animationrotation = -90.0
+        animationlooping = no
+        animationtime = 0.75
+        animationdelay = 0
+        animationblendmode = "add"
+        animationtype = "scrolling"
+        animationrotationoffset = { x = 0.0 y = 0.0 }
+        animationtexturescale = { x = 2.5 y = 2.5 }
+    }
+    animation = {
+        animationmaskfile = "gfx/interface/goals/CIR_8_27.png"
+        animationtexturefile = "gfx/interface/goals/shine_overlay.dds"
+        animationrotation = 90.0
+        animationlooping = no
+        animationtime = 0.75
+        animationdelay = 0
+        animationblendmode = "add"
+        animationtype = "scrolling"
+        animationrotationoffset = { x = 0.0 y = 0.0 }
+        animationtexturescale = { x = 1.5 y = 2.5 }
+    }
+    legacy_lazy_load = no
+}
+SpriteType = {
+    name = "CIRCIR_8_28_shine"
+    texturefile = "gfx/interface/goals/CIRCIR_8_28.png"
+    effectFile = "gfx/FX/buttonstate.lua"
+    animation = {
+        animationmaskfile = "gfx/interface/goals/CIRCIR_8_28.png"
+        animationtexturefile = "gfx/interface/goals/shine_overlay.dds"
+        animationrotation = -90.0
+        animationlooping = no
+        animationtime = 0.75
+        animationdelay = 0
+        animationblendmode = "add"
+        animationtype = "scrolling"
+        animationrotationoffset = { x = 0.0 y = 0.0 }
+        animationtexturescale = { x = 2.5 y = 2.5 }
+    }
+    animation = {
+        animationmaskfile = "gfx/interface/goals/CIRCIR_8_28.png"
+        animationtexturefile = "gfx/interface/goals/shine_overlay.dds"
+        animationrotation = 90.0
+        animationlooping = no
+        animationtime = 0.75
+        animationdelay = 0
+        animationblendmode = "add"
+        animationtype = "scrolling"
+        animationrotationoffset = { x = 0.0 y = 0.0 }
+        animationtexturescale = { x = 1.5 y = 2.5 }
+    }
+    legacy_lazy_load = no
+}
+SpriteType = {
+    name = "CIR_8_29_shine"
+    texturefile = "gfx/interface/goals/CIR_8_29.png"
+    effectFile = "gfx/FX/buttonstate.lua"
+    animation = {
+        animationmaskfile = "gfx/interface/goals/CIR_8_29.png"
+        animationtexturefile = "gfx/interface/goals/shine_overlay.dds"
+        animationrotation = -90.0
+        animationlooping = no
+        animationtime = 0.75
+        animationdelay = 0
+        animationblendmode = "add"
+        animationtype = "scrolling"
+        animationrotationoffset = { x = 0.0 y = 0.0 }
+        animationtexturescale = { x = 2.5 y = 2.5 }
+    }
+    animation = {
+        animationmaskfile = "gfx/interface/goals/CIR_8_29.png"
+        animationtexturefile = "gfx/interface/goals/shine_overlay.dds"
+        animationrotation = 90.0
+        animationlooping = no
+        animationtime = 0.75
+        animationdelay = 0
+        animationblendmode = "add"
+        animationtype = "scrolling"
+        animationrotationoffset = { x = 0.0 y = 0.0 }
+        animationtexturescale = { x = 1.5 y = 2.5 }
+    }
+    legacy_lazy_load = no
+}
+SpriteType = {
+    name = "CIR_8_30_shine"
+    texturefile = "gfx/interface/goals/CIR_8_30.png"
+    effectFile = "gfx/FX/buttonstate.lua"
+    animation = {
+        animationmaskfile = "gfx/interface/goals/CIR_8_30.png"
+        animationtexturefile = "gfx/interface/goals/shine_overlay.dds"
+        animationrotation = -90.0
+        animationlooping = no
+        animationtime = 0.75
+        animationdelay = 0
+        animationblendmode = "add"
+        animationtype = "scrolling"
+        animationrotationoffset = { x = 0.0 y = 0.0 }
+        animationtexturescale = { x = 2.5 y = 2.5 }
+    }
+    animation = {
+        animationmaskfile = "gfx/interface/goals/CIR_8_30.png"
+        animationtexturefile = "gfx/interface/goals/shine_overlay.dds"
+        animationrotation = 90.0
+        animationlooping = no
+        animationtime = 0.75
+        animationdelay = 0
+        animationblendmode = "add"
+        animationtype = "scrolling"
+        animationrotationoffset = { x = 0.0 y = 0.0 }
+        animationtexturescale = { x = 1.5 y = 2.5 }
+    }
+    legacy_lazy_load = no
+}
+SpriteType = {
+    name = "CIR_8_31_shine"
+    texturefile = "gfx/interface/goals/CIR_8_31.png"
+    effectFile = "gfx/FX/buttonstate.lua"
+    animation = {
+        animationmaskfile = "gfx/interface/goals/CIR_8_31.png"
+        animationtexturefile = "gfx/interface/goals/shine_overlay.dds"
+        animationrotation = -90.0
+        animationlooping = no
+        animationtime = 0.75
+        animationdelay = 0
+        animationblendmode = "add"
+        animationtype = "scrolling"
+        animationrotationoffset = { x = 0.0 y = 0.0 }
+        animationtexturescale = { x = 2.5 y = 2.5 }
+    }
+    animation = {
+        animationmaskfile = "gfx/interface/goals/CIR_8_31.png"
+        animationtexturefile = "gfx/interface/goals/shine_overlay.dds"
+        animationrotation = 90.0
+        animationlooping = no
+        animationtime = 0.75
+        animationdelay = 0
+        animationblendmode = "add"
+        animationtype = "scrolling"
+        animationrotationoffset = { x = 0.0 y = 0.0 }
+        animationtexturescale = { x = 1.5 y = 2.5 }
+    }
+    legacy_lazy_load = no
+}
+
+SpriteType = {
+    name = "CLO_changshidiyuxiandaihua_shine"
+    texturefile = "gfx/interface/goals/CLO_changshidiyuxiandaihua.png"		effectFile = "gfx/FX/buttonstate.lua"
+    animation = {
+        animationmaskfile = "gfx/interface/goals/CLO_changshidiyuxiandaihua.png"
+        animationtexturefile = "gfx/interface/goals/shine_overlay.dds" 	# <- the animated file
+        animationrotation = -90.0		# -90 clockwise 90 counterclockwise(by default)
+        animationlooping = no			# yes or no ;)
+        animationtime = 0.75				# in seconds
+        animationdelay = 0			# in seconds
+        animationblendmode = "add"       #add, multiply, overlay
+        animationtype = "scrolling"      #scrolling, rotating, pulsing
+        animationrotationoffset = { x = 0.0 y = 0.0 }
+        animationtexturescale = { x = 1.0 y = 1.0 } 
+    }
+
+    animation = {
+        animationmaskfile = "gfx/interface/goals/CLO_changshidiyuxiandaihua.png"
+        animationtexturefile = "gfx/interface/goals/shine_overlay.dds" 	# <- the animated file
+        animationrotation = 90.0		# -90 clockwise 90 counterclockwise(by default)
+        animationlooping = no			# yes or no ;)
+        animationtime = 0.75				# in seconds
+        animationdelay = 0			# in seconds
+        animationblendmode = "add"       #add, multiply, overlay
+        animationtype = "scrolling"      #scrolling, rotating, pulsing
+        animationrotationoffset = { x = 0.0 y = 0.0 }
+        animationtexturescale = { x = 1.0 y = 1.0 } 
+    }
+    legacy_lazy_load = no
+}
+SpriteType = {
+    name = "CLO_diyulinglijiejing_shine"
+    texturefile = "gfx/interface/goals/CLO_diyulinglijiejing.png"		effectFile = "gfx/FX/buttonstate.lua"
+    animation = {
+        animationmaskfile = "gfx/interface/goals/CLO_diyulinglijiejing.png"
+        animationtexturefile = "gfx/interface/goals/shine_overlay.dds" 	# <- the animated file
+        animationrotation = -90.0		# -90 clockwise 90 counterclockwise(by default)
+        animationlooping = no			# yes or no ;)
+        animationtime = 0.75				# in seconds
+        animationdelay = 0			# in seconds
+        animationblendmode = "add"       #add, multiply, overlay
+        animationtype = "scrolling"      #scrolling, rotating, pulsing
+        animationrotationoffset = { x = 0.0 y = 0.0 }
+        animationtexturescale = { x = 1.0 y = 1.0 } 
+    }
+
+    animation = {
+        animationmaskfile = "gfx/interface/goals/CLO_diyulinglijiejing.png"
+        animationtexturefile = "gfx/interface/goals/shine_overlay.dds" 	# <- the animated file
+        animationrotation = 90.0		# -90 clockwise 90 counterclockwise(by default)
+        animationlooping = no			# yes or no ;)
+        animationtime = 0.75				# in seconds
+        animationdelay = 0			# in seconds
+        animationblendmode = "add"       #add, multiply, overlay
+        animationtype = "scrolling"      #scrolling, rotating, pulsing
+        animationrotationoffset = { x = 0.0 y = 0.0 }
+        animationtexturescale = { x = 1.0 y = 1.0 } 
+    }
+    legacy_lazy_load = no
+}
+SpriteType = {
+    name = "CLO_linglixiandaihua_shine"
+    texturefile = "gfx/interface/goals/CLO_linglixiandaihua.png"		effectFile = "gfx/FX/buttonstate.lua"
+    animation = {
+        animationmaskfile = "gfx/interface/goals/CLO_linglixiandaihua.png"
+        animationtexturefile = "gfx/interface/goals/shine_overlay.dds" 	# <- the animated file
+        animationrotation = -90.0		# -90 clockwise 90 counterclockwise(by default)
+        animationlooping = no			# yes or no ;)
+        animationtime = 0.75				# in seconds
+        animationdelay = 0			# in seconds
+        animationblendmode = "add"       #add, multiply, overlay
+        animationtype = "scrolling"      #scrolling, rotating, pulsing
+        animationrotationoffset = { x = 0.0 y = 0.0 }
+        animationtexturescale = { x = 1.0 y = 1.0 } 
+    }
+
+    animation = {
+        animationmaskfile = "gfx/interface/goals/CLO_linglixiandaihua.png"
+        animationtexturefile = "gfx/interface/goals/shine_overlay.dds" 	# <- the animated file
+        animationrotation = 90.0		# -90 clockwise 90 counterclockwise(by default)
+        animationlooping = no			# yes or no ;)
+        animationtime = 0.75				# in seconds
+        animationdelay = 0			# in seconds
+        animationblendmode = "add"       #add, multiply, overlay
+        animationtype = "scrolling"      #scrolling, rotating, pulsing
+        animationrotationoffset = { x = 0.0 y = 0.0 }
+        animationtexturescale = { x = 1.0 y = 1.0 } 
+    }
+    legacy_lazy_load = no
+}
+SpriteType = {
+    name = "CLO_yaojinggulifaan_shine"
+    texturefile = "gfx/interface/goals/CLO_yaojinggulifaan.png"		effectFile = "gfx/FX/buttonstate.lua"
+    animation = {
+        animationmaskfile = "gfx/interface/goals/CLO_yaojinggulifaan.png"
+        animationtexturefile = "gfx/interface/goals/shine_overlay.dds" 	# <- the animated file
+        animationrotation = -90.0		# -90 clockwise 90 counterclockwise(by default)
+        animationlooping = no			# yes or no ;)
+        animationtime = 0.75				# in seconds
+        animationdelay = 0			# in seconds
+        animationblendmode = "add"       #add, multiply, overlay
+        animationtype = "scrolling"      #scrolling, rotating, pulsing
+        animationrotationoffset = { x = 0.0 y = 0.0 }
+        animationtexturescale = { x = 1.0 y = 1.0 } 
+    }
+
+    animation = {
+        animationmaskfile = "gfx/interface/goals/CLO_yaojinggulifaan.png"
+        animationtexturefile = "gfx/interface/goals/shine_overlay.dds" 	# <- the animated file
+        animationrotation = 90.0		# -90 clockwise 90 counterclockwise(by default)
+        animationlooping = no			# yes or no ;)
+        animationtime = 0.75				# in seconds
+        animationdelay = 0			# in seconds
+        animationblendmode = "add"       #add, multiply, overlay
+        animationtype = "scrolling"      #scrolling, rotating, pulsing
+        animationrotationoffset = { x = 0.0 y = 0.0 }
+        animationtexturescale = { x = 1.0 y = 1.0 } 
+    }
+    legacy_lazy_load = no
+}
+	}
+	

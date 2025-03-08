@@ -1,0 +1,43 @@
+spriteTypes = {	
+
+	spriteType = {
+		name = "GFX_idea_gmdj_neige"
+		texturefile = "gfx/interface/ideas/idea_gumindijue.dds"
+	}
+	spriteType = {
+		name = "GFX_idea_xszfz_neige"
+		texturefile = "gfx/interface/ideas/idea_zoufangzi.dds"
+	}
+	spriteType = {
+		name = "GFX_idea_lmly_neige"
+		texturefile = "gfx/interface/ideas/lmly.dds"
+	}
+	spriteType = {
+		name = "GFX_idea_fjyx_neige"
+		texturefile = "gfx/interface/ideas/fjyx.dds"
+	}
+	spriteType = {
+		name = "GFX_idea_smww_neige"
+		texturefile = "gfx/interface/ideas/smww.dds"
+	}
+	spriteType = {
+		name = "GFX_idea_bnmjtz_neige"
+		texturefile = "gfx/interface/ideas/bnmjtz.dds"
+	}
+	spriteType = {
+		name = "GFX_idea_qzh_neige"
+		texturefile = "gfx/interface/ideas/qzh.dds"
+	}
+	spriteType = {
+		name = "GFX_idea_gmdl_neige"
+		texturefile = "gfx/interface/ideas/gmdl.dds"
+	}
+	spriteType = {
+		name = "GFX_idea_lmy_neige"
+		texturefile = "gfx/interface/ideas/lmy.dds"
+	}
+	spriteType = {
+		name = "GFX_idea_sjyj_neige"
+		texturefile = "gfx/interface/ideas/sjyj.dds"
+	}
+}

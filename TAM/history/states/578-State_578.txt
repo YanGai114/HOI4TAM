@@ -1,0 +1,29 @@
+state={
+	id=578
+	name="STATE_578"
+	provinces={
+		252 2008 5937 7415 8152 14585 14654 
+	}
+	buildings_max_level_factor=1.000
+        manpower=379798
+                 state_category = city
+	resources={
+		steel=0 #钢铁
+		tungsten = 2 #妖石
+		chromium = 20 #灵气
+		rubber=0 #农产品
+		aluminium=0 #其他金属
+		oil = 0 #伊奘诺物质
+	}		history = {
+			owner = AKO
+			add_core_of = AKO
+			victory_points = { 252  25 }
+			buildings = {
+				infrastructure = 4
+				air_base = 0
+				arms_factory = 0
+				industrial_complex = 2
+			}
+		}
+ 
+}

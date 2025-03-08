@@ -1,0 +1,29 @@
+state={
+	id=124
+	name="STATE_124"
+	provinces={
+		733 1190 2408 2977 3116 3617 3895 4289 6312 6694 7964 9184 11410 11536 11649 11805 
+	}
+	buildings_max_level_factor=1.000
+        manpower=10454
+                 state_category = rural
+	resources={
+		steel=0 #钢铁
+		tungsten = 0 #妖石
+		chromium = 1 #灵气
+		rubber=0 #农产品
+		aluminium=0 #其他金属
+		oil = 0 #伊奘诺物质
+	}		history = {
+			owner = CJK
+			add_core_of = CJK
+			victory_points = { 733  1 }
+			buildings = {
+				infrastructure = 0
+				air_base = 0
+				arms_factory = 0
+				industrial_complex = 0
+			}
+		}
+ 
+}

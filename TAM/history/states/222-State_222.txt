@@ -1,0 +1,29 @@
+state={
+	id=222
+	name="STATE_222"
+	provinces={
+		5984 8072 9207 10644 12031 12057 12067 12187 12193 12239 12240 
+	}
+	buildings_max_level_factor=1.000
+        manpower=7800
+                 state_category = rural
+	resources={
+		steel=0 #钢铁
+		tungsten = 0 #妖石
+		chromium = 22 #灵气
+		rubber=0 #农产品
+		aluminium=0 #其他金属
+		oil = 4 #伊奘诺物质
+	}		history = {
+			owner = GRS
+			add_core_of = GRS
+			victory_points = { 5984 1 }
+			buildings = {
+				infrastructure = 3
+				air_base = 0
+				arms_factory = 0
+				industrial_complex = 0
+			}
+		}
+ 
+}

@@ -1,0 +1,82 @@
+﻿capital = 932
+146.1.1 = {
+    set_technology = {
+        #通用武器线
+     
+    }
+    
+}
+146.1.1={
+    set_major = yes
+    add_ideas = {
+    Human
+    Village
+    dove1
+    open1
+    strict_border
+    limit_magic
+     
+    }
+    if = {
+        limit = {
+            has_start_date > 143.7.2
+        }
+        country_lock_all_division_template = yes
+    }
+   
+    add_ideas = {
+        emb_bubeikanhaodelingdaozhe
+        emb_neibumaodun
+        emb_yaoguaizhuanshudejiuba
+        emb_shiguantiaoyue
+    }
+    
+    set_politics = {
+    	ruling_party = guli
+    	election_frequency = 48
+    	elections_allowed = no
+    }
+    set_popularities = {
+        qinwai = 0
+        guli = 60
+        neworder = 10
+        oldorder = 30
+        fandong = 0
+    }
+    YKR = {
+        give_guarantee = EMB
+    }
+    SEJ = {
+        give_guarantee = EMB
+    }
+    TKM = {
+        give_guarantee = EMB
+    }
+    NMS = {
+        give_guarantee = EMB
+    }
+    OKI = {
+        give_guarantee = EMB
+    }
+    SCA = {
+        give_guarantee = EMB
+    }
+    NMS = {
+        give_guarantee = EMB
+    }
+    EET = {
+        give_guarantee = EMB
+    }
+    KAG = {
+        give_guarantee = EMB
+    }  
+    SRB = {
+        give_guarantee = EMB
+    }
+    MAM = {
+        give_guarantee = EMB
+    }
+    SBK = {
+        give_guarantee = EMB
+    }
+}

@@ -1,0 +1,46 @@
+﻿capital = 995
+146.1.1 = {
+    set_technology = {
+
+            
+    }
+    
+}
+146.1.1={
+    oob = "EET_146"
+    
+    add_ideas = {
+    Beast
+    isolation
+    manpowerlv1
+     
+    Village
+    dove2
+    close3
+    strict_border
+    sc_rule
+     
+    }
+    UDO = {
+        subject_level2 = yes
+        set_cosmetic_tag = UDO_EET
+    }
+    RGO = {
+        subject_level4 = yes
+        set_cosmetic_tag = RGO_EET
+    }
+    set_politics = {
+    	ruling_party = oldgenso
+    	election_frequency = 48
+    	elections_allowed = no
+    }
+    set_popularities = {
+        qinwai = 0
+        guli = 10
+        neworder = 6
+        oldorder = 6
+        fandong = 0
+        oldgenso = 78
+    }
+    
+}

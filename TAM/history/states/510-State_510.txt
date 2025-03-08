@@ -1,0 +1,29 @@
+state={
+	id=510
+	name="STATE_510"
+	provinces={
+		1959 2991 3432 5459 6501 6776 6930 8404 8507 8848 9106 9419 14120 14121 14160 14177 14195 14222 14232 14311 
+	}
+	buildings_max_level_factor=1.000
+        manpower=6277
+                 state_category = rural
+	resources={
+		steel=0 #钢铁
+		tungsten = 0 #妖石
+		chromium = 0 #灵气
+		rubber=0 #农产品
+		aluminium=0 #其他金属
+		oil = 0 #伊奘诺物质
+	}		history = {
+			owner = HU2
+			add_core_of = HU2
+			victory_points = { 1959 1 }
+			buildings = {
+				infrastructure = 0
+				air_base = 0
+				arms_factory = 0
+				industrial_complex = 0
+			}
+		}
+ 
+}

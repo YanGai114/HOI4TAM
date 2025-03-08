@@ -1,0 +1,29 @@
+state={
+	id=611
+	name="STATE_611"
+	provinces={
+		1984 2833 2904 4172 4309 4777 5791 6699 8408 8998 9149 10242 14681 14721 14767 14784 
+	}
+	buildings_max_level_factor=1.000
+        manpower=2101
+                 state_category = rural
+	resources={
+		steel=0 #钢铁
+		tungsten = 0 #妖石
+		chromium = 9 #灵气
+		rubber=0 #农产品
+		aluminium=0 #其他金属
+		oil = 0 #伊奘诺物质
+	}		history = {
+			owner = YYT
+			add_core_of = YYT
+			victory_points = { 1984  1 }
+			buildings = {
+				infrastructure = 0
+				air_base = 0
+				arms_factory = 0
+				industrial_complex = 0
+			}
+		}
+ 
+}

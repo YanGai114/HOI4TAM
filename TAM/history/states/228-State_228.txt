@@ -1,0 +1,29 @@
+state={
+	id=228
+	name="STATE_228"
+	provinces={
+		1583 4578 7977 12082 12162 12203 12264 12278 
+	}
+	buildings_max_level_factor=1.000
+        manpower=6420
+                 state_category = town
+	resources={
+		steel=0 #钢铁
+		tungsten = 0 #妖石
+		chromium = 0 #灵气
+		rubber=0 #农产品
+		aluminium=0 #其他金属
+		oil = 0 #伊奘诺物质
+	}		history = {
+			owner = TBA
+			add_core_of = TBA
+			victory_points = { 1583 9 }
+			buildings = {
+				infrastructure = 1
+				air_base = 0
+				arms_factory = 0
+				industrial_complex = 0
+			}
+		}
+ 
+}

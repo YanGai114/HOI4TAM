@@ -1,0 +1,16 @@
+spriteTypes = {	
+
+	spriteType = {
+		name = "GFX_bayunzi"
+		texturefile = "gfx/event_pictures/world_news/GFX_bayunzi.png"
+	}
+	spriteType = {
+		name = "GFX_moduoluo"
+		texturefile = "gfx/event_pictures/world_news/GFX_moduoluo.png"
+	}
+	spriteType = {
+		name = "GFX_huashan"
+		texturefile = "gfx/event_pictures/world_news/GFX_huashan.png"
+	}
+}
+

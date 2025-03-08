@@ -1,0 +1,29 @@
+state={
+	id=568
+	name="STATE_568"
+	provinces={
+		2237 4932 5564 14379 14448 14490 
+	}
+	buildings_max_level_factor=1.000
+        manpower=69880
+                 state_category = rural
+	resources={
+		steel=0 #钢铁
+		tungsten = 2 #妖石
+		chromium = 0 #灵气
+		rubber=0 #农产品
+		aluminium=0 #其他金属
+		oil = 0 #伊奘诺物质
+	}		history = {
+			owner = ZHI
+			add_core_of = ZHI
+			victory_points = { 2237  1 }
+			buildings = {
+				infrastructure = 0
+				air_base = 0
+				arms_factory = 0
+				industrial_complex = 0
+			}
+		}
+ 
+}

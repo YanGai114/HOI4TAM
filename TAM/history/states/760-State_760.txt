@@ -1,0 +1,29 @@
+state={
+	id=760
+	name="STATE_760"
+	provinces={
+		1559 2555 4277 6730 9408 15714 15767 15837 15862 15932 15971 
+	}
+	buildings_max_level_factor=1.000
+        manpower=1024
+                 state_category = rural
+	resources={
+		steel=0 #钢铁
+		tungsten = 0 #妖石
+		chromium = 5 #灵气
+		rubber=0 #农产品
+		aluminium=0 #其他金属
+		oil = 0 #伊奘诺物质
+	}		history = {
+			owner = MYK
+			add_core_of = MYK
+			victory_points = {  1559 1 }
+			buildings = {
+				infrastructure = 0
+				air_base = 0
+				arms_factory = 0
+				industrial_complex = 0
+			}
+		}
+ 
+}

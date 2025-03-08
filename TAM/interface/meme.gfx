@@ -1,0 +1,11 @@
+
+spriteTypes = {
+	frameAnimatedSpriteType = {
+		name = "GFX_NVX_logo_gif"
+		noOfFrames = 36
+		texturefile = "gfx/loadingscreens/main.dds"
+		animation_rate_fps  = 36
+		looping = yes
+		play_on_show = yes
+	}
+}

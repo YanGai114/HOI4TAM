@@ -1,0 +1,29 @@
+state={
+	id=960
+	name="STATE_960"
+	provinces={
+		687 1133 2233 2447 2638 2954 3928 6582 7953 8368 9938 17318 17325 17337 17374 17379 17402 
+	}
+	buildings_max_level_factor=1.000
+        manpower=8939
+                 state_category = town
+	resources={
+		steel=0 #钢铁
+		tungsten = 0 #妖石
+		chromium = 0 #灵气
+		rubber=0 #农产品
+		aluminium=0 #其他金属
+		oil = 0 #伊奘诺物质
+	}		history = {
+			owner = SRB
+			add_core_of = SRB
+			victory_points = {  687 10 }
+			buildings = {
+				infrastructure = 2
+				air_base = 0
+				arms_factory = 0
+				industrial_complex = 1
+			}
+		}
+ 
+}

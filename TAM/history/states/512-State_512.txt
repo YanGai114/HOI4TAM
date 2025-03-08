@@ -1,0 +1,29 @@
+state={
+	id=512
+	name="STATE_512"
+	provinces={
+		1857 3081 3160 3976 4328 4405 5101 5283 6623 7616 8177 9577 10311 14142 14260 14314 
+	}
+	buildings_max_level_factor=1.000
+        manpower=10577
+                 state_category = town
+	resources={
+		steel=0 #钢铁
+		tungsten = 0 #妖石
+		chromium = 0 #灵气
+		rubber=0 #农产品
+		aluminium=0 #其他金属
+		oil = 0 #伊奘诺物质
+	}		history = {
+			owner = AKI
+			add_core_of = AKI
+			victory_points = {1857  10 }
+			buildings = {
+				infrastructure = 2
+				air_base = 0
+				arms_factory = 1
+				industrial_complex = 2
+			}
+		}
+ 
+}

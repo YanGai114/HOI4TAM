@@ -1,0 +1,218 @@
+guiTypes = {
+	
+	###############################################################
+	########            欸嘿                               ########
+	###############################################################
+	containerWindowType = {
+		name = "我们的乐园"
+		size = { width = 0 height = 450 }
+		position = { x = 0 y = 0 }
+
+		iconType = {
+			name = "lil_lili"
+			spriteType = "GFX_LIL_lili"
+			position = { x = 6 y = -217 }
+			#frame = 64
+			#pdx_tooltip = lil_dianshi_tooltip
+			# 
+			Orientation = "CENTER"
+		}
+		iconType = {
+			name = "lil_lili2"
+			spriteType = "GFX_decision_tiled_lil"
+			position = { x = 2 y = -221 }
+			#frame = 64
+			#pdx_tooltip = lil_dianshi_tooltip
+			# 
+			Orientation = "CENTER"
+		}
+		instantTextboxType = {
+			name = "state_info100"
+			position = { x = 2  y = 195 }
+			font = "hoi_24header"
+			text = "莉莉霍瓦特："
+			maxWidth = 5000
+			maxHeight = 2000
+			format = left 
+			alwaystransparent = yes
+		} 
+		instantTextboxType = {
+			name = "state_info99"
+			position = { x = 2  y = 230 }
+			font = "hoi_24header"
+			text = "“啊~~~好累啊~~~”"
+			maxWidth = 5000
+			maxHeight = 2000
+			format = left 
+			alwaystransparent = yes
+		} 
+		instantTextboxType = {
+			name = "state_info101"
+			position = { x = 2  y = 252 }
+			font = "hoi_24header"
+			text = "“快用控制台帮我吧~”"
+			maxWidth = 5000
+			maxHeight = 2000
+			format = left 
+			alwaystransparent = yes
+		} 
+		instantTextboxType = {
+			name = "state_info102"
+			position = { x = 2  y = 274 }
+			font = "hoi_24header"
+			text = "“向龙神许愿...”"
+			maxWidth = 5000
+			maxHeight = 2000
+			format = left 
+			alwaystransparent = yes
+		} 
+		instantTextboxType = {
+			name = "state_info103"
+			position = { x = 2  y = 296 }
+			font = "hoi_24header"
+			text = "“让所有敌人都爆炸！”"
+			maxWidth = 5000
+			maxHeight = 2000
+			format = left 
+			alwaystransparent = yes
+		} 
+		instantTextboxType = {
+			name = "state_info104"
+			position = { x = 2  y = 318 }
+			font = "hoi_24header"
+			text = "“睡觉！！！”"
+			maxWidth = 5000
+			maxHeight = 2000
+			format = left 
+			alwaystransparent = yes
+		} 
+
+		buttonType = {
+			name = "P1" #后方通路499
+			spriteType = "GFX_LIL_GUI_P1"
+			position = { x = 270 y = 5 }
+			pdx_tooltip = P1_tooltip
+		}
+		buttonType = {
+			name = "P9" #查看§Y花丛北侧§497
+			spriteType = "GFX_LIL_GUI_P9"
+			position = { x = 240 y = 47 }
+			pdx_tooltip = P9_tooltip
+		}
+		buttonType = {
+			name = "P8" #查看§Y地底走私通路§500
+			spriteType = "GFX_LIL_GUI_P8"
+			position = { x = 352 y = 35 }
+			pdx_tooltip = P8_tooltip
+		}
+		buttonType = {
+			name = "P7" #查看§Y妖精花丛§4
+			spriteType = "GFX_LIL_GUI_P7"
+			position = { x = 220 y = 90 }
+			pdx_tooltip = P7_tooltip
+		}
+		buttonType = {
+			name = "P6" #查看§Y花丛东侧§5
+			spriteType = "GFX_LIL_GUI_P6"
+			position = { x = 309 y = 91 }
+			pdx_tooltip = P6_tooltip
+		}
+		buttonType = {
+			name = "P5" #查看§Y妖精花海§29
+			spriteType = "GFX_LIL_GUI_P5"
+			position = { x = 156 y = 159 }
+			pdx_tooltip = P5_tooltip
+		}
+		buttonType = {
+			name = "P4" #查看§Y花丛南侧§31
+			spriteType = "GFX_LIL_GUI_P4"
+			position = { x =277 y = 163 }
+			pdx_tooltip = P4_tooltip
+		}
+		buttonType = {
+			name = "P10" #查看§Y南妖精花海§373
+			spriteType = "GFX_LIL_GUI_P10"
+			position = { x = 175 y = 250 }
+			pdx_tooltip = P10_tooltip
+		}
+		buttonType = {
+			name = "P2" #妖精花林46
+			spriteType = "GFX_LIL_GUI_P2"
+			position = { x = 289 y = 232 }
+			pdx_tooltip = P2_tooltip
+		}
+		buttonType = {
+			name = "P3" #妖精丘陵374
+			spriteType = "GFX_LIL_GUI_P3"
+			position = { x = 385 y = 164 }
+			pdx_tooltip = P3_tooltip
+		}
+
+		
+		instantTextboxType = {
+			name = "state_info1"
+			position = { x = 140  y = 375 }
+			font = "hoi_24header"
+			text = state_info1
+			maxWidth = 5000
+			maxHeight = 2000
+			format = left 
+			alwaystransparent = yes
+		} 
+		instantTextboxType = {
+			name = "state_info2"
+			position = { x = 15  y = 410 }
+			font = "hoi_20bs"
+			text = state_info2
+			maxWidth = 5000
+			maxHeight = 2000
+			format = left 
+			alwaystransparent = yes
+		} 
+		instantTextboxType = {
+			name = "state_info3"
+			position = { x = 300  y = 410 }
+			font = "hoi_20bs"
+			text = state_info3
+			maxWidth = 5000
+			maxHeight = 2000
+			format = left 
+			alwaystransparent = yes
+		} 
+	}
+	containerWindowType = {
+		name = "悬苑"
+		size = { width = 0 height = 380 }
+		position = { x = 0 y = 0 }
+
+		iconType = {
+			name = "lil_dianshi"
+			spriteType = "GFX_LIL_dianshi"
+			position = { x = -3 y = -180 }
+			#frame = 64
+			pdx_tooltip = lil_dianshi_tooltip
+			# 
+			Orientation = "CENTER"
+		}
+	
+		iconType = {
+			name = "lil_xuanyuan_Meter"
+			spriteType = "GFX_LIL_xuanyuan_Progressbar"
+			position = { x = 75 y = 145 }
+			#frame = 64
+			pdx_tooltip = xuanyuan_bar_tooltip
+			# 
+			Orientation = "CENTER"
+		}
+		instantTextboxType = {
+			name = "完成度"
+			position = { x = 220  y = 355 }
+			font = "hoi_20bs"
+			text = lil_wanchengdu
+			maxWidth = 5000
+			maxHeight = 2000
+			format = left
+			alwaystransparent = yes
+		} 
+	}
+}

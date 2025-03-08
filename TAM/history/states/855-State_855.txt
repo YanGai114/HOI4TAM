@@ -1,0 +1,29 @@
+state={
+	id=855
+	name="STATE_855"
+	provinces={
+		437 1328 2688 6236 6272 10511 16540 
+	}
+	buildings_max_level_factor=1.000
+        manpower=8725
+                 state_category = rural
+	resources={
+		steel=0 #钢铁
+		tungsten = 0 #妖石
+		chromium = 6 #灵气
+		rubber=0 #农产品
+		aluminium=0 #其他金属
+		oil = 0 #伊奘诺物质
+	}		history = {
+			owner = PRJ
+			add_core_of = PRJ
+			victory_points = { 437  1 }
+			buildings = {
+				infrastructure = 0
+				air_base = 0
+				arms_factory = 0
+				industrial_complex = 0
+			}
+		}
+ 
+}

@@ -1,0 +1,29 @@
+state={
+	id=709
+	name="STATE_709"
+	provinces={
+		2271 2854 6540 6742 15277 15316 15365 
+	}
+	buildings_max_level_factor=1.000
+        manpower=7020
+                 state_category = town
+	resources={
+		steel=0 #钢铁
+		tungsten = 0 #妖石
+		chromium =11 #灵气
+		rubber=0 #农产品
+		aluminium=0 #其他金属
+		oil = 0 #伊奘诺物质
+	}		history = {
+			owner = ALI
+			add_core_of = ALI
+			victory_points = {2271   10 }
+			buildings = {
+				infrastructure = 1
+				air_base = 0
+				arms_factory = 1
+				industrial_complex = 1
+			}
+		}
+ 
+}

@@ -1,0 +1,29 @@
+state={
+	id=170
+	name="STATE_170"
+	provinces={
+		312 704 1166 1923 2845 3067 3314 3437 3765 4285 4348 6030 6034 6415 6833 10101 11607 11772 11852 
+	}
+	buildings_max_level_factor=1.000
+        manpower=1400
+                 state_category = rural
+	resources={
+		steel=0 #钢铁
+		tungsten = 0 #妖石
+		chromium = 0 #灵气
+		rubber=0 #农产品
+		aluminium=0 #其他金属
+		oil = 0 #伊奘诺物质
+	}		history = {
+			owner = TBA
+			add_core_of = TBA
+			victory_points = {312  1 }
+			buildings = {
+				infrastructure = 0
+				air_base = 0
+				arms_factory = 0
+				industrial_complex = 0
+			}
+		}
+ 
+}

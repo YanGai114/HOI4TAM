@@ -1,0 +1,127 @@
+﻿capital = 214
+146.1.1 = {
+    set_technology = {
+        #通用武器线
+        spell_card1 = 1
+        spear1 = 1
+        gun1 = 1
+        linglicunchu = 1
+        linglizhufu = 1
+        linglidanyao = 1
+        spell_card2 = 1
+        spear2 = 1
+        gun2 = 1
+        lingliliushuixian = 1
+        spear3 = 1
+        gun3 = 1
+            
+        #辅助
+
+        #专用辅助
+        mortar1 = 1
+
+        #专用基础
+
+        #专用进阶
+
+        #混合系
+
+        #陆军学说
+        zhanchangzhihui140 = 1
+        zuzhihuazhanzheng142 = 1
+        zhanchangzhihui145 = 1
+            
+        #工程学 
+        jichushuxue = 1
+        shuxuegongju = 1
+        waike = 1
+
+        #专用工程学
+
+
+        #工业
+        production_theory = 1
+        org_production = 1
+        jianzaojishu130 = 1
+        jianzaojishu140 = 1
+        jijianjianzao140 = 1
+        yunshudui140 = 1
+        yunshucheliang146 = 1
+            
+        #专用工业
+        fangwaijieshengchan130 = 1
+        fangwaijieshengchan140 = 1
+
+        #种族
+        yanjiujingshen1 = 1
+            
+    }
+    
+}
+146.1.1={
+    oob = "NTR_146"
+    set_country_flag = bunengsuiyiqiehuanzhengti
+    set_major = yes
+    add_ideas={
+        ntr_fenliezhiguo
+        ntr_buchedidegeming
+        ntr_fanzhansichao
+        ntr_yiranyili
+        ntr_jungongqiang
+        ntr_shuilidekexuejia
+    }
+    add_ideas = {
+    Kappa
+    Country
+    dove1
+    open2
+    strict_border
+    limit_magic
+    AKI_chukoujiqidelirun_idea   
+    manpowerlv1 
+    }
+    
+    set_politics = {
+    	ruling_party = qinwai
+    	election_frequency = 48
+    	elections_allowed = no
+    }
+    set_popularities = {
+        qinwai = 65
+        guli = 20
+        neworder = 5
+        oldorder = 0
+        fandong = 10
+    }
+   
+    set_variable = { NTR_jijindu0 = 0 }	
+   
+    set_variable = { ntr_zhanzhi = ntr.has_war_support }
+	set_variable = { NTR_huanggua = ntr.party_popularity_100@guli }
+    set_variable = { NTR_zhonggong = ntr.party_popularity_100@fandong }
+    set_variable = { NTR_zhengtong = ntr.party_popularity_100@qinwai }
+    set_variable = { NTR_huanggua0 = NTR_huanggua }
+    set_variable = { NTR_zhonggong0 = NTR_zhonggong }
+    set_variable = { NTR_zhengtong0 = NTR_zhengtong }
+
+    multiply_variable = { NTR_zhengtong0 = 0.6 }
+    multiply_variable = { NTR_zhonggong0 = 0.8 }
+    multiply_variable = { NTR_huanggua0 = 0.7 } 
+
+
+    
+    GFX_ntr_decision_panzi = yes
+    NTR_jijindu0_1 = yes	
+ 
+    set_variable = {ntr_gongnong_shengchanshangxian = 0}
+    set_variable = {ntr_gongnong_chanchu = 0}
+    set_variable = {ntr_gongnong_shenghuoxiaofeipin = 0}
+    set_variable = {ntr_gongnong_xiaolvbaochi = 0}
+    set_variable = {ntr_gongnong_hongzhayisun = 0}
+    set_variable = {ntr_gongnong_gongyezuidazhi = 0}
+    set_variable = {ntr_gongnong_mingongsudu = 0}
+    set_variable = {ntr_gongnong_jungongsudu = 0}
+    set_variable = {ntr_gongnong_jianzaosudu = 0}
+    set_variable = {ntr_gongnong_shengchanxiaolv = 0}
+    set_variable = {ntr_gongnong_bujixiaohao = 0}
+}

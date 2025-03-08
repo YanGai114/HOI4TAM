@@ -1,0 +1,43 @@
+characters={
+	RJP_sanadai={#出云亚沙
+		name = RJP_sanadai
+		portraits={
+			civilian={
+				large="gfx/leaders/RJP/RJP_sanadai.dds"
+				small="gfx/leaders/RJP/RJP_sanadai_small.dds"
+			}
+			army = {
+				large="gfx/leaders/RJP/RJP_sanadai.dds"
+				small="gfx/leaders/RJP/RJP_sanadai_small.dds"
+			}
+			
+		}
+		country_leader={
+			ideology=guli_type
+			id=-1
+		}
+		corps_commander = {
+			traits = {  th_original_character trait_cautious }
+			attack_skill = 5
+			defense_skill = 7
+			planning_skill = 5
+			logistics_skill = 5
+			skill = 6
+			# id = 23
+		}
+		advisor = {
+			slot = character_coop
+			idea_token = RJP_sanadai
+			name = RJP_sanadai
+			cost = 200
+			modifier = {
+				# character_coop_cost_factor = -0.15 在这里无效
+				political_power_gain = 0.2
+				consumer_goods_factor = -0.02
+			}
+			ai_will_do = {
+				factor = 1
+			}
+		}
+	}
+}

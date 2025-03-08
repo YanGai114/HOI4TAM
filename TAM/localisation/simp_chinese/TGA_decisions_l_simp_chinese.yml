@@ -1,0 +1,6 @@
+﻿l_simp_chinese:
+peacetime_decisions:0 "和平时期行动"
+generic_training_programmes_army:0 "部队训练项目"
+generic_army_training_decision_text:0 "£command_power §Y35§!"
+generic_army_training_decision_text_blocked:0 "£command_power §R35§!"
+generic_army_training_programmes_idea:0 "部队训练"

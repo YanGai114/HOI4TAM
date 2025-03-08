@@ -1,0 +1,58 @@
+guiTypes = {
+	
+	###############################################################
+	########            xxxxxxxxxxxxxxxxxxxxx              ########
+	###############################################################
+
+	containerWindowType = {
+		name = "天魔宫"
+		size = { width = 0 height = 170 }
+		position = { x = 0 y = 0 }
+
+		iconType = {
+			name = "会议"
+			spriteType = "GFX_otg_decision_tianmogong"
+			position = { x = 0 y = -20 }
+			pdx_tooltip = chongxiutianmogong_tt
+		}
+		instantTextboxType = {
+			name = "重建天魔宫"
+			position = { x = 195 y = -15 }
+			font = "hoi_20bs"
+			text = "chongjiantianmogong_text"
+			maxWidth = 3000
+			maxHeight = 3000
+			format = left 
+		}
+	}
+
+	containerWindowType = {
+		name = "天狗议会"
+		size = { width = 0 height = 170 }
+		position = { x = 0 y = 0 }
+
+		iconType = {
+			name = "议会"
+			spriteType = "GFX_otg_decision_tiangouyihui"
+			position = { x = 0 y = -20 }
+			pdx_tooltip = tiangouyihui_tt
+		}
+		
+		iconType = {
+			name = "otg_shouxitiangou_icon"
+			#spriteType = "GFX_otg_shouxitiangou_icon"
+			position = { x = 205 y = -20 }
+			pdx_tooltip = otg_shouxitiangou_icon_tt
+		}
+		
+		buttonType = { 
+			name = "otg_neizheng"
+			position = { x = 408 y = -20 } 
+			quadTextureSprite = "GFX_decision_neizheng"
+			buttonFont = "hoi_16mbs"
+			#buttonText = 
+			pdx_tooltip = "内政按钮，不同路线有不同决议，点击出现，再次点击则隐藏。"
+			clicksound = click
+		} 
+	}
+}

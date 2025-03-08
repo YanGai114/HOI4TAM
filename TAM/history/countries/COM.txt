@@ -1,0 +1,52 @@
+capital = 402
+
+recruit_character = COM_tensakuya
+
+146.1.1 = {
+    set_technology = {
+         ########通用中等水平外界科技########
+         spear1 =1
+         linglizhufu =1
+         tech_support =1
+         spear2 =1
+         ma_shield1 =1
+         basic_train = 1
+         support_weapons =1
+         infantry_weapons =1
+         infantry_weapons1 =1
+         tech_trucks =1
+         gw_artillery =1
+            
+    }
+    
+}
+146.1.1={
+    add_manpower = 100
+    oob = "COM_146"
+    
+
+    
+    add_ideas = {
+    Youkai
+    Village
+    close5
+    dove2
+    close_border
+    limit_magic
+    manpowerlv1
+    isolation
+     
+    }
+    set_politics = {
+    	ruling_party = guli
+    	election_frequency = 48
+    	elections_allowed = no
+    }
+    set_popularities = {
+        qinwai = 0
+        guli = 100
+        neworder = 0
+        oldorder = 0
+        fandong = 0
+    }
+}

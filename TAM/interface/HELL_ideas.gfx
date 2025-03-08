@@ -1,0 +1,38 @@
+spriteTypes = {
+	spriteType = {
+		name = "GFX_idea_daboyi_guizu"
+		texturefile = "gfx/interface/ideas/daboyi_guizu.png"
+	}
+
+	spriteType = {
+		name = "GFX_idea_SKI_posuideweiwang"
+		texturefile = "gfx/interface/ideas/SKI_posuideweiwang.png"
+	}
+	spriteType = {
+		name = "GFX_idea_SKI_wurenkeyong"
+		texturefile = "gfx/interface/ideas/SKI_wurenkeyong.png"
+	}
+	spriteType = {
+		name = "GFX_idea_HELL_yushigejue"
+		texturefile = "gfx/interface/ideas/HELL_yushigejue.png"
+	}
+	spriteType = {
+		name = "GFX_idea_SKI_industry_buff_modifier"
+		texturefile = "gfx/interface/ideas/SKI_industry_buff_modifier.png"
+	}
+	spriteType = {
+		name = "GFX_idea_CIR_ideas_1"
+		texturefile = "gfx/interface/ideas/CIR_ideas_1.png"
+	}
+
+	spriteType = {
+		name = "GFX_idea_CIR_ideas_2"
+		texturefile = "gfx/interface/ideas/CIR_ideas_2.png"
+	}
+
+
+
+
+
+
+}

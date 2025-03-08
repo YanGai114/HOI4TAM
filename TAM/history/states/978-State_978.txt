@@ -1,0 +1,29 @@
+state={
+	id=978
+	name="STATE_978"
+	provinces={
+		3 273 1314 1385 1430 3536 5464 5872 10467 17503 17587 
+	}
+	buildings_max_level_factor=1.000
+        manpower=9707
+                 state_category = rural
+	resources={
+		steel=0 #钢铁
+		tungsten = 0 #妖石
+		chromium = 0 #灵气
+		rubber=0 #农产品
+		aluminium=0 #其他金属
+		oil = 0 #伊奘诺物质
+	}		history = {
+			owner = YUK
+			add_core_of = YUK
+			victory_points = { 3  1 }
+			buildings = {
+				infrastructure = 0
+				air_base = 0
+				arms_factory = 0
+				industrial_complex = 0
+			}
+		}
+ 
+}

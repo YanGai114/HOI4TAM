@@ -1,0 +1,51 @@
+spriteTypes = {
+
+	###############################################################
+	########            xxxxxxxxxxxxxxxxxxxxx              ########
+	###############################################################
+
+	#### RESOURCES ####
+	spriteType = {
+		name = GFX_MOK_GUI_lianzi
+		texturefile = "gfx/interface/categories/MOK/lianzi.dds"
+	}
+	spriteType = {
+		name = GFX_MOK_GUI_meili
+		texturefile = "gfx/interface/categories/MOK/meili.dds"
+	}
+	spriteType = {
+		name = GFX_info_button
+		texturefile = "gfx/interface/info_button.dds"
+	}
+	spriteType = {
+		name = GFX_MOK_yishiting
+		texturefile = "gfx/interface/categories/MOK/mok_yishiting.dds"
+	}
+
+	#### PROGRESSBAR ####
+	progressbartype = {
+		name = "GFX_MOK_ceshi_Progressbar"
+		textureFile1 = "gfx/interface/categories/MOK/bar_full.dds"
+		textureFile2 = "gfx/interface/categories/MOK/bar_empty.dds"
+		size = { x = 372 y = 50 } 
+		effectFile = "gfx/FX/progress.lua"
+		horizontal = yes
+	}
+	
+
+	#######gif
+	frameAnimatedSpriteType = {
+		name = "GFX_akyuugif"
+		texturefile = "gfx/interface/akyuugif.png"
+		noOfFrames = 25
+		#effectFile = "<path>"
+		
+		animation_rate_fps = 20
+		looping = no
+		play_on_show = yes
+		#pause_on_loop = <float>
+		
+		#allwaystransparent = <bool>
+	}
+
+}

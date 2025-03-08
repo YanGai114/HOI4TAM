@@ -1,0 +1,43 @@
+﻿capital = 683
+
+146.1.1 = {
+    set_technology = {
+              ########通用低级水平灵力科技########
+              spear1 =1
+  
+                           
+    }
+    
+}
+
+146.1.1={
+    set_cosmetic_tag = CLO_heca
+    # set_research_slots = 0
+    add_ideas = {
+        CLO_neibusaodong1_idea
+	    CLO_zhengfu1_idea
+        Fairy
+        Tribal
+        dove1
+        close1
+        free_magic
+HELL_yushigejue
+        # type1_manpowerlv5
+    }
+    oob = "CLO_146"
+    set_politics = {
+        ruling_party = guli
+        election_frequency = 48
+        elections_allowed = no
+    }
+    set_popularities = {
+        qinwai = 5
+        guli = 38
+        neworder = 30
+        oldorder = 2
+        fandong = 25
+    }
+    set_power_balance = {
+        id = CLO_power_balance
+    }
+}

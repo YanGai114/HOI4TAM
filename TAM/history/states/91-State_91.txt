@@ -1,0 +1,29 @@
+state={
+	id=91
+	name="STATE_91"
+	provinces={
+		394 405 464 2843 3198 3840 4305 4404 4495 5931 6032 7243 9463 9822 10274 11160 11195 11212 11213 11236 11260 11270 
+	}
+	buildings_max_level_factor=1.000
+        manpower=10248
+                 state_category = rural
+	resources={
+		steel=0 #钢铁
+		tungsten = 0 #妖石
+		chromium = 0 #灵气
+		rubber=0 #农产品
+		aluminium=0 #其他金属
+		oil = 0 #伊奘诺物质
+	}		history = {
+			owner = KAP
+			add_core_of = KAP
+			victory_points = {394  1 }
+			buildings = {
+				infrastructure = 0
+				air_base = 0
+				arms_factory = 0
+				industrial_complex = 0
+			}
+		}
+ 
+}

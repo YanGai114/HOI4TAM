@@ -1,0 +1,29 @@
+state={
+	id=725
+	name="STATE_725"
+	provinces={
+		848 15452 15459 15514 15530 
+	}
+	buildings_max_level_factor=1.000
+        manpower=98700
+                 state_category = large_town
+	resources={
+		steel=1 #钢铁
+		tungsten = 0 #妖石
+		chromium = 0 #灵气
+		rubber=8 #农产品
+		aluminium=0 #其他金属
+		oil = 0 #伊奘诺物质
+	}		history = {
+			owner = PEA
+			add_core_of = PEA
+			victory_points = { 848 15 }
+			buildings = {
+				infrastructure = 3
+				air_base = 0
+				arms_factory = 1
+				industrial_complex = 2
+			}
+		}
+ 
+}

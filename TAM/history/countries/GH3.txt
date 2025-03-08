@@ -1,0 +1,39 @@
+﻿capital = 904
+
+146.1.1 = {
+    set_technology = {
+        ########通用低级水平灵力科技########
+        spear1 =1
+        linglizhufu =1
+     
+        tech_support =1
+                      
+            
+    }
+    
+}
+146.1.1={
+    oob = "GH3_146"
+    
+    add_ideas = {
+        Ghost
+        Tribal
+        hawk1
+        close2
+        strict_border
+        sc_rule
+        low_economic_mobilisation
+    }
+    set_politics = {
+    	ruling_party = qinwai
+    	election_frequency = 48
+    	elections_allowed = no
+    }
+    set_popularities = {
+        qinwai = 75
+        guli = 5
+        neworder = 0
+        oldorder = 0
+        fandong = 20
+    }
+}

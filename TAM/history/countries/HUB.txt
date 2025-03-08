@@ -1,0 +1,33 @@
+﻿capital = 179
+146.1.1 = {
+    set_technology = {
+########通用低级水平灵力科技########
+spear1 =1
+
+                
+    }
+    
+}
+146.1.1={
+    oob = "HUB_146"
+    add_ideas = {
+        Youkai
+        Village
+        dove2
+        open0
+        strict_border
+        limit_magic
+    }
+    set_politics = {
+        ruling_party = guli
+        election_frequency = 48
+        elections_allowed = no
+    }
+    set_popularities = {
+        qinwai = 0
+        guli = 100
+        neworder = 0
+        oldorder = 0
+        fandong = 0
+    }
+}

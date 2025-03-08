@@ -1,0 +1,229 @@
+spriteTypes = {
+
+	###############################################################
+	########            xxxxxxxxxxxxxxxxxxxxx              ########
+	###############################################################
+
+	#### RESOURCES ####
+   
+	#### PROGRESSBAR ####
+	progressbartype = {
+		name = "GFX_OKI_xinxiu_Progressbar"
+		textureFile1 = "gfx/interface/categories/OKI/bar_1.png"
+		textureFile2 = "gfx/interface/categories/OKI/bar_0.png"
+		size = { x = 140 y = 140 } 
+		color = { 64 64 64 }
+        colortwo = { 255 216 0 }
+		effectFile = "gfx/FX/progress.lua"
+		horizontal = NO
+	}
+	
+	progressbartype = {
+		name = "GFX_OKI_dimu_Progressbar"
+		textureFile1 = "gfx/interface/categories/OKI/bar_11.png"
+		textureFile2 = "gfx/interface/categories/OKI/bar_00.png"
+		size = { x = 140 y = 140 } 
+		color = { 64 64 64 }
+        colortwo = { 255 216 0 }
+		effectFile = "gfx/FX/progress.lua"
+		horizontal = NO
+	}
+
+	progressbartype = {
+		name = "GFX_OKI_zhangai_Progressbar"
+		textureFile1 = "gfx/interface/categories/OKI/bar_111.png"
+		textureFile2 = "gfx/interface/categories/OKI/bar_000.png"
+		size = { x = 140 y = 140 } 
+		color = { 64 64 64 }
+        colortwo = { 255 216 0 }
+		effectFile = "gfx/FX/progress.lua"
+		horizontal = NO
+	}
+	#######gif
+	
+	progressbartype = {
+		name = "GFX_OKI_mishen_Progressbar"
+		textureFile1 = "gfx/interface/categories/OKI/bar_1111.png"
+		textureFile2 = "gfx/interface/categories/OKI/bar_0000.png"
+		size = { x = 160 y = 160 } 
+		color = { 64 64 64 }
+        colortwo = { 255 216 0 }
+		effectFile = "gfx/FX/progress.lua"
+		horizontal = NO
+		steps = 500
+	}
+
+	progressbartype = {
+		name = "GFX_OKI_shiguanjindutiao_Progressbar"
+		textureFile1 = "gfx/interface/categories/OKI/shiguanjindutiao2.png"
+		textureFile2 = "gfx/interface/categories/OKI/shiguanjindutiao1.png"
+		size = { x = 398 y = 128 } 
+	
+		effectFile = "gfx/FX/progress.lua"
+		horizontal = YES
+		steps = 30
+	}
+
+	progressbartype = {
+		name = "GFX_OKI_xinan_Progressbar"
+		textureFile1 = "gfx/interface/categories/OKI/xinan2.png"
+		textureFile2 = "gfx/interface/categories/OKI/xinan1.png"
+		size = { x = 335 y = 28 } 
+	
+		effectFile = "gfx/FX/progress.lua"
+		horizontal = YES
+		steps = 100
+	}
+
+	progressbartype = {
+		name = "GFX_OKI_chabiemin_Progressbar"
+		textureFile1 = "gfx/interface/categories/OKI/chabiemin1.png"
+		textureFile2 = "gfx/interface/categories/OKI/chabiemin0.png"
+		size = { x = 276 y = 276 } 
+	
+		effectFile = "gfx/FX/progress.lua"
+		horizontal = no
+		steps = 100
+	}
+	progressbartype = {
+		name = "GFX_OKI_shenrufen_Progressbar"
+		textureFile1 = "gfx/interface/categories/OKI/shenrufen1.png"
+		textureFile2 = "gfx/interface/categories/OKI/shenrufen0.png"
+		size = { x = 276 y = 276 } 
+	
+		effectFile = "gfx/FX/progress.lua"
+		horizontal = no
+		steps = 20
+	}
+
+	spriteType = {
+		name = "GFX_wuminzhiqiu"
+		texturefile = "gfx/interface/categories/OKI/wuminzhiqiu.png"
+	}
+	spriteType = {
+		name = "GFX_zhangaiminshenrufen"
+		texturefile = "gfx/interface/categories/OKI/zhangaiminshenrufen.png"
+	}
+	spriteType = {
+		name = "GFX_oki_qtu1"
+		texturefile = "gfx/interface/categories/OKI/qtu1.png"
+	}
+	
+	
+	spriteType = {
+		name = "GFX_OKI_anniu"
+		texturefile = "gfx/interface/categories/OKI/oki_anniu.png"
+	}
+	spriteType = {
+		name = "GFX_OKI_womendexuanze"
+		texturefile = "gfx/interface/categories/OKI/womendexuanze.png"
+	}
+	
+	spriteType = {
+		name = "GFX_OKI_shiguan"
+		texturefile = "gfx/interface/categories/OKI/OKI.png"
+	}
+	spriteType = {
+		name = "GFX_TKM_shiguan"
+		texturefile = "gfx/interface/categories/OKI/TKM.png"
+	}
+	spriteType = {
+		name = "GFX_SCA_shiguan"
+		texturefile = "gfx/interface/categories/OKI/SCA.png"
+	}
+	spriteType = {
+		name = "GFX_SCA2_shiguan"
+		texturefile = "gfx/interface/categories/OKI/SCA2.png"
+	}
+	spriteType = {
+		name = "GFX_YKR_shiguan"
+		texturefile = "gfx/interface/categories/OKI/YKR.png"
+	}
+	spriteType = {
+		name = "GFX_NMS_shiguan"
+		texturefile = "gfx/interface/categories/OKI/NMS.png"
+	}
+	spriteType = {
+		name = "GFX_NMS2_shiguan"
+		texturefile = "gfx/interface/categories/OKI/NMS2.png"
+	}
+	spriteType = {
+		name = "GFX_MAM_shiguan"
+		texturefile = "gfx/interface/categories/OKI/MAM.png"
+	}
+	spriteType = {
+		name = "GFX_MAM2_shiguan"
+		texturefile = "gfx/interface/categories/OKI/MAM2.png"
+	}
+	spriteType = {
+		name = "GFX_KAG_shiguan"
+		texturefile = "gfx/interface/categories/OKI/KAG.png"
+	}
+	spriteType = {
+		name = "GFX_KAG2_shiguan"
+		texturefile = "gfx/interface/categories/OKI/KAG2.png"
+	}
+	spriteType = {
+		name = "GFX_SBK_shiguan"
+		texturefile = "gfx/interface/categories/OKI/SBK.png"
+	}
+	spriteType = {
+		name = "GFX_SBK2_shiguan"
+		texturefile = "gfx/interface/categories/OKI/SBK2.png"
+	}
+	spriteType = {
+		name = "GFX_SRB_shiguan"
+		texturefile = "gfx/interface/categories/OKI/SRB.png"
+	}
+	spriteType = {
+		name = "GFX_SRB2_shiguan"
+		texturefile = "gfx/interface/categories/OKI/SRB2.png"
+	}
+	spriteType = {
+		name = "GFX_OKI_kuangzi"
+		texturefile = "gfx/interface/categories/OKI/kuangzi.png"
+	}
+	spriteType = {
+		name = "GFX_OKI_kuangzi2"
+		texturefile = "gfx/interface/categories/OKI/kuangzi2.png"
+		
+	}
+	
+
+
+
+	
+
+	spriteType = {
+		name = "GFX_OKI_yuankuang1"
+		texturefile = "gfx/interface/categories/OKI/yuankuang1.png"
+	}
+	spriteType = {
+		name = "GFX_OKI_yuankuang2"
+		texturefile = "gfx/interface/categories/OKI/yuankuang2.png"
+		
+	}
+	
+	spriteType = {
+		name = "GFX_OKI_tiao"
+		texturefile = "gfx/interface/categories/OKI/tiao.png"
+		
+	}
+	spriteType = {
+		name = "GFX_OKI_xuanzekuang"
+		textureFile = "gfx/interface/categories/OKI/xuanzekuang.dds"
+		noOfFrames = 2
+		effectFile = "gfx/FX/buttonstate.lua"			
+	}
+	
+	
+
+
+	###########texticon £
+	spriteType = {
+		name = "GFX_xingxiuzhishen_text"
+		texturefile = "gfx/interface/categories/OKI/mishen.dds"
+		legacy_lazy_load = no
+	}
+	
+}

@@ -1,0 +1,29 @@
+state={
+	id=280
+	name="STATE_280"
+	provinces={
+		1526 1747 2740 3673 4764 4903 5217 7341 7508 8785 8798 9860 10168 10333 10394 10525 12621 12691 12730 12748 12777 12812 12862 12919 12937 
+	}
+	buildings_max_level_factor=1.000
+        manpower=20777
+                 state_category = city
+	resources={
+		steel=0 #钢铁
+		tungsten = 0 #妖石
+		chromium = 0 #灵气
+		rubber=0 #农产品
+		aluminium=0 #其他金属
+		oil = 0 #伊奘诺物质
+	}		history = {
+			owner = SCA
+			add_core_of = SCA
+			victory_points = { 1526 10 }
+			buildings = {
+				infrastructure = 3
+				air_base = 0
+				arms_factory = 1
+				industrial_complex = 2
+			}
+		}
+ 
+}

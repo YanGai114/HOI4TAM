@@ -1,0 +1,29 @@
+state={
+	id=565
+	name="STATE_565"
+	provinces={
+		395 727 3118 3993 4754 4978 5799 6081 6085 6673 7085 7961 8456 8907 9121 9402 14289 14290 14306 14329 14330 14336 14355 14359 14380 14385 14425 14428 14431 14432 14467 14483 14484 14491 14513 14547 14563 14577 14623 14625 14632 
+	}
+	buildings_max_level_factor=1.000
+        manpower=48799
+                 state_category = large_town
+	resources={
+		steel=0 #钢铁
+		tungsten = 0 #妖石
+		chromium = 1 #灵气
+		rubber=7 #农产品
+		aluminium=0 #其他金属
+		oil = 0 #伊奘诺物质
+	}		history = {
+			owner = SCA
+			add_core_of = SCA
+			victory_points = { 14359 15 }
+			buildings = {
+				infrastructure = 4
+				air_base = 0
+				arms_factory = 0
+				industrial_complex = 1
+			}
+		}
+ 
+}

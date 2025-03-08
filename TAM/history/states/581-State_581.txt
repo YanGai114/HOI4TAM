@@ -1,0 +1,29 @@
+state={
+	id=581
+	name="STATE_581"
+	provinces={
+		1434 1872 2005 3676 3706 4938 5628 5738 5916 6200 6494 6569 7072 7871 8141 8996 9321 9542 9767 9997 10258 14395 14405 14454 14466 14477 14524 14538 14551 14562 14570 14571 14599 14618 14651 14665 14718 
+	}
+	buildings_max_level_factor=1.000
+        manpower=192221
+                 state_category = town
+	resources={
+		steel=0 #钢铁
+		tungsten = 0 #妖石
+		chromium = 2 #灵气
+		rubber=1 #农产品
+		aluminium=0 #其他金属
+		oil = 0 #伊奘诺物质
+	}		history = {
+			owner = SWL
+			add_core_of = SWL
+			victory_points = { 9321 10 }
+			buildings = {
+				infrastructure = 3
+				air_base = 0
+				arms_factory = 0
+				industrial_complex = 2
+			}
+		}
+ 
+}

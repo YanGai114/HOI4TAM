@@ -1,0 +1,29 @@
+state={
+	id=965
+	name="STATE_965"
+	provinces={
+		132 205 1522 1767 2712 3453 4540 4786 6773 7228 7391 8334 9164 9698 17388 17413 17461 
+	}
+	buildings_max_level_factor=1.000
+        manpower=175
+                 state_category = rural
+	resources={
+		steel=0 #钢铁
+		tungsten = 0 #妖石
+		chromium = 0 #灵气
+		rubber=0 #农产品
+		aluminium=0 #其他金属
+		oil = 0 #伊奘诺物质
+	}		history = {
+			owner = YKR
+			add_core_of = YKR
+
+			buildings = {
+				infrastructure = 0
+				air_base = 0
+				arms_factory = 0
+				industrial_complex = 0
+			}
+		}
+ 
+}

@@ -1,0 +1,56 @@
+﻿capital = 120
+
+recruit_character = HU2_shinsokyu
+
+138.8.13 = {
+
+}
+141.6.2 = {
+    
+}
+142.3.8 = {
+    
+}
+144.2.5 = {
+    
+}
+146.1.1 = {
+    set_technology = {
+                                          ########通用低级水平外界科技########
+                                          spear1 =1
+                                          linglizhufu =1
+                                          tech_support =1
+                                          infantry_weapons =1
+            
+    }
+    
+}
+146.1.1={
+    oob = "HU2_146"
+    
+    add_ideas = {
+    type2_manpowerlv3
+    Human
+    Village
+    close2
+    dove2
+    close_border
+    forbidden_magic
+    AKI_jueqidegaigepai_idea  
+    }
+
+    add_timed_idea = { idea = AKI_jiduanzhuyiyundong_idea days = 270 }
+
+    set_politics = {
+    	ruling_party = guli
+    	election_frequency = 48
+    	elections_allowed = no
+    }
+    set_popularities = {
+        qinwai = 43
+        guli = 57
+        neworder = 0
+        oldorder = 0
+        fandong = 0
+    }
+}

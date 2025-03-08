@@ -1,0 +1,29 @@
+state={
+	id=494
+	name="STATE_494"
+	provinces={
+		572 714 7496 13966 14002 14024 14027 
+	}
+	buildings_max_level_factor=1.000
+        manpower=23310
+                 state_category = city
+	resources={
+		steel=60 #钢铁
+		tungsten = 0 #妖石
+		chromium = 0 #灵气
+		rubber=2 #农产品
+		aluminium=66 #其他金属
+		oil = 4 #伊奘诺物质
+	}		history = {
+			owner = MOR
+			add_core_of = MOR
+			victory_points = { 572 30 }
+			buildings = {
+				infrastructure = 5
+				air_base = 0
+				arms_factory = 0
+				industrial_complex = 0
+			}
+		}
+ 
+}

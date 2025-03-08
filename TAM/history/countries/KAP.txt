@@ -1,0 +1,85 @@
+﻿capital = 135
+146.1.1 = {
+    set_technology = {
+        #通用武器线
+     
+            
+    }
+    
+}
+141.1.1={
+    oob = "KAP_141"
+    
+    add_ideas={
+        ntr_fenliezhiguo
+    }
+    add_ideas = {
+    Kappa
+    Town
+    hawk0
+    close2
+    normal_border
+    limit_magic
+     
+    }
+    if = {
+       limit = {
+         date < 142.1.1
+       }
+       add_manpower = 200
+
+    }
+    
+    set_politics = {
+    
+        ruling_party = guli
+        election_frequency = 48
+        elections_allowed = no
+    }
+    set_popularities = {
+        qinwai = 35
+        guli = 60
+        neworder = 5
+        oldorder = 0
+        fandong = 0
+    }
+    
+}
+capital = 40
+146.1.1={
+    oob = "KAP_146"
+    set_major = yes
+    # add_ideas = KAP_government_problem_idea
+
+    # give_guarantee = GRS
+    
+    #########局势修改
+    
+    add_ideas = {
+    Kappa
+    Village
+    hawk0
+    close2
+    strict_border
+    limit_magic
+     
+    }
+    
+    set_politics = {
+    	ruling_party = guli
+    	election_frequency = 48
+    	elections_allowed = no
+    }
+
+    set_popularities = {
+        qinwai = 15
+        guli = 50
+        neworder = 10
+        oldorder = 0
+        fandong = 25
+    }
+
+    set_truce = {target = NTR days = 1095}
+    set_truce = {target = YAW days = 1095}
+    
+}

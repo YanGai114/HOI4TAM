@@ -1,0 +1,29 @@
+state={
+	id=751
+	name="STATE_751"
+	provinces={
+		717 1488 6273 7764 10732 15828 15904 
+	}
+	buildings_max_level_factor=1.000
+        manpower=3357
+                 state_category = rural
+	resources={
+		steel=0 #钢铁
+		tungsten = 0 #妖石
+		chromium = 10 #灵气
+		rubber=0 #农产品
+		aluminium=0 #其他金属
+		oil = 9 #伊奘诺物质
+	}		history = {
+			owner = HKM
+			add_core_of = HKM
+			victory_points = { 717  1 }
+			buildings = {
+				infrastructure = 0
+				air_base = 0
+				arms_factory = 0
+				industrial_complex = 0
+			}
+		}
+ 
+}

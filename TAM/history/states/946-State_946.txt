@@ -1,0 +1,29 @@
+state={
+	id=946
+	name="STATE_946"
+	provinces={
+		735 1504 1701 2200 2270 2444 2465 2850 3132 3272 3962 5332 5500 6480 6487 6511 6874 7056 7558 8562 8870 10369 10403 10469 17174 17194 17229 17236 17237 17246 17265 17275 17280 17312 17326 17333 17358 
+	}
+	buildings_max_level_factor=1.000
+        manpower=4221
+                 state_category = rural
+	resources={
+		steel=0 #钢铁
+		tungsten = 0 #妖石
+		chromium = 4 #灵气
+		rubber=3 #农产品
+		aluminium=0 #其他金属
+		oil = 1 #伊奘诺物质
+	}		history = {
+			owner = KAG
+			add_core_of = KAG
+			victory_points = { 735  1 }
+			buildings = {
+				infrastructure = 0
+				air_base = 0
+				arms_factory = 0
+				industrial_complex = 0
+			}
+		}
+ 
+}

@@ -1,0 +1,29 @@
+state={
+	id=384
+	name="STATE_384"
+	provinces={
+		111 1037 1074 1149 2300 3554 5639 7065 7901 7963 8538 9834 10024 13289 13293 13344 13386 13403 13431 13473 13474 13492 13521 13564 13606 13634 13658 
+	}
+	buildings_max_level_factor=1.000
+        manpower=45889
+                 state_category = large_town
+	resources={
+		steel=0 #钢铁
+		tungsten = 0 #妖石
+		chromium = 2 #灵气
+		rubber=7 #农产品
+		aluminium=0 #其他金属
+		oil = 0 #伊奘诺物质
+	}		history = {
+			owner = HU1
+			add_core_of = HU1
+			victory_points = { 111 15 }
+			buildings = {
+				infrastructure = 4
+				air_base = 0
+				arms_factory = 1
+				industrial_complex = 3
+			}
+		}
+ 
+}

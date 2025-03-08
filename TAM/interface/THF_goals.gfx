@@ -1,0 +1,6 @@
+spriteTypes = {
+  SpriteType = {
+  name  =  "GFX_THF_monsters_reappear"
+  texturefile  =  "gfx/interface/goals/THF_monsters_reappear.png"
+  }
+}

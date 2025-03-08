@@ -1,0 +1,29 @@
+state={
+	id=733
+	name="STATE_733"
+	provinces={
+		25 721 2620 5028 6026 6473 7000 7214 7295 7980 15498 15651 15652 15711 15822 
+	}
+	buildings_max_level_factor=1.000
+        manpower=7000
+                 state_category = rural
+	resources={
+		steel=0 #钢铁
+		tungsten = 0 #妖石
+		chromium = 0 #灵气
+		rubber=0 #农产品
+		aluminium=0 #其他金属
+		oil = 0 #伊奘诺物质
+	}		history = {
+			owner = BDI
+			add_core_of = BDI
+			victory_points = { 25 1 }
+			buildings = {
+				infrastructure = 0
+				air_base = 0
+				arms_factory = 0
+				industrial_complex = 0
+			}
+		}
+ 
+}

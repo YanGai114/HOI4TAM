@@ -1,0 +1,29 @@
+state={
+	id=985
+	name="STATE_985"
+	provinces={
+		109 309 361 431 742 764 1085 1093 1403 1710 1893 1942 2043 2755 3204 3625 4200 4215 4398 4758 5029 5042 5121 5263 5302 5379 5546 5693 5694 6479 6748 7782 7889 8008 8412 9047 9823 10264 17507 17512 17514 17538 17544 17578 17580 17619 17624 17627 17640 17686 17701 17720 17735 17742 
+	}
+	buildings_max_level_factor=1.000
+        manpower=982
+                 state_category = rural
+	resources={
+		steel=0 #钢铁
+		tungsten = 0 #妖石
+		chromium = 0 #灵气
+		rubber=0 #农产品
+		aluminium=0 #其他金属
+		oil = 0 #伊奘诺物质
+	}		history = {
+			owner = OKI
+			add_core_of = OKI
+
+			buildings = {
+				infrastructure = 0
+				air_base = 0
+				arms_factory = 0
+				industrial_complex = 0
+			}
+		}
+ 
+}

@@ -1,0 +1,29 @@
+state={
+	id=980
+	name="STATE_980"
+	provinces={
+		263 1892 4393 4864 7116 7212 7431 8915 17451 17457 17462 17470 17473 17476 17519 17520 
+	}
+	buildings_max_level_factor=1.000
+        manpower=6545
+                 state_category = rural
+	resources={
+		steel=0 #钢铁
+		tungsten = 0 #妖石
+		chromium = 0 #灵气
+		rubber=0 #农产品
+		aluminium=0 #其他金属
+		oil = 0 #伊奘诺物质
+	}		history = {
+			owner = INB
+			add_core_of = INB
+			victory_points = { 263  1 }
+			buildings = {
+				infrastructure = 0
+				air_base = 0
+				arms_factory = 0
+				industrial_complex = 0
+			}
+		}
+ 
+}

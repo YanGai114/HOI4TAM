@@ -1,0 +1,43 @@
+characters={
+	HAM_dufumang ={#妒妇蟒
+		name = HAM_dufumang
+		portraits={
+			civilian={
+				large="gfx/leaders/HAM/HAM_dufumang.dds"
+				small="gfx/leaders/HAM/HAM_dufumang_small.dds"
+			}
+			army = {
+				large="gfx/leaders/HAM/HAM_dufumang.dds"
+				small="gfx/leaders/HAM/HAM_dufumang_small.dds"
+			}
+			
+		}
+		country_leader={
+			ideology=guli_type
+			id=-1
+		}
+		corps_commander = {
+			traits = {  th_original_character trait_cautious }
+			attack_skill = 5
+			defense_skill = 7
+			planning_skill = 5
+			logistics_skill = 5
+			skill = 6
+			# id = 23
+		}
+		advisor = {
+			slot = character_coop
+			idea_token = HAM_dufumang
+			name = HAM_dufumang
+			cost = 200
+			modifier = {
+				# character_coop_cost_factor = -0.15 在这里无效
+				political_power_gain = 0.2
+				consumer_goods_factor = -0.02
+			}
+			ai_will_do = {
+				factor = 1
+			}
+		}
+	}
+}

@@ -1,0 +1,29 @@
+state={
+	id=202
+	name="STATE_202"
+	provinces={
+		476 892 1091 1726 2446 5165 5732 5793 6924 7239 10112 11771 11872 12214 
+	}
+	buildings_max_level_factor=1.000
+        manpower=600
+                 state_category = rural
+	resources={
+		steel=0 #钢铁
+		tungsten = 5 #妖石
+		chromium = 0 #灵气
+		rubber=0 #农产品
+		aluminium=0 #其他金属
+		oil = 1 #伊奘诺物质
+	}		history = {
+			owner = AOO
+			add_core_of = AOO
+			victory_points = { 476  1 }
+			buildings = {
+				infrastructure = 0
+				air_base = 0
+				arms_factory = 0
+				industrial_complex = 0
+			}
+		}
+ 
+}

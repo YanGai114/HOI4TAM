@@ -1,0 +1,429 @@
+division_template = {
+	#######幻草原专用
+	name = "游击小队"
+	regiments = {
+		infantry = { x = 0 y = 0 }
+		infantry = { x = 0 y = 1 }
+		infantry = { x = 0 y = 2 }
+		melee_infantry ={x=1 y=0 }
+		melee_infantry ={x=1 y=1 }
+	}
+	support = {
+	}
+}
+division_template = {
+	name = "妖精独立军"
+	regiments = {
+		infantry = { x = 0 y = 0 }
+		infantry = { x = 0 y = 1 }
+		infantry = { x = 0 y = 2 }
+		melee_infantry ={x=0 y=3 }
+		infantry = { x = 1 y = 0 }
+		infantry = { x = 1 y = 1 }
+		infantry = { x = 1 y = 2 }
+
+	}
+	support = {
+	}
+}
+units = {
+	division = {
+		name = "游击小队"
+		location =12012
+		division_template = "游击小队"
+		start_experience_factor = 0.3
+		start_equipment_factor = 1
+	}
+	division = {
+		name = "游击小队"
+		location =12012
+		division_template = "游击小队"
+		start_experience_factor = 0.3
+		start_equipment_factor = 1
+	}
+	division = {
+		name = "游击小队"
+		location =12012
+		division_template = "游击小队"
+		start_experience_factor = 0.3
+		start_equipment_factor = 1
+	}
+	division = {
+		name = "游击小队"
+		location =12012
+		division_template = "游击小队"
+		start_experience_factor = 0.3
+		start_equipment_factor = 1
+	}
+	division = {
+		name = "游击小队"
+		location =2745
+		division_template = "游击小队"
+		start_experience_factor = 0.3
+		start_equipment_factor = 1
+	}
+	division = {
+		name = "游击小队"
+		location =7555
+		division_template = "游击小队"
+		start_experience_factor = 0.3
+		start_equipment_factor = 1
+	}
+	division = {
+		name = "游击小队"
+		location =7757
+		division_template = "游击小队"
+		start_experience_factor = 0.3
+		start_equipment_factor = 1
+	}
+	division = {
+		name = "游击小队"
+		location =7757
+		division_template = "游击小队"
+		start_experience_factor = 0.3
+		start_equipment_factor = 1
+	}
+	division = {
+		name = "游击小队"
+		location =7757
+		division_template = "游击小队"
+		start_experience_factor = 0.3
+		start_equipment_factor = 1
+	}
+	division = {
+		name = "游击小队"
+		location =4944
+		division_template = "游击小队"
+		start_experience_factor = 0.3
+		start_equipment_factor = 1
+	}
+	division = {
+		name = "游击小队"
+		location =337
+		division_template = "游击小队"
+		start_experience_factor = 0.3
+		start_equipment_factor = 1
+	}
+	division = {
+		name = "游击小队"
+		location =337
+		division_template = "游击小队"
+		start_experience_factor = 0.3
+		start_equipment_factor = 1
+	}
+	division = {
+		name = "游击小队"
+		location =337
+		division_template = "游击小队"
+		start_experience_factor = 0.3
+		start_equipment_factor = 1
+	}
+	division = {
+		name = "游击小队"
+		location =337
+		division_template = "游击小队"
+		start_experience_factor = 0.3
+		start_equipment_factor = 1
+	}
+	division = {
+		name = "游击小队"
+		location =337
+		division_template = "游击小队"
+		start_experience_factor = 0.3
+		start_equipment_factor = 1
+	}
+	division = {
+		name = "游击小队"
+		location =337
+		division_template = "游击小队"
+		start_experience_factor = 0.3
+		start_equipment_factor = 1
+	}
+	division = {
+		name = "游击小队"
+		location =4042
+		division_template = "游击小队"
+		start_experience_factor = 0.3
+		start_equipment_factor = 1
+	}
+	division = {
+		name = "游击小队"
+		location =9665
+		division_template = "游击小队"
+		start_experience_factor = 0.3
+		start_equipment_factor = 1
+	}
+	division = {
+		name = "游击小队"
+		location =12068
+		division_template = "游击小队"
+		start_experience_factor = 0.3
+		start_equipment_factor = 1
+	}
+	division = {
+		name = "游击小队"
+		location =2255
+		division_template = "游击小队"
+		start_experience_factor = 0.3
+		start_equipment_factor = 1
+	}
+	division = {
+		name = "游击小队"
+		location =12249
+		division_template = "游击小队"
+		start_experience_factor = 0.3
+		start_equipment_factor = 1
+	}
+	division = {
+		name = "游击小队"
+		location =11640
+		division_template = "游击小队"
+		start_experience_factor = 0.3
+		start_equipment_factor = 1
+	}
+	division = {
+		name = "游击小队"
+		location =5360
+		division_template = "游击小队"
+		start_experience_factor = 0.3
+		start_equipment_factor = 1
+	}
+	division = {
+		name = "游击小队"
+		location =4042
+		division_template = "游击小队"
+		start_experience_factor = 0.3
+		start_equipment_factor = 1
+	}
+	division = {
+		name = "游击小队"
+		location =9665
+		division_template = "游击小队"
+		start_experience_factor = 0.3
+		start_equipment_factor = 1
+	}
+	division = {
+		name = "游击小队"
+		location =12068
+		division_template = "游击小队"
+		start_experience_factor = 0.3
+		start_equipment_factor = 1
+	}
+	division = {
+		name = "游击小队"
+		location =2255
+		division_template = "游击小队"
+		start_experience_factor = 0.3
+		start_equipment_factor = 1
+	}
+	division = {
+		name = "游击小队"
+		location =12249
+		division_template = "游击小队"
+		start_experience_factor = 0.3
+		start_equipment_factor = 1
+	}
+	division = {
+		name = "游击小队"
+		location =11640
+		division_template = "游击小队"
+		start_experience_factor = 0.3
+		start_equipment_factor = 1
+	}
+	division = {
+		name = "游击小队"
+		location =5360
+		division_template = "游击小队"
+		start_experience_factor = 0.3
+		start_equipment_factor = 1
+	}
+	division = {
+		name = "游击小队"
+		location =4042
+		division_template = "游击小队"
+		start_experience_factor = 0.3
+		start_equipment_factor = 1
+	}
+	division = {
+		name = "游击小队"
+		location =9665
+		division_template = "游击小队"
+		start_experience_factor = 0.3
+		start_equipment_factor = 1
+	}
+	division = {
+		name = "游击小队"
+		location =12068
+		division_template = "游击小队"
+		start_experience_factor = 0.3
+		start_equipment_factor = 1
+	}
+	division = {
+		name = "游击小队"
+		location =2255
+		division_template = "游击小队"
+		start_experience_factor = 0.3
+		start_equipment_factor = 1
+	}
+	division = {
+		name = "游击小队"
+		location =12249
+		division_template = "游击小队"
+		start_experience_factor = 0.3
+		start_equipment_factor = 1
+	}
+	division = {
+		name = "游击小队"
+		location =11640
+		division_template = "游击小队"
+		start_experience_factor = 0.3
+		start_equipment_factor = 1
+	}
+	division = {
+		name = "游击小队"
+		location =5360
+		division_template = "游击小队"
+		start_experience_factor = 0.3
+		start_equipment_factor = 1
+	}
+	division = {
+		name = "妖精独立军"
+		location =11611
+		division_template = "妖精独立军"
+		start_experience_factor = 0.3
+		start_equipment_factor = 1
+	}
+	division = {
+		name = "妖精独立军"
+		location =11540
+		division_template = "妖精独立军"
+		start_experience_factor = 0.3
+		start_equipment_factor = 1
+	}
+	division = {
+		name = "妖精独立军"
+		location =11611
+		division_template = "妖精独立军"
+		start_experience_factor = 0.3
+		start_equipment_factor = 1
+	}
+	division = {
+		name = "妖精独立军"
+		location =11611
+		division_template = "妖精独立军"
+		start_experience_factor = 0.3
+		start_equipment_factor = 1
+	}
+	division = {
+		name = "妖精独立军"
+		location =11611
+		division_template = "妖精独立军"
+		start_experience_factor = 0.3
+		start_equipment_factor = 1
+	}
+	division = {
+		name = "妖精独立军"
+		location =11611
+		division_template = "妖精独立军"
+		start_experience_factor = 0.3
+		start_equipment_factor = 1
+	}
+	division = {
+		name = "妖精独立军"
+		location =11611
+		division_template = "妖精独立军"
+		start_experience_factor = 0.3
+		start_equipment_factor = 1
+	}
+	division = {
+		name = "妖精独立军"
+		location =11611
+		division_template = "妖精独立军"
+		start_experience_factor = 0.3
+		start_equipment_factor = 1
+	}
+	division = {
+		name = "妖精独立军"
+		location =11611
+		division_template = "妖精独立军"
+		start_experience_factor = 0.3
+		start_equipment_factor = 1
+	}
+	division = {
+		name = "妖精独立军"
+		location =11611
+		division_template = "妖精独立军"
+		start_experience_factor = 0.3
+		start_equipment_factor = 1
+	}
+	division = {
+		name = "妖精独立军"
+		location =2091
+		division_template = "妖精独立军"
+		start_experience_factor = 0.3
+		start_equipment_factor = 1
+	}
+	division = {
+		name = "妖精独立军"
+		location =2091
+		division_template = "妖精独立军"
+		start_experience_factor = 0.3
+		start_equipment_factor = 1
+	}
+	division = {
+		name = "妖精独立军"
+		location =2091
+		division_template = "妖精独立军"
+		start_experience_factor = 0.3
+		start_equipment_factor = 1
+	}
+	division = {
+		name = "妖精独立军"
+		location =2091
+		division_template = "妖精独立军"
+		start_experience_factor = 0.3
+		start_equipment_factor = 1
+	}
+	division = {
+		name = "妖精独立军"
+		location =2091
+		division_template = "妖精独立军"
+		start_experience_factor = 0.3
+		start_equipment_factor = 1
+	}
+	division = {
+		name = "妖精独立军"
+		location =2091
+		division_template = "妖精独立军"
+		start_experience_factor = 0.3
+		start_equipment_factor = 1
+	}
+	division = {
+		name = "妖精独立军"
+		location =2091
+		division_template = "妖精独立军"
+		start_experience_factor = 0.3
+		start_equipment_factor = 1
+	}
+	division = {
+		name = "妖精独立军"
+		location =2091
+		division_template = "妖精独立军"
+		start_experience_factor = 0.3
+		start_equipment_factor = 1
+	}
+	division = {
+		name = "妖精独立军"
+		location =2091
+		division_template = "妖精独立军"
+		start_experience_factor = 0.3
+		start_equipment_factor = 1
+	}
+	division = {
+		name = "妖精独立军"
+		location =2091
+		division_template = "妖精独立军"
+		start_experience_factor = 0.3
+		start_equipment_factor = 1
+	}
+}

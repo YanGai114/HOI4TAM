@@ -1,0 +1,40 @@
+﻿capital = 1013
+146.1.1 = {
+    set_technology = {
+                                        ########通用低级水平混合科技########
+                                        spear1 =1
+
+            
+    }
+    
+}
+146.1.1={
+    oob = "INB_146"
+    # set_research_slots = 5
+    # Starting tech
+    
+    add_ideas = {
+    Beast
+    Tribal
+    close2
+    hawk2
+    strict_border
+    sc_rule
+    low_economic_mobilisation
+     
+    }
+    
+    set_politics = {
+    	ruling_party = neworder
+    	election_frequency = 48
+    	elections_allowed = no
+    }
+    set_popularities = {
+        qinwai = 10
+        guli = 33
+        neworder = 55
+        oldorder = 0
+        fandong = 2
+    }
+    
+}

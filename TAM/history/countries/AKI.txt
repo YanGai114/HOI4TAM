@@ -1,0 +1,55 @@
+﻿capital = 480
+146.1.1 = {
+    set_technology = {
+            ########通用中等水平外界科技########
+
+
+    }
+    
+}
+
+
+146.1.1={
+    oob = "AKI_146"
+    
+    HU1 = {
+        subject_level3 = yes
+    }
+    HU2 = {
+        subject_level3 = yes
+    }
+    HU4 = {
+        subject_level4= yes
+    }
+
+    set_country_flag = bunengsuiyiqiehuanzhengti
+    give_guarantee = HU3      
+    
+    add_ideas = {
+    God
+    sub_Human
+    Village
+    dove2
+    open1
+    loose_border
+    sc_rule
+    AKI_tudijianbing_idea
+    AKI_jiduanzhuyiyundong_idea
+    AKI_zhanlipin_idea
+    AKI_renyushendemohujiexian_idea
+    AKI_zhuanzhuneibu_idea
+    }
+    set_politics = {
+        ruling_party = guli
+        election_frequency = 48
+        elections_allowed = no
+    }
+    set_popularities = {
+        qinwai = 33
+        guli = 9
+        neworder = 53
+        oldorder = 0
+        fandong = 5
+    }
+    
+}

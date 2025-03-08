@@ -1,0 +1,37 @@
+﻿capital = 782
+146.1.1 = {
+    set_technology = {
+        #通用武器线
+     
+
+        #种族
+            
+    }
+    
+}
+146.1.1={
+
+    add_ideas = {
+        Ghost
+        village
+        dove2
+        open0
+        strict_border
+        free_magic
+        HGH_shenmi_idea
+        HGH_kaiju_guizu_idea
+        HELL_yushigejue
+    }
+    set_politics = {
+    	ruling_party = fandong
+    	election_frequency = 48
+    	elections_allowed = no
+    }
+    set_popularities = {
+        qinwai = 5
+        guli = 67
+        neworder = 9
+        oldorder = 3
+        fandong = 16
+    }
+}

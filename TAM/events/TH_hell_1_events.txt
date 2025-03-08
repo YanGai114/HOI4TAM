@@ -1,0 +1,393 @@
+add_namespace = hell_trr
+country_event = { #畜生界战争
+	id = hell_trr.1
+	title = hell_trr.1.t
+	desc = hell_trr.1.d
+	fire_only_once = yes
+	trigger = {
+		date > 147.9.1
+		tag = YCE
+	}
+	mean_time_to_happen = {days = 1}
+	immediate = {
+		GYK = {
+			country_event = {id = hell_trr.10}
+		}
+		SAK = {
+			country_event = {id = hell_trr.10}
+		}
+	}
+	option = {
+		name  = hell_trr.1.a
+		declare_war_on = { target = KEK type = take_state }
+		news_event = { id = kmc_trr.3 }
+	}
+}
+news_event = { #畜生界战争新闻
+	id = hell_trr.2
+	title = hell_trr.2.t
+	desc = hell_trr.2.d
+	fire_only_once = yes
+	is_triggered_only = yes
+	major = yes
+	option = { 
+		name = hell_trr.2.a
+	}
+}
+
+country_event = { #黑帮同盟
+	id = hell_trr.3
+	title = hell_trr.3.t
+	desc = hell_trr.3.d
+	fire_only_once = yes
+	immediate = {
+		YCE={create_faction = hell_trr_association}
+		GYK = {
+			country_event = {id = hell_trr.11}
+		}
+		SAK = {
+			country_event = {id = hell_trr.11}
+		}
+	}
+	trigger = {
+		tag = YCE
+		date > 146.2.1
+	}
+	mean_time_to_happen = {days = 1}
+	option = {
+		name  = hell_trr.3.a
+		news_event = { id = kmc_trr.4 }
+		set_global_flag = HELL_gang
+		global = {
+			set_variable = {th_drug_money = 0}
+			set_variable = {th_drug_money_level1 = 0}
+			set_variable = {th_drug_money_level2 = 0}
+		}
+	}
+}
+
+news_event = { #黑帮同盟新闻
+	id = kmc_trr.4
+	title = kmc_trr.4.t
+	desc = kmc_trr.4.d
+	fire_only_once = yes
+	is_triggered_only = yes
+	major = yes
+	option = { 
+		name = kmc_trr.4.a
+	}
+}
+
+news_event = { #极乐丸
+	id = hell_trr.5
+	title = hell_trr.5.t
+	desc = hell_trr.5.d
+	fire_only_once = yes
+	is_triggered_only = yes
+	major = yes
+	option = { 
+		name = hell_trr.5.a
+	}
+}
+
+
+
+
+country_event = {##畜生界战争附属
+	id = hell_trr.10
+	title = hell_trr.10.t
+	desc = hell_trr.10.d
+	fire_only_once = no
+	is_triggered_only = yes
+	option = {
+		name = hell_trr.10.a
+		declare_war_on = { target = KEK type = take_state }
+	}
+}
+country_event = {##黑帮同盟附属
+	id = hell_trr.11
+	title = hell_trr.11.t
+	desc = hell_trr.11.d
+	fire_only_once = no
+	is_triggered_only = yes
+	option = {
+		name = hell_trr.11.a
+		YCE = {
+			add_to_faction = ROOT
+		}
+	}
+}
+
+country_event = {  ##DIY宣战AKO
+	id = hell_trr.12
+	title =hell_trr.12.t
+	desc = hell_trr.12.d
+	fire_only_once =yes
+	trigger = {
+		date >146.4.1
+		tag=DIY
+	}
+
+	option = {
+		name = hell_trr.12.1
+set_global_flag = DIY_fight
+		declare_war_on = {
+			target = AKO
+			type = puppet_wargoal_focus
+		}
+		army_experience = 30
+	}
+}
+
+country_event = {  ##DIY战胜AKO
+	id = hell_trr.13
+	title =hell_trr.13.t
+	desc = hell_trr.13.d
+	fire_only_once = yes
+	trigger = {
+		tag=DIY
+		or={
+DIY={controls_state =523}
+DIY={controls_state =400}
+		}
+	}
+
+	option = {
+		name = hell_trr.12.1
+		white_peace =AKO
+		set_autonomy = {
+			target = XUE
+			autonomy_state = autonomy_puppet
+		}
+		transfer_state =400
+		army_experience = 30
+	}
+}
+country_event = { #战后分赃CLO
+	id = hell_trr.14
+	title = hell_trr.14.t
+	desc = hell_trr.14.d
+	fire_only_once = yes
+	trigger = {
+		NOT = {
+			country_exists = CLO
+		}
+		tag = SKI
+		has_war = no
+	
+			AKO={
+				has_country_flag = SKI_ally
+			}
+		
+	}
+	mean_time_to_happen = {days = 1}
+
+	option = {
+		name  = hell_trr.14.a
+		if = {
+			limit = {
+				AND={
+					country_exists = AKO
+					AKO={
+						has_country_flag = SKI_ally
+					}
+				}
+			}
+			AKO={
+				transfer_state =508
+
+				
+
+				transfer_state =558
+				transfer_state =594
+			}
+		}
+
+	}
+}
+
+country_event = { #战后分赃SKI
+	id = hell_trr.15
+	title = hell_trr.15.t
+	desc = hell_trr.15.d
+	fire_only_once = yes
+	trigger = {
+		NOT = {
+			country_exists = CLO
+		}
+		tag = CLO
+		has_war = no
+			AKO={
+				has_country_flag = CLO_ally
+			}
+
+	}
+	mean_time_to_happen = {days = 1}
+
+	option = {
+		name  = hell_trr.15.a
+		if = {
+			limit = {
+				AND={
+					country_exists = AKO
+					AKO={
+						has_country_flag = CLO_ally
+					}
+				}
+			}
+			AKO={
+				transfer_state =625
+				transfer_state =710
+
+				transfer_state =731
+
+				
+			}
+		}
+
+	}
+	country_event = {  ##CLO宣战SKI 地狱战争
+	id = hell_trr.16
+	title =hell_trr.16.t
+	desc = hell_trr.16.d
+	fire_only_once =yes
+	trigger = {
+		date >149.6.1
+		tag=CLO
+	}
+
+	option = {
+		name = hell_trr.16.1
+set_global_flag = Hell_world_war_begain
+hidden_effect = {
+	create_faction =CLO_HELL_WAR
+if={
+	limit={
+		AKO={
+			has_country_flag=CLO_ally
+		}
+
+	}
+	CL0 = {
+		add_to_faction = AKO
+	}
+}
+DIY={
+	country_event={id= hell_trr.19 days=1}
+}
+
+}
+	declare_war_on = {
+		target = SKI
+		type = puppet_wargoal_focus
+	}
+
+news_event = {id = hell_trr.17 }
+SKI={
+	country_event={id= hell_trr.18 days=1}
+}
+	}
+}
+country_event = {  ##CLO宣战SKI 地狱战争新闻
+id = hell_trr.17
+title =hell_trr.17.t
+desc = hell_trr.17.d
+fire_only_once = yes 
+is_triggered_only = yes
+option = {
+	name = hell_trr.17.1
+}
+}
+
+country_event = {  ## 地狱战争——站队
+id = hell_trr.18
+title =hell_trr.18.t
+desc = hell_trr.18.d
+fire_only_once =yes
+is_triggered_only = yes
+
+option = {
+	name = hell_trr.18.1
+	hidden_effect = {
+			create_faction =SKI_HELL_WAR
+			if={
+				limit={
+					AKO={
+						has_country_flag=SKI_ally
+					}
+			
+				}
+				SKI = {
+					add_to_faction = AKO
+				}
+			}
+
+	}
+}
+}
+country_event = {  ##DIY宣战AOO
+id = hell_trr.19
+title =hell_trr.19.t
+desc = hell_trr.19.d
+fire_only_once = yes 
+is_triggered_only = yes
+option = {
+	name = hell_trr.19.1
+	declare_war_on = {
+		target = AOO
+		type = puppet_wargoal_focus
+	}
+}
+}
+
+country_event = { #DIY北方大捷
+	id = hell_trr.20
+	title = hell_trr.20.t
+	desc = hell_trr.20.d
+	fire_only_once = yes
+	trigger = {
+		NOT = {
+			country_exists = AOO
+		}
+		NOT = {
+			country_exists = HGH
+		}
+		tag = DIY
+		has_war = no
+	
+		has_global_flag = Hell_world_war_begain
+
+
+	}
+
+
+	option = {
+		name  = hell_trr.20.a
+		declare_war_on = {
+			target = AKO
+			type = puppet_wargoal_focus
+		}
+if={
+limit={
+	NOT={
+		AKO={
+			is_in_faction_with =CLO
+		}
+	}
+	CLO = {
+		add_to_faction = DIY
+	}
+}
+
+}
+
+	}
+}
+
+
+
+
+
+
+
+}

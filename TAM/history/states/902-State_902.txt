@@ -1,0 +1,29 @@
+state={
+	id=902
+	name="STATE_902"
+	provinces={
+		666 1431 1824 4107 5947 6532 7697 8277 9409 16848 16982 17025 
+	}
+	buildings_max_level_factor=1.000
+        manpower=9872
+                 state_category = town
+	resources={
+		steel=0 #钢铁
+		tungsten = 0 #妖石
+		chromium = 0 #灵气
+		rubber=0 #农产品
+		aluminium=0 #其他金属
+		oil = 0 #伊奘诺物质
+	}		history = {
+			owner = NMS
+			add_core_of = NMS
+			victory_points = { 666  10 }
+			buildings = {
+				infrastructure = 3
+				air_base = 0
+				arms_factory = 1
+				industrial_complex = 2
+			}
+		}
+ 
+}

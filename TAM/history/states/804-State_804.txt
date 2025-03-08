@@ -1,0 +1,29 @@
+state={
+	id=804
+	name="STATE_804"
+	provinces={
+		75 1427 1429 1758 2817 3102 4671 5287 6446 6655 8020 8473 8775 8930 9139 9297 9329 9366 9647 10307 16162 16286 16301 16349 16397 16412 16425 16432 16433 16458 16481 16566 16578 16609 
+	}
+	buildings_max_level_factor=1.000
+        manpower=1500
+                 state_category = rural
+	resources={
+		steel=0 #钢铁
+		tungsten = 0 #妖石
+		chromium = 3 #灵气
+		rubber=3 #农产品
+		aluminium=0 #其他金属
+		oil = 0 #伊奘诺物质
+	}		history = {
+			owner = RNS
+			add_core_of = RNS
+			victory_points = { 75  1 }
+			buildings = {
+				infrastructure = 0
+				air_base = 0
+				arms_factory = 0
+				industrial_complex = 0
+			}
+		}
+ 
+}

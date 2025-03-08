@@ -1,0 +1,29 @@
+state={
+	id=888
+	name="STATE_888"
+	provinces={
+		2314 3506 3811 5720 6341 7264 16752 16793 16798 16802 16816 16837 16841 16849 16891 
+	}
+	buildings_max_level_factor=1.000
+        manpower=76989
+                 state_category = large_town
+	resources={
+		steel=1 #钢铁
+		tungsten = 0 #妖石
+		chromium = 0 #灵气
+		rubber=0 #农产品
+		aluminium=0 #其他金属
+		oil = 0 #伊奘诺物质
+	}		history = {
+			owner = HMD
+			add_core_of = HMD
+
+			buildings = {
+				infrastructure = 4
+				air_base = 0
+				arms_factory = 0
+				industrial_complex = 2
+			}
+		}
+ 
+}

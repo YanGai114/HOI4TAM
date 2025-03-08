@@ -1,0 +1,29 @@
+state={
+	id=26
+	name="STATE_26"
+	provinces={
+		279 506 535 559 905 1285 1529 2325 2343 2413 3087 4188 4421 5841 5877 6943 7432 7648 9097 9752 10130 10418 10844 10858 10862 10866 10870 10875 10906 10917 10949 10971 11003 11053 
+	}
+	buildings_max_level_factor=1.000
+        manpower=5601
+                 state_category = rural
+	resources={
+		steel=0 #钢铁
+		tungsten = 2 #妖石
+		chromium = 2 #灵气
+		rubber=0 #农产品
+		aluminium=0 #其他金属
+		oil = 0 #伊奘诺物质
+	}		history = {
+			owner = PRS
+			add_core_of = PRS
+			victory_points = {  279 1 }
+			buildings = {
+				infrastructure = 0
+				air_base = 0
+				arms_factory = 0
+				industrial_complex = 0
+			}
+		}
+ 
+}

@@ -1,0 +1,29 @@
+state={
+	id=545
+	name="STATE_545"
+	provinces={
+		291 2708 3580 4401 6320 6609 7645 9021 10193 14422 14500 
+	}
+	buildings_max_level_factor=1.000
+        manpower=1780
+                 state_category = rural
+	resources={
+		steel=0 #钢铁
+		tungsten = 0 #妖石
+		chromium = 0 #灵气
+		rubber=0 #农产品
+		aluminium=0 #其他金属
+		oil = 0 #伊奘诺物质
+	}		history = {
+			owner = WHR
+			add_core_of = WHR
+			victory_points = { 291  1 }
+			buildings = {
+				infrastructure = 0
+				air_base = 0
+				arms_factory = 0
+				industrial_complex = 0
+			}
+		}
+ 
+}

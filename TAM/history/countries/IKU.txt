@@ -1,0 +1,39 @@
+﻿capital = 21
+146.1.1 = {
+    set_technology = {
+        #通用武器线
+ 
+        #种族
+            
+    }
+    
+}
+146.1.1={
+    oob = "IKU_146"
+
+    # set_research_slots = 5
+    
+    add_ideas = {
+    Youkai
+    Village
+    dove2
+    close1
+    free_magic
+
+    }
+    
+    set_politics = {
+    
+    	ruling_party = guli
+    	election_frequency = 48
+    	elections_allowed = no
+    }
+    set_popularities = {
+        qinwai = 30
+        guli = 70
+        neworder = 0
+        oldorder = 0
+        fandong = 0
+    }
+    
+}

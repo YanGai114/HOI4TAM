@@ -1,0 +1,61 @@
+﻿capital = 184
+
+
+
+146.1.1 = {
+    set_technology = {
+   
+            
+    }
+    
+}
+143.7.1 = {
+    oob = "CHE_143"
+    set_politics = {
+        ruling_party = oldgenso
+        election_frequency = 48
+        elections_allowed = no
+    }
+    set_popularities = {
+        qinwai = 5
+        guli = 0
+        neworder = 0
+        oldorder = 0
+        fandong = 10
+        oldgenso = 85
+    }
+    add_ideas = {
+        Beast
+        Village
+        open1
+        dove2
+        loose_border
+        free_magic
+        type4_manpowerlv4
+    }
+}
+146.1.1={
+    oob = "CHE_146"
+    add_ideas = {
+        Beast
+        Village
+        open1
+        dove2
+        loose_border
+        free_magic
+        type4_manpowerlv2
+    }
+    set_politics = {
+        ruling_party = oldgenso
+        election_frequency = 48
+        elections_allowed = no
+    }
+    set_popularities = {
+        qinwai = 5
+        guli = 0
+        neworder = 0
+        oldorder = 0
+        fandong = 10
+        oldgenso = 85
+    }
+}

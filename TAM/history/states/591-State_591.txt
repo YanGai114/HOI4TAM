@@ -1,0 +1,29 @@
+state={
+	id=591
+	name="STATE_591"
+	provinces={
+		1995 5995 6168 8038 14640 
+	}
+	buildings_max_level_factor=1.000
+        manpower=4987
+                 state_category = rural
+	resources={
+		steel=0 #钢铁
+		tungsten = 0 #妖石
+		chromium = 1 #灵气
+		rubber=0 #农产品
+		aluminium=0 #其他金属
+		oil = 0 #伊奘诺物质
+	}		history = {
+			owner = NAR
+			add_core_of = NAR
+			victory_points = { 1995  1 }
+			buildings = {
+				infrastructure = 0
+				air_base = 0
+				arms_factory = 0
+				industrial_complex = 0
+			}
+		}
+ 
+}

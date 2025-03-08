@@ -1,0 +1,29 @@
+state={
+	id=644
+	name="STATE_644"
+	provinces={
+		1295 5460 6768 14880 14881 15145 
+	}
+	buildings_max_level_factor=1.000
+        manpower=13675
+                 state_category = town
+	resources={
+		steel=0 #钢铁
+		tungsten = 0 #妖石
+		chromium = 4 #灵气
+		rubber=1 #农产品
+		aluminium=0 #其他金属
+		oil = 0 #伊奘诺物质
+	}		history = {
+			owner = CLO
+			add_core_of = CLO
+			victory_points = { 1295  10 }
+			buildings = {
+				infrastructure = 1
+				air_base = 0
+				arms_factory =0
+				industrial_complex =1
+			}
+		}
+ 
+}

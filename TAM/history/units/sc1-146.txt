@@ -1,0 +1,32 @@
+division_template = {
+	#######幻草原专用
+	name = "游击小队"
+	regiments = {
+		infantry = { x = 0 y = 0 }
+		infantry = { x = 0 y = 1 }
+		infantry = { x = 0 y = 2 }
+		melee_infantry ={x=1 y=0 }
+		melee_infantry ={x=1 y=1 }
+	}
+	support = {
+	}
+}
+division_template = {
+	name = "妖精独立军"
+	regiments = {
+		infantry = { x = 0 y = 0 }
+		infantry = { x = 0 y = 1 }
+		infantry = { x = 0 y = 2 }
+		melee_infantry ={x=0 y=3 }
+		infantry = { x = 1 y = 0 }
+		infantry = { x = 1 y = 1 }
+		infantry = { x = 1 y = 2 }
+
+	}
+	support = {
+	}
+}
+units = {
+	
+	
+}

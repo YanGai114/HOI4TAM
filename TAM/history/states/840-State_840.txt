@@ -1,0 +1,29 @@
+state={
+	id=840
+	name="STATE_840"
+	provinces={
+		521 2132 3556 3712 4832 5286 6281 6738 7769 9815 9819 10173 16441 16454 16491 16519 16562 16571 16591 
+	}
+	buildings_max_level_factor=1.000
+        manpower=12310
+                 state_category = town
+	resources={
+		steel=0 #钢铁
+		tungsten = 0 #妖石
+		chromium = 3 #灵气
+		rubber=0 #农产品
+		aluminium=0 #其他金属
+		oil = 2 #伊奘诺物质
+	}		history = {
+			owner = HSA
+			add_core_of = HSA
+			victory_points = { 521 10 }
+			buildings = {
+				infrastructure = 2
+				air_base = 0
+				arms_factory =2
+				industrial_complex = 2
+			}
+		}
+ 
+}

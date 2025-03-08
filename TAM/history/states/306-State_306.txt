@@ -1,0 +1,29 @@
+state={
+	id=306
+	name="STATE_306"
+	provinces={
+		122 587 2309 3481 3730 4077 6593 6974 8633 9412 12817 
+	}
+	buildings_max_level_factor=1.000
+        manpower=6988
+                 state_category = town
+	resources={
+		steel=0 #钢铁
+		tungsten = 0 #妖石
+		chromium = 8 #灵气
+		rubber=0 #农产品
+		aluminium=0 #其他金属
+		oil = 0 #伊奘诺物质
+	}		history = {
+			owner = NMN
+			add_core_of = NMN
+			victory_points = { 122 8 }
+			buildings = {
+				infrastructure = 1
+				air_base = 0
+				arms_factory = 0
+				industrial_complex = 1
+			}
+		}
+ 
+}

@@ -1,0 +1,20 @@
+﻿l_simp_chinese:
+ ceshi_info_tt:0 "这是另一个世界，我们无法忽视灵力的存在。科学是有尽头的——因为我们的视角是狭隘的。研究灵力发展科学还是利用灵力辅助科学，这不仅是莲子和梅莉的歧点，也是我们发展需要面对的抉择。"
+ lianzi_qinxiang:0 "倾向莲子"
+ meili_qinxiang:0 "倾向梅莉"
+ lianzi_qinxiang1:0 "[?lianzi_qinxiang]"
+ meili_qinxiang1:0 "[?meili_qinxiang]"
+
+
+ mifeng_long:0 "宇佐见莲子和梅莉擅长不同的专业，前者追求物理超越时间，后者则追求以精神飞跃空间。超统一物理学和精神空间学之路，就是我们远征的旅途！\n 秘封俱乐部活动积分：[?mok_huodongdianshu]"
+ mifengzu_bar_tooltip:0 "它代表了你的倾向。"
+ mifeng_long1:0 "[mifeng_long1]"
+ state_info1:0 "[state_info1]"
+
+ MOK_ceshi_category:0 "§Y莲子——————梅莉"
+
+custom_diff_strong_hum:0 "加强人类村落"
+custom_diff_strong_emb:0 "加强联合使馆"
+custom_diff_strong_mok:0 "加强藤原卫队"
+ custom_diff_strong_lil:0 "加强妖精乐园"
+

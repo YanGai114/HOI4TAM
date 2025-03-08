@@ -1,0 +1,62 @@
+﻿capital = 781
+146.1.1 = {
+    set_technology = {
+                 ########通用中等水平灵力科技########
+                 spear1 =1
+                 linglizhufu =1
+                 spell_card1 =1
+                 tech_support =1
+                 spear2 =1
+                 ma_shield1 =1
+                 linglicunchu =1
+                 spell_card2 =1
+                 lingliliushuixian =1
+gw_artillery =1
+##################四季的########
+infantry_weapons =1
+basic_train =1
+tech_logistics_company =1
+gw_artillery = 1
+basic_machine_tools =1
+
+
+    }
+    
+}
+146.1.1={
+
+    # set_research_slots = 5
+
+    add_ideas = {
+        God
+        Country
+        dove1
+        close3
+        SKI_ski
+        SKI_nwt
+        manpowerlv1
+        strict_border
+        limit_magic
+        HELL_yushigejue
+        SKI_wurenkeyong
+        SKI_posuideweiwang
+    }
+    set_autonomy = {
+		target = KMC
+		autonomy_state = autonomy_dominion
+	}
+    set_politics = {
+    	ruling_party = oldgenso
+    	election_frequency = 48
+    	elections_allowed = no
+    }
+    set_popularities = {
+        qinwai =3
+        guli = 9
+        neworder = 2
+        oldorder = 5
+        fandong = 20
+        oldgenso = 61
+    }
+    add_dynamic_modifier = { modifier = SKI_factory_dynamic_modifier }
+}

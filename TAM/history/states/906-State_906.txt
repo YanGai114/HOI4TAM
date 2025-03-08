@@ -1,0 +1,29 @@
+state={
+	id=906
+	name="STATE_906"
+	provinces={
+		1588 1698 4440 5059 5173 5556 8324 8556 9982 16913 16944 
+	}
+	buildings_max_level_factor=1.000
+        manpower=17088
+                 state_category = rural
+	resources={
+		steel=0 #钢铁
+		tungsten = 0 #妖石
+		chromium = 0 #灵气
+		rubber=0 #农产品
+		aluminium=0 #其他金属
+		oil = 4 #伊奘诺物质
+	}		history = {
+			owner = GH3
+			add_core_of = GH3
+			victory_points = { 1588 1 }
+			buildings = {
+				infrastructure = 0
+				air_base = 0
+				arms_factory = 0
+				industrial_complex = 0
+			}
+		}
+ 
+}

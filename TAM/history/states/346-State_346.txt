@@ -1,0 +1,29 @@
+state={
+	id=346
+	name="STATE_346"
+	provinces={
+		4374 4424 6725 8524 
+	}
+	buildings_max_level_factor=1.000
+        manpower=33332
+                 state_category = town
+	resources={
+		steel=0 #钢铁
+		tungsten = 0 #妖石
+		chromium = 5 #灵气
+		rubber=0 #农产品
+		aluminium=0 #其他金属
+		oil = 0 #伊奘诺物质
+	}		history = {
+			owner = KEK
+			add_core_of = KEK
+			victory_points = { 4374  10 }
+			buildings = {
+				infrastructure = 0
+				air_base = 0
+				arms_factory = 0
+				industrial_complex = 0
+			}
+		}
+ 
+}

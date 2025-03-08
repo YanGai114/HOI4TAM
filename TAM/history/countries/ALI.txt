@@ -1,0 +1,50 @@
+﻿capital = 738
+146.1.1 = {
+    set_technology = {
+                     ########通用中等水平灵力科技########
+                     spear1 =1
+    gw_artillery =1
+    }
+    
+}
+146.1.1={
+    add_manpower = 660
+    add_ideas = {
+        type2_manpowerlv3
+        ali_renoujuntuan_idea
+        ali_zhenduidaojudeliliang_idea
+        MSH_ziyuanfeng_idea
+        Magician
+        Tribal
+        hawk1
+        close2
+        strict_border
+        sc_rule
+        MAF_divided_region_1
+    }
+    oob = "ALI_146"
+    add_to_variable = {
+        MSH_boyili = 16
+    }
+    # set_research_slots = 4
+    # Starting tech
+    set_country_flag = bunengsuiyiqiehuanzhengti
+
+    
+    #########局势修改
+    set_politics = {
+        ruling_party = neworder
+        election_frequency = 48
+        elections_allowed = no
+    }
+    set_popularities = {
+        qinwai = 0
+        guli = 10
+        neworder = 70
+        oldorder = 15
+        fandong = 0
+        oldgenso = 5
+    }
+
+
+}

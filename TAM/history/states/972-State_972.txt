@@ -1,0 +1,29 @@
+state={
+	id=972
+	name="STATE_972"
+	provinces={
+		693 719 832 1304 1507 2741 4089 4753 5914 7107 8122 8630 8643 10579 17403 17450 17454 17456 17505 17540 
+	}
+	buildings_max_level_factor=1.000
+        manpower=7893
+                 state_category = rural
+	resources={
+		steel=0 #钢铁
+		tungsten = 0 #妖石
+		chromium = 0 #灵气
+		rubber=0 #农产品
+		aluminium=0 #其他金属
+		oil = 0 #伊奘诺物质
+	}		history = {
+			owner = SRB
+			add_core_of = SRB
+			victory_points = { 2741  1 }
+			buildings = {
+				infrastructure = 1
+				air_base = 0
+				arms_factory = 0
+				industrial_complex = 0
+			}
+		}
+ 
+}

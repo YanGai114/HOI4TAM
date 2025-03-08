@@ -1,0 +1,98 @@
+spriteTypes = {
+
+	###############################################################
+	########            xxxxxxxxxxxxxxxxxxxxx              ########
+	###############################################################
+
+	#### RESOURCES ####
+	spriteType = {
+		name = "GFX_decision_tiled_lil"
+		texturefile = "gfx/interface/tiles/TH_tiled_paper_bg3_green_lil.dds"
+	}
+	spriteType = {
+		name = GFX_LIL_GUI_P1
+		noOfFrames = 2
+		texturefile = "gfx/interface/categories/LIL/1.png"
+	}
+	spriteType = {
+		name = GFX_LIL_GUI_P2
+		noOfFrames = 2
+		texturefile = "gfx/interface/categories/LIL/2.png"
+	}
+	spriteType = {
+		name = GFX_LIL_GUI_P3
+		noOfFrames = 2
+		texturefile = "gfx/interface/categories/LIL/3.png"
+	}
+	spriteType = {
+		name = GFX_LIL_GUI_P4
+		noOfFrames = 2
+		texturefile = "gfx/interface/categories/LIL/4.png"
+	}
+	spriteType = {
+		name = GFX_LIL_GUI_P5
+		noOfFrames = 2
+		texturefile = "gfx/interface/categories/LIL/5.png"
+	}
+	spriteType = {
+		name = GFX_LIL_GUI_P6
+		noOfFrames = 2
+		texturefile = "gfx/interface/categories/LIL/6.png"
+	}
+	spriteType = {
+		name = GFX_LIL_GUI_P7
+		noOfFrames = 2
+		texturefile = "gfx/interface/categories/LIL/7.png"
+	}
+	spriteType = {
+		name = GFX_LIL_GUI_P8
+		noOfFrames = 2
+		texturefile = "gfx/interface/categories/LIL/8.png"
+	}
+	spriteType = {
+		name = GFX_LIL_GUI_P9
+		noOfFrames = 2
+		texturefile = "gfx/interface/categories/LIL/9.png"
+	}
+	spriteType = {
+		name = GFX_LIL_GUI_P10
+		noOfFrames = 2
+		texturefile = "gfx/interface/categories/LIL/10.png"
+	}
+
+	
+	frameAnimatedSpriteType = {
+		name = GFX_LIL_lili
+		noOfFrames = 24
+		texturefile = "gfx/interface/categories/LIL/1111.png"
+		
+		animation_rate_fps  = 32
+		looping = yes
+		play_on_show = yes
+		alwaystransparent = yes
+	}
+
+	frameAnimatedSpriteType = {
+		name = GFX_LIL_dianshi
+		noOfFrames = 24
+		texturefile = "gfx/interface/categories/LIL/0000.png"
+		
+		animation_rate_fps  = 3.5
+		looping = yes
+		play_on_show = yes
+		alwaystransparent = yes
+	}
+
+	#### PROGRESSBAR ####
+	progressbartype = {
+		name = "GFX_LIL_xuanyuan_Progressbar"
+		textureFile1 = "gfx/interface/categories/LIL/bar_1.png"
+		textureFile2 = "gfx/interface/categories/LIL/bar_0.png"
+		size = { x = 375 y = 15 } 
+		effectFile = "gfx/FX/progress.lua"
+		horizontal = yes
+	}
+
+	#######gif
+	
+}

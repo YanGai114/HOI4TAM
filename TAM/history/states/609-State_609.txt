@@ -1,0 +1,29 @@
+state={
+	id=609
+	name="STATE_609"
+	provinces={
+		3235 5906 7816 14633 14682 14774 14824 14889 
+	}
+	buildings_max_level_factor=1.000
+        manpower=8897
+                 state_category = city
+	resources={
+		steel=7 #钢铁
+		tungsten = 0 #妖石
+		chromium = 0 #灵气
+		rubber=1 #农产品
+		aluminium=5 #其他金属
+		oil = 0 #伊奘诺物质
+	}		history = {
+			owner = NAR
+			add_core_of = NAR
+			victory_points = { 3235  20 }
+			buildings = {
+				infrastructure = 3
+				air_base = 0
+				arms_factory = 2
+				industrial_complex = 4
+			}
+		}
+ 
+}

@@ -1,0 +1,44 @@
+﻿capital = 342
+146.1.1 = {
+    set_technology = {
+             ########通用低级水平灵力科技########
+             spear1 =1
+             linglizhufu =1
+             
+             tech_support =1
+                        
+    }
+    
+}
+146.1.1={
+oob = "DIY_146"
+set_cosmetic_tag = DIY
+    add_ideas = {
+        GOD
+        Tribal
+        hawk3
+        open0
+        loose_border
+        free_magic
+        HELL_yushigejue
+        DIY_hunter
+    }
+    set_politics = {
+    	ruling_party = guli
+    	election_frequency = 48
+    	elections_allowed = no
+    }
+    set_popularities = {
+        qinwai = 0
+        guli = 10
+        neworder = 85
+        oldorder = 0
+        fandong = 5
+    }
+
+}
+create_country_leader = {
+    name = "监管者"
+    picture = "gfx/leaders/all_leaders.png"
+    ideology = guli_type
+}

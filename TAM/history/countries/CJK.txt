@@ -1,0 +1,36 @@
+﻿capital = 123
+146.1.1 = {
+    set_technology = {
+########通用低级水平灵力科技########
+spear1 =1
+linglizhufu =1
+
+tech_support =1
+                
+    }
+    
+}
+146.1.1={
+    oob = "CJK_146"
+    add_ideas = {
+        Ghost
+        Tribal
+        dove2
+        open0
+        strict_border
+        free_magic
+    }
+    set_politics = {
+    	ruling_party = oldgenso
+    	election_frequency = 48
+    	elections_allowed = no
+    }
+    set_popularities = {
+        qinwai = 0
+        guli = 0
+        neworder = 0
+        oldorder = 0
+        fandong = 0
+        oldgenso = 100
+    }
+}

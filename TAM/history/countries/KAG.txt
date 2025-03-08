@@ -1,0 +1,70 @@
+﻿capital = 973
+
+146.1.1 = {
+    set_technology = {
+        #通用武器线
+    
+
+        #种族
+            
+    }
+}
+143.7.1={
+    oob = "KAG_143"
+    
+    add_ideas = {
+        Tribal
+        Beast
+        open0
+        hawk0
+        normal_border
+        sc_rule
+        type4_manpowerlv4
+    }
+    #########局势修改
+    
+    set_politics = {
+        ruling_party = guli
+        election_frequency = 48
+        elections_allowed = no
+    }
+    set_popularities = {
+        qinwai = 2
+        guli = 55
+        neworder = 25
+        oldorder = 0
+        fandong = 18
+    }
+}
+146.1.1={
+    oob = "KAG_146"
+    # set_research_slots = 4
+    # Starting tech
+    add_manpower = 350
+
+    
+    add_ideas = {
+    type4_manpowerlv2
+    Tribal
+    Beast
+    open0
+    hawk0
+    normal_border
+    sc_rule
+    }
+    #########局势修改
+    #set_stability = 0.6
+    
+    set_politics = {
+    	ruling_party = guli
+    	election_frequency = 48
+    	elections_allowed = no
+    }
+    set_popularities = {
+        qinwai = 1
+        guli = 65
+        neworder = 9
+        oldorder = 0
+        fandong = 25
+    }
+}

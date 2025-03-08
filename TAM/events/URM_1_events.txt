@@ -1,0 +1,45 @@
+add_namespace = urm_trr
+country_event = { #戎璎花上台
+	id = urm_trr.1
+	title =urm_trr.1.t
+	desc = urm_trr.1.d
+	fire_only_once = yes
+	trigger = {
+		tag = URM
+		NOT = {controls_state = 439
+		controls_state = 454
+		controls_state = 476} 
+		has_war_with = KMC
+	}
+	immediate = {
+		white_peace  = KMC
+		white_peace = SKI
+	}
+	option = {
+		name  = urm_trr.1.1
+		add_stability = -0.2
+KMC ={
+	transfer_state = 500
+	transfer_state = 489
+	transfer_state = 538
+	transfer_state = 476
+	transfer_state = 454
+	transfer_state = 445
+	transfer_state = 439
+	transfer_state = 394
+}
+set_politics = {
+	ruling_party = neworder
+}
+add_country_leader_role = {
+	character = URM_ebs_leader  # Must be recruited
+	promote_leader = yes
+	country_leader = {
+		ideology = oldgenso_type
+	}
+}
+set_politics = { 
+	ruling_party = oldgenso
+}
+	}
+}

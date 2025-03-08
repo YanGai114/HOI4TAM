@@ -1,0 +1,29 @@
+state={
+	id=428
+	name="STATE_428"
+	provinces={
+		2515 2758 3168 3559 3616 4482 6674 7277 8027 8222 9807 9915 13599 13651 13741 13789 13797 13839 13851 13855 13871 13898 
+	}
+	buildings_max_level_factor=1.000
+        manpower=132500
+                 state_category = metropolis
+	resources={
+		steel=7 #钢铁
+		tungsten = 8 #妖石
+		chromium = 0 #灵气
+		rubber=0 #农产品
+		aluminium=14 #其他金属
+		oil = 0 #伊奘诺物质
+	}		history = {
+			owner = CIR
+			add_core_of = CIR
+			victory_points = {3559 20 }
+			buildings = {
+				infrastructure = 5
+				air_base = 0
+				arms_factory = 6
+				industrial_complex = 4
+			}
+		}
+ 
+}

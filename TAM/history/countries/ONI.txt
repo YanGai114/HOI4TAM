@@ -1,0 +1,89 @@
+﻿capital = 460
+146.1.1 = {
+    set_technology = {
+         ########通用低级水平灵力科技########
+         spear1 =1
+         linglizhufu =1
+         spell_card1 =1
+         tech_support =1
+                       
+            
+            
+    }
+    
+}
+146.1.1={
+    oob = "ONI_146"
+    add_ideas = {
+    Youkai
+    Tribal
+    hawk1
+    open0
+    strict_border
+    sc_rule
+    }
+    set_politics = {
+    	ruling_party = guli
+    	election_frequency = 48
+    	elections_allowed = no
+    }
+    set_popularities = {
+        qinwai = 0
+        guli = 72
+        neworder = 25
+        oldorder = 0
+        fandong = 3
+    }
+    
+}
+
+create_country_leader = {
+    # name = "Council"
+    name = "所委员会"
+    desc = ""
+    picture = "gfx/leaders/ZYD/ZYD_council.dds"
+    ideology = guli_type
+    traits = {
+        #warrior_code
+    }
+}
+create_country_leader = {
+    # name = "Council"
+    name = "所委员会"
+    desc = ""
+    picture = "gfx/leaders/ZYD/ZYD_council.dds"
+    ideology = fandong_type
+    traits = {
+        #warrior_code
+    }
+}
+create_country_leader = {
+    # name = "Council"
+    name = "所委员会"
+    desc = ""
+    picture = "gfx/leaders/ZYD/ZYD_council.dds"
+    ideology = neworder_type
+    traits = {
+        #warrior_code
+    }
+}
+create_country_leader = {
+    # name = "Council"
+    name = "所委员会"
+    desc = ""
+    picture = "gfx/leaders/ZYD/ZYD_council.dds"
+    ideology = qinwai_type
+    traits = {
+        #warrior_code
+    }
+}
+create_country_leader = {
+    # name = "Council"
+    name = "所委员会"
+    desc = ""
+    picture = "gfx/leaders/ZYD/ZYD_council.dds"
+    ideology = oldorder_type
+    traits = {
+        #warrior_code
+    }
+}

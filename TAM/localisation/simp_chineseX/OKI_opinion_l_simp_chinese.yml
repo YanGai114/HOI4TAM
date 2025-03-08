@@ -1,0 +1,144 @@
+﻿l_simp_chinese:
+oki_xingxiu_idea.tt:0 "§1来自星宿的影响：夜战，侦察。§!\n "
+oki_dimu_idea.tt:0 "§G来自后土的影响：补给耗尽惩罚，地形惩罚。§!\n "
+OKI_beiqishizhishen.tt:0 "§R不可以派遣志愿军！§!\n "
+oki_zhangai_idea.tt:0 "§R来自障碍的影响：免费维修，生产保持。§!\n "
+oki_xinyangli_idea.tt:0 "§Y来自信仰力的影响：稳定度，进攻/防御战争对稳定度修正，军队组织度，军队组织度恢复速度。§!\n "
+oki_chabiemin_idea.tt:0 "§6来自差别民的影响：适役人口修正与非核心人口修正。§!\n "
+OKI_xinyang_modifier:0 "摩多罗，指引我们吧..."
+
+
+OKI_xinyang_guanxing_tt:0 "增加§1 20星宿之神信仰力§!。"
+OKI_xinyang_daji_tt:0 "增加§G 50地母之神信仰力§!。"
+OKI_xinyang_kaimen_tt:0 "增加§R 40障碍之神信仰力§!。"
+dachengtiaojian_tt:0 "§Y您满足决议条件§!"
+OKI_15xinyangli_huan:0 "增加§Y 15秘神信仰力§!。"
+
+oki_shiguan_1_text:0 "§Y后户方：[?OKI.oki_houhufang]§!"
+oki_shiguan_2_text:0 "中立方：[?OKI.oki_zhonglifang]"
+oki_shiguan_3_text:0 "§0隙间方： [?OKI.oki_xijianfang]§!"
+
+mishen_text:0 "§Y究极的秘神§!"
+mishenewai_text:0 "§Y[?OKI.oki_mishen_ewai]§!/200"
+xingxiu_text:0 "§1星宿之神\n [?OKI.oki_xinxiu_display_value]§!/100"
+dimu_text:0 "§G地母之神\n [?OKI.oki_dimu_display_value]§!/100"
+zhangai_text:0 "§R障碍之神\n [?OKI.oki_zhangai_display_value]§!/100"
+xinyang_text:0 "§Y当前总信仰力：[?OKI.oki_mishen_display_value]§!/500"
+
+OKI_shiguan:0 "§Y暗流涌动的使馆§!"
+OKI_shiguan_desc:0 "[Root.OKI_xinyang_desc_text]"
+OKI_xinyang_desc_text1:0 "虽然战后秩序的主导者是八云紫，但我作为条约的签订者之一仍然有着发言的权力——以至于将来使馆的决策权——我也能争取到。\n 但是现在我们正处于争夺使馆话语权的阶段，如您所见，除了§Y[SRB.GetFlag][SRB.GetLeader]§!有明确的与我们合作的倾向而组成§Y“后户方”§!阵营外，§Y[TKM.GetFlag][TKM.GetLeader]§!作为新崛起的一股势力，拥有着妖怪小镇和月影部落的支持，而战争同盟决裂的§G[NMS.GetFlag][NMS.GetLeader]§!与§R[SCA.GetFlag][SCA.GetLeader]§!则分别投入到“中立方”与§0“隙间方”§!阵营中去，幸好§G[NMS.GetFlag][NMS.GetLeader]§!并没有过多争抢话语权的倾向，但“中立方”阵营仍然有着最多的成员和最活跃的九十九团体。\n 除此之外，虽然§1[EET.GetFlag][EET.GetLeader]§!和§L[SEJ.GetFlag][SEJ.GetLeader]§!都明确表示不会参与争夺话语权的斗争中，但真正的敌人：§0隙间方§!，因为§G[MAM.GetFlag][MAM.GetLeader]§!的多虑和谨慎，她最终也将倒向八云紫，所以§0隙间方§!阵营也还是有着数量上的优势。"
+OKI_xinyang_desc_text2:0 "我们一定要让自己在使馆里的话语权得到重视，为了战争中付出的代价所换来的成果不被他人攫取，§Y[ROOT.GetFlag][ROOT.GetName]§!务必要取得讨论案最终的胜利！"
+
+dangqianyian2_text:0 "[Root.dangqianyian2_text]"
+dangqianyian3_text:0 "[Root.dangqianyian3_text]"
+
+jieshao_text2:0 "§R时间就是生命！§!当您通过国策和决议§Y增加§!己方§Y影响力§!的同时，其他阵营§R也会§!通过决议来增加自己的§Y影响力§!。\n §Y但请注意§!，每一个月的使馆讨论案才是增加影响力最大的方式，不要让对手获胜，也不要让自己付出的代价太大，当§Y十项讨论案§!都结束时会进入影响力结算阶段，如果我们战胜了对手，我们会收获“胜利”，而当我们分数最高的时候，我们会收获“大胜”，反之则将“失败”，分别为加1，2，0§t渗入分§!。"
+
+jieshao_text:0 "除了§Y“究极的秘神”§!取决于可用人力的0.1%而每日上涨外，其他神位的信仰力也都会随着时间逐渐上涨，§1“星宿之神”§!信仰力是随日月变换而增加，§G“地母之神”§!信仰力是随我们所掌握土地数量的0.7%增加，而§R“障碍之神”§!信仰力则是随着我们的工业实力的0.5%而增涨，它们都是每日结算。不过信仰力最主要的来源还是通过花费政治点的活动与干涉幻想乡的决议。\n §Y注意§!：在游戏过程中，也会随机出现事件和效果增减信仰力和取得信仰力的效率，请留意。"
+
+OKI_xinyang:0 "§Y重振我们的信仰§!"
+OKI_xinyang_desc:0 "虽然§Y[OKI.GetFlag][OKI.GetLeader]§!自诩并非固执守旧的神明，但作为一位拥有诸多神格的贤者，无论是为了宣扬威信还是为了彻底彰显作为绝对秩序的守卫者，我们必须要重振对她的§Y信仰§!。\n §Y[OKI.GetLeader]§!可以使用多种力量，但频繁切换神位实在不是一项明智的决定，因此现在你可以看见下面的面板，最上层代表§Y“究极的秘神”§!，它是信仰力数值的代表，除开本身拥有的§Y200信仰力上限§!外，同时接受下层三种神位§Y各100信仰力上限§!的补充，它们从左到右分别来自§1“星宿之神”§!，§G“地母之神”§!和§R“障碍之神”§!。\n 每个神位都有各自的加成，无论多低都是有着正面效果的，但是要注意的是，§Y信仰力§!可不是越低越好，它不仅是除了该势力所拥有的政治点外的另一种“货币”，还对国内产生着悄无声息的影响。"
+
+OKI_shiguan_flag:0 "开启此项决议"
+TKM_shiguan_flag1:0 "九十九工业已经拉拢了妖怪小镇"
+TKM_shiguan_flag2:0 "九十九工业已经拉拢了月影部落"
+TKM_shiguan_flag3:0 "九十九工业已经拉拢了月影部落"
+oki_tkmlaren_1_tt:0 "九十九工业将与对方影响力合并"
+oki_ykrlaren_1_tt:0 "隙间世界将与对方影响力合并"
+
+GFX_OKI_shiguan_TEXT:0 "该势力影响力：[?oki_shiguanfen]"
+GFX_SRB_shiguan_TEXT:0 "该势力影响力：[?srb_shiguanfen]"
+GFX_YKR_shiguan_TEXT:0 "该势力影响力：[?ykr_shiguanfen]"
+GFX_SCA_shiguan_TEXT:0 "该势力影响力：[?sca_shiguanfen]"
+GFX_MAM_shiguan_TEXT:0 "该势力影响力：[?mam_shiguanfen]"
+GFX_TKM_shiguan_TEXT:0 "该势力影响力：[?tkm_shiguanfen]"
+GFX_SBK_shiguan_TEXT:0 "该势力影响力：[?sbk_shiguanfen]"
+GFX_KAG_shiguan_TEXT:0 "该势力影响力：[?kag_shiguanfen]"
+GFX_NMS_shiguan_TEXT:0 "该势力影响力：[?nms_shiguanfen]"
+
+OKI_mishen_Meter_tt:0 "如是我闻，翁神乱舞狩红叶。\n 摩多罗隐歧奈，潜藏于万物背上的秘神，她的真实身份没有人知晓，是正体不可见、不可闻、不可语的究极的秘神，传闻接近她的人最终都会疯掉，但真相如何，或许只能问她本人吧。然而，她确实是庇佑着幻想乡和她的信徒的。她带来蚕丝，技艺，能乐和黑夜里的光明，然后将肝脏吸去，予大限之人往生。\n 如今幻想乡内外动荡难安，神出鬼没的秘神将重临世间。外界的壁垒在她的维护下坚不可摧，而如今她也将越过八云紫的阻碍，让自己的抱负得以在内壁施展。\n\n\n\n\n\n \n\n£GFX_xingxiuzhishen_text\n\n\n\n\n\n\n\n\n\n “帮我给你们的主子带个话，你就说，在幻想乡有个可怕的秘神在，记住了吗？”\n\n “秘神自此不再隐匿！”"
+
+GFX_SRB2_shiguan_text:0 "阵营领袖尚未拉拢该阵营势力，影响力不合并！"
+OKI_shiguantaolunan2_tt:0 "tip1：\n 在“暗流涌动的使馆”国策树下的几乎每个国策都有关于加减影响力的事件（例如拉拢神灵庙，抵消其他阵营影响力），把握好节奏和付出的代价，尽量做出浪费最小的选择！"
+OKI_shiguantaolunan22_tt:0 "tip2：\n 除此之外战争也是影响各势力影响力的因素之一，当命莲寺/斯卡蕾特帝国处于战争时，它们的影响力将降低至50%！"
+
+1shiguanfen_tt:0 "§Y我们会获得1影响力。§!"
+2shiguanfen_tt:0 "§Y我们会获得2影响力。§!"
+3shiguanfen_tt:0 "§Y我们会获得3影响力。§!"
+
+dangqianyian2_text0:0 "§Y正在讨论与筹备中..."
+dangqianyian2_text1:0 "§Y重建东雾雨县"
+dangqianyian2_text2:0 "§Y筹集使馆卫队"
+dangqianyian2_text3:0 "§Y重建丸相町"
+dangqianyian2_text4:0 "§Y打通到妖怪小镇的道路"
+dangqianyian2_text5:0 "§Y与新人类村落政府谈判"
+dangqianyian2_text6:0 "§Y战胜国补贴与赔款"
+dangqianyian2_text7:0 "§Y给予战败国补助"
+dangqianyian2_text8:0 "§Y决定监管国"
+dangqianyian2_text9:0 "§Y制定应急措施"
+dangqianyian2_text10:0 "§Y总结讨论案"
+dangqianyian2_text11:0 "§Y准备闭幕"
+
+dangqianyian3_text0:0 "我们正在等待着各位势力的代表到达使馆，把握好这珍贵的时间，我们要力图在这场会议上取得完胜。"
+dangqianyian3_text1:0 "我们商定东雾雨县作为联合使馆的主要地界，但这里已经被战火摧残，我们需要筹集资源来进行重建。"
+dangqianyian3_text2:0 "按照条约，原人类村落军工以及军队已经得到了限制，而联合使馆的军队应当由各保障国筹资组建。"
+dangqianyian3_text3:0 "我们应当改造丸相町，使其作为人类接触外界最后和最不可突破的的壁垒。"
+dangqianyian3_text4:0 "我们要保障新兴势力得以在战后的土地上掌握独立发展的权力。"
+dangqianyian3_text5:0 "这是一场持久而激烈的鏖战....."
+dangqianyian3_text6:0 "瓜分的热情又一次被点燃，这次的任务是一劳永逸地确定各战胜国获得利益之间的平衡。"
+dangqianyian3_text7:0 "补助？没有补助，但最好还是要有补助的。请心地善良的势力自己掏腰包给战败国补助吧。"
+dangqianyian3_text8:0 "务必要做到第一时间扼杀、剿灭新的复权思想。"
+dangqianyian3_text9:0 "虽然大多数势力认为并没有这个必要，但或许有还是比没有好。"
+dangqianyian3_text10:0 "一点细枝末节的讨论。"
+dangqianyian3_text11:0 "准备回家吧——虽然有的势力内部已经闹翻天了。"
+
+shiguantaolunan_jindu_tt:0 "当前阶段进程：§Y[?OKI.oki_shiguanjindutiao_display_value]§!/ 30日"
+
+taidu1_tt:0 "这项议案不符合我们的利益，该议程结束后我们不会获得影响力但会§Y获得20政治点。§!"
+taidu2_tt:0 "该议程结束后我们将会§Y获得1影响力§!但会§R失去10政治点。§!"
+taidu3_tt:0 "该议程结束后我们将会§Y获得2影响力§!但会§R失去20政治点与8指挥点。§!"
+taidu4_tt:0 "该议程结束后我们将会§Y获得3影响力§!但会§R失去35政治点，15指挥点与5秘神信仰力。§!"
+ decision_cost_CP_10:0 "政治点 §Y10§! £command_power §Y10§!"
+decision_cost_CP_15:0 "政治点 §Y25§! £command_power §Y15§!"
+  decision_cost_CP_15_blocked:0 "政治点 §Y25§! £command_power §Y10§!"
+ 10dimujian_tt:0 "消耗§G10 地母之力。§!"
+20zhangaijian_tt:0 "消耗§R20 障碍之力。§!"
+
+OKI_xinan:0 "§Y无名之丘，铃兰花海§!"
+OKI_xinan_desc:0 "为惘死者指明道路，使寻仇者安明内心。\n 我将用力量打开幽灵的门户。只要她们能赢得这场战争，不仅幽灵可以继续在无缘冢栖身并得以转世，我们也能获得一些好处，让后户之国更深入的渗透进大结界内。\n 幽灵们的战争还需要§Y物资支持§!，因此我们可以积累并使用§Y物资储备§!来给她们各种支援。\n §R注意§!：当§Y物资储备§!低于50且西南战乱进行的时候，§0[GH3.GetFlag][GH3.GetName]§!将会有debuff存在，低于25时debuff最大，并且§Y物资储备§!也会随时间而§R每日减少0.5§!。"
+oki_xinanchubei_tt:0 "当前物资储备：§Y[?OKI.oki_xinan_display_value] §!/100 "
+
+OKI_xinan_wuzi5:0 "增加§Y 5 物资储备。§!"
+OKI_xinan_wuzi10:0 "增加§Y 10 物资储备。§!"
+OKI_xinan_wuzi20:0 "增加§Y 20 物资储备。§!"
+OKI_xinan_wuzi10_d:0 "减少§Y 10 物资储备。§!"
+OKI_xinan_wuzi20_d:0 "减少§Y 20 物资储备。§!"
+OKI_xinan_wuzi30_d:0 "减少§Y 30 物资储备。§!"
+decision_cost_CP_20:0 "£command_power §Y20§!"
+
+decision_cost_CP_20_blocked:0 "£command_power §R20§!"
+
+OKI_mishenzhilidayu0_tt:0 "§Y 秘神之力大于0§!"
+OKI_mishenewai_10:0 "减少§Y10 秘神之力§!"
+OKI_sanshanjianshao_tt:0 "地母、障碍与星宿之力每日获取量减少10%。"
+OKI_sanshanhuifu_tt:0 "地母、障碍与星宿之力每日获取量恢复。"
+
+OKI_chabieminyushenrufen:0 "§Y后户之内，幻想之外§!"
+OKI_chabieminyushenrufen_desc:0 "太极分为阴阳两半，它们分别被称之为“阴鱼”“阳鱼”。\n 如下，“阴鱼”代表着§Y[OKI.GetFlag][OKI.GetLeader]§!所掌握的§6“被差别民之神”§!的供奉，它影响着我们的§Y适役人口§!与§Y非核心人口§!修正；而“阳鱼”则代表着我们对幻想乡的§t渗入分§!，我们持有越高的§t渗入分§!，那么我们对幻想乡其他势力的修正就会越高，反之就会受到不好的影响，我们渗入的程度分为：乡外贤者，初步渗入，部分渗入，高度渗入与完全渗入，每§t5点渗入分§!为一级。\n §Y注意§!：§6“被差别民之神”§!的供奉只能通过§Y“究极的秘神之力”§!来兑换，而§t渗入分§!则可以通过决议、事件等方式获得，而每个“干涉幻想乡”的决策是其主要来源。"
+chabiemin_text:0 "§6差别民之神的供奉：\n [?OKI.oki_chabiemin_display_value]§!/ 100"
+shenrufen_text:0 "当前§t渗入分： [?OKI.oki_shenrufen_display_value]§!/ 20"
+oki_qtu1_tooltip:0 "§t玩尼玛，退出游戏！§!"
+
+oki.3.tt:0 "§Y妖怪小镇§!失去2点影响力，§Y后户之国§!获得2点影响力。"
+oki.4.tt:0 "我们将§Y拉拢神灵庙§!，但会§R付出§!§Y15点秘神之力§!。此时如果神灵庙尚未选择政治线，那么对方将更倾向于选择§Y“完全置身于斗争之外”§!。"
+oki_xinanchubei_tt2:0 "当前建设进度：§Y[?OKI.oki_gh3jianshe]§! %"
+OKI_GH3jianshe_flag:0 "切换当前决策为“无缘冢建设计划”。"
+oki_luxian_tt:0 "§R将影响未来国策与决策的选择。§!"
+
+
+
+oki_dimujianshifenzhiyi:0 "地母之神信仰已经减少获取10%"
+oki_xinxiujianshifenzhiyi:0 "星宿之神信仰已经减少获取10%"
+oki_zhangaijianshifenzhiyi:0 "障碍之神信仰已经减少获取10%"
+oki_mishenewaijianshifenzhiyi:0 "秘神信仰已经减少获取10%"

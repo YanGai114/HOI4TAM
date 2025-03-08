@@ -1,0 +1,55 @@
+﻿capital = 323
+
+146.1.1 = {
+    set_technology = {
+                              ########通用高等水平灵力科技########
+                              spear1 =1
+                              linglizhufu =1
+                              spell_card1 =1
+                              tech_support =1
+                              spear2 =1
+                              ma_shield1 =1
+                              linglicunchu =1
+                              spell_card2 =1
+                              lingliliushuixian =1
+                              spell_card3 =1
+                              linglishimo  = 1
+                              core_shield1  =1
+                              ma_yaoshouxunhua =1
+                              #########广西的#####
+                              basic_fortification_tech =1
+                              electronic_mechanical_engineering =1
+            
+    }
+    
+}
+
+146.1.1={
+    add_manpower = 3300
+    oob = "KEK_146"
+    # set_research_slots = 0
+    add_ideas = {
+        God
+        Shrine
+        dove2
+        close1
+        limit_magic
+        strict_border
+        low_economic_mobilisation
+        type4_manpowerlv3
+HELL_yushigejue
+    }
+    set_politics = {
+        ruling_party = oldgenso
+        election_frequency = 48
+        elections_allowed = no
+    }
+    set_popularities = {
+        qinwai = 0
+        guli = 3
+        neworder = 7
+        oldorder = 7
+        fandong = 3
+        oldgenso = 80
+    }
+}

@@ -1,0 +1,29 @@
+state={
+	id=605
+	name="STATE_605"
+	provinces={
+		270 796 1578 2958 4086 5109 5653 6021 6397 9027 9154 14748 14765 14896 15085 
+	}
+	buildings_max_level_factor=1.000
+        manpower=102455
+                 state_category = rural
+	resources={
+		steel=0 #钢铁
+		tungsten = 0 #妖石
+		chromium = 0 #灵气
+		rubber=0 #农产品
+		aluminium=0 #其他金属
+		oil = 0 #伊奘诺物质
+	}		history = {
+			owner = GH1
+			add_core_of = GH1
+			victory_points = {270   1 }
+			buildings = {
+				infrastructure = 0
+				air_base = 0
+				arms_factory = 0
+				industrial_complex = 0
+			}
+		}
+ 
+}

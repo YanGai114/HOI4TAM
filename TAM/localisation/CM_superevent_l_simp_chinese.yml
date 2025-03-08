@@ -1,0 +1,20 @@
+﻿l_simp_chinese:
+ #don't modify these 
+ CM_SE_title:0 "[CM_SE_title]"
+ CM_SE_desc:0 "[CM_SE_desc]"
+ CM_SE_btn:0 "[CM_SE_btn]"
+ CM_SE_title_missing:0 "fix ur stuffs!missing title"
+ CM_SE_desc_missing:0 "fix ur stuffs!missing desc.\n-CMCMC-"
+ CM_SE_btn_missing:0 "fix ur stuffs!no option text."
+ #custom stuffs below
+ CM_SE_title_1:0 "联合使馆宣称为东部人类正统"
+ CM_SE_desc_1:0 "\当奥野田美宵接过委任状的时候，\她还在店里忙碌。\n “人们吃不起贵重的食材，但这不等于她们吃不到美味的食物”\n 她抬起头来，使馆的夜空中竟没有一丝光亮。"
+ CM_SE_btn_1:0 "命起于微末，知民间疾苦"
+ CM_SE_title_2:0 "人类发展联盟"
+ CM_SE_desc_2:0 "复权？人里的居民从来就没有权力，\n 曾拥有权力的只不过是打着复权旗号的你们！"
+ CM_SE_btn_2:0 "贪婪自私，复权的本质早已被知晓"
+CM_SE_title_3:0 "“百米之遥，腾空而上”"
+ CM_SE_desc_3:0 "\“那是什么？”\n “那是妖精的奇迹。”"
+ CM_SE_btn_3:0 "妖精们做到了！"
+ 
+ 

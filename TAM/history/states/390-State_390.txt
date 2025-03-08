@@ -1,0 +1,29 @@
+state={
+	id=390
+	name="STATE_390"
+	provinces={
+		1712 1836 4192 8198 9539 10621 13352 13589 
+	}
+	buildings_max_level_factor=1.000
+        manpower=35201
+                 state_category = rural
+	resources={
+		steel=0 #钢铁
+		tungsten = 0 #妖石
+		chromium = 0 #灵气
+		rubber=0 #农产品
+		aluminium=0 #其他金属
+		oil = 0 #伊奘诺物质
+	}		history = {
+			owner = YYK
+			add_core_of = YYK
+			victory_points = {  1712 1 }
+			buildings = {
+				infrastructure = 0
+				air_base = 0
+				arms_factory = 0
+				industrial_complex = 0
+			}
+		}
+ 
+}

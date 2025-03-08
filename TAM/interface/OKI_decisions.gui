@@ -1,0 +1,821 @@
+
+
+guiTypes = {
+
+	containerWindowType = {
+		name = "OKI_xinyang"
+		position = { x = 0 y = 0 }
+		size = { width = 100% height= 720 }
+
+		#PARANOIAMETER
+
+		#PARANOIAMETER
+		iconType = {
+			name = "OKI_mishen_t"
+			spriteType = "GFX_OKI_tiao"
+			position = { x = 161 y = 265 }
+			#frame = 64
+			#pdx_tooltip = xuanyuan_bar_tooltip
+			# 
+			Orientation = "left"
+		}
+		iconType = {
+			name = "OKI_mishen_t2"
+			spriteType = "GFX_OKI_tiao"
+			position = { x = 161 y = 290 }
+			#frame = 64
+			#pdx_tooltip = xuanyuan_bar_tooltip
+			# 
+			Orientation = "left"
+		}
+		instantTextboxType = {
+			name = "mishen"
+			position = { x = 150 y = 3 }
+			font = "hoi_30header"
+			text = mishen_text
+			maxWidth = 200
+			maxHeight = 100
+			format = center 
+		}
+		instantTextboxType = {
+			name = "mishenewai"
+			position = { x = 150 y = 30 }
+			font = "hoi_24header"
+			text = mishenewai_text
+			maxWidth = 200
+			maxHeight = 100
+			format = center 
+		}
+		instantTextboxType = {
+			name = "xinyang"
+			position = { x = 100 y = 230 }
+			font = "hoi_36header"
+			text = xinyang_text
+			maxWidth = 300
+			maxHeight = 100
+			format = center 
+		}
+		instantTextboxType = {
+			name = "xingxiu"
+			position = { x = -12 y = 420 }
+			font = "hoi_24header"
+			text = xingxiu_text
+			maxWidth = 200
+			maxHeight = 100
+			format = center 
+		}
+		instantTextboxType = {
+			name = "dimu"
+			position = { x = 148 y = 493 }
+			font = "hoi_24header"
+			text = dimu_text
+			maxWidth = 200
+			maxHeight = 100
+			format = center 
+		}
+		instantTextboxType = {
+			name = "zhangai"
+			position = { x = 308 y = 420 }
+			font = "hoi_24header"
+			text = zhangai_text
+			maxWidth = 200
+			maxHeight = 100
+			format = center 
+		}
+		instantTextboxType = {
+			name = "jieshao"
+			position = { x = 0 y = 550 }
+			font = "hoi_18mbs"
+			text = jieshao_text
+			maxWidth = 500
+			maxHeight = 500
+			format = center 
+		}
+		
+		iconType = {
+			name = "OKI_xinxiu_Meter"
+			spriteType = "GFX_OKI_xinxiu_Progressbar"
+			position = { x = 18 y = 275 }
+			#frame = 64
+			#pdx_tooltip = xuanyuan_bar_tooltip
+			# 
+			Orientation = "LEFT"
+		}
+		iconType = {
+			name = "OKI_xinxiu_c"
+			spriteType = "GFX_OKI_yuankuang2"
+			position = { x = 5 y = 263 }
+			#frame = 64
+			#pdx_tooltip = xuanyuan_bar_tooltip
+			# 
+			Orientation = "LEFT"
+		}
+
+		iconType = {
+			name = "OKI_dimu_Meter"
+			spriteType = "GFX_OKI_dimu_Progressbar"
+			position = { x = 178 y = 345 }
+			#frame = 64
+			#pdx_tooltip = xuanyuan_bar_tooltip
+			# 
+			Orientation = "LEFT"
+		}
+		iconType = {
+			name = "OKI_dimu_c"
+			spriteType = "GFX_OKI_yuankuang2"
+			position = { x = 165 y = 333 }
+			#frame = 64
+			#pdx_tooltip = xuanyuan_bar_tooltip
+			# 
+			Orientation = "LEFT"
+		}
+
+		iconType = {
+			name = "OKI_zhangai_Meter"
+			spriteType = "GFX_OKI_zhangai_Progressbar"
+			position = { x = 338 y = 275 }
+			#frame = 64
+			#pdx_tooltip = xuanyuan_bar_tooltip
+			# 
+			Orientation = "LEFT"
+		}
+		iconType = {
+			name = "OKI_zhangai_c"
+			spriteType = "GFX_OKI_yuankuang2"
+			position = { x = 325 y = 263 }
+			#frame = 64
+			#pdx_tooltip = xuanyuan_bar_tooltip
+			# 
+			Orientation = "LEFT"
+		}
+
+		iconType = {
+			name = "OKI_mishen_Meter"
+			spriteType = "GFX_OKI_mishen_Progressbar"
+			position = { x = 171 y = 60 }
+			pdx_tooltip = OKI_mishen_Meter_tt
+			Orientation = "LEFT"
+		}
+		buttonType = {
+			name = "OKI_mishen_c"
+			spriteType = "GFX_OKI_yuankuang1"
+			position = { x = 150 y = 44 }
+			pdx_tooltip = OKI_mishen_Meter_tt
+			Orientation = "LEFT"
+		}
+		
+	}
+
+	containerWindowType = {
+		name = "OKI_shiguan"
+		position = { x = 0 y = 0 }
+		size = { width = 100% height= 600 }
+		iconType = {
+			name = "OKI_mishen_t"
+			spriteType = "GFX_OKI_tiao"
+			position = { x = -9 y = 85 }
+			#frame = 64
+			#pdx_tooltip = xuanyuan_bar_tooltip
+			# 
+			Orientation = "left"
+		}
+		iconType = {
+			name = "OKI_mishen_t2"
+			spriteType = "GFX_OKI_tiao"
+			position = { x = -9 y = 225 }
+			#frame = 64
+			#pdx_tooltip = xuanyuan_bar_tooltip
+			# 
+			Orientation = "left"
+		}
+		iconType = {
+			name = "OKI_mishen_t5"
+			spriteType = "GFX_OKI_tiao"
+			position = { x = 333 y = 85 }
+			#frame = 64
+			#pdx_tooltip = xuanyuan_bar_tooltip
+			# 
+			Orientation = "left"
+		}
+		iconType = {
+			name = "OKI_mishen_t6"
+			spriteType = "GFX_OKI_tiao"
+			position = { x = 333 y = 225 }
+			#frame = 64
+			#pdx_tooltip = xuanyuan_bar_tooltip
+			# 
+			Orientation = "left"
+		}
+		iconType = {
+			name = "OKI_mishen_t3"
+			spriteType = "GFX_OKI_tiao"
+			position = { x = 161 y = 85 }
+			#frame = 64
+			#pdx_tooltip = xuanyuan_bar_tooltip
+			# 
+			Orientation = "left"
+		}
+		iconType = {
+			name = "OKI_mishen_t4"
+			spriteType = "GFX_OKI_tiao"
+			position = { x = 161 y = 225 }
+			#frame = 64
+			#pdx_tooltip = xuanyuan_bar_tooltip
+			# 
+			Orientation = "left"
+		}
+		iconType = {
+			name = "GFX_OKI_1"
+			spriteType = "GFX_OKI_kuangzi"
+			position = { x = 200 y = 5}
+			#frame = 64
+			#pdx_tooltip = xuanyuan_bar_tooltip
+			# 
+			Orientation = "LEFT"
+		}
+		iconType = {
+			name = "GFX_OKI_2"
+			spriteType = "GFX_OKI_kuangzi2"
+			position = { x = 10 y = 35}
+			#frame = 64
+			#pdx_tooltip = xuanyuan_bar_tooltip
+			# 
+			Orientation = "LEFT"
+		}
+		iconType = {
+			name = "GFX_OKI_3"
+			spriteType = "GFX_OKI_kuangzi2"
+			position = { x = 390 y = 35}
+			#frame = 64
+			#pdx_tooltip = xuanyuan_bar_tooltip
+			# 
+			Orientation = "LEFT"
+		}
+        buttonType = {
+			name = "GFX_OKI_shiguan"
+			spriteType = "GFX_OKI_shiguan"
+			position = { x = 9 y = 115 }
+			pdx_tooltip = "GFX_OKI_shiguan_TEXT"
+			Orientation = "LEFT"
+		}
+		buttonType = {
+			name = "GFX_SRB_shiguan"
+			spriteType = "GFX_SRB_shiguan"
+			position = { x = 9 y = 185}
+			
+			pdx_tooltip = "GFX_SRB_shiguan_TEXT"
+			Orientation = "LEFT"
+		}
+		buttonType = {
+			name = "GFX_YKR_shiguan"
+			spriteType = "GFX_YKR_shiguan"
+			position = { x = 390 y = 85 }
+			pdx_tooltip = "GFX_YKR_shiguan_TEXT"
+			Orientation = "LEFT"
+		}
+		buttonType = {
+			name = "GFX_SCA_shiguan"
+			spriteType = "GFX_SCA_shiguan"
+			position = { x = 390 y = 155 }
+			pdx_tooltip = "GFX_SCA_shiguan_TEXT"
+			Orientation = "LEFT"
+		}
+		buttonType = {
+			name = "GFX_MAM_shiguan"
+			spriteType = "GFX_MAM_shiguan"
+			position = { x = 390 y = 225 }
+			pdx_tooltip = "GFX_MAM_shiguan_TEXT"
+			Orientation = "LEFT"
+		}
+
+		buttonType = {
+			name = "GFX_TKM_shiguan"
+			spriteType = "GFX_TKM_shiguan"
+			position = { x = 200 y = 47 }
+			pdx_tooltip = "GFX_TKM_shiguan_TEXT"
+			Orientation = "LEFT"
+		}
+		buttonType = {
+			name = "GFX_SBK_shiguan"
+			spriteType = "GFX_SBK_shiguan"
+			position = { x = 200 y = 107 }
+			pdx_tooltip = "GFX_SBK_shiguan_TEXT"
+			Orientation = "LEFT"
+		}
+		buttonType = {
+			name = "GFX_KAG_shiguan"
+			spriteType = "GFX_KAG_shiguan"
+			position = { x = 200 y = 167 }
+			pdx_tooltip = "GFX_KAG_shiguan_TEXT"
+			Orientation = "LEFT"
+		}
+
+		buttonType = {
+			name = "GFX_NMS_shiguan"
+			spriteType = "GFX_NMS_shiguan"
+			position = { x = 200 y = 262 }
+			pdx_tooltip = "GFX_NMS_shiguan_TEXT"
+			Orientation = "LEFT"
+		}
+		
+		instantTextboxType = {
+			name = "oki_shiguan_1"
+			position = { x = 15 y = 335 }
+			font = "hoi_18mbs"
+			text = "oki_shiguan_1_text"
+			maxWidth = 200
+			maxHeight = 100
+			format = LEFT
+		}
+		instantTextboxType = {
+			name = "oki_shiguan_2"
+			position = { x = 205 y = 370 }
+			font = "hoi_18mbs"
+			text = "oki_shiguan_2_text"
+			maxWidth = 200
+			maxHeight = 100
+			format = LEFT
+		}
+		instantTextboxType = {
+			name = "oki_shiguan_3"
+			position = { x = 395 y = 335 }
+			font = "hoi_18mbs"
+			text = "oki_shiguan_3_text"
+			maxWidth = 200
+			maxHeight = 100
+			format = LEFT
+		}
+		instantTextboxType = {
+			name = "jieshao2"
+			position = { x = 0 y = 450 }
+			font = "hoi_18mbs"
+			text = jieshao_text2
+			maxWidth = 500
+			maxHeight = 500
+			format = center 
+		}
+
+		
+		buttonType = { 
+			name = "shiguantaolunan1"
+			position = { x = 320 y = 375  } 
+			quadTextureSprite = "GFX_OKI_xuanzekuang"
+			buttonFont = "hoi_16mbs"
+			buttonText = "打开讨论案界面"
+			
+			clicksound = click_send
+		} 
+
+		buttonType = { 
+			name = "shiguantaolunan2"
+			position = { x = 50 y = 375  } 
+			quadTextureSprite = "GFX_OKI_xuanzekuang"
+			buttonFont = "hoi_16mbs"
+			buttonText = "打开各阵营修正概览"
+			
+			clicksound = click_send
+		} 
+
+    }
+
+	containerWindowType = {
+		name = "OKI_shiguantaolunan2"
+		size = { width = 500 height = 450 }
+		position = { x = -300 y = -120 }
+		Orientation = center
+		moveable = yes
+		
+		background = {
+			name = "Background" 
+			quadTextureSprite = "GFX_tiled_frontend_upper_bar"
+		}
+		
+		
+
+		iconType = {
+			name = "OKI_shiguantaolunan2_bg"
+			spriteType = "GFX_YAW_coin2_bg"		
+			position = { x = 0  y = 0 }
+			moveable = yes
+			alwaystransparent = yes
+			
+		}
+		
+		
+		buttonType = { 
+			name = "OKI_queren"
+			position = { x =105  y = 400 }
+			quadTextureSprite = "GFX_main_lobby_button"
+			buttonFont = "hoi_24header"
+			buttonText = "确   认"
+			
+			clicksound = click_close
+		} 
+
+		
+
+		ButtonType = {
+			name = "OKI_shiguantaolunan2_exitButton"
+			position = { x = 460 y = 15 }
+			quadTextureSprite ="GFX_closebutton"
+			pdx_tooltip = "CLOSE"
+			shortcut = "ESCAPE"
+			clicksound = click_default
+			oversound = ui_menu_over
+		}
+
+		buttonType = {
+			name = "GFX_OKI_shiguan_2"
+			spriteType = "GFX_OKI_shiguan"
+			position = { x = 40 y = 40 }
+			pdx_tooltip = "GFX_OKI_shiguan_TEXT"
+			Orientation = "LEFT"
+		}
+		buttonType = {
+			name = "GFX_SRB2_shiguan"
+			spriteType = "GFX_SRB2_shiguan"		
+			position = { x = 40  y = 100 }
+			pdx_tooltip = "GFX_SRB2_shiguan_text"
+		}
+		buttonType = {
+			name = "GFX_SRB3_shiguan"
+			spriteType = "GFX_SRB_shiguan"		
+			position = { x = 40  y = 100 }
+			pdx_tooltip = "GFX_SRB_shiguan_TEXT"
+			Orientation = "LEFT"
+		}
+		
+
+		buttonType = {
+			name = "GFX_TKM_shiguan_2"
+			spriteType = "GFX_TKM_shiguan"
+			position = { x = 200 y = 40 }
+			pdx_tooltip = "GFX_TKM_shiguan_TEXT"
+			Orientation = "LEFT"
+		}
+		buttonType = {
+			name = "GFX_SBK2_shiguan"
+			spriteType = "GFX_SBK2_shiguan"		
+			position = { x = 200  y = 100 }
+			pdx_tooltip = "GFX_SRB2_shiguan_text"
+		}
+		buttonType = {
+			name = "GFX_SBK3_shiguan"
+			spriteType = "GFX_SBK_shiguan"		
+			position = { x = 200  y = 100 }
+			pdx_tooltip = "GFX_SBK_shiguan_TEXT"
+			Orientation = "LEFT"
+		}
+		buttonType = {
+			name = "GFX_KAG2_shiguan"
+			spriteType = "GFX_KAG2_shiguan"		
+			position = { x = 200  y = 160 }
+			pdx_tooltip = "GFX_SRB2_shiguan_text"
+		}
+		buttonType = {
+			name = "GFX_KAG3_shiguan"
+			spriteType = "GFX_KAG_shiguan"		
+			position = { x = 200  y = 160 }
+			pdx_tooltip = "GFX_SBK_shiguan_TEXT"
+			Orientation = "LEFT"
+		}
+		buttonType = {
+			name = "GFX_NMS2_shiguan"
+			spriteType = "GFX_NMS2_shiguan"		
+			position = { x = 200  y = 220 }
+			pdx_tooltip = "GFX_SRB2_shiguan_text"
+		}
+		buttonType = {
+			name = "GFX_NMS3_shiguan"
+			spriteType = "GFX_NMS_shiguan"		
+			position = { x = 200  y = 220 }
+			pdx_tooltip = "GFX_NMS_shiguan_TEXT"
+			Orientation = "LEFT"
+		}
+
+
+		buttonType = {
+			name = "GFX_YKR_shiguan_2"
+			spriteType = "GFX_YKR_shiguan"
+			position = { x = 360 y = 40 }
+			pdx_tooltip = "GFX_YKR_shiguan_TEXT"
+			Orientation = "LEFT"
+		}
+		buttonType = {
+			name = "GFX_SCA2_shiguan"
+			spriteType = "GFX_SCA2_shiguan"		
+			position = { x = 360  y = 100 }
+			pdx_tooltip = "GFX_SRB2_shiguan_text"
+		}
+		buttonType = {
+			name = "GFX_SCA3_shiguan"
+			spriteType = "GFX_SCA_shiguan"		
+			position = { x = 360  y = 100 }
+			pdx_tooltip = "GFX_SCA_shiguan_TEXT"
+			Orientation = "LEFT"
+		}
+		buttonType = {
+			name = "GFX_MAM2_shiguan"
+			spriteType = "GFX_MAM2_shiguan"		
+			position = { x = 360  y = 160 }
+			pdx_tooltip = "GFX_SRB2_shiguan_text"
+		}
+		buttonType = {
+			name = "GFX_MAM3_shiguan"
+			spriteType = "GFX_MAM_shiguan"		
+			position = { x = 360  y = 160 }
+			pdx_tooltip = "GFX_MAM_shiguan_TEXT"
+			Orientation = "LEFT"
+		}
+
+		instantTextboxType = {
+			name = "OKI_shiguantaolunan2_t"
+			position = { x = 15 y = 210  }
+			font = "hoi_18mbs"
+			text = OKI_shiguantaolunan2_tt
+			maxWidth = 190
+			maxHeight = 350
+			format = left
+		}
+
+		instantTextboxType = {
+			name = "OKI_shiguantaolunan22_t"
+			position = { x = 320 y = 240  }
+			font = "hoi_18mbs"
+			text = OKI_shiguantaolunan22_tt
+			maxWidth = 160
+			maxHeight = 350
+			format = left
+		}
+	}
+
+	containerWindowType = {
+		name = "OKI_shiguantaolunan1"
+		size = { width = 500 height = 450 }
+		position = { x = -300 y = -120 }
+		Orientation = center
+		moveable = yes
+		
+		background = {
+			name = "Background" 
+			quadTextureSprite = "GFX_tiled_frontend_upper_bar"
+		}
+		
+		
+
+		iconType = {
+			name = "OKI_shiguantaolunan1_bg"
+			spriteType = "GFX_YAW_coin2_bg"		
+			position = { x = 0  y = 0 }
+			moveable = yes
+			alwaystransparent = yes
+			
+		}
+		
+		
+		buttonType = { 
+			name = "OKI_queren1"
+			position = { x =105  y = 400 }
+			quadTextureSprite = "GFX_main_lobby_button"
+			buttonFont = "hoi_24header"
+			buttonText = "确   认"
+			
+			clicksound = click_close
+		} 
+		
+		ButtonType = {
+			name = "OKI_shiguantaolunan1_exitButton"
+			position = { x = 460 y = 15 }
+			quadTextureSprite ="GFX_closebutton"
+			pdx_tooltip = "CLOSE"
+			shortcut = "ESCAPE"
+			clicksound = click_default
+			oversound = ui_menu_over
+		}
+
+
+		instantTextboxType = {
+			name = "dangqianyian"
+			position = { x = 200 y = 30 }
+			font = "hoi_24header"
+			text = "当前议案："
+			maxWidth = 500
+			maxHeight = 500
+			format =  left 
+		}
+		instantTextboxType = {
+			name = "dangqianyian2"
+			position = { x = 0 y = 65 }
+			font = "hoi_36header"
+			text = "dangqianyian2_text"
+			maxWidth = 500
+			maxHeight = 500
+			format =  center 
+		}
+		instantTextboxType = {
+			name = "dangqianyian3"
+			position = { x = 0 y = 120}
+			font = "hoi_18mbs"
+			text = "dangqianyian3_text"
+			maxWidth = 500
+			maxHeight = 500
+			format =  center 
+		}
+
+		iconType = {
+			name = "GFX_OKI_shiguanjindutiao_Meter"
+			spriteType = "GFX_OKI_shiguanjindutiao_Progressbar"
+			position = { x = 45 y = 175 }
+			#frame = 64
+			#pdx_tooltip = xuanyuan_bar_tooltip
+			# 
+			Orientation = "LEFT"
+		}
+
+		instantTextboxType = {
+			name = "shiguantaolunan_jindu"
+			position = { x = 0 y = 227}
+			font = "hoi_24header"
+			text = "shiguantaolunan_jindu_tt"
+			maxWidth = 500
+			maxHeight = 500
+			format =  center 
+		}
+
+		buttonType = { 
+			name = "taidu11"
+			position = { x = 10 y = 365  } 
+			quadTextureSprite = "GFX_OKI_womendexuanze"
+			#buttonFont = "hoi_18mbs"
+			#buttonText = "不用关心"
+			#pdx_tooltip = taidu1_tt
+			#clicksound = click_default
+		} 
+		buttonType = { 
+			name = "taidu1"
+			position = { x = 10 y = 310  } 
+			quadTextureSprite = "GFX_OKI_anniu"
+			buttonFont = "hoi_18mbs"
+			buttonText = "不用关心"
+			pdx_tooltip = taidu1_tt
+			clicksound = click_default
+		} 
+		
+		buttonType = { 
+			name = "taidu22"
+			position = { x = 130 y = 365  } 
+			quadTextureSprite = "GFX_OKI_womendexuanze"
+			#buttonFont = "hoi_18mbs"
+			#buttonText = "不用关心"
+			#pdx_tooltip = taidu1_tt
+			#clicksound = click_default
+		} 
+		buttonType = { 
+			name = "taidu2"
+			position = { x = 130 y = 310  } 
+			quadTextureSprite = "GFX_OKI_anniu"
+			buttonFont = "hoi_18mbs"
+			buttonText = "小额付出"
+			pdx_tooltip = taidu2_tt
+			clicksound = click_default
+		} 
+		buttonType = { 
+			name = "taidu33"
+			position = { x = 270 y = 365  } 
+			quadTextureSprite = "GFX_OKI_womendexuanze"
+			#buttonFont = "hoi_18mbs"
+			#buttonText = "不用关心"
+			#pdx_tooltip = taidu1_tt
+			#clicksound = click_default
+		} 
+		buttonType = { 
+			name = "taidu3"
+			position = { x = 270 y = 310  } 
+			quadTextureSprite = "GFX_OKI_anniu"
+			buttonFont = "hoi_18mbs"
+			buttonText = "大额付出"
+			pdx_tooltip = taidu3_tt
+			clicksound = click_default
+		} 
+		buttonType = { 
+			name = "taidu44"
+			position = { x = 390 y = 365  } 
+			quadTextureSprite = "GFX_OKI_womendexuanze"
+			#buttonFont = "hoi_18mbs"
+			#buttonText = "不用关心"
+			#pdx_tooltip = taidu1_tt
+			#clicksound = click_default
+		} 
+		buttonType = { 
+			name = "taidu4"
+			position = { x = 390 y = 310  } 
+			quadTextureSprite = "GFX_OKI_anniu"
+			buttonFont = "hoi_18mbs"
+			buttonText = "全力支持"
+			pdx_tooltip = taidu4_tt
+			clicksound = click_default
+		} 
+	}
+
+	containerWindowType = {
+		name = "OKI_xinan"
+		position = { x = 0 y = 0 }
+		size = { width = 100% height= 310 }
+
+		iconType = {
+			name = "OKI_xinan_Meter"
+			spriteType = "GFX_OKI_xinan_Progressbar"
+			position = { x = -165 y = 97 }
+			#frame = 64
+			#pdx_tooltip = xuanyuan_bar_tooltip
+			# 
+			Orientation = center
+		}
+		iconType = {
+			name = "oki_wuminzhiqiu"
+			spriteType = "GFX_wuminzhiqiu"
+			position = { x = 5 y = 5 }
+			#frame = 64
+			#pdx_tooltip = xuanyuan_bar_tooltip
+			# 
+			Orientation = "LEFT"
+		}
+		instantTextboxType = {
+			name = "oki_xinanchubei"
+			position = { x = 14 y = 284 }
+			font = "hoi_18mbs"
+			text = oki_xinanchubei_tt
+			maxWidth = 300
+			maxHeight = 200
+			format = center
+		}
+		instantTextboxType = {
+			name = "oki_xinanchubei2"
+			position = { x = 212 y = 284 }
+			font = "hoi_18mbs"
+			text = oki_xinanchubei_tt2
+			maxWidth = 300
+			maxHeight = 200
+			format = center
+		}
+	}
+	
+
+	containerWindowType = {
+		name = "OKI_chabieminshenrufen"
+		position = { x = 0 y = 0 }
+		size = { width = 100% height= 358 }
+	
+		
+		iconType = {
+			name = "OKI_shenru_a"
+			spriteType = "GFX_zhangaiminshenrufen"
+			position = { x = 0 y = 5 }
+			#frame = 64
+			#pdx_tooltip = xuanyuan_bar_tooltip
+			# 
+			Orientation = "LEFT"
+		}
+		
+	
+		iconType = {
+			name = "OKI_chabiemin_Meter"
+			spriteType = "GFX_OKI_chabiemin_Progressbar"
+			position = { x = -145 y = -165 }
+			#frame = 64
+			#pdx_tooltip = xuanyuan_bar_tooltip
+			# 
+			Orientation = center
+		}
+		iconType = {
+			name = "OKI_shenrufen_Meter"
+			spriteType = "GFX_OKI_shenrufen_Progressbar"
+			position = { x = -145 y = -165 }
+			#frame = 64
+			#pdx_tooltip = xuanyuan_bar_tooltip
+			# 
+			Orientation = center
+		}
+
+		instantTextboxType = {
+			name = "chabiemin"
+			position = { x = 300 y = 300 }
+			font = "hoi_24header"
+			text = chabiemin_text
+			maxWidth = 200
+			maxHeight = 100
+			format = center 
+		}
+		instantTextboxType = {
+			name = "shenrufen"
+			position = { x = -5 y = 300 }
+			font = "hoi_24header"
+			text = shenrufen_text
+			maxWidth = 200
+			maxHeight = 100
+			format = center 
+		}
+
+		
+	}
+}

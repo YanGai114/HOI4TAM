@@ -1,0 +1,29 @@
+state={
+	id=973
+	name="STATE_973"
+	provinces={
+		942 2655 3835 17387 17408 17409 17433 
+	}
+	buildings_max_level_factor=1.000
+        manpower=15505
+                 state_category = large_town
+	resources={
+		steel=1 #钢铁
+		tungsten = 0 #妖石
+		chromium = 0 #灵气
+		rubber=4 #农产品
+		aluminium=2 #其他金属
+		oil = 0 #伊奘诺物质
+	}		history = {
+			owner = KAG
+			add_core_of = KAG
+			victory_points = { 942  15 }
+			buildings = {
+				infrastructure = 2
+				air_base = 0
+				arms_factory = 1
+				industrial_complex = 2
+			}
+		}
+ 
+}

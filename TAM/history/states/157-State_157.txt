@@ -1,0 +1,29 @@
+state={
+	id=157
+	name="STATE_157"
+	provinces={
+		2236 3571 8118 11621 
+	}
+	buildings_max_level_factor=1.000
+        manpower=9872
+                 state_category = town
+	resources={
+		steel=25 #钢铁
+		tungsten = 2 #妖石
+		chromium = 0 #灵气
+		rubber=0 #农产品
+		aluminium=10 #其他金属
+		oil = 0 #伊奘诺物质
+	}		history = {
+			owner = KRD
+			add_core_of = KRD
+			victory_points = { 2236 6 }
+			buildings = {
+				infrastructure = 2
+				air_base = 0
+				arms_factory = 0
+				industrial_complex = 2
+			}
+		}
+ 
+}

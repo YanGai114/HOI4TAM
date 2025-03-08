@@ -1,0 +1,29 @@
+state={
+	id=594
+	name="STATE_594"
+	provinces={
+		1512 4416 4690 6384 7795 9270 9693 14642 14689 14733 14779 
+	}
+	buildings_max_level_factor=1.000
+        manpower=17787
+                 state_category = town
+	resources={
+		steel=0 #钢铁
+		tungsten = 0 #妖石
+		chromium = 0 #灵气
+		rubber=0 #农产品
+		aluminium=0 #其他金属
+		oil = 0 #伊奘诺物质
+	}		history = {
+			owner = SHE
+			add_core_of = SHE
+			victory_points = {  1512 10 }
+			buildings = {
+				infrastructure = 0
+				air_base = 0
+				arms_factory = 0
+				industrial_complex = 0
+			}
+		}
+ 
+}

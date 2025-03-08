@@ -1,0 +1,278 @@
+technologies = {
+jijia1 = {
+	xp_research_type = army
+	xp_boost_cost = 50
+	xp_research_bonus = 0.1
+	allow = { 
+		tag=NTR
+	}
+	path = {
+		leads_to_tech = jijia2
+		research_cost_coeff = 1
+	}
+	
+	enable_equipments = {
+		mecha153
+	}
+	enable_subunits = {
+		sc_shield_tank
+	}
+	on_research_complete = {
+		custom_effect_tooltip = jijia1_oob
+		hidden_effect = {
+			load_oob = sc_shield_tank
+		}
+	}
+
+
+	research_cost = 2.5
+	start_year = 153
+	folder = {
+		name = mtgnavalfolder
+		position = { x = 0 y = 0 }
+	}
+	
+	categories = {
+		armor
+	}
+
+	ai_will_do = {
+		factor = 1
+	}
+}
+jijia2 = {
+	xp_research_type = army
+	xp_boost_cost = 50
+	xp_research_bonus = 0.1
+
+	path = {
+		leads_to_tech = jijia3
+		research_cost_coeff = 1
+	}
+	
+	enable_equipments = {
+		mecha157
+	}
+
+	research_cost = 2.5
+	start_year = 157
+	folder = {
+		name = mtgnavalfolder
+		position = { x = 0 y = 7 }
+	}
+	
+	categories = {
+		armor
+	}
+
+	ai_will_do = {
+		factor = 1
+	}
+}
+jijia3 = {
+	xp_research_type = army
+	xp_boost_cost = 50
+	xp_research_bonus = 0.1
+
+	path = {
+		leads_to_tech = jijia4
+		research_cost_coeff = 1
+	}
+	
+	enable_equipments = {
+		mecha161
+	}
+
+	research_cost = 2.5
+	start_year = 161
+	folder = {
+		name = mtgnavalfolder
+		position = { x = 0 y = 14 }
+	}
+	
+	categories = {
+		armor
+	}
+
+	ai_will_do = {
+		factor = 1
+	}
+}
+jijia4 = {
+	xp_research_type = army
+	xp_boost_cost = 50
+	xp_research_bonus = 0.1
+
+	path = {
+		leads_to_tech = jijia5
+		research_cost_coeff = 1
+	}
+	
+	enable_equipments = {
+		mecha165
+	}
+
+	research_cost = 2.5
+	start_year = 165
+	folder = {
+		name = mtgnavalfolder
+		position = { x = 0 y = 21 }
+	}
+	
+	categories = {
+		armor
+	}
+
+	ai_will_do = {
+		factor = 1
+	}
+}
+jijia5 = {
+	xp_research_type = army
+	xp_boost_cost = 50
+	xp_research_bonus = 0.1
+
+	# path = {
+	# 	leads_to_tech = jijia5
+	# 	research_cost_coeff = 1
+	# }
+	
+	enable_equipments = {
+		mecha169
+	}
+
+	research_cost = 2.5
+	start_year = 169
+	folder = {
+		name = mtgnavalfolder
+		position = { x = 0 y = 28 }
+	}
+	
+	categories = {
+armor
+	}
+
+	ai_will_do = {
+		factor = 1
+	}
+}
+
+
+########丛林科技
+junglearmy = {
+	xp_research_type = army
+	xp_boost_cost = 50
+	xp_research_bonus = 0.1
+	allow = { 
+		has_country_flag = mnagicforest
+	}
+	path = {
+		leads_to_tech = junglearmy1
+		research_cost_coeff = 1
+	}
+	enable_subunits = {
+		jungleer
+	}
+
+
+
+	research_cost = 2.5
+	start_year = 100
+	folder = {
+		name = mtgnavalfolder
+		position = { x = 0 y = 7 }
+	}
+	
+	categories = {
+		infantry_weapons
+	}
+
+	ai_will_do = {
+		factor = 1
+	}
+}
+
+junglearmy1 = {
+	xp_research_type = army
+	xp_boost_cost = 50
+	xp_research_bonus = 0.1
+
+	path = {
+		leads_to_tech = junglearmy2
+		research_cost_coeff = 1
+	}
+	jungleer = {
+		max_organisation = 5
+		soft_attack = 0.05
+	} 
+	research_cost = 2.5
+	start_year = 100
+	folder = {
+		name = mtgnavalfolder
+		position = { x = 0 y = 9 }
+	}
+	
+	categories = {
+		infantry_weapons
+	}
+
+	ai_will_do = {
+		factor = 1
+	}
+}
+
+junglearmy2 = {
+	xp_research_type = army
+	xp_boost_cost = 50
+	xp_research_bonus = 0.1
+
+	path = {
+		leads_to_tech = junglearmy3
+		research_cost_coeff = 1
+	}
+	jungleer = {
+		max_organisation = 5
+		soft_attack = 0.05
+	} 
+	research_cost = 2.5
+	start_year = 100
+	folder = {
+		name = mtgnavalfolder
+		position = { x = 0 y = 11 }
+	}
+	
+	categories = {
+		infantry_weapons
+	}
+
+	ai_will_do = {
+		factor = 1
+	}
+}
+
+junglearmy3 = {
+	xp_research_type = army
+	xp_boost_cost = 50
+	xp_research_bonus = 0.1
+
+	jungleer = {
+		max_organisation = 5
+		soft_attack = 0.05
+	} 
+
+	research_cost = 2.5
+	start_year = 100
+	folder = {
+		name = mtgnavalfolder
+		position = { x = 0 y = 13 }
+	}
+	
+	categories = {
+		infantry_weapons
+	}
+
+	ai_will_do = {
+		factor = 1
+	}
+}
+}

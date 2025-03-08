@@ -1,0 +1,29 @@
+state={
+	id=263
+	name="STATE_263"
+	provinces={
+		1419 1958 2345 3747 5024 5926 8539 8782 9393 12454 12473 12515 12521 12556 12616 12623 12666 12702 12714 
+	}
+	buildings_max_level_factor=1.000
+        manpower=133659
+                 state_category = city
+	resources={
+		steel=0 #钢铁
+		tungsten = 0 #妖石
+		chromium = 0 #灵气
+		rubber=0 #农产品
+		aluminium=0 #其他金属
+		oil = 0 #伊奘诺物质
+	}		history = {
+			owner = SCA
+			add_core_of = SCA
+			victory_points = {1419  15}
+			buildings = {
+				infrastructure = 3
+				air_base = 0
+				arms_factory = 1
+				industrial_complex = 1
+			}
+		}
+ 
+}

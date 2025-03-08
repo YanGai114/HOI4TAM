@@ -1,0 +1,29 @@
+state={
+	id=658
+	name="STATE_658"
+	provinces={
+		402 747 1413 2587 3733 3934 4965 5189 5215 5445 6592 6626 6733 8350 9197 9559 9820 10395 10755 14968 15029 15060 15077 15120 15126 15159 15188 15212 15225 
+	}
+	buildings_max_level_factor=1.000
+        manpower=2110
+                 state_category = rural
+	resources={
+		steel=0 #钢铁
+		tungsten = 0 #妖石
+		chromium = 0 #灵气
+		rubber=0 #农产品
+		aluminium=0 #其他金属
+		oil = 0 #伊奘诺物质
+	}		history = {
+			owner = SWL
+			add_core_of = SWL
+			victory_points = {402  1 }
+			buildings = {
+				infrastructure = 0
+				air_base = 0
+				arms_factory = 0
+				industrial_complex = 0
+			}
+		}
+ 
+}

@@ -1,0 +1,66 @@
+spriteTypes = {
+	frameAnimatedSpriteType = {
+		name = "GFX_focus_rollrollroll_animated"
+		textureFile = "gfx/interface/goals/rollrollroll.png"
+		noOfFrames = 15
+		animation_rate_fps = 15
+		looping = yes
+		play_on_show = yes
+		pause_on_loop = 0
+
+
+	}
+	textSpriteType = {
+		name = "GFX_single_player"
+		textureFile = "gfx/interface/single_player.png"
+		noOfFrames = 3
+		effectFile = "gfx/FX/buttonstate_onlydisable.lua"
+	}
+
+	spriteType = {
+		name = "GFX_frontend_game_logo_trr"
+		texturefile = "gfx/interface/logo_game_trr.png"
+	}
+	textSpriteType = {
+		name = "GFX_online_player"
+		textureFile = "gfx/interface/online_player.png"
+		noOfFrames = 3
+		effectFile = "gfx/FX/buttonstate_onlydisable.lua"
+	}
+	textSpriteType = {
+		name = "GFX_achievement"
+		textureFile = "gfx/interface/achievement.png"
+		noOfFrames = 3
+		effectFile = "gfx/FX/buttonstate_onlydisable.lua"
+	}
+	textSpriteType = {
+		name = "GFX_credits"
+		textureFile = "gfx/interface/credits.png"
+		noOfFrames = 3
+		effectFile = "gfx/FX/buttonstate_onlydisable.lua"
+	}
+	textSpriteType = {
+		name = "GFX_quit"
+		textureFile = "gfx/interface/quit.png"
+		noOfFrames = 3
+		effectFile = "gfx/FX/buttonstate_onlydisable.lua"
+	}
+	textSpriteType = {
+		name = "GFX_nudge"
+		textureFile = "gfx/interface/nudge.png"
+		noOfFrames = 3
+		effectFile = "gfx/FX/buttonstate_onlydisable.lua"
+	}
+	textSpriteType = {
+		name = "GFX_friends"
+		textureFile = "gfx/interface/friends.png"
+		noOfFrames = 3
+		effectFile = "gfx/FX/buttonstate_onlydisable.lua"
+	}
+	textSpriteType = {
+		name = "GFX_option"
+		textureFile = "gfx/interface/option.png"
+		noOfFrames = 3
+		effectFile = "gfx/FX/buttonstate_onlydisable.lua"
+	}
+}

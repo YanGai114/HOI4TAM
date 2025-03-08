@@ -1,0 +1,44 @@
+﻿capital = 843
+146.1.1 = {
+    set_technology = {
+            ########通用低级水平灵力科技########
+            spear1 =1
+            linglizhufu =1
+            spell_card1 =1
+            tech_support =1
+                    
+            
+    }
+    
+}
+146.1.1={
+    oob = "MEL_146"
+    give_guarantee = SGS
+    give_military_access = SGS
+    add_ideas = {
+        type3_manpowerlv2
+        Pri_youkai
+        Tribal
+        close1
+        hawk1
+        normal_border
+        sc_rule
+        SGS_tuanjiexieding_idea
+        
+        MEL_messy_economy_idea
+        MEL_unorganized_militia_idea
+    }
+    
+    set_politics = {
+    	ruling_party = guli
+    	election_frequency = 48
+    	elections_allowed = no
+    }
+    set_popularities = {
+        qinwai = 0
+        guli = 87
+        neworder = 8
+        oldorder = 0
+        fandong = 5
+    }
+}

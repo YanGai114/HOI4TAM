@@ -1,0 +1,589 @@
+spriteTypes = {
+	spriteType = {
+		name = "GFX_idea_hum_dongdang"
+		texturefile = "gfx/interface/ideas/hum_dongdang.png"
+	}
+	spriteType = {
+		name = "GFX_idea_hum_suijingzhengce"
+		texturefile = "gfx/interface/ideas/hum_suijingzhengce.png"
+	}
+	spriteType = {
+		name = "GFX_idea_hum_chububaituoyaoguai"
+		texturefile = "gfx/interface/ideas/hum_chububaituoyaoguai.png"
+	}
+	spriteType = {
+		name = "GFX_idea_hum_xiyintouzi"
+		texturefile = "gfx/interface/ideas/hum_xiyintouzi.png"
+	}
+	spriteType = {
+		name = "GFX_idea_hum_chubujihua"
+		texturefile = "gfx/interface/ideas/hum_chubujihua.png"
+	}
+	spriteType = {
+		name = "GFX_idea_hum_yizhaichangzhai"
+		texturefile = "gfx/interface/ideas/hum_yizhaichangzhai.png"
+	}
+	spriteType = {
+		name = "GFX_idea_hum_xianxuetiaoyue"
+		texturefile = "gfx/interface/ideas/hum_xianxuetiaoyue.png"
+	}
+	spriteType = {
+		name = "GFX_idea_hum_dijialaodongli"
+		texturefile = "gfx/interface/ideas/hum_dijialaodongli.png"
+	}
+	spriteType = {
+		name = "GFX_idea_hum_zishikuguo"
+		texturefile = "gfx/interface/ideas/hum_zishikuguo.png"
+	}
+	spriteType = {
+		name = "GFX_idea_hum_ziligengsheng"
+		texturefile = "gfx/interface/ideas/hum_ziligengsheng.png"
+	}
+	spriteType = {
+		name = "GFX_idea_hum_fugongfuchan"
+		texturefile = "gfx/interface/ideas/hum_fugongfuchan.png"
+	}
+	spriteType = {
+		name = "GFX_idea_hum_yumofashitanpan"
+		texturefile = "gfx/interface/ideas/hum_yumofashitanpan.png"
+	}
+	spriteType = {
+		name = "GFX_idea_hum_xuejiankaizhi"
+		texturefile = "gfx/interface/ideas/hum_xuejiankaizhi.png"
+	}
+	spriteType = {
+		name = "GFX_idea_hum_kuaisufanyingbu"
+		texturefile = "gfx/interface/ideas/hum_kuaisufanyingbu.png"
+	}
+	spriteType = {
+		name = "GFX_idea_hum_ziweiweihe"
+		texturefile = "gfx/interface/ideas/hum_ziweiweihe.png"
+	}
+	spriteType = {
+		name = "GFX_idea_hum_minshengchanye"
+		texturefile = "gfx/interface/ideas/hum_minshengchanye.png"
+	}
+	spriteType = {
+		name = "GFX_idea_hum_zhanzhengshiye"
+		texturefile = "gfx/interface/ideas/hum_zhanzhengshiye.png"
+	}
+	spriteType = {
+		name = "GFX_idea_hum_guominbianzhi"
+		texturefile = "gfx/interface/ideas/hum_guominbianzhi.png"
+	}
+	spriteType = {
+		name = "GFX_idea_hum_renminwansui"
+		texturefile = "gfx/interface/ideas/hum_renminwansui.png"
+	}
+	spriteType = {
+		name = "GFX_idea_hum_gonghewansui"
+		texturefile = "gfx/interface/ideas/hum_gonghewansui.png"
+	}
+	spriteType = {
+		name = "GFX_idea_hum_jianquansifa"
+		texturefile = "gfx/interface/ideas/hum_jianquansifa.png"
+	}
+	spriteType = {
+		name = "GFX_idea_hum_zhongyangzhengfu"
+		texturefile = "gfx/interface/ideas/hum_zhongyangzhengfu.png"
+	}
+	spriteType = {
+		name = "GFX_idea_hum_gongyebu"
+		texturefile = "gfx/interface/ideas/hum_gongyebu.png"
+	}
+	spriteType = {
+		name = "GFX_idea_hum_nongyebu"
+		texturefile = "gfx/interface/ideas/hum_nongyebu.png"
+	}
+	spriteType = {
+		name = "GFX_idea_hum_zonggonghui"
+		texturefile = "gfx/interface/ideas/hum_zonggonghui.png"
+	}
+	spriteType = {
+		name = "GFX_idea_hum_baitianjiachentuan"
+		texturefile = "gfx/interface/ideas/hum_baitianjiachentuan.png"
+	}
+	spriteType = {
+		name = "GFX_idea_hum_mimijingcha"
+		texturefile = "gfx/interface/ideas/hum_mimijingcha.png"
+	}
+	spriteType = {
+		name = "GFX_idea_hum_tianzhaoshenshe"
+		texturefile = "gfx/interface/ideas/hum_tianzhaoshenshe.png"
+	}
+	spriteType = {
+		name = "GFX_idea_hum_xiujianjinianbei"
+		texturefile = "gfx/interface/ideas/hum_xiujianjinianbei.png"
+	}
+	spriteType = {
+		name = "GFX_idea_hum_diguoneige"
+		texturefile = "gfx/interface/ideas/hum_diguoneige.png"
+	}
+	spriteType = {
+		name = "GFX_idea_hum_guominzhengfu"
+		texturefile = "gfx/interface/ideas/hum_guominzhengfu.png"
+	}
+	spriteType = {
+		name = "GFX_idea_hum_renshiwanwudechidu"
+		texturefile = "gfx/interface/ideas/hum_renshiwanwudechidu.png"
+	}
+	spriteType = {
+		name = "GFX_idea_hum_renshiziwodezhuzai"
+		texturefile = "gfx/interface/ideas/hum_renshiziwodezhuzai.png"
+	}
+	spriteType = {
+		name = "GFX_idea_hum_guomingongxiang"
+		texturefile = "gfx/interface/ideas/hum_guomingongxiang.png"
+	}
+	spriteType = {
+		name = "GFX_idea_hum_zhongzuhexie"
+		texturefile = "gfx/interface/ideas/hum_zhongzuhexie.png"
+	}
+	spriteType = {
+		name = "GFX_idea_hum_minzhuziyou"
+		texturefile = "gfx/interface/ideas/hum_minzhuziyou.png"
+	}
+	spriteType = {
+		name = "GFX_idea_hum_ziwo"
+		texturefile = "gfx/interface/ideas/hum_ziwo.png"
+	}
+	spriteType = {
+		name = "GFX_idea_hum_zhenzhengdequanli"
+		texturefile = "gfx/interface/ideas/hum_zhenzhengdequanli.png"
+	}
+	spriteType = {
+		name = "GFX_idea_hum_qianhao"
+		texturefile = "gfx/interface/ideas/hum_qianhao.png"
+	}
+	spriteType = {
+		name = "GFX_idea_hum_weichijunduizhixu"
+		texturefile = "gfx/interface/ideas/hum_weichijunduizhixu.png"
+	}
+	spriteType = {
+		name = "GFX_idea_hum_renjiantianchao"
+		texturefile = "gfx/interface/ideas/hum_renjiantianchao.png"
+	}
+	spriteType = {
+		name = "GFX_idea_hum_diguojingweidui"
+		texturefile = "gfx/interface/ideas/hum_diguojingweidui.png"
+	}
+	spriteType = {
+		name = "GFX_idea_hum_zhanzhengdongyuan"
+		texturefile = "gfx/interface/ideas/hum_zhanzhengdongyuan.png"
+	}
+	spriteType = {
+		name = "GFX_idea_hum_diguobianzhi"
+		texturefile = "gfx/interface/ideas/hum_diguobianzhi.png"
+	}
+	spriteType = {
+		name = "GFX_idea_hum_diguokongjun"
+		texturefile = "gfx/interface/ideas/hum_diguokongjun.png"
+	}
+	spriteType = {
+		name = "GFX_idea_hum_zhengfuzhe"
+		texturefile = "gfx/interface/ideas/hum_zhengfuzhe.png"
+	}
+	spriteType = {
+		name = "GFX_idea_rfl_renlidaxue"
+		texturefile = "gfx/interface/ideas/rfl_renlidaxue.png"
+	}
+	spriteType = {
+		name = "GFX_idea_rfl_yonghengderenjianzhili"
+		texturefile = "gfx/interface/ideas/rfl_yonghengderenjianzhili.png"
+	}
+	spriteType = {
+		name = "GFX_idea_emb_yaoguaijiuba"
+		texturefile = "gfx/interface/ideas/emb_yaoguaijiuba.png"
+	}
+	spriteType = {
+		name = "GFX_idea_emb_daofaziran"
+		texturefile = "gfx/interface/ideas/daofaziran.png"
+	}
+	spriteType = {
+		name = "GFX_idea_hum_junshigaige"
+		texturefile = "gfx/interface/ideas/hum_junshigaige.png"
+	}
+	spriteType = {
+		name = "GFX_idea_mok_zijingtuan"
+		texturefile = "gfx/interface/ideas/mok_zijingtuan.png"
+	}
+	spriteType = {
+		name = "GFX_idea_mok_yaoguai"
+		texturefile = "gfx/interface/ideas/mok_yaoguai.png"
+	}
+	spriteType = {
+		name = "GFX_idea_mok_mituzhulin"
+		texturefile = "gfx/interface/ideas/mok_mituzhulin.png"
+	}
+	spriteType = {
+		name = "GFX_idea_mok_zhulinkaituodui"
+		texturefile = "gfx/interface/ideas/mok_zhulinkaituodui.png"
+	}
+	spriteType = {
+		name = "GFX_idea_mok_zhulingongye0"
+		texturefile = "gfx/interface/ideas/mok_zhulingongye0.png"
+	}
+	spriteType = {
+		name = "GFX_idea_mok_meihong"
+		texturefile = "gfx/interface/ideas/mok_meihong.png"
+	}
+	spriteType = {
+		name = "GFX_idea_mok_shuangzixing"
+		texturefile = "gfx/interface/ideas/mok_shuangzixing.png"
+	}
+	spriteType = {
+		name = "GFX_idea_mok_diantai"
+		texturefile = "gfx/interface/ideas/mok_diantai.png"
+	}
+	spriteType = {
+		name = "GFX_idea_mok_jianshuxiehui"
+		texturefile = "gfx/interface/ideas/mok_jianshuxiehui.png"
+	}
+	spriteType = {
+		name = "GFX_idea_mok_shengsixian"
+		texturefile = "gfx/interface/ideas/mok_shengsixian.png"
+	}
+	spriteType = {
+		name = "GFX_idea_mok_zaizaogonghe"
+		texturefile = "gfx/interface/ideas/mok_zaizaogonghe.png"
+	}
+	spriteType = {
+		name = "GFX_idea_hum_caifugongxiang"
+		texturefile = "gfx/interface/ideas/hum_caifugongxiang.png"
+	}
+	spriteType = {
+		name = "GFX_idea_hum_qianxianzhihui"
+		texturefile = "gfx/interface/ideas/hum_qianxianzhihui.png"
+	}
+	spriteType = {
+		name = "GFX_idea_hum_meiqian"
+		texturefile = "gfx/interface/ideas/hum_meiqian.png"
+	}
+	spriteType = {
+		name = "GFX_idea_hum_ziranjingji"
+		texturefile = "gfx/interface/ideas/hum_ziranjingji.png"
+	}
+	spriteType = {
+		name = "GFX_idea_hum_yezhantuxi"
+		texturefile = "gfx/interface/ideas/hum_yezhantuxi.png"
+	}
+	spriteType = {
+		name = "GFX_idea_hum_gongyewuqi"
+		texturefile = "gfx/interface/ideas/hum_gongyewuqi.png"
+	}
+	spriteType = {
+		name = "GFX_idea_hum_jundui"
+		texturefile = "gfx/interface/ideas/hum_jundui.png"
+	}
+	spriteType = {
+		name = "GFX_idea_hum_huoli"
+		texturefile = "gfx/interface/ideas/hum_huoli.png"
+	}
+	spriteType = {
+		name = "GFX_idea_wenhao"
+		texturefile = "gfx/interface/ideas/wenhao.png"
+	}
+	spriteType = {
+		name = "GFX_idea_lil_shengdi"
+		texturefile = "gfx/interface/ideas/lil_shengdi.png"
+	}
+	spriteType = {
+		name = "GFX_idea_lil_fenlie"
+		texturefile = "gfx/interface/ideas/lil_fenlie.png"
+	}
+	spriteType = {
+		name = "GFX_idea_lil_jihuang"
+		texturefile = "gfx/interface/ideas/lil_jihuang.png"
+	}
+	spriteType = {
+		name = "GFX_idea_lil_yutong"
+		texturefile = "gfx/interface/ideas/lil_yutong.png"
+	}
+	spriteType = {
+		name = "GFX_idea_lil_xianjinguanli"
+		texturefile = "gfx/interface/ideas/lil_xianjinguanli.png"
+	}
+	spriteType = {
+		name = "GFX_idea_lil_luohouguanli"
+		texturefile = "gfx/interface/ideas/lil_luohouguanli.png"
+	}
+	spriteType = {
+		name = "GFX_idea_lil_chundeguxiang"
+		texturefile = "gfx/interface/ideas/lil_chundeguxiang.png"
+	}
+	spriteType = {
+		name = "GFX_idea_lil_jungongchang"
+		texturefile = "gfx/interface/ideas/lil_jungongchang.png"
+	}
+	spriteType = {
+		name = "GFX_idea_lil_yaojingbanfa"
+		texturefile = "gfx/interface/ideas/lil_yaojingbanfa.png"
+	}
+	spriteType = {
+		name = "GFX_idea_lil_wodongni"
+		texturefile = "gfx/interface/ideas/lil_wodongni.png"
+	}
+	spriteType = {
+		name = "GFX_idea_lil_yaojingyoujidui"
+		texturefile = "gfx/interface/ideas/lil_yaojingyoujidui.png"
+	}
+	spriteType = {
+		name = "GFX_idea_lil_shoumuren"
+		texturefile = "gfx/interface/ideas/lil_shoumuren.png"
+	}
+	spriteType = {
+		name = "GFX_idea_lil_kuangre"
+		texturefile = "gfx/interface/ideas/lil_kuangre.png"
+	}
+	spriteType = {
+		name = "GFX_idea_lil_jiaohuang"
+		texturefile = "gfx/interface/ideas/lil_jiaohuang.png"
+	}
+	spriteType = {
+		name = "GFX_idea_lil_shengdi"
+		texturefile = "gfx/interface/ideas/lil_shengdi.png"
+	}
+	spriteType = {
+		name = "GFX_idea_lil_zanmei"
+		texturefile = "gfx/interface/ideas/lil_zanmei.png"
+	}
+	spriteType = {
+		name = "GFX_idea_lil_zhandou"
+		texturefile = "gfx/interface/ideas/lil_zhandou.png"
+	}
+	spriteType = {
+		name = "GFX_idea_lil_chuniao"
+		texturefile = "gfx/interface/ideas/lil_chuniao.png"
+	}
+	spriteType = {
+		name = "GFX_idea_lil_qinwang"
+		texturefile = "gfx/interface/ideas/lil_qinwang.png"
+	}
+	spriteType = {
+		name = "GFX_idea_lil_chunfeng"
+		texturefile = "gfx/interface/ideas/lil_chunfeng.png"
+	}
+	spriteType = {
+		name = "GFX_idea_lil_emo"
+		texturefile = "gfx/interface/ideas/lil_emo.png"
+	}
+	spriteType = {
+		name = "GFX_idea_lil_yuwang"
+		texturefile = "gfx/interface/ideas/lil_yuwang.png"
+	}
+	spriteType = {
+		name = "GFX_idea_lil_huoju"
+		texturefile = "gfx/interface/ideas/lil_huoju.png"
+	}
+	spriteType = {
+		name = "GFX_idea_lil_ziyouyindaoyaojing"
+		texturefile = "gfx/interface/ideas/lil_ziyouyindaoyaojing.png"
+	}
+
+
+	spriteType = {
+		name = "GFX_idea_otg_fangyu"
+		texturefile = "gfx/interface/ideas/otg_fangyu.png"
+	}
+	spriteType = {
+		name = "GFX_idea_otg_geming"
+		texturefile = "gfx/interface/ideas/otg_geming.png"
+	}
+	spriteType = {
+		name = "GFX_idea_otg_fengyupiaoyao"
+		texturefile = "gfx/interface/ideas/otg_fengyupiaoyao.png"
+	}
+	spriteType = {
+		name = "GFX_idea_otg_silie"
+		texturefile = "gfx/interface/ideas/otg_silie.png"
+	}
+	spriteType = {
+		name = "GFX_idea_otg_chuangxinshengchandixia"
+		texturefile = "gfx/interface/ideas/otg_chuangxinshengchandixia.png"
+	}
+	spriteType = {
+		name = "GFX_idea_otg_tiangoujundui"
+		texturefile = "gfx/interface/ideas/otg_tiangoujundui.png"
+	}
+	spriteType = {
+		name = "GFX_idea_otg_geming2"
+		texturefile = "gfx/interface/ideas/otg_geming2.png"
+	}
+	spriteType = {
+		name = "GFX_idea_otg_datiangouxinwenshe"
+		texturefile = "gfx/interface/ideas/otg_datiangouxinwenshe.png"
+	}
+	spriteType = {
+		name = "GFX_idea_otg_zaixing"
+		texturefile = "gfx/interface/ideas/otg_zaixing.png"
+	}
+	spriteType = {
+		name = "GFX_idea_otg_diguoyinqin"
+		texturefile = "gfx/interface/ideas/otg_diguoyinqin.png"
+	}
+	spriteType = {
+		name = "GFX_idea_otg_tiangoujundui2"
+		texturefile = "gfx/interface/ideas/otg_tiangoujundui2.png"
+	}
+	spriteType = {
+		name = "GFX_idea_otg_yihuijun"
+		texturefile = "gfx/interface/ideas/otg_yihuijun.png"
+	}
+	spriteType = {
+		name = "GFX_idea_otg_diguojun"
+		texturefile = "gfx/interface/ideas/otg_diguojun.png"
+	}
+	spriteType = {
+		name = "GFX_idea_otg_fangangwanlong"
+		texturefile = "gfx/interface/ideas/otg_fangangwanlong.png"
+	}
+	spriteType = {
+		name = "GFX_idea_otg_guanhu"
+		texturefile = "gfx/interface/ideas/otg_guanhu.png"
+	}
+	spriteType = {
+		name = "GFX_idea_otg_gongchang"
+		texturefile = "gfx/interface/ideas/otg_gongchang.png"
+	}
+	spriteType = {
+		name = "GFX_idea_otg_yi"
+		texturefile = "gfx/interface/ideas/otg_yi.png"
+	}
+	spriteType = {
+		name = "GFX_idea_otg_shanxing"
+		texturefile = "gfx/interface/ideas/otg_shanxing.png"
+	}
+	spriteType = {
+		name = "GFX_idea_otg_geminghua"
+		texturefile = "gfx/interface/ideas/otg_geminghua.png"
+	}
+	spriteType = {
+		name = "GFX_idea_otg_quanzouhuajundui"
+		texturefile = "gfx/interface/ideas/otg_quanzouhuajundui.png"
+	}
+	spriteType = {
+		name = "GFX_idea_otg_hongfengdang"
+		texturefile = "gfx/interface/ideas/otg_hongfengdang.png"
+	}
+	spriteType = {
+		name = "GFX_idea_otg_jielue"
+		texturefile = "gfx/interface/ideas/otg_jielue.png"
+	}
+	spriteType = {
+		name = "GFX_idea_otg_jiecengliudong"
+		texturefile = "gfx/interface/ideas/otg_jiecengliudong.png"
+	}
+	spriteType = {
+		name = "GFX_idea_yaw_jinshan"
+		texturefile = "gfx/interface/ideas/yaw_jinshan.png"
+	}
+	spriteType = {
+		name = "GFX_idea_yaw_shanghuiguanzhi"
+		texturefile = "gfx/interface/ideas/yaw_shanghuiguanzhi.png"
+	}
+	spriteType = {
+		name = "GFX_idea_yaw_yuhetongjuelie"
+		texturefile = "gfx/interface/ideas/yaw_yuhetongjuelie.png"
+	}
+	spriteType = {
+		name = "GFX_idea_yaw_shangkefuji"
+		texturefile = "gfx/interface/ideas/yaw_shangkefuji.png"
+	}
+	spriteType = {
+		name = "GFX_idea_yaw_shangxindi1"
+		texturefile = "gfx/interface/ideas/yaw_shangxindi1.png"
+	}
+	spriteType = {
+		name = "GFX_idea_yaw_shangxindi2"
+		texturefile = "gfx/interface/ideas/yaw_shangxindi2.png"
+	}
+	spriteType = {
+		name = "GFX_idea_yaw_shangxindi3"
+		texturefile = "gfx/interface/ideas/yaw_shangxindi3.png"
+	}
+	spriteType = {
+		name = "GFX_idea_yaw_shangxindi4"
+		texturefile = "gfx/interface/ideas/yaw_shangxindi4.png"
+	}
+	spriteType = {
+		name = "GFX_idea_yaw_shangyeshentou"
+		texturefile = "gfx/interface/ideas/yaw_shangyeshentou.png"
+	}
+	spriteType = {
+		name = "GFX_idea_yaw_shantongcaituan"
+		texturefile = "gfx/interface/ideas/yaw_shantongcaituan.png"
+	}
+
+	spriteType = {
+		name = "GFX_idea_ntr_fenliezhiguo"
+		texturefile = "gfx/interface/ideas/ntr_fenliezhiguo.png"
+	}
+	spriteType = {
+		name = "GFX_idea_ntr_fenliezhiguo2"
+		texturefile = "gfx/interface/ideas/ntr_fenliezhiguo2.png"
+	}
+	spriteType = {
+		name = "GFX_idea_ntr_yiranyili"
+		texturefile = "gfx/interface/ideas/ntr_yiranyili.png"
+	}
+	spriteType = {
+		name = "GFX_idea_oki_xinyang"
+		texturefile = "gfx/interface/ideas/oki_xinyang.png"
+	}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	spriteType = {
+		name = "GFX_idea_manufacturer_OTG"
+		texturefile = "gfx/interface/manufacturers/manufacture_OTG.dds"
+	}
+	spriteType = {
+		name = "GFX_idea_manufacturer_RFL"
+		texturefile = "gfx/interface/manufacturers/manufacture_RFL.dds"
+	}
+	spriteType = {
+		name = "GFX_idea_manufacturer_EMB"
+		texturefile = "gfx/interface/manufacturers/manufacture_EMB.dds"
+	}
+
+	spriteType = {
+		name = "GFX_idea_Anarchopedia"
+		texturefile = "gfx/interface/laws/Anarchopedia.dds"
+	}
+	
+}

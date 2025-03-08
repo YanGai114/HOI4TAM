@@ -1,0 +1,39 @@
+﻿capital = 498
+
+146.1.1 = {
+    set_technology = {
+     
+            
+    }
+    
+}
+
+146.1.1={
+    add_manpower = 150
+    oob = "HU7_146"
+    
+    add_ideas = {
+        Human
+        Village
+        type2_manpowerlv6
+        hawk1
+        open0
+        close_border
+        forbidden_magic
+        partial_economic_mobilisation
+    }
+
+    set_politics = {
+
+        ruling_party = fandong
+        election_frequency = 48
+        elections_allowed = no
+    }
+    set_popularities = {
+        qinwai = 0
+        guli = 0
+        neworder = 0
+        oldorder = 0
+        fandong = 100
+    }
+}

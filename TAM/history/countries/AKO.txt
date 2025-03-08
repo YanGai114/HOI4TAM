@@ -1,0 +1,40 @@
+﻿capital = 614
+146.1.1 = {
+    set_technology = {
+   
+            ########通用低级水平灵力科技########
+
+                          
+    }
+    
+}
+146.1.1={
+    oob = "AKO_146"
+    add_ideas = {
+        Youkai
+        Tribal
+        hawk2
+        open0
+        loose_border
+        free_magic
+        HELL_yushigejue
+        daboyi_guizu
+    }
+    set_politics = {
+    	ruling_party = neworder
+    	election_frequency = 48
+    	elections_allowed = no
+    }
+    set_popularities = {
+        qinwai = 0
+        guli = 10
+        neworder = 85
+        oldorder = 0
+        fandong = 5
+    }
+	set_autonomy = {
+		target = HGH
+		autonomy_state = autonomy_dominion
+	}
+
+}

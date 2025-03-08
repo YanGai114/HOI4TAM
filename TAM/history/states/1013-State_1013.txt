@@ -1,0 +1,29 @@
+state={
+	id=1013
+	name="STATE_1013"
+	provinces={
+		1709 2896 4698 6615 7435 9376 17716 17730 17734 17738 17740 
+	}
+	buildings_max_level_factor=1.000
+        manpower=13059
+                 state_category = city
+	resources={
+		steel=3 #钢铁
+		tungsten = 0 #妖石
+		chromium = 1 #灵气
+		rubber=0 #农产品
+		aluminium=0 #其他金属
+		oil = 2 #伊奘诺物质
+	}		history = {
+			owner = INB
+			add_core_of = INB
+			victory_points = { 1709  25 }
+			buildings = {
+				infrastructure = 0
+				air_base = 0
+				arms_factory = 0
+				industrial_complex = 0
+			}
+		}
+ 
+}

@@ -1,0 +1,41 @@
+capital = 253
+set_technology = {
+	#通用武器线
+	
+	#种族
+		
+}
+
+146.1.1={
+	set_major = yes
+    set_country_flag = bunengsuiyiqiehuanzhengti
+    set_cosmetic_tag = EM2_renleipanluanzhe
+    oob = "EM2_146"
+    # set_research_slots = 5
+    # Starting tech
+	add_ideas = {
+		hum_qianhaozhan
+		hum_weichizhixu
+	}
+    add_ideas = {
+        Pri_youkai
+     Village
+     
+     open2
+     dove3
+     loose_border
+     limit_magic
+    }
+    set_politics = {
+        ruling_party = oldorder
+        election_frequency = 48
+        elections_allowed = no
+    }
+    set_popularities = {
+        qinwai = 0
+        guli = 10
+        neworder = 0
+        oldorder = 85
+        fandong = 5
+    }
+}

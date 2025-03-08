@@ -1,0 +1,622 @@
+add_namespace = tne
+add_namespace = tni
+add_namespace = tnn
+add_namespace = tfl
+add_namespace = fpl
+add_namespace = nej
+add_namespace = xin
+#####叛乱同盟内战#####################################
+country_event = {######分歧：在会议上鬼人正邪宣布下一步计划，突然莉格露及其沼泽系妖怪代表向她发难，不欢而散
+	id = nej.1
+	title = nej.1.t
+	desc =  nej.1.d
+	fire_only_once = yes
+	is_triggered_only = yes
+	option = {
+		name =nej.1.1
+		country_event = {
+			id = nej.2 days = 20
+		}
+		country_event = {
+			id = nej.4 days = 1
+		}
+	}
+}
+country_event = {######自从上次大会对鬼人正邪的公开发难之后似乎把她的最后一层遮羞布也撕了下来，人们把长久以来对革命和鬼人正邪的不满一并发泄了出来。一夜鬼人正邪找到了露米娅
+	id = nej.2
+	title = nej.2.t
+	desc =  nej.2.d
+	fire_only_once = yes
+	is_triggered_only = yes
+	option = {
+		name =nej.2.1
+		country_event = {
+			id = nej.3 days = 20
+		}
+	}
+}
+country_event = {######鬼人正邪与露米娅达成合作，鬼人正邪决定兵行险棋
+	id = nej.3
+	title = nej.3.t
+	desc =  nej.3.d
+	fire_only_once = yes
+	is_triggered_only = yes
+	option = {
+		name =nej.3.1
+		country_event = {
+			id = nej.6 days = 40
+		}
+	}
+}
+country_event = {######大会结束后莉格露找到了针妙丸，希望赶走鬼人正邪，针妙丸没有正面回应，只是默许
+	id = nej.4
+	title = nej.4.t
+	desc =  nej.4.d
+	fire_only_once = yes
+	is_triggered_only = yes
+	option = {
+		name =nej.4.1
+		country_event = {
+			id = nej.5 days = 2
+		}
+	}
+}
+country_event = {######针妙丸找到了鬼人正邪，劝她别搞，两人辩论，不欢而散
+	id = nej.5
+	title = nej.5.t
+	desc =  nej.5.d
+	fire_only_once = yes
+	is_triggered_only = yes
+	option = {
+		name = nej.5.1
+
+	}
+}
+country_event = {######第二次会议召开，大会几乎所有代表都拷打鬼人正邪的革命派，城外突然出现一支无编制的军队，针妙丸暴怒大骂鬼人正邪，鬼人正邪拿下辉针城，内战爆发
+	id = nej.6
+	title = nej.6.t
+	desc =  nej.6.d
+	fire_only_once = yes
+	is_triggered_only = yes
+	option = {
+		name = nej.6.1
+news_event = {
+	id = nej.7 days = 7
+}
+hidden_effect = {
+	every_country = {
+	limit = {
+		has_government = fandong
+	}	
+	country_event = {
+		id = nej.8 days = 10
+	}
+	}
+
+}
+SEJ_sej = {
+	promote_leader = yes
+}
+NIB = {
+	load_oob = NIB_146
+	transfer_state = 582
+	transfer_state = 515
+	transfer_state = 519
+	transfer_state = 544
+	transfer_state = 457
+	transfer_state = 541
+	transfer_state = 533
+	transfer_state = 564
+	transfer_state = 602
+	transfer_state = 607
+	transfer_state = 642
+	transfer_state = 666
+	transfer_state = 667
+	transfer_state = 579
+	transfer_state = 547
+	transfer_state = 269
+	transfer_state = 479
+	transfer_state = 438
+	transfer_state = 424
+	transfer_state = 548
+	transfer_state = 540
+	transfer_state = 477
+	transfer_state = 441
+	transfer_state = 426
+	transfer_state = 469
+	transfer_state = 369
+	transfer_state = 361
+	transfer_state = 379
+	transfer_state = 317
+	transfer_state = 271
+	transfer_state = 304
+	transfer_state = 313
+	transfer_state = 240
+	declare_war_on = {
+		target = SEJ
+	}
+}
+	}
+}
+news_event = { #新闻：叛乱同盟内战
+	id = nej.7
+	title = nej.7.t
+	desc = nej.7.d
+	fire_only_once = yes
+	major = yes
+	is_triggered_only = yes
+	option = {
+		name =nej.7.1
+	}
+}
+country_event = {######所有革命主义国家要选边站
+	id = nej.8
+	title = nej.8.t
+	desc =  nej.8.d
+	fire_only_once = yes
+	is_triggered_only = yes
+	option = {#支持
+		name = nej.8.1
+	}
+	option = {#不支持
+		name = nej.8.2
+	}
+	option = {#中立
+		name = nej.8.3
+	}
+}
+
+#####幻草原大起义事件链#####################################
+country_event = { #幻草原城大起义
+	id = fpl.1
+	title =fpl.1.t
+	desc = fpl.1.d
+	fire_only_once = yes
+	is_triggered_only = no
+	trigger = {
+		date > 146.2.30
+		tag = SCA
+		is_subject = no
+		country_exists = SCA
+	}
+	mean_time_to_happen = {
+		days = 1
+	}
+	immediate = {
+		SC2 = {
+			transfer_state = 175
+			transfer_state = 180
+			declare_war_on = {
+				target = SCA type = take_state
+			}
+			load_oob = "sc2-146"
+			load_oob = "sc2-146"
+		}
+		SC1={
+			transfer_state = 236
+			transfer_state = 249
+			transfer_state = 221
+			transfer_state = 268
+			declare_war_on = {
+				target = SCA type = take_state
+			}
+load_oob = "sc1-146"
+load_oob = "sc1-146"
+		}
+
+	}
+	option = {
+		name = fpl.1.1
+		ai_chance = {
+			base = 75
+		}
+
+		hidden_effect = {
+news_event = {
+	id = fpl.2 days = 7
+}
+		}
+
+	}
+}
+news_event = { #新闻：幻草原大起义
+	id = fpl.2 
+	title = fpl.2.t
+	desc =  fpl.2.d
+	fire_only_once = yes
+	major = yes
+	is_triggered_only = yes
+	option = {
+		name =fpl.2.1
+	}
+}
+#####雾之湖大战事件链#####################################
+##########情形一：幻草原大起义成功###########
+country_event = { #琪露诺跟幻草原妖精合作参战
+	id = tni.1
+	title = tni.1.t
+	desc = tni.1.d
+	fire_only_once = yes
+	is_triggered_only = no
+	trigger = {
+		date > 149.1.1
+		tag = CIR
+		is_subject = no
+		country_exists = SCA
+		country_exists = CIR
+		country_exists = SC2
+	}
+
+	mean_time_to_happen = {
+		days = 1
+	}
+
+	option = {
+		name = tni.1.1
+		ai_chance = {
+			base = 75
+		}
+		declare_war_on = { target = SCA type = take_state }
+		CIR = {
+			add_to_faction = SC2
+		}
+		country_event = {
+			id = tne.7 days = 7
+		}
+		hidden_effect = {
+			SCA = {
+				country_event = { id = tni.3 days = 14}
+			}
+			news_event = {id=tni.2 days = 5}
+		}
+
+	}
+}
+news_event = { #新闻：雾之湖大战爆发
+	id = tni.2
+	title = tni.2.t
+	desc = tni.2.d
+	fire_only_once = yes
+	major = yes
+	is_triggered_only = yes
+	option = {
+		name = tni.2.1
+	}
+}
+country_event = { #帝国：琪露诺向我们宣战？！！！
+	id = tni.3
+	title = tni.3.t
+	desc =tni.3.d
+	fire_only_once = yes
+	major = no
+is_triggered_only = yes
+
+	option = {
+		name = tni.3.1
+		ai_chance = {
+			base = 75
+		}
+
+		hidden_effect = {
+
+		}
+	}
+}
+##########情形二：幻草原大起义失败############
+country_event = { #斯卡雷特的南田与西山居地区的妖精发生大规模叛逃向雾联
+	id = tne.1
+	title = tne.1.t
+	desc = tne.1.d
+	fire_only_once = yes
+	is_triggered_only = no
+	major = no
+	trigger = {
+		date > 149.3.1
+		tag = SCA
+		is_subject = no
+		country_exists = SCA
+		country_exists = CIR
+		NOT={
+			country_exists = SC2
+		}
+	}
+
+	mean_time_to_happen = {
+		days = 1
+	}
+
+	option = {
+		name = tne.1.1
+		ai_chance = {
+			base = 75
+		}
+		CIR={
+			add_manpower = 1886
+		}
+		SCA={
+			add_manpower = -1886
+		}
+		hidden_effect = {
+			SCA = {
+				country_event = { id = tne.2 days = 14}
+			}
+			news_event = {id=tnn.1 days = 5}
+		}
+
+	}
+}
+news_event = { #新闻：斯卡雷特的南田与西山居地区的妖精发生大规模叛逃向雾联
+	id = tnn.1
+	title = tnn.1.t
+	desc = tnn.1.d
+	fire_only_once = yes
+	major = yes
+	is_triggered_only = yes
+	option = {
+		name = tnn.1.1
+	}
+}
+country_event = { #帝国：叛逃成为新趋势，带动周边一起，难以遏制。蕾米莉亚要求军队出动
+	id = tne.2
+	title = tne.2.t
+	desc = tne.2.d
+	fire_only_once = yes
+is_triggered_only = yes
+
+	option = {
+		name = tne.2.1
+		ai_chance = {
+			base = 75
+		}
+		CIR={
+			add_manpower = 2611
+		}
+		SCA={
+			add_manpower = -2611
+		}
+		hidden_effect = {
+			CIR = {
+				country_event = { id = tne.3 days = 7}
+			}
+		}
+	}
+}
+country_event = { #雾联：接收叛逃人员，听闻斯卡雷特派兵逮捕他们，琪露诺心急，力排众议，派兵保护逃跑者。
+	id = tne.3
+	title = tne.3.t
+	desc = tne.3.d
+	fire_only_once = yes
+is_triggered_only = yes
+
+	option = {
+		name = tne.3.1
+		ai_chance = {
+			base = 75
+		}
+		CIR={
+			add_manpower = 1011
+		}
+		SCA={
+			add_manpower = -1011
+		}
+hidden_effect = {
+	CIR = {
+		country_event = { id = tne.5 days = 20}
+	}
+	SCA = {
+		country_event = { id = tne.4 days = 20}
+	}
+}
+	}
+}
+country_event = { #帝国：兵兵相遇，战斗难免，雾联打退帝国军
+	id = tne.4
+	title = tne.4.t
+	desc = tne.4.d
+	fire_only_once = yes
+is_triggered_only = yes
+
+	option = {
+		name = tne.4.1
+		ai_chance = {
+			base = 75
+		}
+		army_experience = -33
+			add_manpower = -1780
+		
+hidden_effect = {
+	SCA = {
+		country_event = { id = tne.6 days = 19}
+	}
+}
+	}
+}
+country_event = { #雾联：兵兵相遇，战斗难免，雾联打退帝国军
+	id = tne.5
+	title = tne.5.t
+	desc = tne.5.d
+	fire_only_once = yes
+is_triggered_only = yes
+
+	option = {
+		name = tne.5.1
+		ai_chance = {
+			base = 75
+		}
+		army_experience = 40
+		add_manpower = 1680
+		
+hidden_effect = {
+
+}
+	}
+}
+country_event = { #帝国：皇帝很生气，宣战了
+	id = tne.6
+	title = tne.6.t
+	desc = tne.6.d
+	fire_only_once = yes
+is_triggered_only = yes
+
+	option = {
+		name = tne.6.1
+		ai_chance = {
+			base = 75
+		}
+declare_war_on = { target = CIR type = take_state }
+		
+hidden_effect = {
+	CIR = {
+		country_event = { id = tne.7 days = 3}
+	}
+	news_event = {
+		id=tnn.2 days = 5
+	}
+}
+	}
+}
+country_event = { #雾联：琪露诺的战斗宣言
+	id = tne.7
+	title = tne.7.t
+	desc = tne.7.d
+	fire_only_once = yes
+is_triggered_only = yes
+
+	option = {
+		name = tne.7.1
+		ai_chance = {
+			base = 75
+		}
+
+hidden_effect = {
+	SEJ={
+		country_event = {
+			id = tne.8 days = 7
+		}
+	}
+
+}
+	}
+}
+news_event = { #新闻：雾之湖大战爆发
+	id = tnn.2
+	title = tnn.2.t
+	desc = tnn.2.d
+	fire_only_once = yes
+	major = yes
+	is_triggered_only = yes
+	option = {
+		name = tnn.2.1
+	}
+}
+country_event = { #叛乱同盟：参战
+	id = tne.8
+	title = tne.8.t
+	desc = tne.8.d
+	fire_only_once = yes
+is_triggered_only = yes
+
+	option = {
+		name = tne.8.1
+		ai_chance = {
+			base = 75
+		}
+		CIR = {
+			add_to_faction = SEJ
+		}
+hidden_effect = {
+news_event = {
+	id = tnn.3 days = 4
+}
+}
+	}
+}
+news_event = { #新闻：叛乱同盟参战
+	id = tnn.3
+	title = tnn.3.t
+	desc = tnn.3.d
+	fire_only_once = yes
+	major = yes
+	is_triggered_only = yes
+	option = {
+		name = tnn.3.1
+	}
+}
+#####风味新闻事件###
+#####西南
+news_event = { #西南报告————持续出现具有生命力可行动的植物。
+	id = xin.1
+	title = xin.1.t
+	desc = xin.1.d
+	fire_only_once = yes
+	is_triggered_only = no
+	trigger = {
+		ROOT = { is_ai = no }
+		date > 146.1.1
+	}
+	major = yes
+	option = { 
+		name = xin.1.1
+	}
+}
+news_event = { #西南大屠杀
+	id = xin.2
+	title = xin.2.t
+	desc = xin.2.d
+	fire_only_once = yes
+	is_triggered_only = no
+	trigger = {
+		ROOT = { is_ai = no }
+		date > 146.5.23
+	}
+	major = yes
+	option = { 
+		name = xin.2.1
+	}
+}
+#####南雾之湖
+news_event = { #治沙峰会召开
+	id = tfl.1
+	title = tfl.1.t
+	desc = tfl.1.d
+	fire_only_once = yes
+	is_triggered_only = no
+	trigger = {
+		ROOT = { is_ai = no }
+		date > 146.2.1
+	}
+	major = yes
+	option = { 
+		name = tfl.1.1
+	}
+}
+news_event = { #命莲寺的圣白莲来到妖异佛国的善光寺，鼓励佛教西进
+	id = tfl.2
+	title = tfl.2.t
+	desc = tfl.2.d
+	fire_only_once = yes
+	is_triggered_only = no
+	trigger = {
+		ROOT = { is_ai = no }
+		date > 146.9.1
+	}
+	major = yes
+	option = { 
+		name = tfl.2.1
+	}
+}
+news_event = { #命莲寺的圣白莲来到妖异佛国的善光寺，鼓励佛教西进
+	id = tfl.3
+	title = tfl.3.t
+	desc = tfl.3.d
+	fire_only_once = yes
+	is_triggered_only = no
+	trigger = {
+		ROOT = { is_ai = no }
+		date > 146.9.1
+	}
+	major = yes
+	option = { 
+		name = tfl.3.1
+	}
+}

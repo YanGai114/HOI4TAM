@@ -1,0 +1,29 @@
+state={
+	id=898
+	name="STATE_898"
+	provinces={
+		12 386 416 1777 1835 1970 2196 2476 3052 6382 6936 7625 7654 8701 8781 8816 9250 16799 16853 16872 16955 17088 17153 17282 
+	}
+	buildings_max_level_factor=1.000
+        manpower=140
+                 state_category = rural
+	resources={
+		steel=0 #钢铁
+		tungsten = 0 #妖石
+		chromium = 0 #灵气
+		rubber=0 #农产品
+		aluminium=0 #其他金属
+		oil = 0 #伊奘诺物质
+	}		history = {
+			owner = YKR
+			add_core_of = YKR
+			victory_points = { 12  1 }
+			buildings = {
+				infrastructure = 0
+				air_base = 0
+				arms_factory = 0
+				industrial_complex = 0
+			}
+		}
+ 
+}

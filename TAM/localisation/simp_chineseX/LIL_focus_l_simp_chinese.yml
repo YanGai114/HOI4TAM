@@ -1,0 +1,242 @@
+﻿l_simp_chinese:
+
+
+
+
+
+
+
+
+LIL_gongshen_1:0 "公审进行中"
+lil_gengziyou_flag:0 "为了更自由的乐园而努力"
+lil_gengtuanjie_flag:0 "为了更团结的乐园而祝福"
+lil_gengmeihao_flag:0 "为了更美好的乐园而奋斗"
+
+LIL_guli_party:0 "望春教会"
+ LIL_guli_party_long:0 "望春教会"
+LIL_neworder_party:0 "新皇党—莉莉派"
+ LIL_neworder_party_long:0 "新皇党—莉莉派"
+LIL_oldorder_party:0 "永恒之春"
+ LIL_oldorder_party_long:0 "永恒之春"
+LIL_qinwai_party:0 "最后的乐园"
+ LIL_qinwai_party_long:0 "最后的乐园"
+LIL_fandong_party:0 "下克上支持者协同会"
+ LIL_fandong_party_long:0 "下克上支持者协同会"
+LIL_oldorder_party:0 "永恒之春"
+LIL_oldgenso_party:0 "花海歌社"
+lil_pingquanzhenxian_party:0 "妖精平权阵线"
+lil_pingquanzhenxian_party_long:0 "妖精平权阵线"
+
+lil_yaojingzhenghe:0 "我们认为有必要整合妖精。"
+
+lil_zujianmofanjun.tt:0 "两组§Y妖精模范军§!将在花丛南侧集结，她们作为亲王的卫队，是装备最先进步枪和迫击炮的特种部队。"
+
+sc_mofan_infantry:0 "妖精模范军"
+
+lil_huahaiwangzuo_name:0 "§R花海王座§!"
+
+LIL_diling_modifier:0 "帝领"
+
+lil_paichuyiji.tt:0 "妖精乐园里一片鬼哭狼嚎的，不像样子。"
+
+lil_shizheshengcun.tt:0 "妖精们知道吸血鬼有多残暴，我们只需要小小的再生动描绘一番恶魔的恐怖行径..."
+
+lil_bianziyusuolian.tt:0 "因为饥荒和分裂的问题得到了解决，我们将得以用自然的力量和大量的原始工业修建并维护花海防线。代价虽然巨大，但只要我们打败了§Y[MRY.GetFlag][MRY.GetName]§!，我们就不必再维护防线了。"
+
+
+
+lil_duliyaojinglianheti.tt:0 "我们认为有必要整合妖精们。"
+
+lil_nanfangyaojing.tt:0 "虽然我们曾经并肩作战，但为了妖精全体的未来，现在我们还是站到了对立面。我们与她们并非完全的敌人，但既然选择的道路不同，那么唯有一战，才能决定谁才是更实用的——虽然不一定是最美好的。"
+
+lil_chunfengzailindongzhiguo.tt:0 "§R报春精无处不在！！！§!"
+
+lil_youyibajuhuo.tt:0 "我们将把§Y“羽翼丰满”§!和§Y“大势所趋”§!的§Y民族精神§!整合起来以获得§G更高的效率§!，并在§Y莉莉霍瓦特§!的带领下迈向新的未来。"
+
+lil_jijiyugechuyaojinglianxi.tt:0 "但实际上由于各处封锁和妖精们不成熟的通讯科技，我们不可能与除了§Y[CIR.GetFlag][CIR.GetName]§!以外地区的妖精取得联系。"
+
+lil_peijizhi.tt:0 "如果§Y[CIR.GetFlag][CIR.GetName]§!秉持着改良的理念，那我们彼此还有话可谈，倘若她们不再相信纯正的妖精解放和平权运动，我们就将是在决斗场上的§R敌人§!，我们就要寻求§R整合妖精§!。此项国策的效果，取决于她们将要走的道路。"
+
+lil_burentongbufandui.tt:0 "如果§Y[SCA.GetFlag][SCA.GetName]§!选择安抚妖精的国策，我们有信心与之达成和解，虽然§R代价有些严重§!。否则，她们会对我们§Y不屑一顾§!。但不管怎么说，她们将更关注南方的妖精，而不是我们。\n §Y目前我们预计的效果是：§!"
+lil_canhuajuanjinzaifengchun.tt:0 "虽然我们选择向§Y[SCA.GetFlag][SCA.GetName]§!靠近一步的抉择已经惹恼了§Y[CIR.GetFlag][CIR.GetName]§!,但对方的§Y大妖精§!似乎比较理解我们的改良道路。\n 我们只能希望§Y[CIR.GetFlag][CIR.GetName]§!由改良派管理，否则我们的未来必有一战。\n 至于帝国，我们不可能与她们同流合污，所以如果我们签定了互不侵犯条约，我们会§R直接撕毁。§!\n"
+
+lil_didichuanlaidefengsheng.tt:0 "地底世界再也不用费力向地上蔓延了——这次该轮到我们进去看看。毕竟我们可没有签订§Y间歇泉条约§!。"
+
+lil_xiyinliuwangyaojing.tt:0 "我们将会在决议栏附庸国开启§Y传播福音§!的决议，根据附庸国的体量，我们所付出的代价与回报是不同的。"
+
+lil_yaoguaimen.tt:0 "妖精们从不把自己的命运寄托于上天的安排。"
+
+lil_caoyuanshangderenlei.tt:0 "§Y[SEJ.GetFlag][SEJ.GetName]§!是除了§Y[SCA.GetFlag][SCA.GetName]§!以外，我们最大的敌人，我们并不想跟§Y[CIR.GetFlag][CIR.GetName]§!交战，但是倘若那群妖精们坚定地站在大妖怪那一边而背叛了自己的种族，那么我们也就只能像对待帝国里的妖精那样对待她们了。"
+
+lil_leizhuanqiwa.tt:0 "繁荣离我们太远，饥饿就在彼此之间。南方的妖精们或许只能远离家乡了，但这只是暂时的，我们会想办法在等待自然调节的同时，用北方的资源支援南方，不过在此之前，妖精们必须要北迁，以减少§Y大饥荒下人口增长受损§!的影响。\n 我们会损失一些同胞，但这是我们不得不付出的一些代价。"
+lil_zhuanxinzhizhi.tt:0 "想要打败三神，用科学是不够的，只有塑造属于妖精自己的神像，我们才有团结在一起的余地，就像藤蔓缠绕木棍，§Y莉莉霍瓦特§!已经将乐园妖精们的命运紧紧地系在了她自己的身上。"
+lil_jujueyaojinglianhe.tt:0 "我们并不强求所有妖精都与我们有着同等信仰，我们也不关心她们如何选择自己发展的道路。但是，倘若她们背叛了妖精的守则，选择跟大妖怪们合作，我们就应当让审判的利刃悬于她们头顶之上。\n §Y根据目前[CIR.GetFlag][CIR.GetName]和[SEJ.GetFlag][SEJ.GetName]的关系，我们决定：§!"
+
+LIL_hongmoguanyouhao_op:0 "关系缓和"
+LIL_lilihei:0 "莉莉霍瓦特 "
+LIL_lilihei_leader:0 "§Y§!$LIL_lilihei$"
+
+
+LIL_xinwang:0 "妖精乐园"
+          LIL_xinwang_ADJ:0 "妖精乐园"
+          LIL_xinwang_DEF:0 "妖精乐园"
+ LIL_diguo:0 "妖精帝国"
+          LIL_diguo_ADJ:0 "妖精帝国"
+          LIL_diguo_DEF:0 "妖精帝国"   
+
+ LIL_gongshen:0 "在附庸国传播“福音”"
+ LIL_gongshen_desc:0 "我们将要在附庸国各州巡游审判并传播福音，越大的国家花费的政治点和完成审判并准备下次审判的间隔时间不同。"
+ state_info2:0 "[state_info2]"
+
+lil_yaoguaishanxinwanju.tt:0 "现在我们传播“福音”的决策花费更少、时间更短，在小型国家巡游后除了§Y吞并§!，还可以§Y继承她们全部军队§!，我们还可以直接§Y吞并大型国家§!，只是会付出一点点代价..."
+
+LIL_womendeleyuan:0 "我们的乐园"
+ LIL_womendeleyuan_desc:0 "凭借着莉莉霍瓦特记下的笔记和我们所掌握的地图，以下是§Y[LIL.GetFlag][LIL.GetName]§!区域大概的信息。"
+
+lil_jijishengchan_desc:0 "妖精们抬不动巨大的钢材，但是钢材们可以轻易抬起妖精——让钢材飞！"
+
+lil_huayuan:0 "花园竣工！"
+
+LIL_dafenlie_modifier:0 "大分裂"
+LIL_dajihuang_modifier:0 "大饥荒"
+LIL_fenlie_modifier:0 "动荡"
+LIL_jihuang_modifier:0 "萧条"
+LIL_yinhuashuxia_modifier:0 "我们的花海"
+LIL_yinhuashuxia2_modifier:0 "花海之都！"
+
+P1_tooltip:0 "查看§Y后方通路§!情况"
+P2_tooltip:0 "查看§Y妖精花林§!情况"
+P3_tooltip:0 "查看§Y妖精丘陵§!情况"
+P4_tooltip:0 "查看§Y花丛南侧§!情况"
+P5_tooltip:0 "查看§Y妖精花海§!情况"
+P6_tooltip:0 "查看§Y花丛东侧§!情况"
+P7_tooltip:0 "查看§Y妖精花丛§!情况"
+P8_tooltip:0 "查看§Y地底走私通路§!情况"
+P9_tooltip:0 "查看§Y花丛北侧§!情况"
+P10_tooltip:0 "查看§Y南妖精花海§!情况"
+
+LIL_xuanyuan:0 "§Y晴空中的妖精花园§!"
+LIL_xuanyuan_desc:0 "“妖精的花海里将要降下神的恩赐。祂不是山神，不是土神，不是社神，更不是龙神。换句话来说，妖精没有神，但我们照样有能力获得神的恩赐，到时候自然之力会给全东之国带来蓬勃生机！”"
+LIL_xuanyuan1_desc:0 "我们的妖精在自发的修建着花园，倘若我们能再做出一些有意义的措施，就再好不过了。"
+
+lil_huanxiangxiangdebabieta.tt:0 "我们将开启建设§Y空中花园§!的决议，这将是一件艰巨的工程。"
+lil_zailudizuibeiduanchashangqizhi.tt:0 "§Y大教堂§!建好后我们会被赋予很不错的奖励。"
+
+xuanyuan_bar_tooltip:0 "相信妖精们，一定能建成此等伟业！"
+lil_wanchengdu:0 "进度：[?lil_xuanyuan_jindu]%"
+lil_dianshi_tooltip:0 "从外界漂流来的显像器，里面循环播放着一栋宏伟的建筑。"
+
+state_info3:0 "[state_info3]"
+
+LIL_xuanyuan_tiaojian:0 "修建进度尚未达到§Y100%§!。"
+LIL_xuanyuan_tiaojian2:0 "修建进度已经达到§Y100%§!。"
+LIL_xuanyuan_tiaojian3:0 "修建进度已经达到§Y8%§!及以上。"
+LIL_xuanyuan_tiaojian4:0 "修建进度已经达到§Y20%§!及以上。"
+LIL_xuanyuan_tiaojian5:0 "修建进度已经达到§Y50%§!及以上。"
+LIL_xuanyuan_tiaojian6:0 "修建进度已经达到§Y85%§!及以上。"
+
+LIL_xuanyuan99.tt:0 "每次增加§Y5%§!的修建速度。"
+LIL_xuanyuan1.tt:0 "每次增加§Y2.5%§!的修建速度。"
+LIL_xuanyuan2.tt:0 "每次增加§Y1%§!的修建速度。"
+LIL_xuanyuan3.tt:0 "每次增加§Y4%§!的修建速度。"
+LIL_xuanyuan4.tt:0 "每次增加§Y5%§!的修建速度。"
+
+lil_shiyingjianzao_desc:0 "这是妖精们进步所付出代价中的小小一个，事实上，由于寿命不定记忆常变，妖精们想要革新什么东西十分不易。"
+lil_zijiuyundong_desc:0 "我们不能单指望着琪露诺的援助或者二次解放运动，我们自己要救自己。"
+lil_zhuizhu_desc:0 "我们的时间实在不算多，行动一旦开始，就不能回头。"
+lil_jizhongziyuan_desc:0 "不要再纠结下一顿该吃些什么了！更不许偷懒做游戏！"
+lil_chuniaogaofei_desc:0 "独立的受伤胜过笼中的滋养。"
+lil_chuniaogaofei2_desc:0 "独立的受伤胜过笼中的滋养。"
+lil_chuniaogaofei3_desc:0 "平等与自由的口号不能说服敌人投降，但平等与自由的子弹能。妖精们讨厌战争，但这不意味着战争因妖精的不作为而就此远去——所以现在轮到妖精登场终结这荒谬的一切了。"
+lil_yaojingweilai_desc:0 "妖精的手上不能只握着柔弱的花儿。"
+lil_yaojingweilai2_desc:0 "妖精的手上不能只握着柔弱的花儿。"
+lil_yaojingweilai3_desc:0 "妖精的手上不能只握着柔弱的花儿。"
+lil_yaojingqinwang_desc:0 "翱翔于天际的飞鹰，不需要麻雀来点缀。"
+lil_yaojingqinwang2_desc:0 "翱翔于天际的飞鹰，不需要麻雀来点缀。"
+lil_yaojingqinwang3_desc:0 "翱翔于天际的飞鹰，不需要麻雀来点缀。"
+lil_dafenlie_desc:0 "因为各种原因，北方三区的秩序崩坏了，乐园的管理制度需要改革，但这依然只是治标不治本的做法。"
+lil_fenlie_desc:0 "北方的情况有所好转，谢谢你的努力与付出。"
+lil_dajihuang_desc:0 "因为各种原因，南方三区的环境恶化了，守矢和斯卡蕾特的威胁迫在眉睫，我们要寻求办法解决这些问题，哪怕会因此而付出代价。"
+lil_jihuang_desc:0 "南方的情况有所好转，谢谢你的努力与付出。"
+lil_shanshangshenshe_desc:0 "守矢神社近些年越来越谋求信仰和扩张了，她们急于打败新兴的天狗势力，已经有妖怪山的妖精被她们迷惑，作为她们的信徒。而山下的妖精乐园，恐怕就是她们扩张的下一个目标。"
+lil_shanshangshenshe11_desc:0 "守矢神社近些年越来越谋求信仰和扩张了，她们急于打败新兴的天狗势力，已经有妖怪山的妖精被她们迷惑，作为她们的信徒。而山下的妖精乐园，恐怕就是她们扩张的下一个目标。"
+lil_shanshangshenshe1_desc:0 "守矢神社近些年越来越谋求信仰和扩张了，她们急于打败新兴的天狗势力，已经有妖怪山的妖精被她们迷惑，作为她们的信徒。而山下的妖精乐园，恐怕就是她们扩张的下一个目标。"
+lil_shanshangshenshe2_desc:0 "我们不能拘泥于一个神社的理念，我们需要更多的见识，需要更广阔的天地。"
+lil_shanshangshenshe3_desc:0 "我们不能拘泥于一个神社的理念，我们需要更多的见识，需要更广阔的天地。"
+lil_shanshangshenshe22_desc:0 "守矢神社迟早会为自己的行为付出代价。"
+lil_shanshangshenshe33_desc:0 "春！春天来了！！"
+lil_shanshangshenshe44_desc:0 "春？春天来了？？"
+
+lil_guanlizhidu_desc:0 "我们压根就没有管理制度。"
+lil_guanlizhidu1_desc:0 "我扪心自问，没有答案；我迈开步子，就在眼前。"
+lil_guanlizhidu2_desc:0 "我扪心自问，没有答案；我迈开步子，就在眼前。"
+lil_guanlizhidu3_desc:0 "我扪心自问，没有答案；我迈开步子，就在眼前。"
+
+lil_guanlizhidu11_desc:0 "北方演变出来的新秩序，推广并实践它。"
+lil_guanlizhidu22_desc:0 "北方演变出来的新秩序，推广并实践它。"
+lil_guanlizhidu33_desc:0 "重教、尊信、崇举。"
+
+lil_guanlizhidu1111_desc:0 "认清自己的身份，认清自己的地位，认清自己的种族。"
+lil_guanlizhidu2222_desc:0 "认清自己的身份，认清自己的地位，认清自己的种族。"
+lil_guanlizhidu3333_desc:0 "认清自己的身份，认清自己的地位，认清自己的种族。"
+
+lil_tibajicengyaojing_desc:0 "妖精不乏聪慧，只是没有用功之地。"
+lil_shoumuren_desc:0 "我把乐园拖进坟里，我在坟上重建乐园。"
+lil_yaojingkuangre_desc:0 "狂热的不只是妖精们。"
+lil_yaojingkuangre2_desc:0 "张开翅膀，挣脱锁链..."
+lil_yaojingkuangre3_desc:0 "举起武器，斩断迷惘..."
+lil_yaojingkuangre4_desc:0 "伸出双手，反抗命运..."
+
+lil_baochunjingbanfa_desc:0 "从自我和自然中寻求平衡，从理性和感性间找到和谐。"
+lil_baochunjingbanfa1_desc:0 "从自我和自然中寻求平衡，从理性和感性间找到和谐。"
+lil_baochunjingbanfa2_desc:0 "从自我和自然中寻求平衡，从理性和感性间找到和谐。"
+
+lil_yaojingkaituodui_desc:0 "三千大道由此尽，无上之光从始升。"
+lil_qilunuo_desc:0 "她藏不住心思，这是她最招人喜欢的地方，也是最为致命的弱点。"
+lil_pengpengzhitiao_desc:0 "它从未有过这样激烈的时候。"
+lil_juzhimenwai_desc:0 "保持自己的独立性和纯洁性，我们随心而动。"
+lil_juzhimenwai3_desc:0 "“哦？她们是这样称呼我的吗？”"
+lil_juzhimenwai2_desc:0 "妖精要来敲门咯？"
+
+lil_xinemo_desc:0 "我们付出了太多，我们进步得太少。"
+lil_xinemo2_desc:0 "我们付出了太多，我们进步得太少。"
+lil_xinemo3_desc:0 "我们的付出足够多，我们的进步不够大，我们的未来有够远。"
+lil_huowatelizan_desc:0 "赞美莉莉霍瓦特..."
+lil_huowatelizan2_desc:0 "赞美莉莉霍瓦特..."
+lil_huowatelizan3_desc:0 "赞美妖精们！"
+lil_huowatejiaopai_desc:0 "小小的妖精们也将会建起自己小小的信仰吗？"
+lil_huowatejiaopai1_desc:0 "小小的妖精们也将会建起自己小小的信仰吗？"
+lil_huowatejiaopai2_desc:0 "小小的妖精们也将会建起自己小小的信仰！"
+lil_huowatejiaopai3_desc:0 "“向最高峰攀登！！！”"
+
+lil_liangcidazhan_desc:0 "“我们还能战斗，但再无力进行战争。”"
+lil_liangcidazhan1_desc:0 "“我们能行的！”"
+lil_liangcidazhan2_desc:0 "“张开翅膀，妖精们，随我冲锋！！！”"
+
+lil_chundeguxiang_desc:0 "“这是一个可爱的地方。”"
+lil_chundeguxiang1_desc:0 "“这是一个美丽的地方。”"
+lil_chundeguxiang2_desc:0 "“这是一个伟大的地方。”"
+
+lil_huikuiziran_desc:0 "予取，予求。"
+
+lil_yaojingyoujidui_desc:0 "永远不停息，永远不放弃。"
+lil_yaojingyoujidui1_desc:0 "永远不停息，永远不放弃。"
+lil_yaojingyoujidui2_desc:0 "永远不停息，永远不放弃。"
+lil_yaojingjuntuan_desc:0 "永远要前进，永远不投降。"
+lil_yaojingjuntuan2_desc:0 "永远要前进，永远不投降。"
+
+lil_shenpanxiakeshang_desc:0 "也许四季会放过你们，但我不会。"
+lil_shenpanxiakeshang2_desc:0 "也许四季会放过你们，但我不会。"
+
+lil_huoju_desc:0 "这里阴风阵阵，令人不安。"
+
+lil_chunfenggongshi_desc:0 "妖精们开始大骚动！"
+lil_zima_desc:0 "痛苦留在昨天，胜利就在眼前！"
+lil_dengshan_desc:0 "天命，能送你几个师？"
+lil_zhengtong_desc:0 "怎么，不服气？"
+lil_anzhihoufang_idea_desc:0 "武装，冲锋，战斗，凯旋！"
+lil_jianjiaotang_desc:0 "坚持住，我们能办到。"
+lil_jianjiaotang2_desc:0 "它不算奢华，但足够神圣。"
+lil_huahaifangxian_desc:0 "在我们打败§Y[MRY.GetFlag][MRY.GetName]§!之前，我们不得不一直维护它们。"
+
+LIL_DAWN_DESC:0 "背起小小的行囊，与报春精莉莉霍瓦特来一场旅行：我们从花海出发，向未知的远方前进！\n 虽然连年的战争带走了许多东西，逝去了许多可爱的生灵，虽然苦难没有放过我们的土地，乐园不再被人称为妖精美好的栖息——但是请跟从霍瓦特的翅膀而行，我们终究会找到独属于妖精的神迹，成就我们自己的传奇！哪怕我们的面前是险峻的妖怪群山，我们的背后是无底的旧地狱，绯红恶魔的爪子悬于头顶，但妖精们永远也不会忘记飞翔的姿态。\n\n 我们一无所有——我们巍然屹立！"

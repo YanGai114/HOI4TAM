@@ -1,0 +1,29 @@
+state={
+	id=112
+	name="STATE_112"
+	provinces={
+		152 257 981 5637 8345 8578 11235 11267 11274 
+	}
+	buildings_max_level_factor=1.000
+        manpower=8012
+                 state_category = rural
+	resources={
+		steel=0 #钢铁
+		tungsten = 0 #妖石
+		chromium = 0 #灵气
+		rubber=2 #农产品
+		aluminium=0 #其他金属
+		oil = 0 #伊奘诺物质
+	}		history = {
+			owner = UFA
+			add_core_of = UFA
+			victory_points = {152   1 }
+			buildings = {
+				infrastructure = 0
+				air_base = 0
+				arms_factory = 0
+				industrial_complex = 0
+			}
+		}
+ 
+}

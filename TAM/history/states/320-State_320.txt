@@ -1,0 +1,29 @@
+state={
+	id=320
+	name="STATE_320"
+	provinces={
+		1605 2409 2887 5400 12840 12877 12965 
+	}
+	buildings_max_level_factor=1.000
+        manpower=15572
+                 state_category = town
+	resources={
+		steel=0 #钢铁
+		tungsten = 0 #妖石
+		chromium = 0 #灵气
+		rubber=0 #农产品
+		aluminium=0 #其他金属
+		oil = 0 #伊奘诺物质
+	}		history = {
+			owner = TEG
+			add_core_of = TEG
+			victory_points = {1605  6 }
+			buildings = {
+				infrastructure = 2
+				air_base = 0
+				arms_factory = 0
+				industrial_complex = 1
+			}
+		}
+ 
+}

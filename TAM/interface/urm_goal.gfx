@@ -1,0 +1,218 @@
+spriteTypes = {
+	spriteType = {
+		name = "URM-1-1"
+		texturefile = "gfx/interface/goals/focus/URM-1-1.png"
+	}
+	spriteType = {
+		name = "URM-1-2"
+		texturefile = "gfx/interface/goals/focus/URM-1-2.png"
+	}
+	spriteType = {
+		name = "URM-1-3"
+		texturefile = "gfx/interface/goals/focus/URM-1-3.png"
+	}
+	spriteType = {
+		name = "URM-1-5"
+		texturefile = "gfx/interface/goals/focus/URM-1-5.png"
+	}
+	spriteType = {
+		name = "URM-1-4"
+		texturefile = "gfx/interface/goals/focus/URM-1-4.png"
+	}
+	spriteType = {
+		name = "URM-1-11"
+		texturefile = "gfx/interface/goals/focus/URM-1-11.png"
+	}
+	spriteType = {
+		name = "URM-1-9"
+		texturefile = "gfx/interface/goals/focus/URM-1-9.png"
+	}
+	spriteType = {
+		name = "URM-1-22"
+		texturefile = "gfx/interface/goals/focus/URM-1-22.png"
+	}
+	spriteType = {
+		name = "URM-1-39"
+		texturefile = "gfx/interface/goals/focus/URM-1-39.png"
+	}
+	spriteType = {
+		name = "URM-1-40"
+		texturefile = "gfx/interface/goals/focus/URM-1-40.png"
+	}
+	spriteType = {
+		name = "URM-1-23"
+		texturefile = "gfx/interface/goals/focus/URM-1-23.png"
+	}
+	spriteType = {
+		name = "URM-1-41"
+		texturefile = "gfx/interface/goals/focus/URM-1-41.png"
+	}
+	spriteType = {
+		name = "URM-1-25"
+		texturefile = "gfx/interface/goals/focus/URM-1-25.png"
+	}
+	spriteType = {
+		name = "URM-1-10"
+		texturefile = "gfx/interface/goals/focus/URM-1-10.png"
+	}
+	spriteType = {
+		name = "URM-1-24"
+		texturefile = "gfx/interface/goals/focus/URM-1-24.png"
+	}
+	spriteType = {
+		name = "URM-1-42"
+		texturefile = "gfx/interface/goals/focus/URM-1-42.png"
+	}
+	spriteType = {
+		name = "URM-1-43"
+		texturefile = "gfx/interface/goals/focus/URM-1-43.png"
+	}
+	spriteType = {
+		name = "URM-1-12"
+		texturefile = "gfx/interface/goals/focus/URM-1-12.png"
+	}
+	spriteType = {
+		name = "URM-1-26"
+		texturefile = "gfx/interface/goals/focus/URM-1-26.png"
+	}
+	spriteType = {
+		name = "URM-1-44"
+		texturefile = "gfx/interface/goals/focus/URM-1-44.png"
+	}
+	spriteType = {
+		name = "URM-1-14"
+		texturefile = "gfx/interface/goals/focus/URM-1-14.png"
+	}
+	spriteType = {
+		name = "URM-1-13"
+		texturefile = "gfx/interface/goals/focus/URM-1-13.png"
+	}
+	spriteType = {
+		name = "URM-1-27"
+		texturefile = "gfx/interface/goals/focus/URM-1-27.png"
+	}
+	spriteType = {
+		name = "URM-1-45"
+		texturefile = "gfx/interface/goals/focus/URM-1-45.png"
+	}
+	spriteType = {
+		name = "URM-1-29"
+		texturefile = "gfx/interface/goals/focus/URM-1-29.png"
+	}
+	spriteType = {
+		name = "URM-1-28"
+		texturefile = "gfx/interface/goals/focus/URM-1-28.png"
+	}
+	spriteType = {
+		name = "URM-1-47"
+		texturefile = "gfx/interface/goals/focus/URM-1-47.png"
+	}
+	spriteType = {
+		name = "URM-1-46"
+		texturefile = "gfx/interface/goals/focus/URM-1-46.png"
+	}
+	spriteType = {
+		name = "URM-1-45"
+		texturefile = "gfx/interface/goals/focus/URM-1-45.png"
+	}
+	spriteType = {
+		name = "URM-1-6"
+		texturefile = "gfx/interface/goals/focus/URM-1-6.png"
+	}
+	spriteType = {
+		name = "URM-1-18"
+		texturefile = "gfx/interface/goals/focus/URM-1-18.png"
+	}
+	spriteType = {
+		name = "URM-1-34"
+		texturefile = "gfx/interface/goals/focus/URM-1-34.png"
+	}
+	spriteType = {
+		name = "URM-1-35"
+		texturefile = "gfx/interface/goals/focus/URM-1-35.png"
+	}
+	spriteType = {
+		name = "URM-1-36"
+		texturefile = "gfx/V/focus/URM-1-36.png"
+	}
+	spriteType = {
+		name = "URM-1-37"
+		texturefile = "gfx/interface/goals/focus/URM-1-37.png"
+	}
+	spriteType = {
+		name = "URM-1-38"
+		texturefile = "gfx/interface/goals/focus/URM-1-38.png"
+	}
+	spriteType = {
+		name = "URM-1-20"
+		texturefile = "gfx/interface/goals/focus/URM-1-20.png"
+	}
+	spriteType = {
+		name = "URM-1-19"
+		texturefile = "gfx/interface/goals/focus/URM-1-19.png"
+	}
+	spriteType = {
+		name = "URM-1-7"
+		texturefile = "gfx/interface/goals/focus/URM-1-7.png"
+	}
+	spriteType = {
+		name = "URM-1-8"
+		texturefile = "gfx/interface/goals/focus/URM-1-8.png"
+	}
+	spriteType = {
+		name = "URM-1-21"
+		texturefile = "gfx/interface/goals/focus/URM-1-21.png"
+	}
+	spriteType = {
+		name = "URM-1-17"
+		texturefile = "gfx/interface/goals/focus/URM-1-17.png"
+	}
+	spriteType = {
+		name = "URM-1-33"
+		texturefile = "gfx/interface/goals/focus/URM-1-33.png"
+	}
+	spriteType = {
+		name = "URM-1-52"
+		texturefile = "gfx/interface/goals/focus/URM-1-52.png"
+	}
+	spriteType = {
+		name = "URM-1-51"
+		texturefile = "gfx/interface/goals/focus/URM-1-51.png"
+	}
+	spriteType = {
+		name = "URM-1-15"
+		texturefile = "gfx/interface/goals/focus/URM-1-15.png"
+	}
+	spriteType = {
+		name = "URM-1-30"
+		texturefile = "gfx/interface/goals/focus/URM-1-30.png"
+	}
+	spriteType = {
+		name = "URM-1-48"
+		texturefile = "gfx/interface/goals/focus/URM-1-48.png"
+	}
+	spriteType = {
+		name = "URM-1-49"
+		texturefile = "gfx/interface/goals/focus/URM-1-49.png"
+	}
+	spriteType = {
+		name = "URM-1-31"
+		texturefile = "gfx/interface/goals/focus/URM-1-31.png"
+	}
+	spriteType = {
+		name = "URM-1-32"
+		texturefile = "gfx/interface/goals/focus/URM-1-32.png"
+	}
+	spriteType = {
+		name = "URM-1-50"
+		texturefile = "gfx/interface/goals/focus/URM-1-50.png"
+	}
+	spriteType = {
+		name = "URM-1-16"
+		texturefile = "gfx/interface/goals/focus/URM-1-16.png"
+	}
+	spriteType = {
+		name = "URM-1-53"
+		texturefile = "gfx/interface/goals/focus/URM-1-53.png"
+	}
+}

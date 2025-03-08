@@ -1,0 +1,29 @@
+state={
+	id=291
+	name="STATE_291"
+	provinces={
+		1773 2175 3980 6066 7201 12657 12686 12723 12865 
+	}
+	buildings_max_level_factor=1.000
+        manpower=9998
+                 state_category = town
+	resources={
+		steel=0 #钢铁
+		tungsten = 0 #妖石
+		chromium = 8 #灵气
+		rubber=0 #农产品
+		aluminium=0 #其他金属
+		oil = 0 #伊奘诺物质
+	}		history = {
+			owner = CHU
+			add_core_of = CHU
+			victory_points = { 1773 4 }
+			buildings = {
+				infrastructure = 1
+				air_base = 0
+				arms_factory = 0
+				industrial_complex = 1
+			}
+		}
+ 
+}
